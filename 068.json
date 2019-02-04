@@ -1,0 +1,38 @@
+[
+  {
+    "Code": "1002",
+    "Description": "Eerstelijnsverblijf hoog complex"
+  },
+  {
+    "Code": "1003",
+    "Description": "Eerstelijnsverblijf voor palliatief terminale zorg"
+  },
+  {
+    "Code": "A0001",
+    "Description": "Eerstelijnsverblijf laag complex"
+  },
+  {
+    "Code": "A0002",
+    "Description": "Eerstelijnsverblijf hoog complex"
+  },
+  {
+    "Code": "A0003",
+    "Description": "Eerstelijnsverblijf voor palliatief terminale zorg"
+  },
+  {
+    "Code": "A0004",
+    "Description": "Acute zorg aan ouderen in een kortdurende eerstelijns voorziening"
+  },
+  {
+    "Code": "A0005",
+    "Description": "Herstelgerichte specialistische beademingszorg in een verpleeghuissetting"
+  },
+  {
+    "Code": "A0006",
+    "Description": "Chronisch specialistische beademingszorg in een verpleeghuissettting"
+  },
+  {
+    "Code": "A0007",
+    "Description": "Triage- en diagnoseperiode tijdelijk verblijf (max. 10 dagen)"
+  }
+]

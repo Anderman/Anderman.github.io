@@ -1,0 +1,210 @@
+[
+  {
+    "Code": "1001",
+    "Description": "Oproepbare verzorging"
+  },
+  {
+    "Code": "1002",
+    "Description": "Verpleging"
+  },
+  {
+    "Code": "1003",
+    "Description": "Oproepbare verpleging"
+  },
+  {
+    "Code": "1004",
+    "Description": "Gespecialiseerde verpleging"
+  },
+  {
+    "Code": "1005",
+    "Description": "Advies, instructie en voorlichting (AIV)"
+  },
+  {
+    "Code": "1008",
+    "Description": "Indicatiestelling en evaluatie voor PGB Verpleging en Verzorging"
+  },
+  {
+    "Code": "1009",
+    "Description": "PGB formeel verzorging"
+  },
+  {
+    "Code": "1010",
+    "Description": "PGB informeel verzorging"
+  },
+  {
+    "Code": "1011",
+    "Description": "PGB formeel verpleging"
+  },
+  {
+    "Code": "1012",
+    "Description": "PGB informeel verpleging"
+  },
+  {
+    "Code": "1013",
+    "Description": "PGB verpleging/verzorging declaraties via SVB"
+  },
+  {
+    "Code": "1014",
+    "Description": "ERAI Zorgboog"
+  },
+  {
+    "Code": "1015",
+    "Description": "ERAI Icare"
+  },
+  {
+    "Code": "1016",
+    "Description": "Herstel combicontracten"
+  },
+  {
+    "Code": "1017",
+    "Description": "Persoonlijke verzorging beeldschermcommunicatie"
+  },
+  {
+    "Code": "1018",
+    "Description": "Verpleging beeldschermcommunicatie"
+  },
+  {
+    "Code": "1019",
+    "Description": "Persoonlijke verzorging farmaceutische telezorg"
+  },
+  {
+    "Code": "1020",
+    "Description": "PGB MSVT formeel"
+  },
+  {
+    "Code": "1021",
+    "Description": "PGB MSVT informeel"
+  },
+  {
+    "Code": "1022",
+    "Description": "PGB verpleging/verzorging herstel SVB"
+  },
+  {
+    "Code": "1023",
+    "Description": "Belonen op maat wijkverpleging - prestatiebeloning zorg in de wijk"
+  },
+  {
+    "Code": "1024",
+    "Description": "Regionale beschikbaarheidsfunctie onplanbare zorg"
+  },
+  {
+    "Code": "1025",
+    "Description": "Regiefunctie complexe wondzorg"
+  },
+  {
+    "Code": "1026",
+    "Description": "Experiment bekostiging wijkverpleging per uur"
+  },
+  {
+    "Code": "1027",
+    "Description": "Experiment bekostiging wijkverpleging per dag"
+  },
+  {
+    "Code": "1028",
+    "Description": "Experiment bekostiging wijkverpleging per maand"
+  },
+  {
+    "Code": "1029",
+    "Description": "Terminale patiënten, vanaf de tweede week"
+  },
+  {
+    "Code": "1030",
+    "Description": "Terminale patiënten, vanaf de tweede week indien beademing"
+  },
+  {
+    "Code": "1031",
+    "Description": "Integrale prestatie voor verpleging en verzorging"
+  },
+  {
+    "Code": "1032",
+    "Description": "Kortdurende ziekenhuis (na)zorg en verpleegkundige-MTH zorg (op verzoek van huisarts/specialist)"
+  },
+  {
+    "Code": "1033",
+    "Description": "Zorg aan kwetsbare ouderen en chronisch zieken, korter dan 3 maanden"
+  },
+  {
+    "Code": "1034",
+    "Description": "Zorg aan kwetsbare ouderen en chronisch zieken, langer dan 3 maanden (somatisch)"
+  },
+  {
+    "Code": "1035",
+    "Description": "Zorg aan kwetsbare ouderen en chronisch zieken, langer dan 3 maanden (psychogeriatrisch / psychiatrisch)"
+  },
+  {
+    "Code": "1036",
+    "Description": "Preventie aan kwetsbare ouderen die nog geen zorgvraag hebben"
+  },
+  {
+    "Code": "1037",
+    "Description": "Zorg aan terminale cliënten (palliatief terminale zorg)"
+  },
+  {
+    "Code": "1038",
+    "Description": "Medische kindzorg"
+  },
+  {
+    "Code": "1039",
+    "Description": "Verblijf intensieve kindzorg"
+  },
+  {
+    "Code": "1040",
+    "Description": "Verpleegkundige dagopvang intensieve kindzorg"
+  },
+  {
+    "Code": "1041",
+    "Description": "Ketenzorg dementie"
+  },
+  {
+    "Code": "1042",
+    "Description": "Experiment bekostiging wijkverpleging per week"
+  },
+  {
+    "Code": "1043",
+    "Description": "Somatisch"
+  },
+  {
+    "Code": "1044",
+    "Description": "Somatisch-complex"
+  },
+  {
+    "Code": "1045",
+    "Description": "PG"
+  },
+  {
+    "Code": "1046",
+    "Description": "PG-complex"
+  },
+  {
+    "Code": "1047",
+    "Description": "Inzet reductie arbeidsmarktproblematiek"
+  },
+  {
+    "Code": "1048",
+    "Description": "Inzet leefcoach experiment domeinoverstijgend samenwerken"
+  },
+  {
+    "Code": "1049",
+    "Description": "Verpleging en verzorging aan kinderen tot 18 jaar"
+  },
+  {
+    "Code": "1050",
+    "Description": "Wijkverpleging per maand hoog"
+  },
+  {
+    "Code": "1051",
+    "Description": "Wijkverpleging per maand middel"
+  },
+  {
+    "Code": "1052",
+    "Description": "Wijkverpleging per maand laag"
+  },
+  {
+    "Code": "1053",
+    "Description": "PGB combinatie formeel en informeel verzorging"
+  },
+  {
+    "Code": "1054",
+    "Description": "PGB combinatie formeel en informeel verpleging"
+  }
+]

@@ -1,0 +1,2006 @@
+[
+  {
+    "Code": "1001",
+    "Description": "Individuele zitting reguliere fysiotherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "1002",
+    "Description": "Individuele zitting reguliere fysiotherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "1003",
+    "Description": "Toeslag fysiotherapie buiten reguliere werktijden"
+  },
+  {
+    "Code": "1004",
+    "Description": "Individuele zitting reguliere fysiotherapie met toeslag voor behandeling op de werkplek (eenmalig)"
+  },
+  {
+    "Code": "1100",
+    "Description": "Individuele zitting kinderfysiotherapie"
+  },
+  {
+    "Code": "1101",
+    "Description": "Individuele zitting kinderfysiotherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "1102",
+    "Description": "Individuele zitting kinderfysiotherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "1103",
+    "Description": "Instructie/overleg ouders/verzorgers van de patiënt bij kinderfysiotherapie"
+  },
+  {
+    "Code": "1104",
+    "Description": "Toeslag kinderfysiotherapie buiten reguliere werktijden"
+  },
+  {
+    "Code": "1105",
+    "Description": "Eenmalig kinderfysiotherapeutisch rapport"
+  },
+  {
+    "Code": "1200",
+    "Description": "Individuele zitting manuele therapie"
+  },
+  {
+    "Code": "1201",
+    "Description": "Individuele zitting manuele therapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "1202",
+    "Description": "Individuele zitting manuele therapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "1203",
+    "Description": "Toeslag manuele therapie buiten reguliere werktijden"
+  },
+  {
+    "Code": "1204",
+    "Description": "Individuele zitting manuele therapie met toeslag voor behandeling op de werkplek (eenmalig)"
+  },
+  {
+    "Code": "1300",
+    "Description": "Groepsbehandeling fysiotherapie"
+  },
+  {
+    "Code": "1301",
+    "Description": "Groepszitting specifieke behandeling fysiotherapie van 2 personen"
+  },
+  {
+    "Code": "1302",
+    "Description": "Groepszitting specifieke behandeling fysiotherapie van 3 personen"
+  },
+  {
+    "Code": "1303",
+    "Description": "Groepsziting specifieke behandeling fysiotherapie van 4 personen"
+  },
+  {
+    "Code": "1304",
+    "Description": "Groepszitting fysiotherapie voor behandeling van 5 tot en met 10 personen"
+  },
+  {
+    "Code": "1305",
+    "Description": "Groepszitting fysiotherapie van meer dan 10 personen"
+  },
+  {
+    "Code": "1306",
+    "Description": "Toeslag fysiotherapie voor specifieke behandeling van 2 personen buiten reguliere werktijden"
+  },
+  {
+    "Code": "1307",
+    "Description": "Toeslag fysiotherapie voor specifieke behandeling van 3 personen buiten reguliere werktijden"
+  },
+  {
+    "Code": "1308",
+    "Description": "Toeslag fysiotherapie voor specifieke behandeling van 4 personen buiten reguliere werktijden"
+  },
+  {
+    "Code": "1309",
+    "Description": "Toeslag fysiotherapie voor specifieke behandeling van 5 tot 10 personen buiten reguliere werktijden"
+  },
+  {
+    "Code": "1310",
+    "Description": "Toeslag fysiotherapie van meer dan 10 personen buiten reguliere werktijden"
+  },
+  {
+    "Code": "1311",
+    "Description": "Groepszitting specifieke behandeling fysiotherapie van 2 personen"
+  },
+  {
+    "Code": "1312",
+    "Description": "Groepszitting specifieke behandeling fysiotherapie van 3 personen"
+  },
+  {
+    "Code": "1313",
+    "Description": "Groepsziting specifieke behandeling fysiotherapie van 4 personen"
+  },
+  {
+    "Code": "1314",
+    "Description": "Groepszitting fysiotherapie voor behandeling van 5 tot en met 10 personen"
+  },
+  {
+    "Code": "1315",
+    "Description": "Groepszitting fysiotherapie van meer dan 10 personen"
+  },
+  {
+    "Code": "1316",
+    "Description": "Groepszitting voor behandeling fysiotherapie van twee personen"
+  },
+  {
+    "Code": "1317",
+    "Description": "Groepszitting voor behandeling fysiotherapie van drie personen"
+  },
+  {
+    "Code": "1318",
+    "Description": "Groepszitting voor behandeling fysiotherapie van vier personen"
+  },
+  {
+    "Code": "1319",
+    "Description": "Groepszitting voor behandeling fysiotherapie van vijf tot en met tien personen"
+  },
+  {
+    "Code": "1320",
+    "Description": "Groepszitting voor behandeling fysiotherapie van meer dan tien personen"
+  },
+  {
+    "Code": "1400",
+    "Description": "Eenmalig fysiotherapeutisch onderzoek"
+  },
+  {
+    "Code": "1401",
+    "Description": "Eenmalig fysiotherapeutisch onderzoek met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "1402",
+    "Description": "Eenmalig fysiotherapeutisch onderzoek met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "1403",
+    "Description": "Toeslag eenmalig fysiotherapeutisch onderzoek buiten reguliere werktijden"
+  },
+  {
+    "Code": "1500",
+    "Description": "Individuele zitting oedeemtherapie"
+  },
+  {
+    "Code": "1501",
+    "Description": "Individuele zitting oedeemtherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "1502",
+    "Description": "Individuele zitting oedeemtherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "1503",
+    "Description": "Toeslag oedeemtherapie buiten reguliere werktijden"
+  },
+  {
+    "Code": "1600",
+    "Description": "Individuele zitting bekkenfysiotherapie"
+  },
+  {
+    "Code": "1601",
+    "Description": "Individuele zitting bekkenfysiotherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "1602",
+    "Description": "Individuele zitting bekkenfysiotherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "1603",
+    "Description": "Toeslag bekkenfysiotherapie buiten reguliere werktijden"
+  },
+  {
+    "Code": "1604",
+    "Description": "Individuele zitting bekkenfysiotherapie met toeslag voor behandeling op de werkplek (eenmalig)"
+  },
+  {
+    "Code": "1700",
+    "Description": "Lange zitting fysiotherapie voor een aantal specifieke aandoeningen"
+  },
+  {
+    "Code": "1701",
+    "Description": "Lange zitting fysiotherapie voor een aantal specifieke aandoeningen met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "1702",
+    "Description": "Lange zitting fysiotherapie voor een aantal specifieke aandoeningen met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "1703",
+    "Description": "Toeslag lange zitting fysiotherapie voor een aantal specifieke aandoeningen buiten reguliere werktijden"
+  },
+  {
+    "Code": "1704",
+    "Description": "Lange zitting fysiotherapie voor een aantal specifieke aandoeningen met toeslag voor behandeling op de werkplek (eenmalig)"
+  },
+  {
+    "Code": "1750",
+    "Description": "Individuele zitting psychosomatische fysiotherapie"
+  },
+  {
+    "Code": "1751",
+    "Description": "Individuele zitting psychosomatische fysiotherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "1752",
+    "Description": "Individuele zitting psychosomatische fysiotherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "1753",
+    "Description": "Toeslag psychosomatische fysiotherapie buiten reguliere werktijden"
+  },
+  {
+    "Code": "1754",
+    "Description": "Individuele zitting psychosomatische fysiotherapie met toeslag voor behandeling op de werkplek (eenmalig)"
+  },
+  {
+    "Code": "1775",
+    "Description": "Individuele zitting geriatrie fysiotherapie"
+  },
+  {
+    "Code": "1776",
+    "Description": "Individuele zitting geriatrie fysiotherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "1777",
+    "Description": "Individuele zitting geriatrie fysiotherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "1778",
+    "Description": "Toeslag geriatrie fysiotherapie buiten reguliere werktijden"
+  },
+  {
+    "Code": "1779",
+    "Description": "Individuele zitting geriatrie fysiotherapie met toeslag voor behandeling op de werkplek (eenmalig)"
+  },
+  {
+    "Code": "1800",
+    "Description": "Ballontherapie"
+  },
+  {
+    "Code": "1850",
+    "Description": "Screening fysiotherapie"
+  },
+  {
+    "Code": "1851",
+    "Description": "Screening fysiotherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "1852",
+    "Description": "Screening fysiotherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "1853",
+    "Description": "Toeslag screening fysiotherapie  buiten reguliere werktijden"
+  },
+  {
+    "Code": "1860",
+    "Description": "Intake en onderzoek fysiotherapie na screening"
+  },
+  {
+    "Code": "1861",
+    "Description": "Intake en onderzoek fysiotherapie na screening met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "1862",
+    "Description": "Intake en onderzoek fysiotherapie na screening met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "1863",
+    "Description": "Toeslag intake en onderzoek fysiotherapie na screening buiten reguliere werktijden"
+  },
+  {
+    "Code": "1864",
+    "Description": "Screening en intake en onderzoek fysiotherapie"
+  },
+  {
+    "Code": "1865",
+    "Description": "Screening en intake en onderzoek fysiotherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "1866",
+    "Description": "Screening en intake en onderzoek fysiotherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "1870",
+    "Description": "Intake en onderzoek fysiotherapie na verwijzing"
+  },
+  {
+    "Code": "1871",
+    "Description": "Intake en onderzoek fysiotherapie na verwijzing met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "1872",
+    "Description": "Intake en onderzoek fysiotherapie na verwijzing met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "1873",
+    "Description": "Toeslag intake en onderzoek fysiotherapie na verwijzing buiten reguliere werktijden"
+  },
+  {
+    "Code": "1900",
+    "Description": "Eenvoudige korte rapporten fysiotherapie"
+  },
+  {
+    "Code": "1901",
+    "Description": "Meer gecompliceerde tijdrovende rapporten fysiotherapie"
+  },
+  {
+    "Code": "1902",
+    "Description": "Verslaglegging fysiotherapie aan derden"
+  },
+  {
+    "Code": "1920",
+    "Description": "Telefonische zitting fysiotherapie"
+  },
+  {
+    "Code": "1921",
+    "Description": "Toeslag telefonische zitting fysiotherapie buiten reguliere werktijden"
+  },
+  {
+    "Code": "1950",
+    "Description": "Verstrekte verband- en hulpmiddelen in het kader van fysiotherapie"
+  },
+  {
+    "Code": "1960",
+    "Description": "Niet nagekomen afspraak fysiotherapie"
+  },
+  {
+    "Code": "1970",
+    "Description": "Module regionale ondersteuning eerstelijnszorg voor fysiotherapie"
+  },
+  {
+    "Code": "1971",
+    "Description": "Module kwaliteitsontwikkeling voor fysiotherapie"
+  },
+  {
+    "Code": "F1000",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Menisectomie type 1, zonder aanspraak"
+  },
+  {
+    "Code": "F1001",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Menisectomie type 2, zonder aanspraak"
+  },
+  {
+    "Code": "F1002",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Menisectomie type 3, aanspraak Zvw"
+  },
+  {
+    "Code": "F1003",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Voorste kruisband reconstructie (VKB), aanspraak Zvw"
+  },
+  {
+    "Code": "F1004",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Totale knieprothese (TKP), aanspraak Zvw"
+  },
+  {
+    "Code": "F1005",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Totale heupprothese (THP), aanspraak Zvw"
+  },
+  {
+    "Code": "F1006",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Decompressie schouder, aanspraak Zvw"
+  },
+  {
+    "Code": "F1007",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Menisectomie type 3, zonder aanspraak"
+  },
+  {
+    "Code": "F1008",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Voorste kruisband reconstructie (VKB), zonder aanspraak"
+  },
+  {
+    "Code": "F1009",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Totale knieprothese (TKP), zonder aanspraak"
+  },
+  {
+    "Code": "F1010",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Totale heupprothese (THP), zonder aanspraak"
+  },
+  {
+    "Code": "F1011",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Decompressie schouder, zonder aanspraak"
+  },
+  {
+    "Code": "F1012",
+    "Description": "Kinderfysiotherapeutisch ketenzorgtraject vroeg-interventie prematuren: het Topprogramma (Transmurale Ontwikkelingsondersteuning prematuur geboren kinderen en hun ouders)."
+  },
+  {
+    "Code": "F1013",
+    "Description": "Fysiotherapeutisch traject ten behoeve van aspecifieke (lage) rugklachten, zorgprofiel 1 (normaal verloop van het herstel)"
+  },
+  {
+    "Code": "F1014",
+    "Description": "Fysiotherapeutisch traject ten behoeve van aspecifieke (lage) rugklachten, zorgprofiel 2 (afwijkend verloop van het herstel, zonder dominante aanwezigheid van psychosociale herstel belemmerende factoren)"
+  },
+  {
+    "Code": "F1015",
+    "Description": "Fysiotherapeutisch traject ten behoeve van aspecifieke (lage) rugklachten, zorgprofiel 3 (afwijkend verloop van het herstel, met dominante aanwezigheid van psychosociale herstel belemmerende factoren)"
+  },
+  {
+    "Code": "F1016",
+    "Description": "Transmurale fysiotherapeutisch zorgtraject in de eerste lijn volgend op een trauma"
+  },
+  {
+    "Code": "F1017",
+    "Description": "Fysiotherapeutische intake en onderzoek volgens de Coach2Move benadering"
+  },
+  {
+    "Code": "F1018",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Totale knieprothese (TKP), aanspraak Zvw (profiel 3)"
+  },
+  {
+    "Code": "F1019",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Totale knieprothese (TKP), aanspraak Zvw (profiel 4)"
+  },
+  {
+    "Code": "F1020",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Totale heupprothese (THP), aanspraak Zvw (profiel 3)"
+  },
+  {
+    "Code": "F1021",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Totale heupprothese (THP), aanspraak Zvw (profiel 4)"
+  },
+  {
+    "Code": "F1022",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Totale knieprothese (TKP), zonder aanspraak Zvw (profiel 1)"
+  },
+  {
+    "Code": "F1023",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Totale knieprothese (TKP), zonder aanspraak Zvw (profiel 2)"
+  },
+  {
+    "Code": "F1024",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Totale knieprothese (TKP), zonder aanspraak Zvw (profiel 3)"
+  },
+  {
+    "Code": "F1025",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Totale knieprothese (TKP), zonder aanspraak Zvw (profiel 4)"
+  },
+  {
+    "Code": "F1026",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Totale heupprothese (THP), zonder aanspraak Zvw (profiel 1)"
+  },
+  {
+    "Code": "F1027",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Totale heupprothese (THP), zonder aanspraak Zvw (profiel 2)"
+  },
+  {
+    "Code": "F1028",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Totale heupprothese (THP), zonder aanspraak Zvw (profiel 3)"
+  },
+  {
+    "Code": "F1029",
+    "Description": "Fysiotherapeutisch traject aansluitend op operatieve ingreep Totale heupprothese (THP), zonder aanspraak Zvw (profiel 4)"
+  },
+  {
+    "Code": "F1030",
+    "Description": "Fysiotherapeutische geriatrie intake (1,5 uur) in de praktijk (profiel 1) volgens de Coach2Move benadering"
+  },
+  {
+    "Code": "F1031",
+    "Description": "Fysiotherapeutische geriatrie intake (1,5) uur in de praktijk (profiel 2) volgens de Coach2Move benadering"
+  },
+  {
+    "Code": "F1032",
+    "Description": "Fysiotherapeutische geriatrie intake (1,5 uur) in de praktijk (profiel 3) volgens de Coach2Move benadering"
+  },
+  {
+    "Code": "F1033",
+    "Description": "Fysiotherapeutisch afsluitend consult geriatrie volgens de Coach2Move benadering"
+  },
+  {
+    "Code": "F1034",
+    "Description": "Fysiotherapeutische geriatrie intake (1,5 uur) aan huis (profiel 1) volgens de Coach2Move benadering"
+  },
+  {
+    "Code": "F1035",
+    "Description": "Fysiotherapeutische geriatrie intake (1,5 uur) aan huis (profiel 2) volgens de Coach2Move benadering"
+  },
+  {
+    "Code": "F1036",
+    "Description": "Fysiotherapeutische geriatrie intake (1,5 uur) aan huis (profie 3) volgens de Coach2Move benadering"
+  },
+  {
+    "Code": "F1037",
+    "Description": "Fysiotherapeutisch afsluitend consult geriatrie aan huis volgens de Coach2Move benadering"
+  },
+  {
+    "Code": "2000",
+    "Description": "Individuele zitting reguliere oefentherapie Cesar/Mensendieck"
+  },
+  {
+    "Code": "2001",
+    "Description": "Individuele zitting reguliere oefentherapie Cesar/Mensendieck met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "2002",
+    "Description": "Individuele zitting reguliere oefentherapie Cesar/Mensendieck met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "2003",
+    "Description": "Individuele zitting reguliere oefentherapie Cesar/Mensendieck met toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2004",
+    "Description": "Individuele zitting reguliere oefentherapie Cesar/Mensendieck met toeslag voor behandeling op de werkplek (eenmalig)"
+  },
+  {
+    "Code": "2100",
+    "Description": "Groepsbehandeling oefentherapie Cesar"
+  },
+  {
+    "Code": "2101",
+    "Description": "Groepszitting methode Cesar voor specifieke behandeling van twee personen"
+  },
+  {
+    "Code": "2102",
+    "Description": "Groepszitting methode Cesar voor specifieke behandeling van drie personen"
+  },
+  {
+    "Code": "2103",
+    "Description": "Groepszitting methode Cesar voor specifieke behandeling van vier personen"
+  },
+  {
+    "Code": "2104",
+    "Description": "Groepszitting methode Cesar voor specifieke behandeling van vijf tot en met tien personen"
+  },
+  {
+    "Code": "2105",
+    "Description": "Groepszitting methode Cesar voor specifieke behandeling van meer dan 10 personen"
+  },
+  {
+    "Code": "2110",
+    "Description": "Groepszitting methode Cesar voor specifieke behandeling van twee personen inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2111",
+    "Description": "Groepszitting methode Cesar voor specifieke behandeling van drie personen inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2112",
+    "Description": "Groepszitting methode Cesar voor specifieke behandeling van vier personen inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2113",
+    "Description": "Groepszitting methode Cesar voor specifieke behandeling van vijf tot en met tien personen inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2114",
+    "Description": "Groepszitting methode Cesar voor specifieke behandeling van meer dan 10 personen inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2115",
+    "Description": "Groepszitting oefentherapie Cesar/Mensendieck voor specifieke behandeling van twee personen"
+  },
+  {
+    "Code": "2116",
+    "Description": "Groepszitting oefentherapie Cesar/Mensendieck voor specifieke behandeling van drie personen"
+  },
+  {
+    "Code": "2117",
+    "Description": "Groepszitting oefentherapie Cesar/Mensendieck voor specifieke behandeling van vier personen"
+  },
+  {
+    "Code": "2118",
+    "Description": "Groepszitting oefentherapie Cesar/Mensendieck voor specifieke behandeling van vijf tot en met tien personen"
+  },
+  {
+    "Code": "2119",
+    "Description": "Groepszitting oefentherapie Cesar/Mensendieck van meer dan 10 personen"
+  },
+  {
+    "Code": "2120",
+    "Description": "Groepszitting oefentherapie Cesar/Mensendieck voor specifieke behandeling van twee personen met  toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2121",
+    "Description": "Groepszitting oefentherapie Cesar/Mensendieck voor specifieke behandeling van drie personen met  toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2122",
+    "Description": "Groepszitting oefentherapie Cesar/Mensendieck voor specifieke behandeling van vier personen met toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2123",
+    "Description": "Groepszitting oefentherapie Cesar/Mensendieck voor specifieke behandeling van vijf tot en met tien personen met  toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2124",
+    "Description": "Groepszitting oefentherapie Cesar/Mensendieck van meer dan 10 personen met  toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2125",
+    "Description": "Groepszitting voor behandeling oefentherapie Cesar/Mensendieck van twee personen"
+  },
+  {
+    "Code": "2126",
+    "Description": "Groepszitting voor behandeling oefentherapie Cesar/Mensendieck van drie personen"
+  },
+  {
+    "Code": "2127",
+    "Description": "Groepszitting voor behandeling oefentherapie Cesar/Mensendieck van vier personen"
+  },
+  {
+    "Code": "2128",
+    "Description": "Groepszitting voor behandeling oefentherapie Cesar/Mensendieck van vijf tot en met tien personen"
+  },
+  {
+    "Code": "2129",
+    "Description": "Groepszitting voor behandeling oefentherapie Cesar/Mensendieck van meer dan 10 personen"
+  },
+  {
+    "Code": "2200",
+    "Description": "Eenmalig oefentherapeutisch onderzoek Cesar/Mensendieck"
+  },
+  {
+    "Code": "2201",
+    "Description": "Eenmalig oefentherapeutisch onderzoek Cesar/Mensendieck met toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2202",
+    "Description": "Eenmalig oefentherapeutisch onderzoek Cesar/Mensendieck met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "2203",
+    "Description": "Eenmalig oefentherapeutisch onderzoek Cesar/Mensendieck met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "2300",
+    "Description": "Individuele zitting kinderoefentherapie Cesar/Mensendieck"
+  },
+  {
+    "Code": "2301",
+    "Description": "Individuele zitting kinderoefentherapie Cesar/Mensendieck met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "2302",
+    "Description": "Individuele zitting kinderoefentherapie Cesar/Mensendieck met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "2303",
+    "Description": "Individuele zitting kinderoefentherapie Cesar/Mensendieck met toeslag buiten reguliere werkijden"
+  },
+  {
+    "Code": "2370",
+    "Description": "Module regionale ondersteuning eerstelijnszorg voor oefentherapie Cesar"
+  },
+  {
+    "Code": "2371",
+    "Description": "Module kwaliteitsontwikkeling voor oefentherapie Cesar"
+  },
+  {
+    "Code": "2400",
+    "Description": "Screening bij directe toegang oefentherapie Cesar/Mensendieck"
+  },
+  {
+    "Code": "2401",
+    "Description": "Intake en onderzoek bij directe toegang oefentherapie Cesar/Mensendieck na screening"
+  },
+  {
+    "Code": "2402",
+    "Description": "Screening bij directe toegang oefentherapie Cesar/Mensendieck met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "2403",
+    "Description": "Intake en onderzoek bij directe toegang oefentherapie Cesar/Mensendieck na screening met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "2404",
+    "Description": "Screening bij directe toegang oefentherapie Cesar/Mensendieck met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "2405",
+    "Description": "Intake en onderzoek bij directe toegang oefentherapie Cesar/Mensendieck na screening met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "2406",
+    "Description": "Screening bij directe toegang oefentherapie Cesar/Mensendieck met toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2407",
+    "Description": "Intake en onderzoek bij directe toegang oefentherapie Cesar/Mensendieck na screening met toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2408",
+    "Description": "Intake en onderzoek oefentherapie Cesar/Mensendieck na verwijzing"
+  },
+  {
+    "Code": "2409",
+    "Description": "Intake en onderzoek oefentherapie Cesar/Mensendieck na verwijzing met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "2410",
+    "Description": "Intake en onderzoek oefentherapie Cesar/Mensendieck na verwijzing met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "2411",
+    "Description": "Intake en onderzoek oefentherapie Cesar/Mensendieck na verwijzing met toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2412",
+    "Description": "Screening en intake en onderzoek bij directe toegang oefentherapie Cesar/Mensendieck"
+  },
+  {
+    "Code": "2413",
+    "Description": "Screening en intake en onderzoek bij directe toegang oefentherapie Cesar/Mensendieck met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "2414",
+    "Description": "Screening en intake en onderzoek bij directe toegang oefentherapie Cesar/Mensendieck met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "2500",
+    "Description": "Instructie/overleg oefentherapie Cesar/Mensendieck ouders/verzorgers van de patiënt (kinderoefentherapie)"
+  },
+  {
+    "Code": "2501",
+    "Description": "Instructie/overleg oefentherapie Cesar/Mensendieck ouders/verzorgers van de patiënt (kinderoefentherapie) met toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2510",
+    "Description": "Eenmalig kinderoefentherapeutisch rapport Cesar/Mensendieck"
+  },
+  {
+    "Code": "2511",
+    "Description": "Eenvoudige korte rapporten, methode Cesar"
+  },
+  {
+    "Code": "2512",
+    "Description": "Meer gecompliceerde, tijdrovende rapporten, methode Cesar"
+  },
+  {
+    "Code": "2513",
+    "Description": "Verslaglegging oefentherapie Cesar/Mensendieck aan derden"
+  },
+  {
+    "Code": "2600",
+    "Description": "Individuele zitting psychosomatische oefentherapie Cesar/Mensendieck"
+  },
+  {
+    "Code": "2601",
+    "Description": "Individuele zitting psychosomatische oefentherapie Cesar/Mensendieck met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "2602",
+    "Description": "Individuele zitting psychosomatische oefentherapie Cesar/Mensendieck met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "2603",
+    "Description": "Individuele zitting psychosomatische oefentherapie Cesar/Mensendieck met toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2604",
+    "Description": "Individuele zitting psychosomatische oefentherapie Cesar/Mensendieck met toeslag voor behandeling op de werkplek (eenmalig)"
+  },
+  {
+    "Code": "2700",
+    "Description": "Telefonische zitting oefentherapie Cesar/Mensendieck"
+  },
+  {
+    "Code": "2701",
+    "Description": "Telefonische zitting oefentherapie Cesar/Mensendieck met toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2800",
+    "Description": "Lange zitting oefentherapie Cesar/Mensendieck voor een aantal specifieke aandoeningen"
+  },
+  {
+    "Code": "2801",
+    "Description": "Lange zitting oefentherapie Cesar/Mensendieck voor een aantal specifieke aandoeningen met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "2802",
+    "Description": "Lange zitting oefentherapie Cesar/Mensendieck voor een aantal specifieke aandoeningen met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "2803",
+    "Description": "Lange zitting oefentherapie Cesar/Mensendieck voor een aantal specifieke aandoeningen met toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "2804",
+    "Description": "Lange zitting oefentherapie Cesar/Mensendieck voor een aantal specifieke aandoeningen met toeslag voor behandeling op de werkplek (eenmalig)"
+  },
+  {
+    "Code": "3000",
+    "Description": "Zitting methode Mensendieck"
+  },
+  {
+    "Code": "3001",
+    "Description": "Zitting methode Mensendieck inclusief toeslag voor uitbehandeling"
+  },
+  {
+    "Code": "3002",
+    "Description": "Zitting methode Mensendieck inclusief instellingstoeslag"
+  },
+  {
+    "Code": "3003",
+    "Description": "Zitting methode Mensendieck inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "3100",
+    "Description": "Groepsbehandeling oefentherapie Mensendieck"
+  },
+  {
+    "Code": "3101",
+    "Description": "Groepszitting methode Mensendieck voor specifieke behandeling van twee personen"
+  },
+  {
+    "Code": "3102",
+    "Description": "Groepszitting methode Mensendieck voor specifieke behandeling van drie personen"
+  },
+  {
+    "Code": "3103",
+    "Description": "Groepszitting methode Mensendieck voor specifieke behandeling van vier personen"
+  },
+  {
+    "Code": "3104",
+    "Description": "Groepszitting methode Mensendieck voor specifieke behandeling van vijf tot en met tien personen"
+  },
+  {
+    "Code": "3105",
+    "Description": "Groepszitting methode Mensendieck voor specifieke behandeling van meer dan 10 personen"
+  },
+  {
+    "Code": "3110",
+    "Description": "Groepszitting methode Mensendieck voor specifieke behandeling van twee personen inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "3111",
+    "Description": "Groepszitting methode Mensendieck voor specifieke behandeling van drie personen inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "3112",
+    "Description": "Groepszitting methode Mensendieck voor specifieke behandeling van vier personen inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "3113",
+    "Description": "Groepszitting methode Mensendieck voor specifieke behandeling van vijf tot en met tien personen inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "3114",
+    "Description": "Groepszitting methode Mensendieck voor specifieke behandeling van meer dan 10 personen inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "3200",
+    "Description": "Eenmalig oefentherapeutisch onderzoek methode Mensendieck"
+  },
+  {
+    "Code": "3201",
+    "Description": "Eenmalig oefentherapeutisch onderzoek methode Mensendieck inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "3300",
+    "Description": "Zitting kinderoefentherapie methode Mensendieck"
+  },
+  {
+    "Code": "3301",
+    "Description": "Zitting kinderoefentherapie methode Mensendieck inclusief toeslag voor uitbehandeling"
+  },
+  {
+    "Code": "3302",
+    "Description": "Zitting kinderoefentherapie methode Mensendieck inclusief instellingstoeslag"
+  },
+  {
+    "Code": "3303",
+    "Description": "Zitting kinderoefentherapie methode Mensendieck inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "3370",
+    "Description": "Module regionale ondersteuning eerstelijnszorg voor oefentherapie Mensendieck"
+  },
+  {
+    "Code": "3371",
+    "Description": "Module kwaliteitsontwikkeling voor oefentherapie Mensendieck"
+  },
+  {
+    "Code": "3400",
+    "Description": "Screening methode Mensendieck"
+  },
+  {
+    "Code": "3401",
+    "Description": "Intake en onderzoek na screening methode Mensendieck"
+  },
+  {
+    "Code": "3402",
+    "Description": "Screening methode Mensendieck inclusief toeslag uitbehandeling"
+  },
+  {
+    "Code": "3403",
+    "Description": "Intake en onderzoek na screening methode Mensendieck inclusief toeslag uitbehandeling"
+  },
+  {
+    "Code": "3404",
+    "Description": "Screening methode Mensendieck inclusief instellingstoeslag"
+  },
+  {
+    "Code": "3405",
+    "Description": "Intake en onderzoek na screening methode Mensendieck inclusief instellingstoeslag"
+  },
+  {
+    "Code": "3406",
+    "Description": "Screening methode Mensendieck inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "3407",
+    "Description": "Intake en onderzoek na screening methode Mensendieck inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "3408",
+    "Description": "Intake en onderzoek na verwijzing methode Mensendieck"
+  },
+  {
+    "Code": "3409",
+    "Description": "Intake en onderzoek na verwijzing methode Mensendieck, inclusief toeslag voor uitbehandeling"
+  },
+  {
+    "Code": "3410",
+    "Description": "Intake en onderzoek na verwijzing methode Mensendieck, inclusief inrichtinstoeslag"
+  },
+  {
+    "Code": "3411",
+    "Description": "Intake en onderzoek na verwijzing methode Mensendieck, inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "3500",
+    "Description": "Instructie/overleg ouders van de patiënt methode Mensendieck (kinderoefentherapie)"
+  },
+  {
+    "Code": "3501",
+    "Description": "Instructie/overleg ouders van de patiënt methode Mensendieck (kinderoefentherapie) inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "3510",
+    "Description": "Eenmalig kinderoefentherapeutisch rapport, methode Mensendieck"
+  },
+  {
+    "Code": "3511",
+    "Description": "Eenvoudige, korte rapporten, methode Mensendieck"
+  },
+  {
+    "Code": "3512",
+    "Description": "Meer gecompliceerde, tijdrovende rapporten, methode Mensendieck"
+  },
+  {
+    "Code": "3600",
+    "Description": "Zitting psychosomatische oefentherapie methode Mensendieck"
+  },
+  {
+    "Code": "3601",
+    "Description": "Zitting psychosomatische oefentherapie methode Mensendieck, inclusief toeslag voor uitbehandeling"
+  },
+  {
+    "Code": "3602",
+    "Description": "Zitting psychosomatische oefentherapie methode Mensendieck, inclusief instellingstoeslag."
+  },
+  {
+    "Code": "3603",
+    "Description": "Zitting psychosomatische oefentherapie methode Mensendieck inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "3700",
+    "Description": "Telefonische zitting methode Mensendieck"
+  },
+  {
+    "Code": "3701",
+    "Description": "Telefonische zitting methode Mensendieck inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "3800",
+    "Description": "Lange zitting voor patiënten met complexe en/of meervoudige zorgvragen methode Mensendieck"
+  },
+  {
+    "Code": "3801",
+    "Description": "Lange zitting voor patiënten met complexe en/of meervoudige zorgvragen methode Mensendieck, inclusief toeslag voor uitbehandeling"
+  },
+  {
+    "Code": "3802",
+    "Description": "Lange zitting voor patiënten met complexe en/of meervoudige zorgvragen methode Mensendieck, inclusief instellingstoeslag"
+  },
+  {
+    "Code": "3803",
+    "Description": "Lange zitting voor patiënten met complexe en/of meervoudige zorgvragen methode Mensendieck, inclusief toeslag buiten reguliere werktijden"
+  },
+  {
+    "Code": "4000",
+    "Description": "Individuele zitting reguliere logopedie"
+  },
+  {
+    "Code": "4001",
+    "Description": "Individuele zitting reguliere logopedie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "4002",
+    "Description": "Individuele zitting reguliere telelogopedie"
+  },
+  {
+    "Code": "4003",
+    "Description": "Individuele zitting reguliere logopedie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "4010",
+    "Description": "Telefonische zitting logopedie"
+  },
+  {
+    "Code": "4011",
+    "Description": "Instructie/overleg ouders/verzorgers van de patiënt bij logopedie"
+  },
+  {
+    "Code": "4050",
+    "Description": "Screening bij directe toegang logopedie"
+  },
+  {
+    "Code": "4051",
+    "Description": "Screening bij directe toegang logopedie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "4052",
+    "Description": "Screening bij directe toegang logopedie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "4053",
+    "Description": "Screening bij directe toegang logopedie met toeslag voor behandeling buiten reguliere werkijden"
+  },
+  {
+    "Code": "4054",
+    "Description": "Anamnese (intake) en onderzoek logopedie na screening"
+  },
+  {
+    "Code": "4055",
+    "Description": "Anamnese (intake) en onderzoek logopedie na screening met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "4056",
+    "Description": "Anamnese (intake) en onderzoek logopedie na screening met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "4057",
+    "Description": "Screening, anamnese (intake) en onderzoek logopedie"
+  },
+  {
+    "Code": "4058",
+    "Description": "Screening, anamnese (intake) en onderzoek logopedie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "4059",
+    "Description": "Screening, anamnese (intake) en onderzoek logopedie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "4060",
+    "Description": "Screening, anamnese (intake) en onderzoek logopedie met toeslag voor behandeling buiten reguliere werktijden"
+  },
+  {
+    "Code": "4061",
+    "Description": "Anamnese (intake) en onderzoek logopedie na verwijzing"
+  },
+  {
+    "Code": "4062",
+    "Description": "Anamnese (intake) en onderzoek logopedie na verwijzing met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "4063",
+    "Description": "Anamnese (intake) en onderzoek logopedie na verwijzing met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "4100",
+    "Description": "Eenmalig specifiek logopedisch onderzoek (op medische indicatie) zonder dat behandeling volgt (vervallen)"
+  },
+  {
+    "Code": "4101",
+    "Description": "Eenmalig specifiek logopedisch onderzoek (op medische indicatie) zonder dat behandeling volgt, met uittoeslag   (vervallen)"
+  },
+  {
+    "Code": "4102",
+    "Description": "Eenmalig logopedisch onderzoek"
+  },
+  {
+    "Code": "4103",
+    "Description": "Eenmalig logopedisch onderzoek met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "4104",
+    "Description": "Eenmalig logopedisch onderzoek met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "4200",
+    "Description": "Groepsbehandeling logopedie"
+  },
+  {
+    "Code": "4201",
+    "Description": "Groepsbehandeling integrale Zorg Stotteren (IZS), per dagdeel"
+  },
+  {
+    "Code": "4210",
+    "Description": "Groepsbehandeling voor specifieke behandeling van twee personen"
+  },
+  {
+    "Code": "4211",
+    "Description": "Groepsbehandeling voor specifieke behandeling van drie personen"
+  },
+  {
+    "Code": "4212",
+    "Description": "Groepsbehandeling voor specifieke behandeling van vier personen"
+  },
+  {
+    "Code": "4213",
+    "Description": "Groepsbehandeling voor specifieke behandeling van vijf tot tien personen"
+  },
+  {
+    "Code": "4214",
+    "Description": "Groepszitting voor behandeling logopedie van twee personen"
+  },
+  {
+    "Code": "4215",
+    "Description": "Groepszitting voor behandeling logopedie van drie personen"
+  },
+  {
+    "Code": "4216",
+    "Description": "Groepszitting voor behandeling logopedie van vier personen"
+  },
+  {
+    "Code": "4217",
+    "Description": "Groepszitting voor behandeling logopedie van vijf tot tien personen"
+  },
+  {
+    "Code": "4300",
+    "Description": "Therapiedag stottertherapie Doetinchemse methode, per patiënt"
+  },
+  {
+    "Code": "4301",
+    "Description": "Individuele zitting logopedie stotteren"
+  },
+  {
+    "Code": "4302",
+    "Description": "Individuele zitting logopedie stotteren met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "4303",
+    "Description": "Individuele zitting preverbale logopedie"
+  },
+  {
+    "Code": "4304",
+    "Description": "Individuele zitting preverbale logopedie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "4305",
+    "Description": "Individuele zitting logopedie afasie"
+  },
+  {
+    "Code": "4306",
+    "Description": "Individuele zitting logopedie afasie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "4307",
+    "Description": "Specifieke behandeling volgens het Hanen-ouderprogramma PDMT (Praten Doe je Met z'n Tweeën)"
+  },
+  {
+    "Code": "4308",
+    "Description": "Individuele zitting logopedie stotteren met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "4309",
+    "Description": "Individuele zitting telelogopedie stotteren"
+  },
+  {
+    "Code": "4310",
+    "Description": "Individuele zitting preverbale logopedie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "4311",
+    "Description": "Individuele zitting logopedie afasie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "4312",
+    "Description": "Individuele zitting telelogopedie afasie"
+  },
+  {
+    "Code": "4313",
+    "Description": "Overleg logopedie met derden"
+  },
+  {
+    "Code": "4314",
+    "Description": "Verslaglegging logopedie aan derden"
+  },
+  {
+    "Code": "4315",
+    "Description": "Lange zitting logopedie voor een aantal specifieke aandoeningen"
+  },
+  {
+    "Code": "4316",
+    "Description": "Lange zitting logopedie voor een aantal specifieke aandoeningen met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "4317",
+    "Description": "Lange zitting logopedie voor een aantal specifieke aandoeningen met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "4318",
+    "Description": "Specifieke behandeling volgens het Hanen-ouderprogramma MDW (Meer Dan Woorden)"
+  },
+  {
+    "Code": "4470",
+    "Description": "Module regionale ondersteuning eerstelijnszorg voor logopedie"
+  },
+  {
+    "Code": "4471",
+    "Description": "Module kwaliteitsontwikkeling voor logopedie"
+  },
+  {
+    "Code": "5000",
+    "Description": "Individuele zitting ergotherapie"
+  },
+  {
+    "Code": "5001",
+    "Description": "Toeslag voor behandeling ergotherapie aan huis"
+  },
+  {
+    "Code": "5002",
+    "Description": "Screening Directe Toegang Ergotherapie"
+  },
+  {
+    "Code": "5003",
+    "Description": "Intake en onderzoek ergotherapie na screening"
+  },
+  {
+    "Code": "5004",
+    "Description": "Intake en onderzoek ergotherapie na verwijzing"
+  },
+  {
+    "Code": "5005",
+    "Description": "Screening en intake en onderzoek ergotherapie"
+  },
+  {
+    "Code": "5006",
+    "Description": "Eenmalig ergotherapeutisch onderzoek"
+  },
+  {
+    "Code": "5007",
+    "Description": "Toeslag voor behandeling ergotherapie in een instelling"
+  },
+  {
+    "Code": "5008",
+    "Description": "Individuele zitting kinderergotherapie"
+  },
+  {
+    "Code": "5009",
+    "Description": "Individuele zitting handergotherapie"
+  },
+  {
+    "Code": "5010",
+    "Description": "Telefonische zitting ergotherapie"
+  },
+  {
+    "Code": "5011",
+    "Description": "Instructie/overleg ouders/ verzorgers van de patiënt bij ergotherapie"
+  },
+  {
+    "Code": "5012",
+    "Description": "Groepszitting voor behandeling ergotherapie van twee personen"
+  },
+  {
+    "Code": "5013",
+    "Description": "Groepszitting voor behandeling ergotherapie van drie personen"
+  },
+  {
+    "Code": "5014",
+    "Description": "Groepszitting voor behandeling ergotherapie van vier personen"
+  },
+  {
+    "Code": "5015",
+    "Description": "Groepszitting voor behandeling ergotherapie van vijf tot en met tien personen"
+  },
+  {
+    "Code": "5016",
+    "Description": "Groepszitting voor behandeling ergotherapie van meer dan tien personen"
+  },
+  {
+    "Code": "5017",
+    "Description": "Toeslag voor behandeling ergotherapie op de werkplek (eenmalig)"
+  },
+  {
+    "Code": "5018",
+    "Description": "Verslaglegging ergotherapie aan derden"
+  },
+  {
+    "Code": "6000",
+    "Description": "Individuele zitting reguliere diëtetiek"
+  },
+  {
+    "Code": "6001",
+    "Description": "Toeslag voor behandeling reguliere diëtetiek aan huis"
+  },
+  {
+    "Code": "6002",
+    "Description": "Reguliere behandeling dieetadvisering door instellingen"
+  },
+  {
+    "Code": "6003",
+    "Description": "Uittoeslag dieetadvisering door instellingen"
+  },
+  {
+    "Code": "6004",
+    "Description": "Toeslag voor behandeling reguliere diëtetiek in een instelling"
+  },
+  {
+    "Code": "6005",
+    "Description": "Telefonische zitting diëtetiek"
+  },
+  {
+    "Code": "6006",
+    "Description": "Individueel dieetvoorschrift"
+  },
+  {
+    "Code": "6050",
+    "Description": "Screening Directe Toegang diëtetiek"
+  },
+  {
+    "Code": "6051",
+    "Description": "Intake en onderzoek diëtetiek na screening"
+  },
+  {
+    "Code": "6052",
+    "Description": "Intake en onderzoek diëtetiek na verwijzing"
+  },
+  {
+    "Code": "6053",
+    "Description": "Screening en intake en onderzoek diëtetiek"
+  },
+  {
+    "Code": "6100",
+    "Description": "Groepsbehandeling diëtetiek door vrijgevestigde diëtisten"
+  },
+  {
+    "Code": "6101",
+    "Description": "Groepsbehandeling dieetadvisering door instellingen"
+  },
+  {
+    "Code": "6102",
+    "Description": "Groepszitting voor behandeling reguliere diëtetiek van twee personen"
+  },
+  {
+    "Code": "6103",
+    "Description": "Groepszitting voor behandeling reguliere diëtetiek van drie personen"
+  },
+  {
+    "Code": "6104",
+    "Description": "Groepszitting voor behandeling reguliere diëtetiek van vier personen"
+  },
+  {
+    "Code": "6105",
+    "Description": "Groepszitting voor behandeling reguliere diëtetiek van vijf tot en met tien personen"
+  },
+  {
+    "Code": "6106",
+    "Description": "Groepszitting voor behandeling reguliere diëtetiek van meer dan tien personen"
+  },
+  {
+    "Code": "6200",
+    "Description": "Niet nagekomen afspraak"
+  },
+  {
+    "Code": "6300",
+    "Description": "Individuele zitting diëtetiek als onderdeel van gecoördineerde multidisciplinaire zorgverlening aan patiënten met DM, COPD en VRM."
+  },
+  {
+    "Code": "6301",
+    "Description": "Toeslag voor behandeling bij diëtetiek als onderdeel van gecoördineerde multidisciplinaire zorgverlening aan patiënten met DM, COPD en VRM aan huis."
+  },
+  {
+    "Code": "6302",
+    "Description": "Groepsbehandeling bij diëtetiek als onderdeel van gecoördineerde multidisciplinaire zorgverlening aan patiënten met DM, COPD en VRM."
+  },
+  {
+    "Code": "6303",
+    "Description": "Toeslag voor behandeling bij diëtetiek als onderdeel van gecoördineerde multidisciplinaire zorgverlening aan patiënten met DM, COPD en VRM in een instelling."
+  },
+  {
+    "Code": "6304",
+    "Description": "Intake en onderzoek diëtetiek als onderdeel van gecoördineerde multidisciplinaire zorgverlening aan patiënten met DM, COPD en VRM na verwijzing"
+  },
+  {
+    "Code": "6305",
+    "Description": "Groepszitting voor behandeling diëtetiek als onderdeel van gecoördineerde multidisciplinaire zorgverlening aan patiënten met DM, COPD en VRM van twee personen"
+  },
+  {
+    "Code": "6306",
+    "Description": "Groepszitting voor behandeling diëtetiek als onderdeel van gecoördineerde multidisciplinaire zorgverlening aan patiënten met DM, COPD en VRM van drie personen"
+  },
+  {
+    "Code": "6307",
+    "Description": "Groepszitting voor behandeling diëtetiek als onderdeel van gecoördineerde multidisciplinaire zorgverlening aan patiënten met DM, COPD en VRM van vier personen"
+  },
+  {
+    "Code": "6308",
+    "Description": "Groepszitting voor behandeling diëtetiek als onderdeel van gecoördineerde multidisciplinaire zorgverlening aan patiënten met DM, COPD en VRM van vijf tot en met tien personen"
+  },
+  {
+    "Code": "6309",
+    "Description": "Groepszitting voor behandeling diëtetiek als onderdeel van gecoördineerde multidisciplinaire zorgverlening aan patiënten met DM, COPD en VRM van meer dan tien personen"
+  },
+  {
+    "Code": "7000",
+    "Description": "Huidtherapie"
+  },
+  {
+    "Code": "7001",
+    "Description": "Huidtherapie, per kwartier"
+  },
+  {
+    "Code": "7002",
+    "Description": "Zitting oedeemtherapie"
+  },
+  {
+    "Code": "7003",
+    "Description": "Lymfe-oedeemtherapie, per kwartier"
+  },
+  {
+    "Code": "7004",
+    "Description": "Zitting littekentherapie"
+  },
+  {
+    "Code": "7005",
+    "Description": "Littekentherapie, per kwartier"
+  },
+  {
+    "Code": "7006",
+    "Description": "Overbeharing gelaat"
+  },
+  {
+    "Code": "7007",
+    "Description": "Overbeharing gelaat, per kwartier"
+  },
+  {
+    "Code": "7008",
+    "Description": "Elektrische epilatie"
+  },
+  {
+    "Code": "7009",
+    "Description": "Elektrische epilatie, per kwartier"
+  },
+  {
+    "Code": "7010",
+    "Description": "Acnetherapie"
+  },
+  {
+    "Code": "7011",
+    "Description": "Acnetherapie, per kwartier"
+  },
+  {
+    "Code": "7012",
+    "Description": "Camouflagetherapie"
+  },
+  {
+    "Code": "7013",
+    "Description": "Camouflagetherapie, per kwartier"
+  },
+  {
+    "Code": "7014",
+    "Description": "Dermatografie"
+  },
+  {
+    "Code": "7015",
+    "Description": "Dermatografie, per kwartier"
+  },
+  {
+    "Code": "7016",
+    "Description": "Huidoneffenheden"
+  },
+  {
+    "Code": "7017",
+    "Description": "Huidoneffenheden, per kwartier"
+  },
+  {
+    "Code": "7018",
+    "Description": "Verwijderen tatoeage"
+  },
+  {
+    "Code": "7019",
+    "Description": "Verwijderen tatoeage, per kwartier"
+  },
+  {
+    "Code": "7020",
+    "Description": "Iontoforese"
+  },
+  {
+    "Code": "7021",
+    "Description": "Iontoforese, per kwartier"
+  },
+  {
+    "Code": "7022",
+    "Description": "Wondzorg"
+  },
+  {
+    "Code": "7023",
+    "Description": "Wondzorg, per kwartier"
+  },
+  {
+    "Code": "7024",
+    "Description": "Behandeling dermale vaatafwijkingen"
+  },
+  {
+    "Code": "7025",
+    "Description": "Behandeling dermale vaatafwijkingen, per kwartier"
+  },
+  {
+    "Code": "7026",
+    "Description": "Lymfe-oedeemtherapie, vast tarief"
+  },
+  {
+    "Code": "7027",
+    "Description": "Lymfe-oedeemtherapie, per kwartier"
+  },
+  {
+    "Code": "7028",
+    "Description": "Littekentherapie, vast tarief"
+  },
+  {
+    "Code": "7029",
+    "Description": "Littekentherapie, per kwartier"
+  },
+  {
+    "Code": "7100",
+    "Description": "screening bij directe toegang oedeem-/littekentherapie"
+  },
+  {
+    "Code": "7101",
+    "Description": "intake en onderzoek na screening oedeem-/littekentherapie"
+  },
+  {
+    "Code": "7102",
+    "Description": "intake en onderzoek na verwijzing oedeem-/littekentherapie"
+  },
+  {
+    "Code": "7103",
+    "Description": "screening bij directe toegang oedeem-/littekentherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7104",
+    "Description": "intake en onderzoek na screening bij directe toegang oedeem-/littekentherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7105",
+    "Description": "intake en onderzoek na verwijzing oedeem-/littekentherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7106",
+    "Description": "screening bij directe toegang oedeem-/littekentherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7107",
+    "Description": "intake en onderzoek na screening bij directe toegang oedeem-/littekentherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7108",
+    "Description": "intake en onderzoek na verwijzing oedeem-/littekentherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7109",
+    "Description": "Screening bij directe toegang huidbehandelingen (ontharing, acnebehandeling en camouflagetherapie)"
+  },
+  {
+    "Code": "7110",
+    "Description": "Intake en onderzoek na screening bij directe toegang huidbehandelingen (ontharing, acnebehandeling en camouflagetherapie)"
+  },
+  {
+    "Code": "7111",
+    "Description": "Intake en onderzoek na verwijzing huidbehandelingen (ontharing, acnebehandeling en camouflagetherapie)"
+  },
+  {
+    "Code": "7112",
+    "Description": "Screening en intake en onderzoek oedeem-/littekentherapie"
+  },
+  {
+    "Code": "7113",
+    "Description": "Screening en intake en onderzoek oedeem-/littekentherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7114",
+    "Description": "Screening en intake en onderzoek oedeem-/littekentherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7301",
+    "Description": "Huidtherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7302",
+    "Description": "Huidtherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7303",
+    "Description": "Huidtherapie, per kwartier, met toeslag uitbehandeling"
+  },
+  {
+    "Code": "7304",
+    "Description": "Huidtherapie, per kwartier, met instellingstoeslag"
+  },
+  {
+    "Code": "7305",
+    "Description": "Zitting oedeemtherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7306",
+    "Description": "Zitting oedeemtherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7307",
+    "Description": "Lymfe-oedeemtherapie, per kwartier, met toeslag uitbehandeling"
+  },
+  {
+    "Code": "7308",
+    "Description": "Lymfe-oedeemtherapie, per kwartier, met instellingstoeslag"
+  },
+  {
+    "Code": "7309",
+    "Description": "Zitting littekentherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7310",
+    "Description": "Zitting littekentherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7311",
+    "Description": "Littekentherapie, per kwartier, met toeslag uitbehandeling"
+  },
+  {
+    "Code": "7312",
+    "Description": "Littekentherapie, per kwartier, met instellingstoeslag"
+  },
+  {
+    "Code": "7313",
+    "Description": "Overbeharing gelaat met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7314",
+    "Description": "Overbeharing gelaat met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7315",
+    "Description": "Overbeharing gelaat, per kwartier, met toeslag uitbehandeling"
+  },
+  {
+    "Code": "7316",
+    "Description": "Overbeharing gelaat, per kwartier, met instellingstoeslag"
+  },
+  {
+    "Code": "7317",
+    "Description": "Elektrische epilatie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7318",
+    "Description": "Elektrische epilatie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7319",
+    "Description": "Elektrische epilatie, per kwartier, met toeslag uitbehandeling"
+  },
+  {
+    "Code": "7320",
+    "Description": "Elektrische epilatie, per kwartier, met instellingstoeslag"
+  },
+  {
+    "Code": "7321",
+    "Description": "Acnetherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7322",
+    "Description": "Acnetherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7323",
+    "Description": "Acnetherapie, per kwartier, met toeslag uitbehandeling"
+  },
+  {
+    "Code": "7324",
+    "Description": "Acnetherapie, per kwartier, met instellingstoeslag"
+  },
+  {
+    "Code": "7325",
+    "Description": "Camouflagetherapie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7326",
+    "Description": "Camouflagetherapie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7327",
+    "Description": "Camouflagetherapie, per kwartier, met toeslag uitbehandeling"
+  },
+  {
+    "Code": "7328",
+    "Description": "Camouflagetherapie, per kwartier, met instellingstoeslag"
+  },
+  {
+    "Code": "7329",
+    "Description": "Dermatografie met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7330",
+    "Description": "Dermatografie met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7331",
+    "Description": "Dermatografie, per kwartier, met toeslag uitbehandeling"
+  },
+  {
+    "Code": "7332",
+    "Description": "Dermatografie, per kwartier, met instellingstoeslag"
+  },
+  {
+    "Code": "7333",
+    "Description": "Huidoneffenheden met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7334",
+    "Description": "Huidoneffenheden met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7335",
+    "Description": "Huidoneffenheden, per kwartier, met toeslag uitbehandeling"
+  },
+  {
+    "Code": "7336",
+    "Description": "Huidoneffenheden, per kwartier, met instellingstoeslag"
+  },
+  {
+    "Code": "7337",
+    "Description": "Verwijderen tatoeage met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7338",
+    "Description": "Verwijderen tatoeage met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7339",
+    "Description": "Verwijderen tatoeage, per kwartier, met toeslag uitbehandeling"
+  },
+  {
+    "Code": "7340",
+    "Description": "Verwijderen tatoeage, per kwartier, met instellingstoeslag"
+  },
+  {
+    "Code": "7341",
+    "Description": "Iontoforese met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7342",
+    "Description": "Iontoforese met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7343",
+    "Description": "Iontoforese, per kwartier, met toeslag uitbehandeling"
+  },
+  {
+    "Code": "7344",
+    "Description": "Iontoforese, per kwartier, met instellingstoeslag"
+  },
+  {
+    "Code": "7345",
+    "Description": "Wondzorg met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7346",
+    "Description": "Wondzorg met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7347",
+    "Description": "Wondzorg, per kwartier, met toeslag uitbehandeling"
+  },
+  {
+    "Code": "7348",
+    "Description": "Wondzorg, per kwartier, met instellingstoeslag"
+  },
+  {
+    "Code": "7349",
+    "Description": "Behandeling dermale vaatafwijkingen met toeslag voor behandeling aan huis"
+  },
+  {
+    "Code": "7350",
+    "Description": "Behandeling dermale vaatafwijkingen met toeslag voor behandeling in een instelling"
+  },
+  {
+    "Code": "7351",
+    "Description": "Behandeling dermale vaatafwijkingen, per kwartier, met toeslag uitbehandeling"
+  },
+  {
+    "Code": "7352",
+    "Description": "Behandeling dermale vaatafwijkingen, per kwartier, met instellingstoeslag"
+  },
+  {
+    "Code": "7353",
+    "Description": "Epilatie in het gelaat bij transgender"
+  },
+  {
+    "Code": "7354",
+    "Description": "Epilatie in het gelaat bij transgender, met toeslag uitbehandeling"
+  },
+  {
+    "Code": "7355",
+    "Description": "Epilatie in het gelaat bij transgender, met instellingstoeslag"
+  },
+  {
+    "Code": "7500",
+    "Description": "Toeslag uitbehandeling huidtherapeuten"
+  },
+  {
+    "Code": "7501",
+    "Description": "instellingstoeslag huidtherapeuten"
+  },
+  {
+    "Code": "8000",
+    "Description": "Intake"
+  },
+  {
+    "Code": "8001",
+    "Description": "Behandelfase 1 Slimmer"
+  },
+  {
+    "Code": "8002",
+    "Description": "Behandelfase 2 Slimmer"
+  },
+  {
+    "Code": "8003",
+    "Description": "Behandelfase 3 Slimmer"
+  },
+  {
+    "Code": "8004",
+    "Description": "Behandelfase 4 Slimmer"
+  },
+  {
+    "Code": "8005",
+    "Description": "Onderhoudsfase 1 Slimmer"
+  },
+  {
+    "Code": "8006",
+    "Description": "Onderhoudsfase 2 Slimmer"
+  },
+  {
+    "Code": "8007",
+    "Description": "Onderhoudsfase 3 Slimmer"
+  },
+  {
+    "Code": "8008",
+    "Description": "Onderhoudsfase 4 Slimmer"
+  },
+  {
+    "Code": "8009",
+    "Description": "Behandelfase 1 Beweegkuur"
+  },
+  {
+    "Code": "8010",
+    "Description": "Behandelfase 2 Beweegkuur"
+  },
+  {
+    "Code": "8011",
+    "Description": "Behandelfase 3 Beweegkuur"
+  },
+  {
+    "Code": "8012",
+    "Description": "Behandelfase 4 Beweegkuur"
+  },
+  {
+    "Code": "8013",
+    "Description": "Onderhoudsfase 1 Beweegkuur"
+  },
+  {
+    "Code": "8014",
+    "Description": "Onderhoudsfase 2 Beweegkuur"
+  },
+  {
+    "Code": "8015",
+    "Description": "Onderhoudsfase 3 Beweegkuur"
+  },
+  {
+    "Code": "8016",
+    "Description": "Onderhoudsfase 4 Beweegkuur"
+  },
+  {
+    "Code": "8017",
+    "Description": "Behandelfase 1 COOL"
+  },
+  {
+    "Code": "8018",
+    "Description": "Behandelfase 2 COOL"
+  },
+  {
+    "Code": "8019",
+    "Description": "Behandelfase 3 COOL"
+  },
+  {
+    "Code": "8020",
+    "Description": "Behandelfase 4 COOL"
+  },
+  {
+    "Code": "8021",
+    "Description": "Onderhoudsfase 1 COOL"
+  },
+  {
+    "Code": "8022",
+    "Description": "Onderhoudsfase 2 COOL"
+  },
+  {
+    "Code": "8023",
+    "Description": "Onderhoudsfase 3 COOL"
+  },
+  {
+    "Code": "8024",
+    "Description": "Onderhoudsfase 4 COOL"
+  },
+  {
+    "Code": "9000",
+    "Description": "Onderzoek/consult podologie"
+  },
+  {
+    "Code": "9001",
+    "Description": "Podologische zolen"
+  },
+  {
+    "Code": "9002",
+    "Description": "Orthesen bij podoloog"
+  },
+  {
+    "Code": "9003",
+    "Description": "Reparatie podologische hulpmiddelen"
+  },
+  {
+    "Code": "9100",
+    "Description": "Onderzoek / consult / therapie podotherapie m.u.v. reuma"
+  },
+  {
+    "Code": "9101",
+    "Description": "Podotherapeutische zolen"
+  },
+  {
+    "Code": "9102",
+    "Description": "Orthesen bij podotherapeut"
+  },
+  {
+    "Code": "9103",
+    "Description": "Reparatie / correctie podotherapeutische zool / orthese"
+  },
+  {
+    "Code": "9104",
+    "Description": "Instrumentele (wond) behandeling"
+  },
+  {
+    "Code": "9105",
+    "Description": "Voetzorg vallende onder zorgprofiel 0"
+  },
+  {
+    "Code": "9106",
+    "Description": "Voetzorg vallende onder zorgprofiel 1"
+  },
+  {
+    "Code": "9107",
+    "Description": "Behandeling podotherapie bij reuma"
+  },
+  {
+    "Code": "9108",
+    "Description": "Beweegprogramma Reuma"
+  },
+  {
+    "Code": "9109",
+    "Description": "Beweegprogramma Fibromyalgie"
+  },
+  {
+    "Code": "9110",
+    "Description": "Cursus valpreventie"
+  },
+  {
+    "Code": "9200",
+    "Description": "Jaarlijks gericht voetonderzoek bij zorgprofiel 1"
+  },
+  {
+    "Code": "9201",
+    "Description": "Voetzorg vallend onder zorgprofiel 2"
+  },
+  {
+    "Code": "9202",
+    "Description": "Voetzorg vallend onder zorgprofiel 3"
+  },
+  {
+    "Code": "9203",
+    "Description": "Voetzorg vallend onder zorgprofiel 4"
+  }
+]

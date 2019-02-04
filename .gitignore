@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/CodeProvider/lut
+/.vs/CodeProvider
+/CodeProvider.Test/bin/Debug/netcoreapp2.2
+/CodeProvider.Test/obj
+/CodeProvider.sln.DotSettings.user

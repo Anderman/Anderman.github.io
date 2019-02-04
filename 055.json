@@ -1,0 +1,3890 @@
+[
+  {
+    "Code": "F125",
+    "Description": "Dagactiviteit -LZA"
+  },
+  {
+    "Code": "F126",
+    "Description": "Vervoer dagactiviteit GGZ. F125"
+  },
+  {
+    "Code": "F129",
+    "Description": "Inloop functie GGZ"
+  },
+  {
+    "Code": "H001",
+    "Description": "ADL-assistentie"
+  },
+  {
+    "Code": "H100",
+    "Description": "ADL-assistentie"
+  },
+  {
+    "Code": "H104",
+    "Description": "Verpleging"
+  },
+  {
+    "Code": "H106",
+    "Description": "Gespecialiseerde verpleging"
+  },
+  {
+    "Code": "H107",
+    "Description": "Verpleging zorg oip afstand aanvullend"
+  },
+  {
+    "Code": "H109",
+    "Description": "Uitleen verpleegartikelen"
+  },
+  {
+    "Code": "H110",
+    "Description": "Transport"
+  },
+  {
+    "Code": "H114",
+    "Description": "Verpleging: AIV"
+  },
+  {
+    "Code": "H117",
+    "Description": "Schoonmaak"
+  },
+  {
+    "Code": "H120",
+    "Description": "Persoonlijke verzorging speciaal"
+  },
+  {
+    "Code": "H126",
+    "Description": "Persoonlijke verzorging"
+  },
+  {
+    "Code": "H127",
+    "Description": "Persoonlijke verzorging extra"
+  },
+  {
+    "Code": "H128",
+    "Description": "Verpleging extra"
+  },
+  {
+    "Code": "H132",
+    "Description": "Nachtverzorging"
+  },
+  {
+    "Code": "H136",
+    "Description": "Pesoonlijke verzorging op afstand aanvullend"
+  },
+  {
+    "Code": "H137",
+    "Description": "Persoonlijke verzorging farmaceutische telezorg"
+  },
+  {
+    "Code": "H150",
+    "Description": "Begeleiding extra"
+  },
+  {
+    "Code": "H152",
+    "Description": "Begeleiding speciaal 1 (nah)"
+  },
+  {
+    "Code": "H153",
+    "Description": "Gespecialiseerde begeleiding (psy)"
+  },
+  {
+    "Code": "H157",
+    "Description": "Begeleiding (j(l)vg"
+  },
+  {
+    "Code": "H180",
+    "Description": "Nachtverpleging"
+  },
+  {
+    "Code": "H300",
+    "Description": "Begeleiding"
+  },
+  {
+    "Code": "H301",
+    "Description": "Begeleiding ZG visueel"
+  },
+  {
+    "Code": "H302",
+    "Description": "Begeleiding speciaal 2 (visueel)"
+  },
+  {
+    "Code": "H303",
+    "Description": "Begeleiding ZG auditief"
+  },
+  {
+    "Code": "H304",
+    "Description": "Begeleiding speciaal 2 (auditief)"
+  },
+  {
+    "Code": "H305",
+    "Description": "Begeleiding zorg op afstand aanvullend"
+  },
+  {
+    "Code": "H321",
+    "Description": "Reiskosten prestaties Behandeling (H325-H333)"
+  },
+  {
+    "Code": "H325",
+    "Description": "Behandeling basis (j)lvg"
+  },
+  {
+    "Code": "H326",
+    "Description": "Behandeling basis sgjlvg traject"
+  },
+  {
+    "Code": "H327",
+    "Description": "Behandeling basis sgjlvg"
+  },
+  {
+    "Code": "H328",
+    "Description": "Behandeling basis som, pg, vg, lg"
+  },
+  {
+    "Code": "H329",
+    "Description": "Behandeling gedragswetenschapper"
+  },
+  {
+    "Code": "H330",
+    "Description": "Behandeling paramedisch"
+  },
+  {
+    "Code": "H331",
+    "Description": "Behandeling Families First (j)lvg"
+  },
+  {
+    "Code": "H332",
+    "Description": "Behandeling ZG visueel"
+  },
+  {
+    "Code": "H333",
+    "Description": "Behandeling ZG auditief"
+  },
+  {
+    "Code": "H334",
+    "Description": "Behandeling IOG (j)lvg"
+  },
+  {
+    "Code": "H335",
+    "Description": "Behandeling SOM, PG, VG, LG, ZG (SO)"
+  },
+  {
+    "Code": "H336",
+    "Description": "Behandeling SOM, PG, VG, LG, ZG (AVG)"
+  },
+  {
+    "Code": "H337",
+    "Description": "Reiskosten prestaties Behandeling (H332 en H333)"
+  },
+  {
+    "Code": "H531",
+    "Description": "P/clt.p/dg.dl. dagactiviteit oud. basis"
+  },
+  {
+    "Code": "H533",
+    "Description": "P/clt.p/dg.dl. dagactiv. oud. spec.(pg)"
+  },
+  {
+    "Code": "H607",
+    "Description": "Toeslag vervoer zintuig. geh."
+  },
+  {
+    "Code": "H620",
+    "Description": "Toeslag vervoer dagactiviteit vg basis"
+  },
+  {
+    "Code": "H621",
+    "Description": "Toeslag vervoer dagactiviteit vg extra"
+  },
+  {
+    "Code": "H624",
+    "Description": "Toeslag vervoer dagactiviteit lg"
+  },
+  {
+    "Code": "H625",
+    "Description": "Toeslag vervoer dagactiviteit ouderen"
+  },
+  {
+    "Code": "H628",
+    "Description": "Toeslag vervoer VG kind emg/gedrag"
+  },
+  {
+    "Code": "H701",
+    "Description": "Uitleen anti-decubitus matrassen, statisch"
+  },
+  {
+    "Code": "H702",
+    "Description": "Uitleen anti-decubitus matrassen, licht dynamisch"
+  },
+  {
+    "Code": "H703",
+    "Description": "Uitleen anti-decubitus matrassen, sterk dynamisch"
+  },
+  {
+    "Code": "H800",
+    "Description": "P/dgdl. mod.cliëntk. (som-onderst.)"
+  },
+  {
+    "Code": "H801",
+    "Description": "P/dgdl. mod.cliëntk. (som-reval.)"
+  },
+  {
+    "Code": "H802",
+    "Description": "Dagbehandeling ouderen som en pg"
+  },
+  {
+    "Code": "H803",
+    "Description": "Vervoer dagbesteding/dagbehandeling V&V"
+  },
+  {
+    "Code": "H811",
+    "Description": "P/dgdl. dagactiv. VG licht"
+  },
+  {
+    "Code": "H812",
+    "Description": "P/dgdl. dagactiv. VG midden"
+  },
+  {
+    "Code": "H813",
+    "Description": "P/dgdl. dagactiv. VG zwaar"
+  },
+  {
+    "Code": "H814",
+    "Description": "P/dgdl. dagactiv. VG kind licht"
+  },
+  {
+    "Code": "H815",
+    "Description": "P/dgdl. dagactiv. VG kind midden"
+  },
+  {
+    "Code": "H816",
+    "Description": "P/dgdl. dagactiv. VG kind zwaar"
+  },
+  {
+    "Code": "H817",
+    "Description": "P/dgdl. dagactiv. VG kind emg"
+  },
+  {
+    "Code": "H818",
+    "Description": "P/dgdl. dagactiv. VG kind gedrag"
+  },
+  {
+    "Code": "H819",
+    "Description": "Dagbehandeling VG EMG"
+  },
+  {
+    "Code": "H820",
+    "Description": "Dagbehandeling VG kind midden"
+  },
+  {
+    "Code": "H821",
+    "Description": "Dagbehandeling VG kind zwaar"
+  },
+  {
+    "Code": "H822",
+    "Description": "Dagbehandeling VG kind gedrag"
+  },
+  {
+    "Code": "H831",
+    "Description": "P/dgdl. dagactiv. LG licht"
+  },
+  {
+    "Code": "H832",
+    "Description": "P/dgdl. dagactiv. LG midden"
+  },
+  {
+    "Code": "H833",
+    "Description": "P/dgdl. dagactiv. LG zwaar"
+  },
+  {
+    "Code": "H834",
+    "Description": "P/dgdl. dagactiv. LG kind licht"
+  },
+  {
+    "Code": "H835",
+    "Description": "P/dgdl. dagactiv. LG kind midden"
+  },
+  {
+    "Code": "H836",
+    "Description": "P/dgdl. dagactiv. LG kind zwaar"
+  },
+  {
+    "Code": "H837",
+    "Description": "Dagbehandeling LG licht"
+  },
+  {
+    "Code": "H838",
+    "Description": "Dagbehandeling LG midden"
+  },
+  {
+    "Code": "H839",
+    "Description": "Dagbehandeling LG zwaar"
+  },
+  {
+    "Code": "H851",
+    "Description": "P/dgdl. dagactiv. ZG aud. licht"
+  },
+  {
+    "Code": "H852",
+    "Description": "P/dgdl. dagactiv. ZG aud. midden"
+  },
+  {
+    "Code": "H853",
+    "Description": "P/dgdl. dagactiv. ZG aud. zwaar"
+  },
+  {
+    "Code": "H854",
+    "Description": "P/dgdl. dagactiv. ZG kind aud.licht"
+  },
+  {
+    "Code": "H855",
+    "Description": "P/dgdl. dagactiv. ZG kind aud.mid."
+  },
+  {
+    "Code": "H856",
+    "Description": "P/dgdl. dagactiv. ZG kind aud.zwaar"
+  },
+  {
+    "Code": "H871",
+    "Description": "P/dgdl. dagactiv. ZG vis. licht"
+  },
+  {
+    "Code": "H872",
+    "Description": "P/dgdl. dagactiv. ZG vis. midden"
+  },
+  {
+    "Code": "H873",
+    "Description": "P/dgdl. dagactiv. ZG vis. zwaar"
+  },
+  {
+    "Code": "H874",
+    "Description": "P/dgdl. dagactiv. ZG kind vis.licht"
+  },
+  {
+    "Code": "H875",
+    "Description": "P/dgdl. dagactiv. ZG kind vis.mid."
+  },
+  {
+    "Code": "H876",
+    "Description": "P/dgdl. dagactiv. ZG kind vis.zwaar"
+  },
+  {
+    "Code": "H880",
+    "Description": "Kapitaallasten dagbesteding kind GHZ"
+  },
+  {
+    "Code": "H881",
+    "Description": "Vervoer dagbesteding/dagbehandeling ghz - categorie 1"
+  },
+  {
+    "Code": "H882",
+    "Description": "Vervoer dagbesteding/dagbehandeling ghz - categorie 2"
+  },
+  {
+    "Code": "H883",
+    "Description": "Vervoer dagbesteding/dagbehandeling ghz - categorie 3"
+  },
+  {
+    "Code": "H884",
+    "Description": "Vervoer dagbesteding/dagbehandeling ghz - categorie 4"
+  },
+  {
+    "Code": "H885",
+    "Description": "Vervoer dagbesteding/dagbehandeling ghz - categorie 5"
+  },
+  {
+    "Code": "H891",
+    "Description": "Dagbehandeling LVG"
+  },
+  {
+    "Code": "H894",
+    "Description": "Vervoer dagbesteding/dagbehandeling GHZ extramuraal"
+  },
+  {
+    "Code": "H895",
+    "Description": "Vervoer dagbest/dagbeh GHZ rolstoel extramuraal"
+  },
+  {
+    "Code": "H896",
+    "Description": "Vervoer dagbest/dagbeh kind extramuraal"
+  },
+  {
+    "Code": "H900",
+    "Description": "P/dgdl. dagbest. VG-licht (VG1-VG4)"
+  },
+  {
+    "Code": "H901",
+    "Description": "P/dgdl. dagbest. VG-mid. (VG5,VG6)"
+  },
+  {
+    "Code": "H902",
+    "Description": "P/dgdl. dagbest. VG-zwaar (VG7)"
+  },
+  {
+    "Code": "H903",
+    "Description": "Dagbesteding vg-midden vg5"
+  },
+  {
+    "Code": "H904",
+    "Description": "Dagbesteding vg-midden vg6"
+  },
+  {
+    "Code": "H905",
+    "Description": "Dagbesteding vg-midden vg8"
+  },
+  {
+    "Code": "H906",
+    "Description": "Dagbesteding vg-zwaar vg8"
+  },
+  {
+    "Code": "H908",
+    "Description": "Kapitaallasten dagbesteding VG"
+  },
+  {
+    "Code": "H909",
+    "Description": "Inventaris dagbesteding VG"
+  },
+  {
+    "Code": "H910",
+    "Description": "P/dgdl. dagb. LG-licht (LG7)"
+  },
+  {
+    "Code": "H911",
+    "Description": "P/dgdl. dagb. LG-mid. (LG2,LG4,LG6)"
+  },
+  {
+    "Code": "H912",
+    "Description": "P/dgdl. dagb. LG-zw. (LG1,LG3,LG5)"
+  },
+  {
+    "Code": "H913",
+    "Description": "Dagbesteding lg-midden lg2 en lg4"
+  },
+  {
+    "Code": "H914",
+    "Description": "Dagbesteding lg-midden lg6"
+  },
+  {
+    "Code": "H915",
+    "Description": "Dagbesteding lg-zwaar lg1 en lg3"
+  },
+  {
+    "Code": "H916",
+    "Description": "Dagbesteding lg-zwaar lg5"
+  },
+  {
+    "Code": "H918",
+    "Description": "Kapitaallasten dagbesteding LG"
+  },
+  {
+    "Code": "H919",
+    "Description": "Inventaris dagbesteding LG"
+  },
+  {
+    "Code": "H920",
+    "Description": "P/dgdl. dagb. ZG aud.l. (aud1,aud4)"
+  },
+  {
+    "Code": "H921",
+    "Description": "P/dgdl. dagb. ZG aud.m. (ZG aud2)"
+  },
+  {
+    "Code": "H922",
+    "Description": "P/dgdl. dagb. ZG aud.z. (ZG aud3)"
+  },
+  {
+    "Code": "H928",
+    "Description": "Kapitaallasten dagbesteding ZG"
+  },
+  {
+    "Code": "H929",
+    "Description": "Inventaris dagbesteding ZG"
+  },
+  {
+    "Code": "H930",
+    "Description": "P/dgdl. dagb. ZG vis.l. (vis2,vis3)"
+  },
+  {
+    "Code": "H931",
+    "Description": "P/dgdl. dagb. ZG vis.m. (vis1)"
+  },
+  {
+    "Code": "H932",
+    "Description": "P/dgdl. dagb. ZG vis.z. (vis4,vis5)"
+  },
+  {
+    "Code": "H933",
+    "Description": "Dagbesteding zg visueel-zwaar zg vis4"
+  },
+  {
+    "Code": "H934",
+    "Description": "Dagbesteding zg visueel-zwaar zgvis5"
+  },
+  {
+    "Code": "H940",
+    "Description": "P/dgdl. toesl. kind dagb.VG licht"
+  },
+  {
+    "Code": "H941",
+    "Description": "P/dgdl. toesl. kind dagb.VG midden"
+  },
+  {
+    "Code": "H942",
+    "Description": "P/dgdl. toesl.kind dagb.VG5 mid.emg"
+  },
+  {
+    "Code": "H943",
+    "Description": "P/dgdl. toesl. kind dagb.VG zwaar"
+  },
+  {
+    "Code": "H950",
+    "Description": "P/dgdl. toesl. kind dagb. LG licht"
+  },
+  {
+    "Code": "H951",
+    "Description": "P/dgdl. toesl. kind dagb. LG midden"
+  },
+  {
+    "Code": "H952",
+    "Description": "P/dgdl. toesl. kind dagb. LG zwaar"
+  },
+  {
+    "Code": "H960",
+    "Description": "P/dgdl. toesl. kind dagb. ZG aud.l."
+  },
+  {
+    "Code": "H961",
+    "Description": "P/dgdl. toesl. kind dagb. ZG aud.m."
+  },
+  {
+    "Code": "H962",
+    "Description": "P/dgdl. toesl. kind dagb. ZG aud.z."
+  },
+  {
+    "Code": "H970",
+    "Description": "P/dgdl. toesl. kind dagb. ZG vis.l."
+  },
+  {
+    "Code": "H971",
+    "Description": "P/dgdl. toesl. kind dagb. ZG vis.m."
+  },
+  {
+    "Code": "H972",
+    "Description": "P/dgdl. toesl. kind dagb. ZG vis.z."
+  },
+  {
+    "Code": "H974",
+    "Description": "Vervoer dagbesteding GHZ intramuraal"
+  },
+  {
+    "Code": "H975",
+    "Description": "Vervoer dagbesteding GHZ rolstoel intramuraal"
+  },
+  {
+    "Code": "H976",
+    "Description": "Vervoer dagbesteding kind intramuraal"
+  },
+  {
+    "Code": "H978",
+    "Description": "P/dgdl. kapitaall. dagbest. VG"
+  },
+  {
+    "Code": "H979",
+    "Description": "P/dgdl. kapitaall. dagbest. LG"
+  },
+  {
+    "Code": "H980",
+    "Description": "P/dgdl. kapitaall. dagbest. ZG"
+  },
+  {
+    "Code": "H981",
+    "Description": "P/dgdl. GGZ1b dagbesteding"
+  },
+  {
+    "Code": "H982",
+    "Description": "P/dgdl. GGZ2b dagbesteding"
+  },
+  {
+    "Code": "H983",
+    "Description": "P/dgdl. GGZ3b dagbesteding"
+  },
+  {
+    "Code": "H984",
+    "Description": "P/dgdl. GGZ4b dagbesteding"
+  },
+  {
+    "Code": "H985",
+    "Description": "P/dgdl. GGZ5b dagbesteding"
+  },
+  {
+    "Code": "H981",
+    "Description": "Vervoer dagbesteding/dagbehandeling ghz - categorie 1"
+  },
+  {
+    "Code": "H982",
+    "Description": "Vervoer dagbesteding/dagbehandeling ghz - categorie 2"
+  },
+  {
+    "Code": "H983",
+    "Description": "Vervoer dagbesteding/dagbehandeling ghz - categorie 3"
+  },
+  {
+    "Code": "H984",
+    "Description": "Vervoer dagbesteding/dagbehandeling ghz - categorie 4"
+  },
+  {
+    "Code": "H985",
+    "Description": "Vervoer dagbesteding/dagbehandeling ghz - categorie 5"
+  },
+  {
+    "Code": "H986",
+    "Description": "P/dgdl. GGZ6b dagbesteding"
+  },
+  {
+    "Code": "H987",
+    "Description": "P/dgdl. GGZ7b dagbesteding"
+  },
+  {
+    "Code": "H988",
+    "Description": "Kapitaallasten dagbesteding GGZ"
+  },
+  {
+    "Code": "H989",
+    "Description": "Inventaris dagbesteding GGZ"
+  },
+  {
+    "Code": "H990",
+    "Description": "Vervoer dagbesteding/dagbehandeling GGZ"
+  },
+  {
+    "Code": "H991",
+    "Description": "P/dgdl. GGZ1c dagbesteding"
+  },
+  {
+    "Code": "H992",
+    "Description": "P/dgdl. GGZ2c dagbesteding"
+  },
+  {
+    "Code": "H993",
+    "Description": "P/dgdl. GGZ3c dagbesteding"
+  },
+  {
+    "Code": "H994",
+    "Description": "P/dgdl. GGZ4c dagbesteding"
+  },
+  {
+    "Code": "H995",
+    "Description": "P/dgdl. GGZ5c dagbesteding"
+  },
+  {
+    "Code": "H996",
+    "Description": "P/dgdl. GGZ6c dagbesteding"
+  },
+  {
+    "Code": "H997",
+    "Description": "P/u. dagactiviteit GGZ-LZA"
+  },
+  {
+    "Code": "H998",
+    "Description": "Kapitaallasten dagbesteding kind GHZ"
+  },
+  {
+    "Code": "H999",
+    "Description": "P/dgdl. kapitaall. dagbest. GGZ"
+  },
+  {
+    "Code": "I001",
+    "Description": "Inrichtingskosten bij gedwongen verhuizing éénpersoonswoning"
+  },
+  {
+    "Code": "I002",
+    "Description": "Inrichtingskosten bij gedwongen verhuizing"
+  },
+  {
+    "Code": "IX181",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  1 VV"
+  },
+  {
+    "Code": "IX182",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  2 VV"
+  },
+  {
+    "Code": "IX183",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  3 VV (excl. BH incl. DB)"
+  },
+  {
+    "Code": "IX184",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  4 VV (excl. BH incl. DB)"
+  },
+  {
+    "Code": "IX185",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  5 VV (excl. BH incl. DB)"
+  },
+  {
+    "Code": "IX186",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  6 VV (excl. BH incl. DB)"
+  },
+  {
+    "Code": "IX187",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  7 VV (excl. BH incl. DB)"
+  },
+  {
+    "Code": "IX188",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  8 VV (excl. BH incl. DB)"
+  },
+  {
+    "Code": "IX189",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  9b VV (excl. BH incl. DB)"
+  },
+  {
+    "Code": "IX190",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  10 VV (excl. BH incl. DB)"
+  },
+  {
+    "Code": "IX193",
+    "Description": "VPT Kapitaallasten NIC dagbesteding 3VV (incl. BH incl. DB)"
+  },
+  {
+    "Code": "IX194",
+    "Description": "VPT Kapitaallasten NIC dagbesteding 4VV (incl. BH incl. DB)"
+  },
+  {
+    "Code": "IX195",
+    "Description": "VPT Kapitaallasten NIC dagbesteding 5VV (incl. BH incl. DB)"
+  },
+  {
+    "Code": "IX196",
+    "Description": "VPT Kapitaallasten NIC dagbesteding 6VV (incl. BH incl. DB)"
+  },
+  {
+    "Code": "IX197",
+    "Description": "VPT Kapitaallasten NIC dagbesteding 7VV (incl. BH incl. DB)"
+  },
+  {
+    "Code": "IX198",
+    "Description": "VPT Kapitaallasten NIC dagbesteding 8VV (incl. BH incl. DB)"
+  },
+  {
+    "Code": "IX199",
+    "Description": "VPT Kapitaallasten NIC dagbesteding 9bVV (incl. BH incl. DB)"
+  },
+  {
+    "Code": "IX200",
+    "Description": "VPT Kapitaallasten NIC dagbesteding 10VV (incl. BH incl. DB)"
+  },
+  {
+    "Code": "IX481",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  1 VG"
+  },
+  {
+    "Code": "IX482",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  2 VG"
+  },
+  {
+    "Code": "IX483",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  3 VG"
+  },
+  {
+    "Code": "IX484",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  4 VG"
+  },
+  {
+    "Code": "IX485",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  5 VG"
+  },
+  {
+    "Code": "IX486",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  6 VG"
+  },
+  {
+    "Code": "IX487",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  7 VG"
+  },
+  {
+    "Code": "IX488",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  8 VG"
+  },
+  {
+    "Code": "IX681",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  1 LG"
+  },
+  {
+    "Code": "IX682",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  2 LG"
+  },
+  {
+    "Code": "IX683",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  3 LG"
+  },
+  {
+    "Code": "IX684",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  4 LG"
+  },
+  {
+    "Code": "IX685",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  5 LG"
+  },
+  {
+    "Code": "IX686",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  6 LG"
+  },
+  {
+    "Code": "IX687",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  7 LG"
+  },
+  {
+    "Code": "IX781",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  1 ZG-aud"
+  },
+  {
+    "Code": "IX782",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  2 ZG-aud"
+  },
+  {
+    "Code": "IX783",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  3 ZG-aud"
+  },
+  {
+    "Code": "IX784",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  4 ZG-aud"
+  },
+  {
+    "Code": "IX881",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  1 ZG-vis"
+  },
+  {
+    "Code": "IX882",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  2 ZG-vis"
+  },
+  {
+    "Code": "IX883",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  3 ZG-vis"
+  },
+  {
+    "Code": "IX884",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  4 ZG-vis"
+  },
+  {
+    "Code": "IX885",
+    "Description": "VPT Kapitaallasten NIC dagbesteding  5 ZG-vis"
+  },
+  {
+    "Code": "IY491",
+    "Description": "Kapitaallasten NIC dagbesteding  1 VG"
+  },
+  {
+    "Code": "IY492",
+    "Description": "Kapitaallasten NIC dagbesteding  2 VG"
+  },
+  {
+    "Code": "IY493",
+    "Description": "Kapitaallasten NIC dagbesteding  3 VG"
+  },
+  {
+    "Code": "IY494",
+    "Description": "Kapitaallasten NIC dagbesteding  4 VG"
+  },
+  {
+    "Code": "IY495",
+    "Description": "Kapitaallasten NIC dagbesteding  5 VG"
+  },
+  {
+    "Code": "IY496",
+    "Description": "Kapitaallasten NIC dagbesteding  6 VG"
+  },
+  {
+    "Code": "IY497",
+    "Description": "Kapitaallasten NIC dagbesteding  7 VG"
+  },
+  {
+    "Code": "IY498",
+    "Description": "Kapitaallasten NIC dagbesteding  8 VG"
+  },
+  {
+    "Code": "IY691",
+    "Description": "Kapitaallasten NIC dagbesteding  1 LG"
+  },
+  {
+    "Code": "IY692",
+    "Description": "Kapitaallasten NIC dagbesteding  2 LG"
+  },
+  {
+    "Code": "IY693",
+    "Description": "Kapitaallasten NIC dagbesteding  3 LG"
+  },
+  {
+    "Code": "IY694",
+    "Description": "Kapitaallasten NIC dagbesteding  4 LG"
+  },
+  {
+    "Code": "IY695",
+    "Description": "Kapitaallasten NIC dagbesteding  5 LG"
+  },
+  {
+    "Code": "IY696",
+    "Description": "Kapitaallasten NIC dagbesteding  6 LG"
+  },
+  {
+    "Code": "IY697",
+    "Description": "Kapitaallasten NIC dagbesteding  7 LG"
+  },
+  {
+    "Code": "IY791",
+    "Description": "Kapitaallasten NIC dagbesteding  1 ZG-aud"
+  },
+  {
+    "Code": "IY792",
+    "Description": "Kapitaallasten NIC dagbesteding  2 ZG-aud"
+  },
+  {
+    "Code": "IY793",
+    "Description": "Kapitaallasten NIC dagbesteding  3 ZG-aud"
+  },
+  {
+    "Code": "IY794",
+    "Description": "Kapitaallasten NIC dagbesteding  4 ZG-aud"
+  },
+  {
+    "Code": "IY891",
+    "Description": "Kapitaallasten NIC dagbesteding  1 ZG-vis"
+  },
+  {
+    "Code": "IY892",
+    "Description": "Kapitaallasten NIC dagbesteding  2 ZG-vis"
+  },
+  {
+    "Code": "IY893",
+    "Description": "Kapitaallasten NIC dagbesteding  3 ZG-vis"
+  },
+  {
+    "Code": "IY894",
+    "Description": "Kapitaallasten NIC dagbesteding  4 ZG-vis"
+  },
+  {
+    "Code": "IY895",
+    "Description": "Kapitaallasten NIC dagbesteding  5 ZG-vis"
+  },
+  {
+    "Code": "K.1.1",
+    "Description": "Beperkte tot volledige begeleiding"
+  },
+  {
+    "Code": "K.1.2",
+    "Description": "Continue tot zeer intensieve begeleiding"
+  },
+  {
+    "Code": "K.1.3",
+    "Description": "Stabilis met beperkte tot volledige begeleiding"
+  },
+  {
+    "Code": "K.1.4",
+    "Description": "Stabilis met continue tot zeer intensieve begeleiding"
+  },
+  {
+    "Code": "K.1.5",
+    "Description": "Zeer intensief met beperkte tot volledige begeleiding"
+  },
+  {
+    "Code": "K.1.6",
+    "Description": "Zeer intensief met continue tot zeer intensieve begeleiding"
+  },
+  {
+    "Code": "K001",
+    "Description": "Casemanagement dementie (zonder Wlz indicatie)"
+  },
+  {
+    "Code": "M001",
+    "Description": "Extreme kosten van zorggebonden materiaal"
+  },
+  {
+    "Code": "M002",
+    "Description": "Extreme kosten van geneesmiddelen"
+  },
+  {
+    "Code": "NTFM",
+    "Description": "NHC voor toeslag forensische zorg zonder strafrechterlijke titel"
+  },
+  {
+    "Code": "R002",
+    "Description": "Prestatie Buurtzorg"
+  },
+  {
+    "Code": "R003",
+    "Description": "Weekbudgert Zorg Thuis De Bilt"
+  },
+  {
+    "Code": "R004",
+    "Description": "Weekbudgert Zorg Thuis Wijk bij Duurstede"
+  },
+  {
+    "Code": "R005",
+    "Description": "Icare"
+  },
+  {
+    "Code": "R006",
+    "Description": "Icare ERAI"
+  },
+  {
+    "Code": "R007",
+    "Description": "Weektarief Activite"
+  },
+  {
+    "Code": "R008",
+    "Description": "De Zorgboog"
+  },
+  {
+    "Code": "R009",
+    "Description": "Careyn Voorzorg"
+  },
+  {
+    "Code": "R010",
+    "Description": "Careyn Voorzorg zonder Eigen Bijdrage"
+  },
+  {
+    "Code": "R011",
+    "Description": "Careyn Multiproblematiek"
+  },
+  {
+    "Code": "R012",
+    "Description": "Careyn Multiproblematiek zonder Eigen Bijdrage"
+  },
+  {
+    "Code": "R013",
+    "Description": "Careyn wankel evenwicht"
+  },
+  {
+    "Code": "R014",
+    "Description": "Careyn wankel evenwicht zonder Eigen Bijdrage"
+  },
+  {
+    "Code": "R015",
+    "Description": "Careyn neurologische aandoening"
+  },
+  {
+    "Code": "R016",
+    "Description": "Careyn neurologische aandoening zonder eigen bijdrage"
+  },
+  {
+    "Code": "R017",
+    "Description": "Careyn senior plus"
+  },
+  {
+    "Code": "R018",
+    "Description": "Careyn senior plus zonder eigen bijdrage"
+  },
+  {
+    "Code": "R019",
+    "Description": "Careyn enkelvoudige aandoening"
+  },
+  {
+    "Code": "R020",
+    "Description": "Careyn enkelvoudige aandoening zonder eigen bijdrage"
+  },
+  {
+    "Code": "R021",
+    "Description": "Careyn palliatief"
+  },
+  {
+    "Code": "R022",
+    "Description": "Careyn palliatief zonder eigen bijdrage"
+  },
+  {
+    "Code": "R023",
+    "Description": "Careyn reserve"
+  },
+  {
+    "Code": "R024",
+    "Description": "Careyn reserve zonder eigen bijdrage"
+  },
+  {
+    "Code": "S321",
+    "Description": "Reiskosten zorgverlener"
+  },
+  {
+    "Code": "S325",
+    "Description": "Behandeling lvg"
+  },
+  {
+    "Code": "S326",
+    "Description": "Behandeling sglvg traject"
+  },
+  {
+    "Code": "S327",
+    "Description": "Behandeling sglvg deeltijd"
+  },
+  {
+    "Code": "S328",
+    "Description": "Behandeling som, pg, lg en meerderjarig vg"
+  },
+  {
+    "Code": "S329",
+    "Description": "Behandeling gedragswetenschapper"
+  },
+  {
+    "Code": "S330",
+    "Description": "Behandeling paramedisch"
+  },
+  {
+    "Code": "S331",
+    "Description": "Behandeling families First"
+  },
+  {
+    "Code": "S334",
+    "Description": "Behandeling IOG lvg"
+  },
+  {
+    "Code": "S335",
+    "Description": "Behandeling SOM, PG, VG, LG, ZG (SO)"
+  },
+  {
+    "Code": "S336",
+    "Description": "Behandeling SOM, PG, VG, LG, ZG (AVG)"
+  },
+  {
+    "Code": "S802",
+    "Description": "Dagbehandeling ouderen som en pg"
+  },
+  {
+    "Code": "S803",
+    "Description": "Vervoer dagbehandeling V&V"
+  },
+  {
+    "Code": "S804",
+    "Description": "Gespecialiseerde dagbehandeling Huntington ouderen som en pg"
+  },
+  {
+    "Code": "S819",
+    "Description": "Dagbehandeling VG emg"
+  },
+  {
+    "Code": "S837",
+    "Description": "Dagbehandeling LG licht"
+  },
+  {
+    "Code": "S838",
+    "Description": "Dagbehandeling LG midden"
+  },
+  {
+    "Code": "S839",
+    "Description": "Dagbehandeling LG zwaar"
+  },
+  {
+    "Code": "S881",
+    "Description": "Vervoer dagbehandeling ghz categorie 1"
+  },
+  {
+    "Code": "S882",
+    "Description": "Vervoer dagbehandeling ghz categorie 2"
+  },
+  {
+    "Code": "S883",
+    "Description": "Vervoer dagbehandeling ghz categorie 3"
+  },
+  {
+    "Code": "S884",
+    "Description": "Vervoer dagbehandeling ghz categorie 4"
+  },
+  {
+    "Code": "S885",
+    "Description": "Vervoer dagbehandeling ghz categorie 5"
+  },
+  {
+    "Code": "S894",
+    "Description": "Vervoer dagbehandeling GHZ"
+  },
+  {
+    "Code": "S895",
+    "Description": "Vervoer dagbehandeling GHZ rolstoel en extramuraal"
+  },
+  {
+    "Code": "S896",
+    "Description": "Vervoer dagbehandeling kind extramuraal"
+  },
+  {
+    "Code": "SE031",
+    "Description": "Eerstelijns verblijf basis"
+  },
+  {
+    "Code": "SE033",
+    "Description": "Eerstelijns verblijf basis inclusief behandeling"
+  },
+  {
+    "Code": "SE061",
+    "Description": "Eerstelijns verblijf intensief"
+  },
+  {
+    "Code": "SE063",
+    "Description": "Eerstelijns verblijf intensief inclusief behandeling"
+  },
+  {
+    "Code": "SE101",
+    "Description": "Eerstelijns verblijf palliatief"
+  },
+  {
+    "Code": "SE103",
+    "Description": "Eerstelijns verblijf palliatief inclusief behandeling"
+  },
+  {
+    "Code": "V011",
+    "Description": "Per dag  VPT 1VV excl.BH incl.DB"
+  },
+  {
+    "Code": "V013",
+    "Description": "Per dag  VPT 1VV incl.BH incl.DB"
+  },
+  {
+    "Code": "V015",
+    "Description": "VPT 1VV (excl.BH incl.DB)"
+  },
+  {
+    "Code": "V021",
+    "Description": "Per dag  VPT 2VV excl.BH incl.DB"
+  },
+  {
+    "Code": "V023",
+    "Description": "Per dag  VPT 2VV incl.BH incl.DB"
+  },
+  {
+    "Code": "V025",
+    "Description": "VPT 2VV (excl.BH incl.DB)"
+  },
+  {
+    "Code": "V031",
+    "Description": "Per dag  VPT 3VV excl.BH incl.DB"
+  },
+  {
+    "Code": "V033",
+    "Description": "Per dag  VPT 3VV incl.BH incl.DB"
+  },
+  {
+    "Code": "V041",
+    "Description": "Per dag  VPT 4VV excl.BH incl.DB"
+  },
+  {
+    "Code": "V043",
+    "Description": "Per dag  VPT 4VV incl.BH incl.DB"
+  },
+  {
+    "Code": "V051",
+    "Description": "Per dag  VPT 5VV excl.BH incl.DB"
+  },
+  {
+    "Code": "V053",
+    "Description": "Per dag  VPT 5VV incl.BH incl.DB"
+  },
+  {
+    "Code": "V061",
+    "Description": "Per dag  VPT 6VV excl.BH incl.DB"
+  },
+  {
+    "Code": "V063",
+    "Description": "Per dag  VPT 6VV incl.BH incl.DB"
+  },
+  {
+    "Code": "V071",
+    "Description": "Per dag  VPT 7VV excl.BH incl.DB"
+  },
+  {
+    "Code": "V073",
+    "Description": "Per dag  VPT 7VV incl.BH incl.DB"
+  },
+  {
+    "Code": "V081",
+    "Description": "Per dag  VPT 8VV excl.BH incl.DB"
+  },
+  {
+    "Code": "V083",
+    "Description": "Per dag  VPT 8VV incl.BH incl.DB"
+  },
+  {
+    "Code": "V091",
+    "Description": "Per dag  VPT 9VV excl.BH incl.DB"
+  },
+  {
+    "Code": "V093",
+    "Description": "Per dag  VPT 9VV incl.BH incl.DB"
+  },
+  {
+    "Code": "V094",
+    "Description": "Per dag VPT 9VVa excl.BH incl.DB"
+  },
+  {
+    "Code": "V095",
+    "Description": "Per dag VPT 9VVb excl.BH incl.DB"
+  },
+  {
+    "Code": "V096",
+    "Description": "Per dag VPT 9VVa incl.BH incl.DB"
+  },
+  {
+    "Code": "V097",
+    "Description": "Per dag VPT 9VVb incl.BH incl.DB"
+  },
+  {
+    "Code": "V101",
+    "Description": "Per dag  VPT 10VV excl.BH incl.DB"
+  },
+  {
+    "Code": "V103",
+    "Description": "Per dag  VPT 10VV incl.BH incl.DB"
+  },
+  {
+    "Code": "V310",
+    "Description": "Per dag  VPT 1GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "V311",
+    "Description": "Per dag  VPT 1GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "V320",
+    "Description": "Per dag  VPT 2GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "V321",
+    "Description": "Per dag  VPT 2GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "V330",
+    "Description": "Per dag  VPT 3GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "V331",
+    "Description": "Per dag  VPT 3GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "V340",
+    "Description": "Per dag  VPT 4GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "V341",
+    "Description": "Per dag  VPT 4GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "V350",
+    "Description": "Per dag  VPT 5GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "V351",
+    "Description": "Per dag  VPT 5GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "V360",
+    "Description": "Per dag  VPT 6GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "V361",
+    "Description": "Per dag  VPT 6GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "V373",
+    "Description": "Per dag  VPT GGZ K/J incl.BH incl.DB"
+  },
+  {
+    "Code": "V410",
+    "Description": "Per dag  VPT 1VG excl.BH excl.DB"
+  },
+  {
+    "Code": "V411",
+    "Description": "Per dag  VPT 1VG excl.BH incl.DB"
+  },
+  {
+    "Code": "V412",
+    "Description": "Per dag  VPT 1VG incl.BH excl.DB"
+  },
+  {
+    "Code": "V413",
+    "Description": "Per dag  VPT 1VG incl.BH incl.DB"
+  },
+  {
+    "Code": "V414",
+    "Description": "VPT 1VG (excl.DB)"
+  },
+  {
+    "Code": "V415",
+    "Description": "VPT 1VG (incl.DB)"
+  },
+  {
+    "Code": "V420",
+    "Description": "Per dag  VPT 2VG excl.BH excl.DB"
+  },
+  {
+    "Code": "V421",
+    "Description": "Per dag  VPT 2VG excl.BH incl.DB"
+  },
+  {
+    "Code": "V422",
+    "Description": "Per dag  VPT 2VG incl.BH excl.DB"
+  },
+  {
+    "Code": "V423",
+    "Description": "Per dag  VPT 2VG incl.BH incl.DB"
+  },
+  {
+    "Code": "V424",
+    "Description": "VPT 2VG (excl.DB)"
+  },
+  {
+    "Code": "V425",
+    "Description": "VPT 2VG (incl.DB)"
+  },
+  {
+    "Code": "V430",
+    "Description": "Per dag  VPT 3VG excl.BH excl.DB"
+  },
+  {
+    "Code": "V431",
+    "Description": "Per dag  VPT 3VG excl.BH incl.DB"
+  },
+  {
+    "Code": "V432",
+    "Description": "Per dag  VPT 3VG incl.BH excl.DB"
+  },
+  {
+    "Code": "V433",
+    "Description": "Per dag  VPT 3VG incl.BH incl.DB"
+  },
+  {
+    "Code": "V440",
+    "Description": "Per dag  VPT 4VG excl.BH excl.DB"
+  },
+  {
+    "Code": "V441",
+    "Description": "Per dag  VPT 4VG excl.BH incl.DB"
+  },
+  {
+    "Code": "V442",
+    "Description": "Per dag  VPT 4VG incl.BH excl.DB"
+  },
+  {
+    "Code": "V443",
+    "Description": "Per dag  VPT 4VG incl.BH incl.DB"
+  },
+  {
+    "Code": "V450",
+    "Description": "Per dag  VPT 5VG excl.BH excl.DB"
+  },
+  {
+    "Code": "V451",
+    "Description": "Per dag  VPT 5VG excl.BH incl.DB"
+  },
+  {
+    "Code": "V452",
+    "Description": "Per dag  VPT 5VG incl.BH excl.DB"
+  },
+  {
+    "Code": "V453",
+    "Description": "Per dag  VPT 5VG incl.BH incl.DB"
+  },
+  {
+    "Code": "V454",
+    "Description": "VPT 5VG (excl.BH excl.DB)"
+  },
+  {
+    "Code": "V455",
+    "Description": "VPT 5VG (excl.BH incl.DB)"
+  },
+  {
+    "Code": "V456",
+    "Description": "VPT 5VG (incl.BH excl.DB)"
+  },
+  {
+    "Code": "V457",
+    "Description": "VPT 5VG (incl.BH incl.DB)"
+  },
+  {
+    "Code": "V460",
+    "Description": "Per dag  VPT 6VG excl.BH excl.DB"
+  },
+  {
+    "Code": "V461",
+    "Description": "Per dag  VPT 6VG excl.BH incl.DB"
+  },
+  {
+    "Code": "V462",
+    "Description": "Per dag  VPT 6VG incl.BH excl.DB"
+  },
+  {
+    "Code": "V463",
+    "Description": "Per dag  VPT 6VG incl.BH incl.DB"
+  },
+  {
+    "Code": "V470",
+    "Description": "Per dag  VPT 7VG excl.BH excl.DB"
+  },
+  {
+    "Code": "V471",
+    "Description": "Per dag  VPT 7VG excl.BH incl.DB"
+  },
+  {
+    "Code": "V472",
+    "Description": "Per dag  VPT 7VG incl.BH excl.DB"
+  },
+  {
+    "Code": "V473",
+    "Description": "Per dag  VPT 7VG incl.BH incl.DB"
+  },
+  {
+    "Code": "V480",
+    "Description": "VPT 8VG (excl.BH excl.DB)"
+  },
+  {
+    "Code": "V481",
+    "Description": "VPT 8VG (excl.BH incl.DB)"
+  },
+  {
+    "Code": "V482",
+    "Description": "VPT 8VG (incl.BH excl.DB)"
+  },
+  {
+    "Code": "V483",
+    "Description": "VPT 8VG (incl.BH incl.DB)"
+  },
+  {
+    "Code": "V513",
+    "Description": "Per dag  VPT 1LVG incl.BH incl.DB"
+  },
+  {
+    "Code": "V523",
+    "Description": "Per dag  VPT 2LVG incl.BH incl.DB"
+  },
+  {
+    "Code": "V533",
+    "Description": "Per dag  VPT 3LVG incl.BH incl.DB"
+  },
+  {
+    "Code": "V543",
+    "Description": "Per dag  VPT 4LVG incl.BH incl.DB"
+  },
+  {
+    "Code": "V553",
+    "Description": "Per dag  VPT 5LVG incl.BH incl.DB"
+  },
+  {
+    "Code": "V573",
+    "Description": "Per dag  VPT 1SGLVG incl.BH incl.DB"
+  },
+  {
+    "Code": "V610",
+    "Description": "Per dag  VPT 1LG excl.BH excl.DB"
+  },
+  {
+    "Code": "V611",
+    "Description": "Per dag  VPT 1LG excl.BH incl.DB"
+  },
+  {
+    "Code": "V612",
+    "Description": "Per dag  VPT 1LG incl.BH excl.DB"
+  },
+  {
+    "Code": "V613",
+    "Description": "Per dag  VPT 1LG incl.BH incl.DB"
+  },
+  {
+    "Code": "V614",
+    "Description": "VPT 1LG (excl.DB)"
+  },
+  {
+    "Code": "V615",
+    "Description": "VPT 1LG (incl.DB)"
+  },
+  {
+    "Code": "V620",
+    "Description": "Per dag  VPT 2LG excl.BH excl.DB"
+  },
+  {
+    "Code": "V621",
+    "Description": "Per dag  VPT 2LG excl.BH incl.DB"
+  },
+  {
+    "Code": "V622",
+    "Description": "Per dag  VPT 2LG incl.BH excl.DB"
+  },
+  {
+    "Code": "V623",
+    "Description": "Per dag  VPT 2LG incl.BH incl.DB"
+  },
+  {
+    "Code": "V624",
+    "Description": "VPT 2LG (excl.DB)"
+  },
+  {
+    "Code": "V625",
+    "Description": "VPT 2LG (incl.DB)"
+  },
+  {
+    "Code": "V630",
+    "Description": "Per dag  VPT 3LG excl.BH excl.DB"
+  },
+  {
+    "Code": "V631",
+    "Description": "Per dag  VPT 3LG excl.BH incl.DB"
+  },
+  {
+    "Code": "V632",
+    "Description": "Per dag  VPT 3LG incl.BH excl.DB"
+  },
+  {
+    "Code": "V633",
+    "Description": "Per dag  VPT 3LG incl.BH incl.DB"
+  },
+  {
+    "Code": "V640",
+    "Description": "Per dag  VPT 4LG excl.BH excl.DB"
+  },
+  {
+    "Code": "V641",
+    "Description": "Per dag  VPT 4LG excl.BH incl.DB"
+  },
+  {
+    "Code": "V642",
+    "Description": "Per dag  VPT 4LG incl.BH excl.DB"
+  },
+  {
+    "Code": "V643",
+    "Description": "Per dag  VPT 4LG incl.BH incl.DB"
+  },
+  {
+    "Code": "V650",
+    "Description": "Per dag  VPT 5LG excl.BH excl.DB"
+  },
+  {
+    "Code": "V651",
+    "Description": "Per dag  VPT 5LG excl.BH incl.DB"
+  },
+  {
+    "Code": "V652",
+    "Description": "Per dag  VPT 5LG incl.BH excl.DB"
+  },
+  {
+    "Code": "V653",
+    "Description": "Per dag  VPT 5LG incl.BH incl.DB"
+  },
+  {
+    "Code": "V660",
+    "Description": "Per dag  VPT 6LG excl.BH excl.DB"
+  },
+  {
+    "Code": "V661",
+    "Description": "Per dag  VPT 6LG excl.BH incl.DB"
+  },
+  {
+    "Code": "V662",
+    "Description": "Per dag  VPT 6LG incl.BH excl.DB"
+  },
+  {
+    "Code": "V663",
+    "Description": "Per dag  VPT 6LG incl.BH incl.DB"
+  },
+  {
+    "Code": "V670",
+    "Description": "Per dag  VPT 7LG excl.BH excl.DB"
+  },
+  {
+    "Code": "V671",
+    "Description": "Per dag  VPT 7LG excl.BH incl.DB"
+  },
+  {
+    "Code": "V672",
+    "Description": "Per dag  VPT 7LG incl.BH excl.DB"
+  },
+  {
+    "Code": "V673",
+    "Description": "Per dag  VPT 7LG incl.BH incl.DB"
+  },
+  {
+    "Code": "V710",
+    "Description": "Per dag  VPT 1ZG-aud. excl.BH excl.DB"
+  },
+  {
+    "Code": "V711",
+    "Description": "Per dag  VPT 1ZG-aud. excl.BH incl.DB"
+  },
+  {
+    "Code": "V712",
+    "Description": "Per dag  VPT 1ZG-aud. incl.BH excl.DB"
+  },
+  {
+    "Code": "V713",
+    "Description": "Per dag  VPT 1ZG-aud. incl.BH incl.DB"
+  },
+  {
+    "Code": "V720",
+    "Description": "Per dag  VPT 2ZG-aud. excl.BH excl.DB"
+  },
+  {
+    "Code": "V721",
+    "Description": "Per dag  VPT 2ZG-aud. excl.BH incl.DB"
+  },
+  {
+    "Code": "V722",
+    "Description": "Per dag  VPT 2ZG-aud. incl.BH excl.DB"
+  },
+  {
+    "Code": "V723",
+    "Description": "Per dag  VPT 2ZG-aud. incl.BH incl.DB"
+  },
+  {
+    "Code": "V730",
+    "Description": "Per dag  VPT 3ZG-aud. excl.BH excl.DB"
+  },
+  {
+    "Code": "V731",
+    "Description": "Per dag  VPT 3ZG-aud. excl.BH incl.DB"
+  },
+  {
+    "Code": "V732",
+    "Description": "Per dag  VPT 3ZG-aud. incl.BH excl.DB"
+  },
+  {
+    "Code": "V733",
+    "Description": "Per dag  VPT 3ZG-aud. incl.BH incl.DB"
+  },
+  {
+    "Code": "V740",
+    "Description": "Per dag  VPT 4ZG-aud. excl.BH excl.DB"
+  },
+  {
+    "Code": "V741",
+    "Description": "Per dag  VPT 4ZG-aud. excl.BH incl.DB"
+  },
+  {
+    "Code": "V742",
+    "Description": "Per dag  VPT 4ZG-aud. incl.BH excl.DB"
+  },
+  {
+    "Code": "V743",
+    "Description": "Per dag  VPT 4ZG-aud. incl.BH incl.DB"
+  },
+  {
+    "Code": "V810",
+    "Description": "Per dag  VPT 1ZG-visueel excl.BH excl.DB"
+  },
+  {
+    "Code": "V811",
+    "Description": "Per dag  VPT 1ZG-visueel excl.BH incl.DB"
+  },
+  {
+    "Code": "V812",
+    "Description": "Per dag  VPT 1ZG-visueel incl.BH excl.DB"
+  },
+  {
+    "Code": "V813",
+    "Description": "Per dag  VPT 1ZG-visueel incl.BH incl.DB"
+  },
+  {
+    "Code": "V814",
+    "Description": "VPT 1ZG-visueel (excl.DB)"
+  },
+  {
+    "Code": "V815",
+    "Description": "VPT 1ZG-visueel (incl.DB)"
+  },
+  {
+    "Code": "V820",
+    "Description": "Per dag  VPT 2ZG-visueel excl.BH excl.DB"
+  },
+  {
+    "Code": "V821",
+    "Description": "Per dag  VPT 2ZG-visueel excl.BH incl.DB"
+  },
+  {
+    "Code": "V822",
+    "Description": "Per dag  VPT 2ZG-visueel incl.BH excl.DB"
+  },
+  {
+    "Code": "V823",
+    "Description": "Per dag  VPT 2ZG-visueel incl.BH incl.DB"
+  },
+  {
+    "Code": "V824",
+    "Description": "VPT 2ZG-visueel (excl.DB)"
+  },
+  {
+    "Code": "V825",
+    "Description": "VPT 2ZG-visueel (incl.DB)"
+  },
+  {
+    "Code": "V830",
+    "Description": "Per dag  VPT 3ZG-visueel excl.BH excl.DB"
+  },
+  {
+    "Code": "V831",
+    "Description": "Per dag  VPT 3ZG-visueel excl.BH incl.DB"
+  },
+  {
+    "Code": "V832",
+    "Description": "Per dag  VPT 3ZG-visueel incl.BH excl.DB"
+  },
+  {
+    "Code": "V833",
+    "Description": "Per dag  VPT 3ZG-visueel incl.BH incl.DB"
+  },
+  {
+    "Code": "V840",
+    "Description": "Per dag  VPT 4ZG-visueel excl.BH excl.DB"
+  },
+  {
+    "Code": "V841",
+    "Description": "Per dag  VPT 4ZG-visueel excl.BH incl.DB"
+  },
+  {
+    "Code": "V842",
+    "Description": "Per dag  VPT 4ZG-visueel incl.BH excl.DB"
+  },
+  {
+    "Code": "V843",
+    "Description": "Per dag  VPT 4ZG-visueel incl.BH incl.DB"
+  },
+  {
+    "Code": "V850",
+    "Description": "Per dag  VPT 5ZG-visueel excl.BH excl.DB"
+  },
+  {
+    "Code": "V851",
+    "Description": "Per dag  VPT 5ZG-visueel excl.BH incl.DB"
+  },
+  {
+    "Code": "V852",
+    "Description": "Per dag  VPT 5ZG-visueel incl.BH excl.DB"
+  },
+  {
+    "Code": "V853",
+    "Description": "Per dag  VPT 5ZG-visueel incl.BH incl.DB"
+  },
+  {
+    "Code": "V880",
+    "Description": "Opslag kapitaallasten VG (verblijf excl behandeling)"
+  },
+  {
+    "Code": "V881",
+    "Description": "Opslag kapitaallasten LG (verblijf excl behandeling)"
+  },
+  {
+    "Code": "V882",
+    "Description": "Opslag kapitaallasten ZG (verblijf excl behandeling)"
+  },
+  {
+    "Code": "V883",
+    "Description": "Opslag kapitaallasten 1 GGZ-C"
+  },
+  {
+    "Code": "V884",
+    "Description": "Opslag kapitaallasten 2 GGZ-C"
+  },
+  {
+    "Code": "V885",
+    "Description": "Opslag kapitaallasten 3 GGZ-C"
+  },
+  {
+    "Code": "V886",
+    "Description": "Opslag kapitaallasten 4 GGZ-C"
+  },
+  {
+    "Code": "V887",
+    "Description": "Opslag kapitaallasten 5 GGZ-C"
+  },
+  {
+    "Code": "V888",
+    "Description": "Opslag kapitaallasten 6 GGZ-C"
+  },
+  {
+    "Code": "V890",
+    "Description": "Opslag inventaris VG (verblijf exclusief behandeling)"
+  },
+  {
+    "Code": "V891",
+    "Description": "Opslag inventaris LG (verblijf exclusief behandeling)"
+  },
+  {
+    "Code": "V892",
+    "Description": "Opslag inventaris ZG (verblijf exclusief behandeling)"
+  },
+  {
+    "Code": "V893",
+    "Description": "Opslag inventaris 1 GGZ-C"
+  },
+  {
+    "Code": "V894",
+    "Description": "Opslag inventaris 2 GGZ-C"
+  },
+  {
+    "Code": "V895",
+    "Description": "Opslag inventaris 3 GGZ-C"
+  },
+  {
+    "Code": "V896",
+    "Description": "Opslag inventaris 4 GGZ-C"
+  },
+  {
+    "Code": "V897",
+    "Description": "Opslag inventaris 5 GGZ-C"
+  },
+  {
+    "Code": "V898",
+    "Description": "Opslag inventaris 6 GGZ-C"
+  },
+  {
+    "Code": "V901",
+    "Description": "Vervoer dagbesteding V&V"
+  },
+  {
+    "Code": "V902",
+    "Description": "Vervoer dagbesteding GGZ"
+  },
+  {
+    "Code": "V903",
+    "Description": "Vervoer dagbesteding GHZ"
+  },
+  {
+    "Code": "V904",
+    "Description": "Vervoer dagbesteding GHZ rolstoel intramuraal"
+  },
+  {
+    "Code": "V905",
+    "Description": "Vervoer dagbesteding kind intramuraal"
+  },
+  {
+    "Code": "V910",
+    "Description": "VPT Toeslag Cerebro Vasculair Accident (CVA)"
+  },
+  {
+    "Code": "V911",
+    "Description": "VPT Toeslag Multifunctioneel centrum (MFC)"
+  },
+  {
+    "Code": "V912",
+    "Description": "VPT Toeslag observatie"
+  },
+  {
+    "Code": "V913",
+    "Description": "VPT Toeslag dagbesteding GHZ kind - licht"
+  },
+  {
+    "Code": "V914",
+    "Description": "VPT Toeslag dagbesteding GHZ kind - midden"
+  },
+  {
+    "Code": "V915",
+    "Description": "VPT Toeslag dagbesteding GHZ kind - zwaar"
+  },
+  {
+    "Code": "V918",
+    "Description": "VPT Toeslag invasieve beademing"
+  },
+  {
+    "Code": "V919",
+    "Description": "VPT Toeslag dagbesteding GHZ kind – VG5/VG8 midden EMG"
+  },
+  {
+    "Code": "V920",
+    "Description": "VPT Toeslag Huntington"
+  },
+  {
+    "Code": "V921",
+    "Description": "Toeslag non-invasieve beademing"
+  },
+  {
+    "Code": "V930",
+    "Description": "VPT Opslag kapitaallasten VG (verblijf exclusief behandeling)"
+  },
+  {
+    "Code": "V931",
+    "Description": "VPT Opslag kapitaallasten LG (verblijf exclusief behandeling)"
+  },
+  {
+    "Code": "V932",
+    "Description": "VPT Opslag kapitaallasten ZG (verblijf exclusief behandeling)"
+  },
+  {
+    "Code": "V933",
+    "Description": "VPT Opslag kapitaallasten 1GGZ-C"
+  },
+  {
+    "Code": "V934",
+    "Description": "VPT Opslag kapitaallasten 2GGZ-C"
+  },
+  {
+    "Code": "V935",
+    "Description": "VPT Opslag kapitaallasten 3GGZ-C"
+  },
+  {
+    "Code": "V936",
+    "Description": "VPT Opslag kapitaallasten 4GGZ-C"
+  },
+  {
+    "Code": "V937",
+    "Description": "VPT Opslag kapitaallasten 5GGZ-C"
+  },
+  {
+    "Code": "V938",
+    "Description": "VPT Opslag kapitaallasten 6GGZ-C"
+  },
+  {
+    "Code": "V941",
+    "Description": "Vervoer dagbehandeling ghz categorie 1"
+  },
+  {
+    "Code": "V942",
+    "Description": "Vervoer dagbehandeling ghz categorie 2"
+  },
+  {
+    "Code": "V943",
+    "Description": "Vervoer dagbehandeling ghz categorie 3"
+  },
+  {
+    "Code": "V944",
+    "Description": "Vervoer dagbehandeling ghz categorie 4"
+  },
+  {
+    "Code": "V945",
+    "Description": "Vervoer dagbehandeling ghz categorie 5"
+  },
+  {
+    "Code": "V955",
+    "Description": "VPT Vervoer dagactiviteit VG. VG licht (VG1 t/m VG4), (J)LVG"
+  },
+  {
+    "Code": "V956",
+    "Description": "VPT Vervoer dagactiviteit VG (rolstoel). VG midden en zwaar (VG5 t/m VG8)"
+  },
+  {
+    "Code": "V957",
+    "Description": "VPT Vervoer dagactiviteit VG kind emg. Kind emg, kind gedrag"
+  },
+  {
+    "Code": "V958",
+    "Description": "VPT Vervoer dagactiviteit LG"
+  },
+  {
+    "Code": "V959",
+    "Description": "VPT Vervoer dagactiviteit ZG"
+  },
+  {
+    "Code": "V960",
+    "Description": "VPT Vervoer dagactiviteit GGZ"
+  },
+  {
+    "Code": "V970",
+    "Description": "VPT Toeslag Transitie CVA"
+  },
+  {
+    "Code": "V971",
+    "Description": "VPT Toeslag Transitie heupfractuur"
+  },
+  {
+    "Code": "V972",
+    "Description": "VPT Toeslag Transitie electieve orthopedie"
+  },
+  {
+    "Code": "V973",
+    "Description": "VPT Toeslag Transitie amputatie"
+  },
+  {
+    "Code": "V974",
+    "Description": "VPT Toeslag Transitie overig"
+  },
+  {
+    "Code": "V975",
+    "Description": "VPT Toeslag gespecialiseerde epilepsie zorg (GEZ) licht"
+  },
+  {
+    "Code": "V976",
+    "Description": "VPT Toeslag gespecialiseerde epilepsiezorg (GEZ) midden"
+  },
+  {
+    "Code": "V977",
+    "Description": "VPT Toeslag gespecialiseerde epilepsiezorg (GEZ) zwaar"
+  },
+  {
+    "Code": "V978",
+    "Description": "VPT Toeslag woonzorg GHZ kind"
+  },
+  {
+    "Code": "V979",
+    "Description": "VPT Toeslag woonzorg GHZ jeugd"
+  },
+  {
+    "Code": "V980",
+    "Description": "VPT Toeslag woonzorg GHZ jong volwassen"
+  },
+  {
+    "Code": "V981",
+    "Description": "Toeslag gespecialiseerde behandelzorg"
+  },
+  {
+    "Code": "VZ2.5",
+    "Description": "Jeugdigen in Ribw's"
+  },
+  {
+    "Code": "WZ041",
+    "Description": "Opslag Waardigheid en Trots ZZP 4VV excl. BH"
+  },
+  {
+    "Code": "WZ051",
+    "Description": "Opslag Waardigheid en Trots ZZP 5VV excl. BH"
+  },
+  {
+    "Code": "WZ061",
+    "Description": "Opslag Waardigheid en Trots ZZP 6VV excl. BH"
+  },
+  {
+    "Code": "WZ071",
+    "Description": "Opslag Waardigheid en Trots ZZP 7VV excl. BH"
+  },
+  {
+    "Code": "WZ081",
+    "Description": "Opslag Waardigheid en Trots ZZP 8VV excl. BH"
+  },
+  {
+    "Code": "WZ095",
+    "Description": "Opslag Waardigheid en Trots ZZP 9bVV excl. BH"
+  },
+  {
+    "Code": "WZ101",
+    "Description": "Opslag Waardigheid en Trots ZZP 10VV excl. BH"
+  },
+  {
+    "Code": "WZ043",
+    "Description": "Opslag Waardigheid en Trots ZZP 4VV incl. BH"
+  },
+  {
+    "Code": "WZ053",
+    "Description": "Opslag Waardigheid en Trots ZZP 5VV incl. BH"
+  },
+  {
+    "Code": "WZ063",
+    "Description": "Opslag Waardigheid en Trots ZZP 6VV incl. BH"
+  },
+  {
+    "Code": "WZ073",
+    "Description": "Opslag Waardigheid en Trots ZZP 7VV incl. BH"
+  },
+  {
+    "Code": "WZ083",
+    "Description": "Opslag Waardigheid en Trots ZZP 8VV incl. BH"
+  },
+  {
+    "Code": "WZ097",
+    "Description": "Opslag Waardigheid en Trots ZZP 9bVV incl. BH"
+  },
+  {
+    "Code": "WZ103",
+    "Description": "Opslag Waardigheid en Trots ZZP 10VV incl. BH"
+  },
+  {
+    "Code": "WV041",
+    "Description": "Opslag Waardigheid en Trots VPT 4VV excl. BH"
+  },
+  {
+    "Code": "WV051",
+    "Description": "Opslag Waardigheid en Trots VPT 5VV excl. BH"
+  },
+  {
+    "Code": "WV061",
+    "Description": "Opslag Waardigheid en Trots VPT 6VV excl. BH"
+  },
+  {
+    "Code": "WV071",
+    "Description": "Opslag Waardigheid en Trots VPT 7VV excl. BH"
+  },
+  {
+    "Code": "WV081",
+    "Description": "Opslag Waardigheid en Trots VPT 8VV excl. BH"
+  },
+  {
+    "Code": "WV095",
+    "Description": "Opslag Waardigheid en Trots VPT 9bVV excl. BH"
+  },
+  {
+    "Code": "WV101",
+    "Description": "Opslag Waardigheid en Trots VPT 10VV excl. BH"
+  },
+  {
+    "Code": "WV043",
+    "Description": "Opslag Waardigheid en Trots VPT 4VV incl. BH"
+  },
+  {
+    "Code": "WV053",
+    "Description": "Opslag Waardigheid en Trots VPT 5VV incl. BH"
+  },
+  {
+    "Code": "WV063",
+    "Description": "Opslag Waardigheid en Trots VPT 6VV incl. BH"
+  },
+  {
+    "Code": "WV073",
+    "Description": "Opslag Waardigheid en Trots VPT 7VV incl. BH"
+  },
+  {
+    "Code": "WV083",
+    "Description": "Opslag Waardigheid en Trots VPT 8VV incl. BH"
+  },
+  {
+    "Code": "WV097",
+    "Description": "Opslag Waardigheid en Trots VPT 9bVV incl. BH"
+  },
+  {
+    "Code": "WV103",
+    "Description": "Opslag Waardigheid en Trots VPT 10VV incl. BH"
+  },
+  {
+    "Code": "X181",
+    "Description": "VPT Kapitaallasten NHC dagbesteding 1 VV"
+  },
+  {
+    "Code": "X182",
+    "Description": "VPT Kapitaallasten NHC dagbesteding 2 VV"
+  },
+  {
+    "Code": "X183",
+    "Description": "VPT Kapitaallasten NHC dagbesteding 3 VV (excl. BH incl. DB)"
+  },
+  {
+    "Code": "X184",
+    "Description": "VPT Kapitaallasten NHC dagbesteding 4 VV (excl. BH incl. DB)"
+  },
+  {
+    "Code": "X185",
+    "Description": "VPT Kapitaallasten NHC dagbesteding 5 VV (excl. BH incl. DB)"
+  },
+  {
+    "Code": "X186",
+    "Description": "VPT Kapitaallasten NHC dagbesteding 6 VV (excl. BH incl. DB)"
+  },
+  {
+    "Code": "X187",
+    "Description": "VPT Kapitaallasten NHC dagbesteding 7 VV (excl. BH incl. DB)"
+  },
+  {
+    "Code": "X188",
+    "Description": "VPT Kapitaallasten NHC dagbesteding 8 VV (excl. BH incl. DB)"
+  },
+  {
+    "Code": "X189",
+    "Description": "VPT Kapitaallasten NHC dagbesteding 9b VV (excl. BH incl. DB)"
+  },
+  {
+    "Code": "X190",
+    "Description": "VPT Kapitaallasten NHC dagbesteding 10 VV (excl. BH incl. DB)"
+  },
+  {
+    "Code": "X193",
+    "Description": "VPT Kapitaallasten NHC dagbesteding  3VV (incl.BH incl.DB)"
+  },
+  {
+    "Code": "X194",
+    "Description": "VPT Kapitaallasten NHC dagbesteding  4VV (incl.BH incl.DB)"
+  },
+  {
+    "Code": "X195",
+    "Description": "VPT Kapitaallasten NHC dagbesteding  5VV (incl.BH incl.DB)"
+  },
+  {
+    "Code": "X196",
+    "Description": "VPT Kapitaallasten NHC dagbesteding  6VV (incl.BH incl.DB)"
+  },
+  {
+    "Code": "X197",
+    "Description": "VPT Kapitaallasten NHC dagbesteding  7VV (incl.BH incl.DB)"
+  },
+  {
+    "Code": "X198",
+    "Description": "VPT Kapitaallasten NHC dagbesteding  8VV (incl.BH incl.DB)"
+  },
+  {
+    "Code": "X199",
+    "Description": "VPT Kapitaallasten NHC dagbesteding  9bVV (incl.BH incl.DB)"
+  },
+  {
+    "Code": "X200",
+    "Description": "VPT Kapitaallasten NHC dagbesteding  10VV (incl.BH incl.DB)"
+  },
+  {
+    "Code": "X281",
+    "Description": "VPT kapitaallastenn NHC-dagbesteding 1 GGZ-B"
+  },
+  {
+    "Code": "X282",
+    "Description": "VPT kapitaallastenn NHC-dagbesteding 2 GGZ-B"
+  },
+  {
+    "Code": "X283",
+    "Description": "VPT kapitaallastenn NHC-dagbesteding 3 GGZ-B"
+  },
+  {
+    "Code": "X284",
+    "Description": "VPT kapitaallastenn NHC-dagbesteding 4 GGZ-B"
+  },
+  {
+    "Code": "X285",
+    "Description": "VPT kapitaallastenn NHC-dagbesteding 5 GGZ-B"
+  },
+  {
+    "Code": "X286",
+    "Description": "VPT kapitaallastenn NHC-dagbesteding 6 GGZ-B"
+  },
+  {
+    "Code": "X287",
+    "Description": "VPT kapitaallastenn NHC-dagbesteding 7 GGZ-B"
+  },
+  {
+    "Code": "X381",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 1 GGZ-C"
+  },
+  {
+    "Code": "X382",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 2 GGZ-C"
+  },
+  {
+    "Code": "X383",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 3 GGZ-C"
+  },
+  {
+    "Code": "X384",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 4 GGZ-C"
+  },
+  {
+    "Code": "X385",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 5 GGZ-C"
+  },
+  {
+    "Code": "X386",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 6 GGZ-C"
+  },
+  {
+    "Code": "X481",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 1 VG"
+  },
+  {
+    "Code": "X482",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 2 VG"
+  },
+  {
+    "Code": "X483",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 3 VG"
+  },
+  {
+    "Code": "X484",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 4 VG"
+  },
+  {
+    "Code": "X485",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 5 VG"
+  },
+  {
+    "Code": "X486",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 6 VG"
+  },
+  {
+    "Code": "X487",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 7 VG"
+  },
+  {
+    "Code": "X488",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 8 VG"
+  },
+  {
+    "Code": "X681",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 1 LG"
+  },
+  {
+    "Code": "X682",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 2 LG"
+  },
+  {
+    "Code": "X683",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 3 LG"
+  },
+  {
+    "Code": "X684",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 4 LG"
+  },
+  {
+    "Code": "X685",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 5 LG"
+  },
+  {
+    "Code": "X686",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 6 LG"
+  },
+  {
+    "Code": "X687",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 7 LG"
+  },
+  {
+    "Code": "X781",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 1 ZG-aud"
+  },
+  {
+    "Code": "X782",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 2 ZG-aud"
+  },
+  {
+    "Code": "X783",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 3 ZG-aud"
+  },
+  {
+    "Code": "X784",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 4 ZG-aud"
+  },
+  {
+    "Code": "X881",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 1 ZG-vis"
+  },
+  {
+    "Code": "X882",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 2 ZG-vis"
+  },
+  {
+    "Code": "X883",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 3 ZG-vis"
+  },
+  {
+    "Code": "X884",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 4 ZG-vis"
+  },
+  {
+    "Code": "X885",
+    "Description": "VPT kapitaallasten NHC-dagbesteding 5 ZG-vis"
+  },
+  {
+    "Code": "X916",
+    "Description": "Toeslag NHC kinderdagcentra GHZ (KDC)"
+  },
+  {
+    "Code": "Y291",
+    "Description": "Kapitaallastenn NHC-dagbesteding 1 GGZ-B"
+  },
+  {
+    "Code": "Y292",
+    "Description": "Kapitaallastenn NHC-dagbesteding 2 GGZ-B"
+  },
+  {
+    "Code": "Y293",
+    "Description": "Kapitaallastenn NHC-dagbesteding 3 GGZ-B"
+  },
+  {
+    "Code": "Y294",
+    "Description": "Kapitaallastenn NHC-dagbesteding 4 GGZ-B"
+  },
+  {
+    "Code": "Y295",
+    "Description": "Kapitaallastenn NHC-dagbesteding 5 GGZ-B"
+  },
+  {
+    "Code": "Y296",
+    "Description": "Kapitaallastenn NHC-dagbesteding 6 GGZ-B"
+  },
+  {
+    "Code": "Y297",
+    "Description": "Kapitaallastenn NHC-dagbesteding 7 GGZ-B"
+  },
+  {
+    "Code": "Y391",
+    "Description": "Kapitaallasten NHC-dagbesteding 1 GGZ-C"
+  },
+  {
+    "Code": "Y392",
+    "Description": "Kapitaallasten NHC-dagbesteding 2 GGZ-C"
+  },
+  {
+    "Code": "Y393",
+    "Description": "Kapitaallasten NHC-dagbesteding 3 GGZ-C"
+  },
+  {
+    "Code": "Y394",
+    "Description": "Kapitaallasten NHC-dagbesteding 4 GGZ-C"
+  },
+  {
+    "Code": "Y395",
+    "Description": "Kapitaallasten NHC-dagbesteding 5 GGZ-C"
+  },
+  {
+    "Code": "Y396",
+    "Description": "Kapitaallasten NHC-dagbesteding 6 GGZ-C"
+  },
+  {
+    "Code": "Y491",
+    "Description": "Kapitaallasten NHC-dagbesteding 1 VG"
+  },
+  {
+    "Code": "Y492",
+    "Description": "Kapitaallasten NHC-dagbesteding 2 VG"
+  },
+  {
+    "Code": "Y493",
+    "Description": "Kapitaallasten NHC-dagbesteding 3 VG"
+  },
+  {
+    "Code": "Y494",
+    "Description": "Kapitaallasten NHC-dagbesteding 4 VG"
+  },
+  {
+    "Code": "Y495",
+    "Description": "Kapitaallasten NHC-dagbesteding 5 VG"
+  },
+  {
+    "Code": "Y496",
+    "Description": "Kapitaallasten NHC-dagbesteding 6 VG"
+  },
+  {
+    "Code": "Y497",
+    "Description": "Kapitaallasten NHC-dagbesteding 7 VG"
+  },
+  {
+    "Code": "Y498",
+    "Description": "Kapitaallasten NHC-dagbesteding 8 VG"
+  },
+  {
+    "Code": "Y691",
+    "Description": "Kapitaallasten NHC-dagbesteding 1 LG"
+  },
+  {
+    "Code": "Y692",
+    "Description": "Kapitaallasten NHC-dagbesteding 2 LG"
+  },
+  {
+    "Code": "Y693",
+    "Description": "Kapitaallasten NHC-dagbesteding 3 LG"
+  },
+  {
+    "Code": "Y694",
+    "Description": "Kapitaallasten NHC-dagbesteding 4 LG"
+  },
+  {
+    "Code": "Y695",
+    "Description": "Kapitaallasten NHC-dagbesteding 5 LG"
+  },
+  {
+    "Code": "Y696",
+    "Description": "Kapitaallasten NHC-dagbesteding 6 LG"
+  },
+  {
+    "Code": "Y697",
+    "Description": "Kapitaallasten NHC-dagbesteding 7 LG"
+  },
+  {
+    "Code": "Y791",
+    "Description": "Kapitaallasten NHC-dagbesteding 1 ZG-aud"
+  },
+  {
+    "Code": "Y792",
+    "Description": "Kapitaallasten NHC-dagbesteding 2 ZG-aud"
+  },
+  {
+    "Code": "Y793",
+    "Description": "Kapitaallasten NHC-dagbesteding 3 ZG-aud"
+  },
+  {
+    "Code": "Y794",
+    "Description": "Kapitaallasten NHC-dagbesteding 4 ZG-aud"
+  },
+  {
+    "Code": "Y891",
+    "Description": "Kapitaallasten NHC-dagbesteding 1 ZG-vis"
+  },
+  {
+    "Code": "Y892",
+    "Description": "Kapitaallasten NHC-dagbesteding 2 ZG-vis"
+  },
+  {
+    "Code": "Y893",
+    "Description": "Kapitaallasten NHC-dagbesteding 3 ZG-vis"
+  },
+  {
+    "Code": "Y894",
+    "Description": "Kapitaallasten NHC-dagbesteding 4 ZG-vis"
+  },
+  {
+    "Code": "Y895",
+    "Description": "Kapitaallasten NHC-dagbesteding 5 ZG-vis"
+  },
+  {
+    "Code": "Z011",
+    "Description": "Per dag ZZP 1VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z11",
+    "Description": "Per dag ZZP 1VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z013",
+    "Description": "Per dag ZZP 1VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z13",
+    "Description": "Per dag ZZP 1VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z015",
+    "Description": "ZZP 1VV (excl.BH incl.DB)"
+  },
+  {
+    "Code": "Z021",
+    "Description": "Per dag ZZP 2VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z21",
+    "Description": "Per dag ZZP 2VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z023",
+    "Description": "Per dag ZZP 2VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z23",
+    "Description": "Per dag ZZP 2VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z025",
+    "Description": "ZZP 2VV (excl.BH incl.DB)"
+  },
+  {
+    "Code": "Z31",
+    "Description": "Per dag ZZP 3VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z031",
+    "Description": "Per dag ZZP 3VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z33",
+    "Description": "Per dag ZZP 3VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z033",
+    "Description": "Per dag ZZP 3VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z41",
+    "Description": "Per dag ZZP 4VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z041",
+    "Description": "Per dag ZZP 4VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z43",
+    "Description": "Per dag ZZP 4VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z043",
+    "Description": "Per dag ZZP 4VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z51",
+    "Description": "Per dag ZZP 5VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z051",
+    "Description": "Per dag ZZP 5VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z53",
+    "Description": "Per dag ZZP 5VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z053",
+    "Description": "Per dag ZZP 5VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z61",
+    "Description": "Per dag ZZP 6VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z061",
+    "Description": "Per dag ZZP 6VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z63",
+    "Description": "Per dag ZZP 6VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z063",
+    "Description": "Per dag ZZP 6VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z71",
+    "Description": "Per dag ZZP 7VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z071",
+    "Description": "Per dag ZZP 7VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z73",
+    "Description": "Per dag ZZP 7VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z073",
+    "Description": "Per dag ZZP 7VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z81",
+    "Description": "Per dag ZZP 8VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z081",
+    "Description": "Per dag ZZP 8VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z83",
+    "Description": "Per dag ZZP 8VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z083",
+    "Description": "Per dag ZZP 8VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z91",
+    "Description": "Per dag ZZP 9VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z091",
+    "Description": "Per dag ZZP 9VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z93",
+    "Description": "Per dag ZZP 9VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z093",
+    "Description": "Per dag ZZP 9VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z094",
+    "Description": "Per dag ZZP 9VVa excl.BH incl.DB"
+  },
+  {
+    "Code": "Z095",
+    "Description": "Per dag ZZP 9VVb excl.BH incl.DB"
+  },
+  {
+    "Code": "Z096",
+    "Description": "Per dag ZZP 9VVa incl.BH incl.DB"
+  },
+  {
+    "Code": "Z097",
+    "Description": "Per dag ZZP 9VVb incl.BH incl.DB"
+  },
+  {
+    "Code": "Z101",
+    "Description": "Per dag ZZP 10VV excl.BH incl.DB"
+  },
+  {
+    "Code": "Z103",
+    "Description": "Per dag ZZP 10VV incl.BH incl.DB"
+  },
+  {
+    "Code": "Z110",
+    "Description": "Per dag ZZP crisisopvang V&V met beh."
+  },
+  {
+    "Code": "Z212",
+    "Description": "Per dag ZZP 1GGZ-B incl.BH excl.DB"
+  },
+  {
+    "Code": "Z213",
+    "Description": "Per dag ZZP 1GGZ-B incl.BH incl.DB"
+  },
+  {
+    "Code": "Z222",
+    "Description": "Per dag ZZP 2GGZ-B incl.BH excl.DB"
+  },
+  {
+    "Code": "Z223",
+    "Description": "Per dag ZZP 2GGZ-B incl.BH incl.DB"
+  },
+  {
+    "Code": "Z232",
+    "Description": "Per dag ZZP 3GGZ-B incl.BH excl.DB"
+  },
+  {
+    "Code": "Z233",
+    "Description": "Per dag ZZP 3GGZ-B incl.BH incl.DB"
+  },
+  {
+    "Code": "Z242",
+    "Description": "Per dag ZZP 4GGZ-B incl.BH excl.DB"
+  },
+  {
+    "Code": "Z243",
+    "Description": "Per dag ZZP 4GGZ-B incl.BH incl.DB"
+  },
+  {
+    "Code": "Z252",
+    "Description": "Per dag ZZP 5GGZ-B incl.BH excl.DB"
+  },
+  {
+    "Code": "Z253",
+    "Description": "Per dag ZZP 5GGZ-B incl.BH incl.DB"
+  },
+  {
+    "Code": "Z262",
+    "Description": "Per dag ZZP 6GGZ-B incl.BH excl.DB"
+  },
+  {
+    "Code": "Z263",
+    "Description": "Per dag ZZP 6GGZ-B incl.BH incl.DB"
+  },
+  {
+    "Code": "Z272",
+    "Description": "Per dag ZZP 7GGZ-B incl.BH excl.DB"
+  },
+  {
+    "Code": "Z273",
+    "Description": "Per dag ZZP 7GGZ-B incl.BH incl.DB"
+  },
+  {
+    "Code": "Z280",
+    "Description": "Per dag ZZP klinisch intensieve beh."
+  },
+  {
+    "Code": "Z310",
+    "Description": "Per dag ZZP 1GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "Z311",
+    "Description": "Per dag ZZP 1GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "Z312",
+    "Description": "Per dag ZZP 1GGZ-C incl.BH excl.DB"
+  },
+  {
+    "Code": "Z313",
+    "Description": "Per dag ZZP 1GGZ-C incl.BH incl.DB"
+  },
+  {
+    "Code": "Z320",
+    "Description": "Per dag ZZP 2GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "Z321",
+    "Description": "Per dag ZZP 2GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "Z322",
+    "Description": "Per dag ZZP 2GGZ-C incl.BH excl.DB"
+  },
+  {
+    "Code": "Z323",
+    "Description": "Per dag ZZP 2GGZ-C incl.BH incl.DB"
+  },
+  {
+    "Code": "Z330",
+    "Description": "Per dag ZZP 3GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "Z331",
+    "Description": "Per dag ZZP 3GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "Z332",
+    "Description": "Per dag ZZP 3GGZ-C incl.BH excl.DB"
+  },
+  {
+    "Code": "Z333",
+    "Description": "Per dag ZZP 3GGZ-C incl.BH incl.DB"
+  },
+  {
+    "Code": "Z340",
+    "Description": "Per dag ZZP 4GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "Z341",
+    "Description": "Per dag ZZP 4GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "Z342",
+    "Description": "Per dag ZZP 4GGZ-C incl.BH excl.DB"
+  },
+  {
+    "Code": "Z343",
+    "Description": "Per dag ZZP 4GGZ-C incl.BH incl.DB"
+  },
+  {
+    "Code": "Z350",
+    "Description": "Per dag ZZP 5GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "Z351",
+    "Description": "Per dag ZZP 5GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "Z352",
+    "Description": "Per dag ZZP 5GGZ-C incl.BH excl.DB"
+  },
+  {
+    "Code": "Z353",
+    "Description": "Per dag ZZP 5GGZ-C incl.BH incl.DB"
+  },
+  {
+    "Code": "Z360",
+    "Description": "Per dag ZZP 6GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "Z361",
+    "Description": "Per dag ZZP 6GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "Z362",
+    "Description": "Per dag ZZP 6GGZ-C incl.BH excl.DB"
+  },
+  {
+    "Code": "Z363",
+    "Description": "Per dag ZZP 6GGZ-C incl.BH incl.DB"
+  },
+  {
+    "Code": "Z410",
+    "Description": "Per dag ZZP 1VG excl.BH excl.DB"
+  },
+  {
+    "Code": "Z411",
+    "Description": "Per dag ZZP 1VG excl.BH incl.DB"
+  },
+  {
+    "Code": "Z412",
+    "Description": "Per dag ZZP 1VG incl.BH excl.DB"
+  },
+  {
+    "Code": "Z413",
+    "Description": "Per dag ZZP 1VG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z414",
+    "Description": "ZZP 1VG (excl.DB)"
+  },
+  {
+    "Code": "Z415",
+    "Description": "ZZP 1VG (incl.DB)"
+  },
+  {
+    "Code": "Z420",
+    "Description": "Per dag ZZP 2VG excl.BH excl.DB"
+  },
+  {
+    "Code": "Z421",
+    "Description": "Per dag ZZP 2VG excl.BH incl.DB"
+  },
+  {
+    "Code": "Z422",
+    "Description": "Per dag ZZP 2VG incl.BH excl.DB"
+  },
+  {
+    "Code": "Z423",
+    "Description": "Per dag ZZP 2VG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z424",
+    "Description": "ZZP 2VG (excl.DB)"
+  },
+  {
+    "Code": "Z425",
+    "Description": "ZZP 2VG (incl.DB)"
+  },
+  {
+    "Code": "Z430",
+    "Description": "Per dag ZZP 3VG excl.BH excl.DB"
+  },
+  {
+    "Code": "Z431",
+    "Description": "Per dag ZZP 3VG excl.BH incl.DB"
+  },
+  {
+    "Code": "Z432",
+    "Description": "Per dag ZZP 3VG incl.BH excl.DB"
+  },
+  {
+    "Code": "Z433",
+    "Description": "Per dag ZZP 3VG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z440",
+    "Description": "Per dag ZZP 4VG excl.BH excl.DB"
+  },
+  {
+    "Code": "Z441",
+    "Description": "Per dag ZZP 4VG excl.BH incl.DB"
+  },
+  {
+    "Code": "Z442",
+    "Description": "Per dag ZZP 4VG incl.BH excl.DB"
+  },
+  {
+    "Code": "Z443",
+    "Description": "Per dag ZZP 4VG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z450",
+    "Description": "Per dag ZZP 5VG excl.BH excl.DB"
+  },
+  {
+    "Code": "Z451",
+    "Description": "Per dag ZZP 5VG excl.BH incl.DB"
+  },
+  {
+    "Code": "Z452",
+    "Description": "Per dag ZZP 5VG incl.BH excl.DB"
+  },
+  {
+    "Code": "Z453",
+    "Description": "Per dag ZZP 5VG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z454",
+    "Description": "ZZP 5VG (excl.BH excl.DB)"
+  },
+  {
+    "Code": "Z455",
+    "Description": "ZZP 5VG (excl.BH incl.DB)"
+  },
+  {
+    "Code": "Z456",
+    "Description": "ZZP 5VG (incl.BH excl.DB)"
+  },
+  {
+    "Code": "Z457",
+    "Description": "ZZP 5VG (incl.BH incl.DB)"
+  },
+  {
+    "Code": "Z460",
+    "Description": "Per dag ZZP 6VG excl.BH excl.DB"
+  },
+  {
+    "Code": "Z461",
+    "Description": "Per dag ZZP 6VG excl.BH incl.DB"
+  },
+  {
+    "Code": "Z462",
+    "Description": "Per dag ZZP 6VG incl.BH excl.DB"
+  },
+  {
+    "Code": "Z463",
+    "Description": "Per dag ZZP 6VG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z470",
+    "Description": "Per dag ZZP 7VG excl.BH excl.DB"
+  },
+  {
+    "Code": "Z471",
+    "Description": "Per dag ZZP 7VG excl.BH incl.DB"
+  },
+  {
+    "Code": "Z472",
+    "Description": "Per dag ZZP 7VG incl.BH excl.DB"
+  },
+  {
+    "Code": "Z473",
+    "Description": "Per dag ZZP 7VG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z480",
+    "Description": "ZZP 8VG (excl.BH excl.DB)"
+  },
+  {
+    "Code": "Z481",
+    "Description": "ZZP 8VG (excl.BH incl.DB)"
+  },
+  {
+    "Code": "Z482",
+    "Description": "ZZP 8VG (incl.BH excl.DB)"
+  },
+  {
+    "Code": "Z483",
+    "Description": "ZZP 8VG (incl.BH incl.DB)"
+  },
+  {
+    "Code": "Z490",
+    "Description": "Per dag ZZP crisisopvang VG zonder beh."
+  },
+  {
+    "Code": "Z491",
+    "Description": "Per dag ZZP crisisopvang VG met beh."
+  },
+  {
+    "Code": "Z513",
+    "Description": "Per dag ZZP 1LVG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z523",
+    "Description": "Per dag ZZP 2LVG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z533",
+    "Description": "Per dag ZZP 3LVG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z543",
+    "Description": "Per dag ZZP 4LVG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z553",
+    "Description": "Per dag ZZP 5LVG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z560",
+    "Description": "Per dag ZZP crisisopvang LVG (jeugd)"
+  },
+  {
+    "Code": "Z573",
+    "Description": "Per dag ZZP 1SGLVG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z610",
+    "Description": "Per dag ZZP 1LG excl.BH excl.DB"
+  },
+  {
+    "Code": "Z611",
+    "Description": "Per dag ZZP 1LG excl.BH incl.DB"
+  },
+  {
+    "Code": "Z612",
+    "Description": "Per dag ZZP 1LG incl.BH excl.DB"
+  },
+  {
+    "Code": "Z613",
+    "Description": "Per dag ZZP 1LG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z614",
+    "Description": "ZZP 1LG (excl.DB)"
+  },
+  {
+    "Code": "Z615",
+    "Description": "ZZP 1LG (incl.DB)"
+  },
+  {
+    "Code": "Z620",
+    "Description": "Per dag ZZP 2LG excl.BH excl.DB"
+  },
+  {
+    "Code": "Z621",
+    "Description": "Per dag ZZP 2LG excl.BH incl.DB"
+  },
+  {
+    "Code": "Z622",
+    "Description": "Per dag ZZP 2LG incl.BH excl.DB"
+  },
+  {
+    "Code": "Z623",
+    "Description": "Per dag ZZP 2LG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z624",
+    "Description": "ZZP 2LG (excl.DB)"
+  },
+  {
+    "Code": "Z625",
+    "Description": "ZZP 2LG (incl.DB)"
+  },
+  {
+    "Code": "Z630",
+    "Description": "Per dag ZZP 3LG excl.BH excl.DB"
+  },
+  {
+    "Code": "Z631",
+    "Description": "Per dag ZZP 3LG excl.BH incl.DB"
+  },
+  {
+    "Code": "Z632",
+    "Description": "Per dag ZZP 3LG incl.BH excl.DB"
+  },
+  {
+    "Code": "Z633",
+    "Description": "Per dag ZZP 3LG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z640",
+    "Description": "Per dag ZZP 4LG excl.BH excl.DB"
+  },
+  {
+    "Code": "Z641",
+    "Description": "Per dag ZZP 4LG excl.BH incl.DB"
+  },
+  {
+    "Code": "Z642",
+    "Description": "Per dag ZZP 4LG incl.BH excl.DB"
+  },
+  {
+    "Code": "Z643",
+    "Description": "Per dag ZZP 4LG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z650",
+    "Description": "Per dag ZZP 5LG excl.BH excl.DB"
+  },
+  {
+    "Code": "Z651",
+    "Description": "Per dag ZZP 5LG excl.BH incl.DB"
+  },
+  {
+    "Code": "Z652",
+    "Description": "Per dag ZZP 5LG incl.BH excl.DB"
+  },
+  {
+    "Code": "Z653",
+    "Description": "Per dag ZZP 5LG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z660",
+    "Description": "Per dag ZZP 6LG excl.BH excl.DB"
+  },
+  {
+    "Code": "Z661",
+    "Description": "Per dag ZZP 6LG excl.BH incl.DB"
+  },
+  {
+    "Code": "Z662",
+    "Description": "Per dag ZZP 6LG incl.BH excl.DB"
+  },
+  {
+    "Code": "Z663",
+    "Description": "Per dag ZZP 6LG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z670",
+    "Description": "Per dag ZZP 7LG excl.BH excl.DB"
+  },
+  {
+    "Code": "Z671",
+    "Description": "Per dag ZZP 7LG excl.BH incl.DB"
+  },
+  {
+    "Code": "Z672",
+    "Description": "Per dag ZZP 7LG incl.BH excl.DB"
+  },
+  {
+    "Code": "Z673",
+    "Description": "Per dag ZZP 7LG incl.BH incl.DB"
+  },
+  {
+    "Code": "Z710",
+    "Description": "Per dag ZZP 1ZG-auditief excl.BH excl.DB"
+  },
+  {
+    "Code": "Z711",
+    "Description": "Per dag ZZP 1ZG-auditief excl.BH incl.DB"
+  },
+  {
+    "Code": "Z712",
+    "Description": "Per dag ZZP 1ZG-auditief incl.BH excl.DB"
+  },
+  {
+    "Code": "Z713",
+    "Description": "Per dag ZZP 1ZG-auditief incl.BH incl.DB"
+  },
+  {
+    "Code": "Z720",
+    "Description": "Per dag ZZP 2ZG-auditief excl.BH excl.DB"
+  },
+  {
+    "Code": "Z721",
+    "Description": "Per dag ZZP 2ZG-auditief excl.BH incl.DB"
+  },
+  {
+    "Code": "Z722",
+    "Description": "Per dag ZZP 2ZG-auditief incl.BH excl.DB"
+  },
+  {
+    "Code": "Z723",
+    "Description": "Per dag ZZP 2ZG-auditief incl.BH incl.DB"
+  },
+  {
+    "Code": "Z730",
+    "Description": "Per dag ZZP 3ZG-auditief excl.BH excl.DB"
+  },
+  {
+    "Code": "Z731",
+    "Description": "Per dag ZZP 3ZG-auditief excl.BH incl.DB"
+  },
+  {
+    "Code": "Z732",
+    "Description": "Per dag ZZP 3ZG-auditief incl.BH excl.DB"
+  },
+  {
+    "Code": "Z733",
+    "Description": "Per dag ZZP 3ZG-auditief incl.BH incl.DB"
+  },
+  {
+    "Code": "Z740",
+    "Description": "Per dag ZZP 4ZG-auditief excl.BH excl.DB"
+  },
+  {
+    "Code": "Z741",
+    "Description": "Per dag ZZP 4ZG-auditief excl.BH incl.DB"
+  },
+  {
+    "Code": "Z742",
+    "Description": "Per dag ZZP 4ZG-auditief incl.BH excl.DB"
+  },
+  {
+    "Code": "Z743",
+    "Description": "Per dag ZZP 4ZG-auditief incl.BH incl.DB"
+  },
+  {
+    "Code": "Z810",
+    "Description": "Per dag ZZP 1ZG-visueel excl.BH excl.DB"
+  },
+  {
+    "Code": "Z811",
+    "Description": "Per dag ZZP 1ZG-visueel excl.BH incl.DB"
+  },
+  {
+    "Code": "Z812",
+    "Description": "Per dag ZZP 1ZG-visueel incl.BH excl.DB"
+  },
+  {
+    "Code": "Z813",
+    "Description": "Per dag ZZP 1ZG-visueel incl.BH incl.DB"
+  },
+  {
+    "Code": "Z814",
+    "Description": "ZZP 1ZG-visueel (excl.DB)"
+  },
+  {
+    "Code": "Z815",
+    "Description": "ZZP 1ZG-visueel (incl.DB)"
+  },
+  {
+    "Code": "Z820",
+    "Description": "Per dag ZZP 2ZG-visueel excl.BH excl.DB"
+  },
+  {
+    "Code": "Z821",
+    "Description": "Per dag ZZP 2ZG-visueel excl.BH incl.DB"
+  },
+  {
+    "Code": "Z822",
+    "Description": "Per dag ZZP 2ZG-visueel incl.BH excl.DB"
+  },
+  {
+    "Code": "Z823",
+    "Description": "Per dag ZZP 2ZG-visueel incl.BH incl.DB"
+  },
+  {
+    "Code": "Z824",
+    "Description": "ZZP 2ZG-visueel (excl.DB)"
+  },
+  {
+    "Code": "Z825",
+    "Description": "ZZP 2ZG-visueel (incl.DB)"
+  },
+  {
+    "Code": "Z830",
+    "Description": "Per dag ZZP 3ZG-visueel excl.BH excl.DB"
+  },
+  {
+    "Code": "Z831",
+    "Description": "Per dag ZZP 3ZG-visueel excl.BH incl.DB"
+  },
+  {
+    "Code": "Z832",
+    "Description": "Per dag ZZP 3ZG-visueel incl.BH excl.DB"
+  },
+  {
+    "Code": "Z833",
+    "Description": "Per dag ZZP 3ZG-visueel incl.BH incl.DB"
+  },
+  {
+    "Code": "Z840",
+    "Description": "Per dag ZZP 4ZG-visueel excl.BH excl.DB"
+  },
+  {
+    "Code": "Z841",
+    "Description": "Per dag ZZP 4ZG-visueel excl.BH incl.DB"
+  },
+  {
+    "Code": "Z842",
+    "Description": "Per dag ZZP 4ZG-visueel incl.BH excl.DB"
+  },
+  {
+    "Code": "Z843",
+    "Description": "Per dag ZZP 4ZG-visueel incl.BH incl.DB"
+  },
+  {
+    "Code": "Z850",
+    "Description": "Per dag ZZP 5ZG-visueel excl.BH excl.DB"
+  },
+  {
+    "Code": "Z851",
+    "Description": "Per dag ZZP 5ZG-visueel excl.BH incl.DB"
+  },
+  {
+    "Code": "Z852",
+    "Description": "Per dag ZZP 5ZG-visueel incl.BH excl.DB"
+  },
+  {
+    "Code": "Z853",
+    "Description": "Per dag ZZP 5ZG-visueel incl.BH incl.DB"
+  },
+  {
+    "Code": "Z880",
+    "Description": "Opslag kapitaallasten VG"
+  },
+  {
+    "Code": "Z881",
+    "Description": "Opslag kapitaallasten LG"
+  },
+  {
+    "Code": "Z882",
+    "Description": "Opslag kapitaallasten ZG"
+  },
+  {
+    "Code": "Z883",
+    "Description": "Opslag kapitaallasten 1 GGZ-B en C"
+  },
+  {
+    "Code": "Z884",
+    "Description": "Opslag kapitaallasten 2 GGZ-B en C"
+  },
+  {
+    "Code": "Z885",
+    "Description": "Opslag kapitaallasten 3 GGZ-B en C"
+  },
+  {
+    "Code": "Z886",
+    "Description": "Opslag kapitaallasten 4 GGZ-B en C"
+  },
+  {
+    "Code": "Z887",
+    "Description": "Opslag kapitaallasten 5 GGZ-B en C"
+  },
+  {
+    "Code": "Z888",
+    "Description": "Opslag kapitaallasten 6 GGZ-B en C"
+  },
+  {
+    "Code": "Z889",
+    "Description": "Opslag kapitaallasten7 GGZ-B"
+  },
+  {
+    "Code": "Z890",
+    "Description": "Opslag inventaris VG"
+  },
+  {
+    "Code": "Z891",
+    "Description": "Opslag inventaris LG"
+  },
+  {
+    "Code": "Z892",
+    "Description": "Opslag inventaris ZG"
+  },
+  {
+    "Code": "Z893",
+    "Description": "Opslag inventaris 1 GGZ-B en C"
+  },
+  {
+    "Code": "Z894",
+    "Description": "Opslag inventaris 2 GGZ-B en C"
+  },
+  {
+    "Code": "Z895",
+    "Description": "Opslag inventaris 3 GGZ-B en C"
+  },
+  {
+    "Code": "Z896",
+    "Description": "Opslag inventaris 4 GGZ-B en C"
+  },
+  {
+    "Code": "Z897",
+    "Description": "Opslag inventaris 5 GGZ-B en C"
+  },
+  {
+    "Code": "Z898",
+    "Description": "Opslag inventaris 6 GGZ-B en C"
+  },
+  {
+    "Code": "Z899",
+    "Description": "Opslag inventaris 7 GGZ-B"
+  },
+  {
+    "Code": "Z901",
+    "Description": "Vervoer dagbesteding V&V"
+  },
+  {
+    "Code": "Z902",
+    "Description": "Vervoer dagbesteding GGZ"
+  },
+  {
+    "Code": "Z903",
+    "Description": "Vervoer dagbesteding GHZ"
+  },
+  {
+    "Code": "Z904",
+    "Description": "Vervoer dagbesteding GHZ rolstoel intramuraal"
+  },
+  {
+    "Code": "Z905",
+    "Description": "Vervoer dagbesteding kind intramuraal"
+  },
+  {
+    "Code": "Z910",
+    "Description": "Per dag Toeslag ZZP CVA"
+  },
+  {
+    "Code": "Z911",
+    "Description": "Per dag Toeslag ZZP MFC"
+  },
+  {
+    "Code": "Z912",
+    "Description": "Per dag Toeslag ZZP Observatie"
+  },
+  {
+    "Code": "Z913",
+    "Description": "Per dagdeel Toeslag ZZP dagb. GHZ kind licht"
+  },
+  {
+    "Code": "Z914",
+    "Description": "Per dagdeel Toeslag ZZP dagb. GHZ kind middel"
+  },
+  {
+    "Code": "Z915",
+    "Description": "Per dagdeel Toeslag ZZP dagb. GHZ kind zwaar"
+  },
+  {
+    "Code": "Z916",
+    "Description": "Per dag ZZP Mutatiedag V&V zonder beh."
+  },
+  {
+    "Code": "Z917",
+    "Description": "Per dag ZZP Mutatiedag V&V toel. voor beh."
+  },
+  {
+    "Code": "Z918",
+    "Description": "Per dag Toeslag ZZP tracheostomale bead."
+  },
+  {
+    "Code": "Z919",
+    "Description": "Per dagdeel Toesl. ZZP dagb.GHZ kind VG5 EMG"
+  },
+  {
+    "Code": "Z920",
+    "Description": "Toeslag Huntington"
+  },
+  {
+    "Code": "Z921",
+    "Description": "Toeslag non-invasieve beademing"
+  },
+  {
+    "Code": "Z922",
+    "Description": "Toeslag Niet-strafrechtelijke forensische psychiatrie (NSFP)"
+  },
+  {
+    "Code": "Z930",
+    "Description": "Per dag opslag kapitaallasten VG"
+  },
+  {
+    "Code": "Z931",
+    "Description": "Per dag opslag kapitaallasten LG"
+  },
+  {
+    "Code": "Z932",
+    "Description": "Per dag opslag kapitaallasten ZG"
+  },
+  {
+    "Code": "Z933",
+    "Description": "Per dag opslag kapitaallasten 1GGZ-C"
+  },
+  {
+    "Code": "Z934",
+    "Description": "Per dag opslag kapitaallasten 2GGZ-C"
+  },
+  {
+    "Code": "Z935",
+    "Description": "Per dag opslag kapitaallasten 3GGZ-C"
+  },
+  {
+    "Code": "Z936",
+    "Description": "Per dag opslag kapitaallasten 4GGZ-C"
+  },
+  {
+    "Code": "Z937",
+    "Description": "Per dag opslag kapitaallasten 5GGZ-C"
+  },
+  {
+    "Code": "Z938",
+    "Description": "Per dag opslag kapitaallasten 6GGZ-C"
+  },
+  {
+    "Code": "Z939",
+    "Description": "Opslag kapitaallasten 7GGZ-B"
+  },
+  {
+    "Code": "Z941",
+    "Description": "Vervoer dagbehandeling ghz categorie 1"
+  },
+  {
+    "Code": "Z942",
+    "Description": "Vervoer dagbehandeling ghz categorie 2"
+  },
+  {
+    "Code": "Z943",
+    "Description": "Vervoer dagbehandeling ghz categorie 3"
+  },
+  {
+    "Code": "Z944",
+    "Description": "Vervoer dagbehandeling ghz categorie 4"
+  },
+  {
+    "Code": "Z945",
+    "Description": "Vervoer dagbehandeling ghz categorie 5"
+  },
+  {
+    "Code": "Z950",
+    "Description": "Per dag verv.kosten ZZP SGLVG"
+  },
+  {
+    "Code": "Z951",
+    "Description": "Per dag verv.kosten ZZP VG"
+  },
+  {
+    "Code": "Z952",
+    "Description": "Per dag verv.kosten ZZP LVG"
+  },
+  {
+    "Code": "Z953",
+    "Description": "Per dag verv.kosten ZZP LG"
+  },
+  {
+    "Code": "Z954",
+    "Description": "Per dag verv.kosten ZZP ZG"
+  },
+  {
+    "Code": "Z955",
+    "Description": "Per dag vervoer dagact. ZZP VG licht"
+  },
+  {
+    "Code": "Z956",
+    "Description": "Per dag verv. dagact. ZZP VG midden/zw."
+  },
+  {
+    "Code": "Z957",
+    "Description": "Per dag vervoer dagact. ZZP VG kind emg"
+  },
+  {
+    "Code": "Z958",
+    "Description": "Per dag vervoer dagact. LG"
+  },
+  {
+    "Code": "Z959",
+    "Description": "Per dag vervoer dagact. ZG"
+  },
+  {
+    "Code": "Z960",
+    "Description": "Per dag vervoer dagact. GGZ"
+  },
+  {
+    "Code": "Z961",
+    "Description": "Per dag vervoer dagact. ZZP VG licht"
+  },
+  {
+    "Code": "Z962",
+    "Description": "Per dag verv. dagact. ZZP VG midden/zw."
+  },
+  {
+    "Code": "Z963",
+    "Description": "Per dag vervoer dagact. ZZP VG kind emg"
+  },
+  {
+    "Code": "Z964",
+    "Description": "Per dag vervoer dagact. LG"
+  },
+  {
+    "Code": "Z965",
+    "Description": "Per dag vervoer dagact. ZG"
+  },
+  {
+    "Code": "Z966",
+    "Description": "Per dag vervoer dagact. GGZ"
+  },
+  {
+    "Code": "Z970",
+    "Description": "Toeslag Transitie CVA"
+  },
+  {
+    "Code": "Z971",
+    "Description": "Toeslag Transitie heupfractuur"
+  },
+  {
+    "Code": "Z972",
+    "Description": "Toeslag Transitie electieve orthopedie"
+  },
+  {
+    "Code": "Z973",
+    "Description": "Toeslag Transitie amputatie"
+  },
+  {
+    "Code": "Z974",
+    "Description": "Toeslag Transitie overig"
+  },
+  {
+    "Code": "Z975",
+    "Description": "Toeslag gespecialiseerde epilepsie zorg (GEZ) licht"
+  },
+  {
+    "Code": "Z976",
+    "Description": "Toeslag gespecialiseerde epilepsiezorg (GEZ) midden"
+  },
+  {
+    "Code": "Z977",
+    "Description": "Toeslag gespecialiseerde epilepsiezorg (GEZ) zwaar"
+  },
+  {
+    "Code": "Z978",
+    "Description": "Toeslag woonzorg GHZ kind"
+  },
+  {
+    "Code": "Z979",
+    "Description": "Toeslag woonzorg GHZ jeugd"
+  },
+  {
+    "Code": "Z980",
+    "Description": "Toeslag woonzorg GHZ jong volwassen"
+  },
+  {
+    "Code": "Z981",
+    "Description": "Toeslag gespecialiseerde behandelzorg"
+  },
+  {
+    "Code": "Z982",
+    "Description": "Toeslag woonzorg GGZ jong volwassen"
+  },
+  {
+    "Code": "Z983",
+    "Description": "Toeslag kdc"
+  },
+  {
+    "Code": "Z984",
+    "Description": "Toeslag intensieve gespec. ggz-zorg voor crisisopv ghz vg incl beh"
+  },
+  {
+    "Code": "Z991",
+    "Description": "Per dag ZZP V&V verblijfscomponent"
+  },
+  {
+    "Code": "Z992",
+    "Description": "Per dag ZZP GGZ verblijfscomponent"
+  },
+  {
+    "Code": "Z993",
+    "Description": "Per dag ZZP VG&LG verblijfscomponent"
+  },
+  {
+    "Code": "Z994",
+    "Description": "Per dag ZZP ZG verblijfscomponent"
+  },
+  {
+    "Code": "Z995",
+    "Description": "Verblijfscomp. VV niet geïnd. partner"
+  },
+  {
+    "Code": "Z996",
+    "Description": "Verblijfscomp. kortdurend V&V"
+  },
+  {
+    "Code": "Z997",
+    "Description": "Verblijfscomponent niet-geïndiceerde partner GHZ: VG en LG"
+  },
+  {
+    "Code": "Z998",
+    "Description": "Verblijfscomponent niet-geïndiceerde partner GHZ: ZG"
+  },
+  {
+    "Code": "Z999",
+    "Description": "Logeren GHZ-vg"
+  },
+  {
+    "Code": "Z1000",
+    "Description": "Logeren GHZ-lg"
+  },
+  {
+    "Code": "Z1001",
+    "Description": "Logeren GHZ-lvg"
+  },
+  {
+    "Code": "Z1002",
+    "Description": "Logeren GHZ-zg"
+  },
+  {
+    "Code": "Z1003",
+    "Description": "Logeren VV"
+  },
+  {
+    "Code": "VPT10",
+    "Description": "V&V VPT 10"
+  },
+  {
+    "Code": "VPT11",
+    "Description": "V&V VPT 11"
+  },
+  {
+    "Code": "VPT12",
+    "Description": "V&V VPT 12"
+  },
+  {
+    "Code": "VPT13",
+    "Description": "V&V VPT 13"
+  },
+  {
+    "Code": "VPT20",
+    "Description": "GHZ VPT 20"
+  },
+  {
+    "Code": "VPT21",
+    "Description": "GHZ VPT 21"
+  },
+  {
+    "Code": "VPT22",
+    "Description": "GHZ VPT 22"
+  },
+  {
+    "Code": "VPT23",
+    "Description": "GHZ VPT 23"
+  },
+  {
+    "Code": "VPT24",
+    "Description": "GHZ VPT 24"
+  },
+  {
+    "Code": "VPT25",
+    "Description": "GHZ VPT 25"
+  },
+  {
+    "Code": "VPT26",
+    "Description": "GHZ VPT 26"
+  },
+  {
+    "Code": "VPT27",
+    "Description": "GHZ VPT 27"
+  },
+  {
+    "Code": "VPT28",
+    "Description": "GHZ VPT 28"
+  },
+  {
+    "Code": "VPT29",
+    "Description": "GHZ VPT 29"
+  },
+  {
+    "Code": "VPT30",
+    "Description": "GHZ VPT 30"
+  },
+  {
+    "Code": "VPT43",
+    "Description": "GGZ VPT 43"
+  },
+  {
+    "Code": "ZMZTK",
+    "Description": "ZZP-Meerzorg kortdurend"
+  },
+  {
+    "Code": "ZMZTL",
+    "Description": "ZZP-Meerzorg langdurend"
+  },
+  {
+    "Code": "ZMZ01",
+    "Description": "ZZP-Meerzorg"
+  }
+]
