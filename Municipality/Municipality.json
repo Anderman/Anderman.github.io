@@ -1,0 +1,1418 @@
+[
+  {
+    "Code": "0358",
+    "Description": "Aalsmeer"
+  },
+  {
+    "Code": "0197",
+    "Description": "Aalten"
+  },
+  {
+    "Code": "0059",
+    "Description": "Achtkarspelen"
+  },
+  {
+    "Code": "0482",
+    "Description": "Alblasserdam"
+  },
+  {
+    "Code": "0613",
+    "Description": "Albrandswaard"
+  },
+  {
+    "Code": "0361",
+    "Description": "Alkmaar"
+  },
+  {
+    "Code": "0141",
+    "Description": "Almelo"
+  },
+  {
+    "Code": "0034",
+    "Description": "Almere"
+  },
+  {
+    "Code": "0484",
+    "Description": "Alphen aan den Rijn"
+  },
+  {
+    "Code": "1723",
+    "Description": "Alphen-Chaam"
+  },
+  {
+    "Code": "1959",
+    "Description": "Altena"
+  },
+  {
+    "Code": "0060",
+    "Description": "Ameland"
+  },
+  {
+    "Code": "0307",
+    "Description": "Amersfoort"
+  },
+  {
+    "Code": "0362",
+    "Description": "Amstelveen"
+  },
+  {
+    "Code": "0363",
+    "Description": "Amsterdam"
+  },
+  {
+    "Code": "0200",
+    "Description": "Apeldoorn"
+  },
+  {
+    "Code": "0003",
+    "Description": "Appingedam"
+  },
+  {
+    "Code": "0202",
+    "Description": "Arnhem"
+  },
+  {
+    "Code": "0106",
+    "Description": "Assen"
+  },
+  {
+    "Code": "0743",
+    "Description": "Asten"
+  },
+  {
+    "Code": "0744",
+    "Description": "Baarle-Nassau"
+  },
+  {
+    "Code": "0308",
+    "Description": "Baarn"
+  },
+  {
+    "Code": "0489",
+    "Description": "Barendrecht"
+  },
+  {
+    "Code": "0203",
+    "Description": "Barneveld"
+  },
+  {
+    "Code": "0888",
+    "Description": "Beek"
+  },
+  {
+    "Code": "1954",
+    "Description": "Beekdaelen"
+  },
+  {
+    "Code": "0370",
+    "Description": "Beemster"
+  },
+  {
+    "Code": "0889",
+    "Description": "Beesel"
+  },
+  {
+    "Code": "1945",
+    "Description": "Berg en Dal"
+  },
+  {
+    "Code": "1724",
+    "Description": "Bergeijk"
+  },
+  {
+    "Code": "0893",
+    "Description": "Bergen (L.)"
+  },
+  {
+    "Code": "0373",
+    "Description": "Bergen (NH.)"
+  },
+  {
+    "Code": "0748",
+    "Description": "Bergen op Zoom"
+  },
+  {
+    "Code": "1859",
+    "Description": "Berkelland"
+  },
+  {
+    "Code": "1721",
+    "Description": "Bernheze"
+  },
+  {
+    "Code": "0753",
+    "Description": "Best"
+  },
+  {
+    "Code": "0209",
+    "Description": "Beuningen"
+  },
+  {
+    "Code": "0375",
+    "Description": "Beverwijk"
+  },
+  {
+    "Code": "0310",
+    "Description": "De Bilt"
+  },
+  {
+    "Code": "1728",
+    "Description": "Bladel"
+  },
+  {
+    "Code": "0376",
+    "Description": "Blaricum"
+  },
+  {
+    "Code": "0377",
+    "Description": "Bloemendaal"
+  },
+  {
+    "Code": "1901",
+    "Description": "Bodegraven-Reeuwijk"
+  },
+  {
+    "Code": "0755",
+    "Description": "Boekel"
+  },
+  {
+    "Code": "1681",
+    "Description": "Borger-Odoorn"
+  },
+  {
+    "Code": "0147",
+    "Description": "Borne"
+  },
+  {
+    "Code": "0654",
+    "Description": "Borsele"
+  },
+  {
+    "Code": "0756",
+    "Description": "Boxmeer"
+  },
+  {
+    "Code": "0757",
+    "Description": "Boxtel"
+  },
+  {
+    "Code": "0758",
+    "Description": "Breda"
+  },
+  {
+    "Code": "0501",
+    "Description": "Brielle"
+  },
+  {
+    "Code": "1876",
+    "Description": "Bronckhorst"
+  },
+  {
+    "Code": "0213",
+    "Description": "Brummen"
+  },
+  {
+    "Code": "0899",
+    "Description": "Brunssum"
+  },
+  {
+    "Code": "0312",
+    "Description": "Bunnik"
+  },
+  {
+    "Code": "0313",
+    "Description": "Bunschoten"
+  },
+  {
+    "Code": "0214",
+    "Description": "Buren"
+  },
+  {
+    "Code": "0502",
+    "Description": "Capelle aan den IJssel"
+  },
+  {
+    "Code": "0383",
+    "Description": "Castricum"
+  },
+  {
+    "Code": "0109",
+    "Description": "Coevorden"
+  },
+  {
+    "Code": "1706",
+    "Description": "Cranendonck"
+  },
+  {
+    "Code": "1684",
+    "Description": "Cuijk"
+  },
+  {
+    "Code": "0216",
+    "Description": "Culemborg"
+  },
+  {
+    "Code": "0148",
+    "Description": "Dalfsen"
+  },
+  {
+    "Code": "1891",
+    "Description": "Dantumadiel"
+  },
+  {
+    "Code": "0503",
+    "Description": "Delft"
+  },
+  {
+    "Code": "0010",
+    "Description": "Delfzijl"
+  },
+  {
+    "Code": "0762",
+    "Description": "Deurne"
+  },
+  {
+    "Code": "0150",
+    "Description": "Deventer"
+  },
+  {
+    "Code": "0384",
+    "Description": "Diemen"
+  },
+  {
+    "Code": "1774",
+    "Description": "Dinkelland"
+  },
+  {
+    "Code": "0221",
+    "Description": "Doesburg"
+  },
+  {
+    "Code": "0222",
+    "Description": "Doetinchem"
+  },
+  {
+    "Code": "0766",
+    "Description": "Dongen"
+  },
+  {
+    "Code": "0505",
+    "Description": "Dordrecht"
+  },
+  {
+    "Code": "0498",
+    "Description": "Drechterland"
+  },
+  {
+    "Code": "1719",
+    "Description": "Drimmelen"
+  },
+  {
+    "Code": "0303",
+    "Description": "Dronten"
+  },
+  {
+    "Code": "0225",
+    "Description": "Druten"
+  },
+  {
+    "Code": "0226",
+    "Description": "Duiven"
+  },
+  {
+    "Code": "1711",
+    "Description": "Echt-Susteren"
+  },
+  {
+    "Code": "0385",
+    "Description": "Edam-Volendam"
+  },
+  {
+    "Code": "0228",
+    "Description": "Ede"
+  },
+  {
+    "Code": "0317",
+    "Description": "Eemnes"
+  },
+  {
+    "Code": "0770",
+    "Description": "Eersel"
+  },
+  {
+    "Code": "1903",
+    "Description": "Eijsden-Margraten"
+  },
+  {
+    "Code": "0772",
+    "Description": "Eindhoven"
+  },
+  {
+    "Code": "0230",
+    "Description": "Elburg"
+  },
+  {
+    "Code": "0114",
+    "Description": "Emmen"
+  },
+  {
+    "Code": "0388",
+    "Description": "Enkhuizen"
+  },
+  {
+    "Code": "0153",
+    "Description": "Enschede"
+  },
+  {
+    "Code": "0232",
+    "Description": "Epe"
+  },
+  {
+    "Code": "0233",
+    "Description": "Ermelo"
+  },
+  {
+    "Code": "0777",
+    "Description": "Etten-Leur"
+  },
+  {
+    "Code": "1940",
+    "Description": "De Fryske Marren"
+  },
+  {
+    "Code": "0779",
+    "Description": "Geertruidenberg"
+  },
+  {
+    "Code": "1771",
+    "Description": "Geldrop-Mierlo"
+  },
+  {
+    "Code": "1652",
+    "Description": "Gemert-Bakel"
+  },
+  {
+    "Code": "0907",
+    "Description": "Gennep"
+  },
+  {
+    "Code": "0784",
+    "Description": "Gilze en Rijen"
+  },
+  {
+    "Code": "1924",
+    "Description": "Goeree-Overflakkee"
+  },
+  {
+    "Code": "0664",
+    "Description": "Goes"
+  },
+  {
+    "Code": "0785",
+    "Description": "Goirle"
+  },
+  {
+    "Code": "1942",
+    "Description": "Gooise Meren"
+  },
+  {
+    "Code": "0512",
+    "Description": "Gorinchem"
+  },
+  {
+    "Code": "0513",
+    "Description": "Gouda"
+  },
+  {
+    "Code": "0786",
+    "Description": "Grave"
+  },
+  {
+    "Code": "0518",
+    "Description": "'s-Gravenhage"
+  },
+  {
+    "Code": "0014",
+    "Description": "Groningen"
+  },
+  {
+    "Code": "1729",
+    "Description": "Gulpen-Wittem"
+  },
+  {
+    "Code": "0158",
+    "Description": "Haaksbergen"
+  },
+  {
+    "Code": "0788",
+    "Description": "Haaren"
+  },
+  {
+    "Code": "0392",
+    "Description": "Haarlem"
+  },
+  {
+    "Code": "0394",
+    "Description": "Haarlemmermeer"
+  },
+  {
+    "Code": "1655",
+    "Description": "Halderberge"
+  },
+  {
+    "Code": "0160",
+    "Description": "Hardenberg"
+  },
+  {
+    "Code": "0243",
+    "Description": "Harderwijk"
+  },
+  {
+    "Code": "0523",
+    "Description": "Hardinxveld-Giessendam"
+  },
+  {
+    "Code": "0072",
+    "Description": "Harlingen"
+  },
+  {
+    "Code": "0244",
+    "Description": "Hattem"
+  },
+  {
+    "Code": "0396",
+    "Description": "Heemskerk"
+  },
+  {
+    "Code": "0397",
+    "Description": "Heemstede"
+  },
+  {
+    "Code": "0246",
+    "Description": "Heerde"
+  },
+  {
+    "Code": "0074",
+    "Description": "Heerenveen"
+  },
+  {
+    "Code": "0398",
+    "Description": "Heerhugowaard"
+  },
+  {
+    "Code": "0917",
+    "Description": "Heerlen"
+  },
+  {
+    "Code": "1658",
+    "Description": "Heeze-Leende"
+  },
+  {
+    "Code": "0399",
+    "Description": "Heiloo"
+  },
+  {
+    "Code": "0400",
+    "Description": "Den Helder"
+  },
+  {
+    "Code": "0163",
+    "Description": "Hellendoorn"
+  },
+  {
+    "Code": "0530",
+    "Description": "Hellevoetsluis"
+  },
+  {
+    "Code": "0794",
+    "Description": "Helmond"
+  },
+  {
+    "Code": "0531",
+    "Description": "Hendrik-Ido-Ambacht"
+  },
+  {
+    "Code": "0164",
+    "Description": "Hengelo"
+  },
+  {
+    "Code": "0796",
+    "Description": "'s-Hertogenbosch"
+  },
+  {
+    "Code": "0252",
+    "Description": "Heumen"
+  },
+  {
+    "Code": "0797",
+    "Description": "Heusden"
+  },
+  {
+    "Code": "0534",
+    "Description": "Hillegom"
+  },
+  {
+    "Code": "0798",
+    "Description": "Hilvarenbeek"
+  },
+  {
+    "Code": "0402",
+    "Description": "Hilversum"
+  },
+  {
+    "Code": "1963",
+    "Description": "Hoeksche Waard"
+  },
+  {
+    "Code": "1735",
+    "Description": "Hof van Twente"
+  },
+  {
+    "Code": "1966",
+    "Description": "Het Hogeland"
+  },
+  {
+    "Code": "1911",
+    "Description": "Hollands Kroon"
+  },
+  {
+    "Code": "0118",
+    "Description": "Hoogeveen"
+  },
+  {
+    "Code": "0405",
+    "Description": "Hoorn"
+  },
+  {
+    "Code": "1507",
+    "Description": "Horst aan de Maas"
+  },
+  {
+    "Code": "0321",
+    "Description": "Houten"
+  },
+  {
+    "Code": "0406",
+    "Description": "Huizen"
+  },
+  {
+    "Code": "0677",
+    "Description": "Hulst"
+  },
+  {
+    "Code": "0353",
+    "Description": "IJsselstein"
+  },
+  {
+    "Code": "1884",
+    "Description": "Kaag en Braassem"
+  },
+  {
+    "Code": "0166",
+    "Description": "Kampen"
+  },
+  {
+    "Code": "0678",
+    "Description": "Kapelle"
+  },
+  {
+    "Code": "0537",
+    "Description": "Katwijk"
+  },
+  {
+    "Code": "0928",
+    "Description": "Kerkrade"
+  },
+  {
+    "Code": "1598",
+    "Description": "Koggenland"
+  },
+  {
+    "Code": "0542",
+    "Description": "Krimpen aan den IJssel"
+  },
+  {
+    "Code": "1931",
+    "Description": "Krimpenerwaard"
+  },
+  {
+    "Code": "1659",
+    "Description": "Laarbeek"
+  },
+  {
+    "Code": "1685",
+    "Description": "Landerd"
+  },
+  {
+    "Code": "0882",
+    "Description": "Landgraaf"
+  },
+  {
+    "Code": "0415",
+    "Description": "Landsmeer"
+  },
+  {
+    "Code": "0416",
+    "Description": "Langedijk"
+  },
+  {
+    "Code": "1621",
+    "Description": "Lansingerland"
+  },
+  {
+    "Code": "0417",
+    "Description": "Laren"
+  },
+  {
+    "Code": "0080",
+    "Description": "Leeuwarden"
+  },
+  {
+    "Code": "0546",
+    "Description": "Leiden"
+  },
+  {
+    "Code": "0547",
+    "Description": "Leiderdorp"
+  },
+  {
+    "Code": "1916",
+    "Description": "Leidschendam-Voorburg"
+  },
+  {
+    "Code": "0995",
+    "Description": "Lelystad"
+  },
+  {
+    "Code": "1640",
+    "Description": "Leudal"
+  },
+  {
+    "Code": "0327",
+    "Description": "Leusden"
+  },
+  {
+    "Code": "1705",
+    "Description": "Lingewaard"
+  },
+  {
+    "Code": "0553",
+    "Description": "Lisse"
+  },
+  {
+    "Code": "0262",
+    "Description": "Lochem"
+  },
+  {
+    "Code": "0809",
+    "Description": "Loon op Zand"
+  },
+  {
+    "Code": "0331",
+    "Description": "Lopik"
+  },
+  {
+    "Code": "0024",
+    "Description": "Loppersum"
+  },
+  {
+    "Code": "0168",
+    "Description": "Losser"
+  },
+  {
+    "Code": "0263",
+    "Description": "Maasdriel"
+  },
+  {
+    "Code": "1641",
+    "Description": "Maasgouw"
+  },
+  {
+    "Code": "0556",
+    "Description": "Maassluis"
+  },
+  {
+    "Code": "0935",
+    "Description": "Maastricht"
+  },
+  {
+    "Code": "0420",
+    "Description": "Medemblik"
+  },
+  {
+    "Code": "0938",
+    "Description": "Meerssen"
+  },
+  {
+    "Code": "1948",
+    "Description": "Meierijstad"
+  },
+  {
+    "Code": "0119",
+    "Description": "Meppel"
+  },
+  {
+    "Code": "0687",
+    "Description": "Middelburg"
+  },
+  {
+    "Code": "1842",
+    "Description": "Midden-Delfland"
+  },
+  {
+    "Code": "1731",
+    "Description": "Midden-Drenthe"
+  },
+  {
+    "Code": "1952",
+    "Description": "Midden-Groningen"
+  },
+  {
+    "Code": "0815",
+    "Description": "Mill en Sint Hubert"
+  },
+  {
+    "Code": "1709",
+    "Description": "Moerdijk"
+  },
+  {
+    "Code": "1978",
+    "Description": "Molenlanden"
+  },
+  {
+    "Code": "1955",
+    "Description": "Montferland"
+  },
+  {
+    "Code": "0335",
+    "Description": "Montfoort"
+  },
+  {
+    "Code": "0944",
+    "Description": "Mook en Middelaar"
+  },
+  {
+    "Code": "1740",
+    "Description": "Neder-Betuwe"
+  },
+  {
+    "Code": "0946",
+    "Description": "Nederweert"
+  },
+  {
+    "Code": "0356",
+    "Description": "Nieuwegein"
+  },
+  {
+    "Code": "0569",
+    "Description": "Nieuwkoop"
+  },
+  {
+    "Code": "0267",
+    "Description": "Nijkerk"
+  },
+  {
+    "Code": "0268",
+    "Description": "Nijmegen"
+  },
+  {
+    "Code": "1930",
+    "Description": "Nissewaard"
+  },
+  {
+    "Code": "1970",
+    "Description": "Noardeast-Fryslân"
+  },
+  {
+    "Code": "1695",
+    "Description": "Noord-Beveland"
+  },
+  {
+    "Code": "1699",
+    "Description": "Noordenveld"
+  },
+  {
+    "Code": "0171",
+    "Description": "Noordoostpolder"
+  },
+  {
+    "Code": "0575",
+    "Description": "Noordwijk"
+  },
+  {
+    "Code": "0820",
+    "Description": "Nuenen, Gerwen en Nederwetten"
+  },
+  {
+    "Code": "0302",
+    "Description": "Nunspeet"
+  },
+  {
+    "Code": "0579",
+    "Description": "Oegstgeest"
+  },
+  {
+    "Code": "0823",
+    "Description": "Oirschot"
+  },
+  {
+    "Code": "0824",
+    "Description": "Oisterwijk"
+  },
+  {
+    "Code": "1895",
+    "Description": "Oldambt"
+  },
+  {
+    "Code": "0269",
+    "Description": "Oldebroek"
+  },
+  {
+    "Code": "0173",
+    "Description": "Oldenzaal"
+  },
+  {
+    "Code": "1773",
+    "Description": "Olst-Wijhe"
+  },
+  {
+    "Code": "0175",
+    "Description": "Ommen"
+  },
+  {
+    "Code": "1586",
+    "Description": "Oost Gelre"
+  },
+  {
+    "Code": "0826",
+    "Description": "Oosterhout"
+  },
+  {
+    "Code": "0085",
+    "Description": "Ooststellingwerf"
+  },
+  {
+    "Code": "0431",
+    "Description": "Oostzaan"
+  },
+  {
+    "Code": "0432",
+    "Description": "Opmeer"
+  },
+  {
+    "Code": "0086",
+    "Description": "Opsterland"
+  },
+  {
+    "Code": "0828",
+    "Description": "Oss"
+  },
+  {
+    "Code": "1509",
+    "Description": "Oude IJsselstreek"
+  },
+  {
+    "Code": "0437",
+    "Description": "Ouder-Amstel"
+  },
+  {
+    "Code": "0589",
+    "Description": "Oudewater"
+  },
+  {
+    "Code": "1734",
+    "Description": "Overbetuwe"
+  },
+  {
+    "Code": "0590",
+    "Description": "Papendrecht"
+  },
+  {
+    "Code": "1894",
+    "Description": "Peel en Maas"
+  },
+  {
+    "Code": "0765",
+    "Description": "Pekela"
+  },
+  {
+    "Code": "1926",
+    "Description": "Pijnacker-Nootdorp"
+  },
+  {
+    "Code": "0439",
+    "Description": "Purmerend"
+  },
+  {
+    "Code": "0273",
+    "Description": "Putten"
+  },
+  {
+    "Code": "0177",
+    "Description": "Raalte"
+  },
+  {
+    "Code": "0703",
+    "Description": "Reimerswaal"
+  },
+  {
+    "Code": "0274",
+    "Description": "Renkum"
+  },
+  {
+    "Code": "0339",
+    "Description": "Renswoude"
+  },
+  {
+    "Code": "1667",
+    "Description": "Reusel-De Mierden"
+  },
+  {
+    "Code": "0275",
+    "Description": "Rheden"
+  },
+  {
+    "Code": "0340",
+    "Description": "Rhenen"
+  },
+  {
+    "Code": "0597",
+    "Description": "Ridderkerk"
+  },
+  {
+    "Code": "1742",
+    "Description": "Rijssen-Holten"
+  },
+  {
+    "Code": "0603",
+    "Description": "Rijswijk"
+  },
+  {
+    "Code": "1669",
+    "Description": "Roerdalen"
+  },
+  {
+    "Code": "0957",
+    "Description": "Roermond"
+  },
+  {
+    "Code": "0736",
+    "Description": "De Ronde Venen"
+  },
+  {
+    "Code": "1674",
+    "Description": "Roosendaal"
+  },
+  {
+    "Code": "0599",
+    "Description": "Rotterdam"
+  },
+  {
+    "Code": "0277",
+    "Description": "Rozendaal"
+  },
+  {
+    "Code": "0840",
+    "Description": "Rucphen"
+  },
+  {
+    "Code": "0441",
+    "Description": "Schagen"
+  },
+  {
+    "Code": "0279",
+    "Description": "Scherpenzeel"
+  },
+  {
+    "Code": "0606",
+    "Description": "Schiedam"
+  },
+  {
+    "Code": "0088",
+    "Description": "Schiermonnikoog"
+  },
+  {
+    "Code": "1676",
+    "Description": "Schouwen-Duiveland"
+  },
+  {
+    "Code": "0965",
+    "Description": "Simpelveld"
+  },
+  {
+    "Code": "1702",
+    "Description": "Sint Anthonis"
+  },
+  {
+    "Code": "0845",
+    "Description": "Sint-Michielsgestel"
+  },
+  {
+    "Code": "1883",
+    "Description": "Sittard-Geleen"
+  },
+  {
+    "Code": "0610",
+    "Description": "Sliedrecht"
+  },
+  {
+    "Code": "1714",
+    "Description": "Sluis"
+  },
+  {
+    "Code": "0090",
+    "Description": "Smallingerland"
+  },
+  {
+    "Code": "0342",
+    "Description": "Soest"
+  },
+  {
+    "Code": "0847",
+    "Description": "Someren"
+  },
+  {
+    "Code": "0848",
+    "Description": "Son en Breugel"
+  },
+  {
+    "Code": "0037",
+    "Description": "Stadskanaal"
+  },
+  {
+    "Code": "0180",
+    "Description": "Staphorst"
+  },
+  {
+    "Code": "0532",
+    "Description": "Stede Broec"
+  },
+  {
+    "Code": "0851",
+    "Description": "Steenbergen"
+  },
+  {
+    "Code": "1708",
+    "Description": "Steenwijkerland"
+  },
+  {
+    "Code": "0971",
+    "Description": "Stein"
+  },
+  {
+    "Code": "1904",
+    "Description": "Stichtse Vecht"
+  },
+  {
+    "Code": "1900",
+    "Description": "Súdwest-Fryslân"
+  },
+  {
+    "Code": "0715",
+    "Description": "Terneuzen"
+  },
+  {
+    "Code": "0093",
+    "Description": "Terschelling"
+  },
+  {
+    "Code": "0448",
+    "Description": "Texel"
+  },
+  {
+    "Code": "1525",
+    "Description": "Teylingen"
+  },
+  {
+    "Code": "0716",
+    "Description": "Tholen"
+  },
+  {
+    "Code": "0281",
+    "Description": "Tiel"
+  },
+  {
+    "Code": "0855",
+    "Description": "Tilburg"
+  },
+  {
+    "Code": "0183",
+    "Description": "Tubbergen"
+  },
+  {
+    "Code": "1700",
+    "Description": "Twenterand"
+  },
+  {
+    "Code": "1730",
+    "Description": "Tynaarlo"
+  },
+  {
+    "Code": "0737",
+    "Description": "Tytsjerksteradiel"
+  },
+  {
+    "Code": "0856",
+    "Description": "Uden"
+  },
+  {
+    "Code": "0450",
+    "Description": "Uitgeest"
+  },
+  {
+    "Code": "0451",
+    "Description": "Uithoorn"
+  },
+  {
+    "Code": "0184",
+    "Description": "Urk"
+  },
+  {
+    "Code": "0344",
+    "Description": "Utrecht"
+  },
+  {
+    "Code": "1581",
+    "Description": "Utrechtse Heuvelrug"
+  },
+  {
+    "Code": "0981",
+    "Description": "Vaals"
+  },
+  {
+    "Code": "0994",
+    "Description": "Valkenburg aan de Geul"
+  },
+  {
+    "Code": "0858",
+    "Description": "Valkenswaard"
+  },
+  {
+    "Code": "0047",
+    "Description": "Veendam"
+  },
+  {
+    "Code": "0345",
+    "Description": "Veenendaal"
+  },
+  {
+    "Code": "0717",
+    "Description": "Veere"
+  },
+  {
+    "Code": "0861",
+    "Description": "Veldhoven"
+  },
+  {
+    "Code": "0453",
+    "Description": "Velsen"
+  },
+  {
+    "Code": "0983",
+    "Description": "Venlo"
+  },
+  {
+    "Code": "0984",
+    "Description": "Venray"
+  },
+  {
+    "Code": "1961",
+    "Description": "Vijfheerenlanden"
+  },
+  {
+    "Code": "0622",
+    "Description": "Vlaardingen"
+  },
+  {
+    "Code": "0096",
+    "Description": "Vlieland"
+  },
+  {
+    "Code": "0718",
+    "Description": "Vlissingen"
+  },
+  {
+    "Code": "0986",
+    "Description": "Voerendaal"
+  },
+  {
+    "Code": "0626",
+    "Description": "Voorschoten"
+  },
+  {
+    "Code": "0285",
+    "Description": "Voorst"
+  },
+  {
+    "Code": "0865",
+    "Description": "Vught"
+  },
+  {
+    "Code": "1949",
+    "Description": "Waadhoeke"
+  },
+  {
+    "Code": "0866",
+    "Description": "Waalre"
+  },
+  {
+    "Code": "0867",
+    "Description": "Waalwijk"
+  },
+  {
+    "Code": "0627",
+    "Description": "Waddinxveen"
+  },
+  {
+    "Code": "0289",
+    "Description": "Wageningen"
+  },
+  {
+    "Code": "0629",
+    "Description": "Wassenaar"
+  },
+  {
+    "Code": "0852",
+    "Description": "Waterland"
+  },
+  {
+    "Code": "0988",
+    "Description": "Weert"
+  },
+  {
+    "Code": "0457",
+    "Description": "Weesp"
+  },
+  {
+    "Code": "1960",
+    "Description": "West Betuwe"
+  },
+  {
+    "Code": "0668",
+    "Description": "West Maas en Waal"
+  },
+  {
+    "Code": "1969",
+    "Description": "Westerkwartier"
+  },
+  {
+    "Code": "1701",
+    "Description": "Westerveld"
+  },
+  {
+    "Code": "0293",
+    "Description": "Westervoort"
+  },
+  {
+    "Code": "1950",
+    "Description": "Westerwolde"
+  },
+  {
+    "Code": "1783",
+    "Description": "Westland"
+  },
+  {
+    "Code": "0098",
+    "Description": "Weststellingwerf"
+  },
+  {
+    "Code": "0614",
+    "Description": "Westvoorne"
+  },
+  {
+    "Code": "0189",
+    "Description": "Wierden"
+  },
+  {
+    "Code": "0296",
+    "Description": "Wijchen"
+  },
+  {
+    "Code": "1696",
+    "Description": "Wijdemeren"
+  },
+  {
+    "Code": "0352",
+    "Description": "Wijk bij Duurstede"
+  },
+  {
+    "Code": "0294",
+    "Description": "Winterswijk"
+  },
+  {
+    "Code": "0873",
+    "Description": "Woensdrecht"
+  },
+  {
+    "Code": "0632",
+    "Description": "Woerden"
+  },
+  {
+    "Code": "1690",
+    "Description": "De Wolden"
+  },
+  {
+    "Code": "0880",
+    "Description": "Wormerland"
+  },
+  {
+    "Code": "0351",
+    "Description": "Woudenberg"
+  },
+  {
+    "Code": "0479",
+    "Description": "Zaanstad"
+  },
+  {
+    "Code": "0297",
+    "Description": "Zaltbommel"
+  },
+  {
+    "Code": "0473",
+    "Description": "Zandvoort"
+  },
+  {
+    "Code": "0050",
+    "Description": "Zeewolde"
+  },
+  {
+    "Code": "0355",
+    "Description": "Zeist"
+  },
+  {
+    "Code": "0299",
+    "Description": "Zevenaar"
+  },
+  {
+    "Code": "0637",
+    "Description": "Zoetermeer"
+  },
+  {
+    "Code": "0638",
+    "Description": "Zoeterwoude"
+  },
+  {
+    "Code": "1892",
+    "Description": "Zuidplas"
+  },
+  {
+    "Code": "0879",
+    "Description": "Zundert"
+  },
+  {
+    "Code": "0301",
+    "Description": "Zutphen"
+  },
+  {
+    "Code": "1896",
+    "Description": "Zwartewaterland"
+  },
+  {
+    "Code": "0642",
+    "Description": "Zwijndrecht"
+  },
+  {
+    "Code": "0193",
+    "Description": "Zwolle"
+  }
+]

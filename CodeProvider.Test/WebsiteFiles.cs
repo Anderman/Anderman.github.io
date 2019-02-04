@@ -5,7 +5,8 @@ namespace CodeProvider.Test
 {
 	public static class WebsiteFiles
 	{
-		public static string CodeProvider => $"{TestRoot}Excel/";
+		public static string CodeProvider => $"{TestRoot}/Declaration/";
+		public static string Municipality => $"{TestRoot}/Municipality/";
 
 		public static string TestRoot => Path.GetFullPath(".").ToLower().RemoveLiveTestPath()
 			.Split(".test")[0]+".test/";
