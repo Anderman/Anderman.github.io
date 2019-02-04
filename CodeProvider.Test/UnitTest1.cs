@@ -28,7 +28,9 @@ namespace CodeProvider.Test
 			var fileName = Path.GetFileName(path);
 			var root = Path.GetDirectoryName(path);
 			//var fileName = parts[parts.Length - 1];
-			var outfile = root +"/../../"+ fileName.Substring(0, 3) + ".json";
+			var pathName = root + "/../../DeclarationCode/";
+			Directory.CreateDirectory(pathName);
+			var outfile = pathName+ fileName.Substring(0, 3) + ".json";
 			var codes = GetCodes(path, 1, 18, 0, 1);
 			var contents = JsonConvert.SerializeObject(codes, Formatting.Indented);
 
