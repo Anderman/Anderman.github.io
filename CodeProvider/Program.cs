@@ -19,7 +19,7 @@ namespace CodeProvider
 
 		private static void CreateIndexHtml(List<string> links)
 		{
-			var contents = string.Join("<br/>", links.Select(x => $"<a src='{x}'>{x}</a>"));
+			var contents = string.Join("<br/>", links.Select(x => $"<a href='{x}'>{x}</a>"));
 			File.WriteAllText($"{WebsiteFiles.Root}index.html", contents);
 		}
 
