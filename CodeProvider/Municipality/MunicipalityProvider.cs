@@ -17,12 +17,14 @@ namespace CodeProvider.Municipality
 
 			links.Add($"{SubDirectory}/{outfileName}");
 
-			var contents = ExcelReader.GetCodes(path, 1, 2, 0, 2);
+			using (var stream = File.Open(path, FileMode.Open, FileAccess.Read))
+			{
+				var contents = ExcelReader.GetCodes(stream, 1, 2, 0, 2);
+				var outPath = $"{directory}{outfileName}";
+				Console.WriteLine($"Export {outPath}");
 
-			var outPath = $"{directory}{outfileName}";
-			Console.WriteLine($"Export {outPath}");
-
-			File.WriteAllText(outPath, contents);
+				File.WriteAllText(outPath, contents);
+			}
 		}
 	}
 }

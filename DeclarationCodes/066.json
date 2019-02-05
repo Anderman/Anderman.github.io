@@ -1,0 +1,18 @@
+[
+  {
+    "Code": "2001",
+    "Description": "Zorg in verband met een auditieve beperking"
+  },
+  {
+    "Code": "2002",
+    "Description": "Zorg in verband met een communicatieve beperking als gevolg van een taalontwikkelingsstoornis"
+  },
+  {
+    "Code": "2003",
+    "Description": "Uittoeslag zorgverlener"
+  },
+  {
+    "Code": "2004",
+    "Description": "Verblijf in het kader van ZG-zorg"
+  }
+]

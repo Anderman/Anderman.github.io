@@ -1,0 +1,1382 @@
+[
+  {
+    "Code": "12851",
+    "Description": "SMR gedragsmatig en nicotine vervanging"
+  },
+  {
+    "Code": "12852",
+    "Description": "SMR gedragsmatig en UR-middelen"
+  },
+  {
+    "Code": "12853",
+    "Description": "SMR gedragsmatig, nicotine vervanging en UR-middelen"
+  },
+  {
+    "Code": "12854",
+    "Description": "Pakjekans/Groepstraining"
+  },
+  {
+    "Code": "12855",
+    "Description": "Pakjekans/Groepstraining Dropout"
+  },
+  {
+    "Code": "12856",
+    "Description": "SMR Gedragsmatige Ondersteuning (indiv) Dropout"
+  },
+  {
+    "Code": "19000",
+    "Description": "Verpleging in de thuissituatie, noodzakelijk in verband met medisch specialistische zorg"
+  },
+  {
+    "Code": "19001",
+    "Description": "Verpleging, minder complexe zorg noodzakelijk in verband met medisch specialistische zorg in de thuissituatie"
+  },
+  {
+    "Code": "19002",
+    "Description": "Verpleging, complexe zorg noodzakelijk in verband met medisch specialistische zorg in de thuissituatie"
+  },
+  {
+    "Code": "20000",
+    "Description": "1ste consult"
+  },
+  {
+    "Code": "20001",
+    "Description": "Herhaalconsult"
+  },
+  {
+    "Code": "20002",
+    "Description": "Telefonisch consult"
+  },
+  {
+    "Code": "20003",
+    "Description": "Avond/weekend toeslag"
+  },
+  {
+    "Code": "20004",
+    "Description": "Malariarecept"
+  },
+  {
+    "Code": "20005",
+    "Description": "Antibiotica-recept"
+  },
+  {
+    "Code": "20006",
+    "Description": "Hoogteziekte-recept"
+  },
+  {
+    "Code": "20007",
+    "Description": "Medische doorverwijzing"
+  },
+  {
+    "Code": "20008",
+    "Description": "Consult langverblijf (3 maanden of langer)"
+  },
+  {
+    "Code": "20009",
+    "Description": "Consult niet verschenen zonder bericht"
+  },
+  {
+    "Code": "20010",
+    "Description": "Consult niet verschenen zonder bericht 2 en meer personen"
+  },
+  {
+    "Code": "20011",
+    "Description": "Consult korter dan 20 minuten"
+  },
+  {
+    "Code": "20012",
+    "Description": "Consult langer dan 20 minuten"
+  },
+  {
+    "Code": "20013",
+    "Description": "Visite"
+  },
+  {
+    "Code": "20014",
+    "Description": "Visite langer dan 20 minuten"
+  },
+  {
+    "Code": "20015",
+    "Description": "Telefonisch consult"
+  },
+  {
+    "Code": "20016",
+    "Description": "Consult meereizend kind"
+  },
+  {
+    "Code": "20100",
+    "Description": "BMR-vaccin NVI"
+  },
+  {
+    "Code": "20101",
+    "Description": "Priorix"
+  },
+  {
+    "Code": "20102",
+    "Description": "Typherix wwsp 25mcg"
+  },
+  {
+    "Code": "20103",
+    "Description": "Typhim Vi"
+  },
+  {
+    "Code": "20104",
+    "Description": "Vivotif Berna"
+  },
+  {
+    "Code": "20105",
+    "Description": "Dukoral"
+  },
+  {
+    "Code": "20106",
+    "Description": "dTP-vaccin NVI"
+  },
+  {
+    "Code": "20107",
+    "Description": "Revaxis inj susp in wwsp"
+  },
+  {
+    "Code": "20108",
+    "Description": "Stamaril"
+  },
+  {
+    "Code": "20109",
+    "Description": "Act-Hib"
+  },
+  {
+    "Code": "20110",
+    "Description": "Hiberix"
+  },
+  {
+    "Code": "20111",
+    "Description": "Avaxim"
+  },
+  {
+    "Code": "20112",
+    "Description": "Epaxal"
+  },
+  {
+    "Code": "20113",
+    "Description": "GammaQuin immunogl L"
+  },
+  {
+    "Code": "20114",
+    "Description": "Havrix 1440"
+  },
+  {
+    "Code": "20115",
+    "Description": "Immunoglobuline 1 ml"
+  },
+  {
+    "Code": "20116",
+    "Description": "Immunoglobuline 5 ml"
+  },
+  {
+    "Code": "20117",
+    "Description": "Havrix jr 720 wwsp"
+  },
+  {
+    "Code": "20118",
+    "Description": "Vaqta Junior"
+  },
+  {
+    "Code": "20119",
+    "Description": "Engerix b"
+  },
+  {
+    "Code": "20120",
+    "Description": "HBvaxPRO 0,5 ml"
+  },
+  {
+    "Code": "20121",
+    "Description": "HBvaxPRO 1 ml"
+  },
+  {
+    "Code": "20122",
+    "Description": "Engerix-B Junior"
+  },
+  {
+    "Code": "20123",
+    "Description": "Twinrix adult"
+  },
+  {
+    "Code": "20124",
+    "Description": "Ambirix"
+  },
+  {
+    "Code": "20125",
+    "Description": "Fluarix"
+  },
+  {
+    "Code": "20126",
+    "Description": "Influvac"
+  },
+  {
+    "Code": "20127",
+    "Description": "Vaccingrip"
+  },
+  {
+    "Code": "20128",
+    "Description": "Biken vaccin"
+  },
+  {
+    "Code": "20129",
+    "Description": "Mencevax ACWY"
+  },
+  {
+    "Code": "20130",
+    "Description": "Meningitec"
+  },
+  {
+    "Code": "20131",
+    "Description": "NeisVac-C"
+  },
+  {
+    "Code": "20132",
+    "Description": "Pneumo 23 pneumokokkenvaccin"
+  },
+  {
+    "Code": "20133",
+    "Description": "Prevenar"
+  },
+  {
+    "Code": "20134",
+    "Description": "NVI-vaccin"
+  },
+  {
+    "Code": "20135",
+    "Description": "Rabies merieux hdcv vaccin"
+  },
+  {
+    "Code": "20136",
+    "Description": "Rabipur"
+  },
+  {
+    "Code": "20137",
+    "Description": "FSME-Immun"
+  },
+  {
+    "Code": "20138",
+    "Description": "FSME-Immun junior"
+  },
+  {
+    "Code": "20139",
+    "Description": "Tetanustoxoid"
+  },
+  {
+    "Code": "20140",
+    "Description": "BCG vaccin SSI"
+  },
+  {
+    "Code": "20141",
+    "Description": "Tuberculine NVI"
+  },
+  {
+    "Code": "20142",
+    "Description": "Vaccinatie"
+  },
+  {
+    "Code": "20143",
+    "Description": "Laboratoriumkosten"
+  },
+  {
+    "Code": "20144",
+    "Description": "POLIOMYELITISVACCIN"
+  },
+  {
+    "Code": "20145",
+    "Description": "TETANUS VACCIN 50 stuks"
+  },
+  {
+    "Code": "20146",
+    "Description": "TETANUS VACCIN 1 stuk"
+  },
+  {
+    "Code": "20147",
+    "Description": "ENGERIX-B VACCIN 10 stuks"
+  },
+  {
+    "Code": "20148",
+    "Description": "HBVAXPRO 10"
+  },
+  {
+    "Code": "20149",
+    "Description": "HBVAXPRO 40"
+  },
+  {
+    "Code": "20150",
+    "Description": "FENDRIX"
+  },
+  {
+    "Code": "20151",
+    "Description": "HAVRIX 1440 10 stuks"
+  },
+  {
+    "Code": "20152",
+    "Description": "TWINRIX ADULT 10 stuks"
+  },
+  {
+    "Code": "20153",
+    "Description": "REVAXIS 10 stuks"
+  },
+  {
+    "Code": "20154",
+    "Description": "DTP VACCIN 10 stuks"
+  },
+  {
+    "Code": "20155",
+    "Description": "MENVEO"
+  },
+  {
+    "Code": "20156",
+    "Description": "NIMENRIX"
+  },
+  {
+    "Code": "20157",
+    "Description": "Vaqta adult"
+  },
+  {
+    "Code": "20158",
+    "Description": "HBvaxPRO 40 mcg 1 ml"
+  },
+  {
+    "Code": "20159",
+    "Description": "Fendrix 40 mcg 0,5 ml"
+  },
+  {
+    "Code": "20160",
+    "Description": "Verorab"
+  },
+  {
+    "Code": "20161",
+    "Description": "MARIG"
+  },
+  {
+    "Code": "20162",
+    "Description": "NIMENRIX"
+  },
+  {
+    "Code": "20163",
+    "Description": "MMDRvaxPRO"
+  },
+  {
+    "Code": "20164",
+    "Description": "Provarivax"
+  },
+  {
+    "Code": "20165",
+    "Description": "Zostavax"
+  },
+  {
+    "Code": "20166",
+    "Description": "Tetaquin"
+  },
+  {
+    "Code": "20167",
+    "Description": "Variquin"
+  },
+  {
+    "Code": "20168",
+    "Description": "Hepbquin 1,5 ml"
+  },
+  {
+    "Code": "20169",
+    "Description": "Hepbquin 5 ml"
+  },
+  {
+    "Code": "20170",
+    "Description": "BMR-vaccin NVI"
+  },
+  {
+    "Code": "20171",
+    "Description": "Priorix"
+  },
+  {
+    "Code": "20172",
+    "Description": "dTP-vaccin NVI"
+  },
+  {
+    "Code": "20173",
+    "Description": "Revaxis inj susp in wwsp"
+  },
+  {
+    "Code": "20174",
+    "Description": "Act-Hib"
+  },
+  {
+    "Code": "20175",
+    "Description": "Hiberix"
+  },
+  {
+    "Code": "20176",
+    "Description": "Avaxim"
+  },
+  {
+    "Code": "20177",
+    "Description": "Epaxal"
+  },
+  {
+    "Code": "20178",
+    "Description": "GammaQuin immunogl L"
+  },
+  {
+    "Code": "20179",
+    "Description": "Havrix 1440"
+  },
+  {
+    "Code": "20180",
+    "Description": "Immunoglobuline 1 ml"
+  },
+  {
+    "Code": "20181",
+    "Description": "Immunoglobuline 5 ml"
+  },
+  {
+    "Code": "20182",
+    "Description": "Havrix jr 720 wwsp"
+  },
+  {
+    "Code": "20183",
+    "Description": "Vaqta Junior"
+  },
+  {
+    "Code": "20184",
+    "Description": "Engerix b"
+  },
+  {
+    "Code": "20185",
+    "Description": "HBvaxPRO 0,5 ml"
+  },
+  {
+    "Code": "20186",
+    "Description": "HBvaxPRO 1 ml"
+  },
+  {
+    "Code": "20187",
+    "Description": "Engerix-B Junior"
+  },
+  {
+    "Code": "20188",
+    "Description": "Twinrix adult"
+  },
+  {
+    "Code": "20189",
+    "Description": "Ambirix"
+  },
+  {
+    "Code": "20190",
+    "Description": "Influvac"
+  },
+  {
+    "Code": "20191",
+    "Description": "Vaccingrip"
+  },
+  {
+    "Code": "20192",
+    "Description": "Meningitec"
+  },
+  {
+    "Code": "20193",
+    "Description": "NVI-vaccin"
+  },
+  {
+    "Code": "20194",
+    "Description": "Rabies merieux hdcv vaccin"
+  },
+  {
+    "Code": "20195",
+    "Description": "Rabipur"
+  },
+  {
+    "Code": "20196",
+    "Description": "Tetanustoxoid"
+  },
+  {
+    "Code": "20197",
+    "Description": "BCG vaccin"
+  },
+  {
+    "Code": "20198",
+    "Description": "Ixiaro"
+  },
+  {
+    "Code": "20199",
+    "Description": "Atovaquon/proguanyl 12 stuks"
+  },
+  {
+    "Code": "20200",
+    "Description": "Lariam"
+  },
+  {
+    "Code": "20201",
+    "Description": "Malarone"
+  },
+  {
+    "Code": "20202",
+    "Description": "Paludrine"
+  },
+  {
+    "Code": "20203",
+    "Description": "PEP-startset"
+  },
+  {
+    "Code": "20204",
+    "Description": "Biltricide"
+  },
+  {
+    "Code": "20205",
+    "Description": "Atovaquon/proguanyl per stuk"
+  },
+  {
+    "Code": "20250",
+    "Description": "Vaqta Adult"
+  },
+  {
+    "Code": "20300",
+    "Description": "Muskietennet"
+  },
+  {
+    "Code": "20301",
+    "Description": "DEET"
+  },
+  {
+    "Code": "20302",
+    "Description": "Muggenmelk"
+  },
+  {
+    "Code": "20303",
+    "Description": "O.R.S. (Oral Rehydration Salts)"
+  },
+  {
+    "Code": "20304",
+    "Description": "Prikpaspoort"
+  },
+  {
+    "Code": "20305",
+    "Description": "Stempels"
+  },
+  {
+    "Code": "20306",
+    "Description": "Tropen in-keuringen"
+  },
+  {
+    "Code": "20307",
+    "Description": "Tropen uit-keuringen"
+  },
+  {
+    "Code": "20308",
+    "Description": "Digitaal reizigersdossier"
+  },
+  {
+    "Code": "20309",
+    "Description": "Mantouxtest"
+  },
+  {
+    "Code": "20310",
+    "Description": "Serologie HAV/HBV"
+  },
+  {
+    "Code": "20311",
+    "Description": "Titerbepaling Hepatitis A/B"
+  },
+  {
+    "Code": "20312",
+    "Description": "Bloedonderzoek Hepatitis A of B"
+  },
+  {
+    "Code": "20313",
+    "Description": "Entstoffen in verband met vaccinatie"
+  },
+  {
+    "Code": "20314",
+    "Description": "IGRA (interferon gamma release assay)"
+  },
+  {
+    "Code": "20315",
+    "Description": "Mantouxtest"
+  },
+  {
+    "Code": "20316",
+    "Description": "Start set post expositie profylaxe antivirale middelen bij risicovolle accidenten met hiv-risico ten behoeve van infectieziektes"
+  },
+  {
+    "Code": "20317",
+    "Description": "HIV test ten behoeve van de tuberculose"
+  },
+  {
+    "Code": "20400",
+    "Description": "Cursus en voorlichting over perioden rond zwangerschap"
+  },
+  {
+    "Code": "20401",
+    "Description": "Cursus en voorlichting over voeding"
+  },
+  {
+    "Code": "20402",
+    "Description": "Cursus en voorlichting over stoppen met roken"
+  },
+  {
+    "Code": "20403",
+    "Description": "Cursus en voorlichting over eerste hulp aan kinderen"
+  },
+  {
+    "Code": "20404",
+    "Description": "Cursus omgaan met diabetes"
+  },
+  {
+    "Code": "20405",
+    "Description": "Cursus omgaan met reuma"
+  },
+  {
+    "Code": "20406",
+    "Description": "Cursus omgaan met astma"
+  },
+  {
+    "Code": "20407",
+    "Description": "Valpreventie"
+  },
+  {
+    "Code": "20408",
+    "Description": "Leefstijladvies"
+  },
+  {
+    "Code": "20409",
+    "Description": "Cursus en voorlichting bij overgewicht en ondergewicht"
+  },
+  {
+    "Code": "20410",
+    "Description": "Cursus \"Leren omgaan met…\""
+  },
+  {
+    "Code": "20411",
+    "Description": "Zelfmanagement bij …"
+  },
+  {
+    "Code": "20412",
+    "Description": "Verantwoord beweegprogramma's"
+  },
+  {
+    "Code": "20413",
+    "Description": "Cursus en voorlichting over eerste hulp volwassenen"
+  },
+  {
+    "Code": "20414",
+    "Description": "Leefstijlcoaching kinderen basis programma"
+  },
+  {
+    "Code": "20415",
+    "Description": "Leefstijlcoaching kinderen terugval programma"
+  },
+  {
+    "Code": "20416",
+    "Description": "Online zelfhulpmodule intake"
+  },
+  {
+    "Code": "20417",
+    "Description": "Online zelfhulpmodule blended coaching"
+  },
+  {
+    "Code": "20500",
+    "Description": "Kreatinine"
+  },
+  {
+    "Code": "20501",
+    "Description": "ASAT"
+  },
+  {
+    "Code": "20502",
+    "Description": "ALAT"
+  },
+  {
+    "Code": "20503",
+    "Description": "Test tuberculose"
+  },
+  {
+    "Code": "20504",
+    "Description": "Ziehl Neelsen tubercoluse test"
+  },
+  {
+    "Code": "20505",
+    "Description": "Radiologisch onderzoek thorax, een of meerdere richtingen, inclusief doorlichting"
+  },
+  {
+    "Code": "20506",
+    "Description": "HIV-sneltest"
+  },
+  {
+    "Code": "21000",
+    "Description": "1e behandeling kuren met reuma (reumatoïde artritis)"
+  },
+  {
+    "Code": "21001",
+    "Description": "1e behandeling kuren met reuma (bechterew)"
+  },
+  {
+    "Code": "21002",
+    "Description": "1e behandeling kuren met reuma (artrose)"
+  },
+  {
+    "Code": "21003",
+    "Description": "1e behandeling kuren met reuma (fibromyalgie)"
+  },
+  {
+    "Code": "21004",
+    "Description": "1e behandeling kuren met reuma (overige)"
+  },
+  {
+    "Code": "21005",
+    "Description": "Vervolgbehandeling kuren met reuma (reumatoïde artritis)"
+  },
+  {
+    "Code": "21006",
+    "Description": "Vervolgbehandeling kuren met reuma (bechterew)"
+  },
+  {
+    "Code": "21007",
+    "Description": "Vervolgbehandeling kuren met reuma (artrose)"
+  },
+  {
+    "Code": "21008",
+    "Description": "Vervolgbehandeling kuren met reuma (fibromyalgie)"
+  },
+  {
+    "Code": "21009",
+    "Description": "Vervolgbehandeling kuren met reuma (overige)"
+  },
+  {
+    "Code": "21010",
+    "Description": "Behandeling in herstellingsoord"
+  },
+  {
+    "Code": "21011",
+    "Description": "Behandeling in zorghotel"
+  },
+  {
+    "Code": "21012",
+    "Description": "Kuren met Psoriasis"
+  },
+  {
+    "Code": "21100",
+    "Description": "Vakantiereis NBAV"
+  },
+  {
+    "Code": "21300",
+    "Description": "Groepszwemmen indicatie MS"
+  },
+  {
+    "Code": "21301",
+    "Description": "Groepszwemmen indicatie hartpatiënt"
+  },
+  {
+    "Code": "21302",
+    "Description": "Groepszwemmen indicatie reuma (reumatoïde artritis)"
+  },
+  {
+    "Code": "21303",
+    "Description": "Groepszwemmen indicatie reuma (bechterew)"
+  },
+  {
+    "Code": "21304",
+    "Description": "Groepszwemmen indicatie reuma (artrose)"
+  },
+  {
+    "Code": "21305",
+    "Description": "Groepszwemmen indicatie reuma (fibromyalgie)"
+  },
+  {
+    "Code": "21306",
+    "Description": "Groepszwemmen indicatie reuma (overige)"
+  },
+  {
+    "Code": "22000",
+    "Description": "Behandeling medische indicatie reumapatient (reumatoïde artritis)"
+  },
+  {
+    "Code": "22001",
+    "Description": "Behandeling medische indicatie reumapatient (bechterew)"
+  },
+  {
+    "Code": "22002",
+    "Description": "Behandeling medische indicatie reumapatient (artrose)"
+  },
+  {
+    "Code": "22003",
+    "Description": "Behandeling medische indicatie reumapatient (fibromyalgie)"
+  },
+  {
+    "Code": "22004",
+    "Description": "Behandeling medische indicatie reumapatient (overige)"
+  },
+  {
+    "Code": "22005",
+    "Description": "Behandeling medische indicatie diabetespatient"
+  },
+  {
+    "Code": "22006",
+    "Description": "Behandeling medische indicatie herseninfarct (CVA)"
+  },
+  {
+    "Code": "22007",
+    "Description": "Behandeling medische indicatie overig"
+  },
+  {
+    "Code": "22008",
+    "Description": "Pedicurebehandeling medische indicatie diabetespatiënt SIMMS 0 niet in ketenzorg"
+  },
+  {
+    "Code": "22009",
+    "Description": "Pedicurebehandeling medische indicatie diabetespatiënt SIMMS 1 niet in ketenzorg (geen zelfmanagement)"
+  },
+  {
+    "Code": "22010",
+    "Description": "Pedicurebehandeling medische indicatie diabetespatiënt SIMMS 2 niet in ketenzorg"
+  },
+  {
+    "Code": "22011",
+    "Description": "Pedicurebehandeling medische indicatie diabetespatiënt SIMMS 3 niet in ketenzorg"
+  },
+  {
+    "Code": "22012",
+    "Description": "Pedicurebehandeling medische indicatie diabetespatiënt SIMMS 1 niet in ketenzorg (zelfmanagement)"
+  },
+  {
+    "Code": "22013",
+    "Description": "Jaarlijks gericht voetonderzoek bij zorgprofiel 1"
+  },
+  {
+    "Code": "22014",
+    "Description": "Voetzorg vallende onder zorgprofiel 0"
+  },
+  {
+    "Code": "22015",
+    "Description": "Voetzorg vallende onder zorgprofiel 1"
+  },
+  {
+    "Code": "22016",
+    "Description": "Voetzorg vallende onder zorgprofiel 2"
+  },
+  {
+    "Code": "22017",
+    "Description": "Voetzorg vallende onder zorgprofiel 3"
+  },
+  {
+    "Code": "22018",
+    "Description": "Voetzorg vallende onder zorgprofiel 4"
+  },
+  {
+    "Code": "22100",
+    "Description": "Behandeling zonder medische indicatie"
+  },
+  {
+    "Code": "22200",
+    "Description": "Gebruikte hulpmiddelen bij pedicurebehandeling"
+  },
+  {
+    "Code": "23000",
+    "Description": "Blessureconsult"
+  },
+  {
+    "Code": "23001",
+    "Description": "Herhalingsconsult"
+  },
+  {
+    "Code": "23002",
+    "Description": "Adviesconsult"
+  },
+  {
+    "Code": "23003",
+    "Description": "Sportmedische begeleiding"
+  },
+  {
+    "Code": "23100",
+    "Description": "Onderzoek basis"
+  },
+  {
+    "Code": "23101",
+    "Description": "Onderzoek plus"
+  },
+  {
+    "Code": "23102",
+    "Description": "Onderzoek uitgebreid"
+  },
+  {
+    "Code": "23103",
+    "Description": "Topsportanalyse"
+  },
+  {
+    "Code": "23104",
+    "Description": "Inspanningstest"
+  },
+  {
+    "Code": "23105",
+    "Description": "Dynamische fietspositiemeting"
+  },
+  {
+    "Code": "23200",
+    "Description": "Sportkeuring"
+  },
+  {
+    "Code": "23201",
+    "Description": "Bedrijfsatleten keuring"
+  },
+  {
+    "Code": "23202",
+    "Description": "Uitgebreide bedrijfsatletenkeuring(man vanaf 45 jaar)"
+  },
+  {
+    "Code": "23300",
+    "Description": "Second opinion"
+  },
+  {
+    "Code": "23301",
+    "Description": "Sportvoedingsadvies"
+  },
+  {
+    "Code": "23302",
+    "Description": "Vitaliteitsmeting"
+  },
+  {
+    "Code": "23303",
+    "Description": "Preventief sportmedisch bloedonderzoek"
+  },
+  {
+    "Code": "23304",
+    "Description": "Inspanningsadvies"
+  },
+  {
+    "Code": "24000",
+    "Description": "Behandeling orthomoleculaire geneeskunde"
+  },
+  {
+    "Code": "24001",
+    "Description": "Behandeling fytotherapie"
+  },
+  {
+    "Code": "24002",
+    "Description": "Behandeling kinesiologie"
+  },
+  {
+    "Code": "24003",
+    "Description": "Behandeling enzymtherapie"
+  },
+  {
+    "Code": "24004",
+    "Description": "Behandeling moermantherapie"
+  },
+  {
+    "Code": "24005",
+    "Description": "Behandeling overige natuurgeneeskunde"
+  },
+  {
+    "Code": "24006",
+    "Description": "Behandeling iriscopie"
+  },
+  {
+    "Code": "24007",
+    "Description": "Behandeling neuraaltherapie"
+  },
+  {
+    "Code": "24008",
+    "Description": "Behandeling mesologie"
+  },
+  {
+    "Code": "24009",
+    "Description": "Behandeling reflexzonetherapie"
+  },
+  {
+    "Code": "24010",
+    "Description": "Behandeling neuromusculaire triggerpointtherapie"
+  },
+  {
+    "Code": "24011",
+    "Description": "Behandeling bioresonantie therapie"
+  },
+  {
+    "Code": "24012",
+    "Description": "Behandeling energetische therapie"
+  },
+  {
+    "Code": "24013",
+    "Description": "Behandeling neuromusculaire behandeling"
+  },
+  {
+    "Code": "24014",
+    "Description": "Ayurvedische therapie"
+  },
+  {
+    "Code": "24015",
+    "Description": "Behandeling APS"
+  },
+  {
+    "Code": "24016",
+    "Description": "Bowentherapie"
+  },
+  {
+    "Code": "24101",
+    "Description": "Behandeling Chinese kruidengeneeskunde"
+  },
+  {
+    "Code": "24102",
+    "Description": "Behandeling Shiatsu therapie/massage"
+  },
+  {
+    "Code": "24103",
+    "Description": "Behandeling overige Oosterse geneeswijzen"
+  },
+  {
+    "Code": "24104",
+    "Description": "Behandeling acupunctuur"
+  },
+  {
+    "Code": "24105",
+    "Description": "Behandeling Tuina"
+  },
+  {
+    "Code": "24200",
+    "Description": "Behandeling (klassieke) homeopathie"
+  },
+  {
+    "Code": "24300",
+    "Description": "Behandeling antroposofische therapie"
+  },
+  {
+    "Code": "24301",
+    "Description": "Behandeling antroposofisch consultatiebureau"
+  },
+  {
+    "Code": "24302",
+    "Description": "Behandeling antroposofische dieettherapie"
+  },
+  {
+    "Code": "24303",
+    "Description": "Behandeling antroposofische eurithmie"
+  },
+  {
+    "Code": "24304",
+    "Description": "Behandeling Tuina"
+  },
+  {
+    "Code": "24305",
+    "Description": "Chirofonetiek therapie"
+  },
+  {
+    "Code": "24306",
+    "Description": "Behandeling antroposofische psychotherapie"
+  },
+  {
+    "Code": "24400",
+    "Description": "Behandeling spirituele therapie"
+  },
+  {
+    "Code": "24401",
+    "Description": "Behandeling paranormale geneeskunde"
+  },
+  {
+    "Code": "24500",
+    "Description": "Behandeling psychotherapie"
+  },
+  {
+    "Code": "24501",
+    "Description": "Behandeling hypnotherapie"
+  },
+  {
+    "Code": "24502",
+    "Description": "Behandeling kunstzinnige therapie"
+  },
+  {
+    "Code": "24503",
+    "Description": "Behandeling Gestalttherapie"
+  },
+  {
+    "Code": "24504",
+    "Description": "Behandeling overige psychosociale therapie"
+  },
+  {
+    "Code": "24505",
+    "Description": "Behandeling (kinder) coaching"
+  },
+  {
+    "Code": "24506",
+    "Description": "Counseling"
+  },
+  {
+    "Code": "24507",
+    "Description": "Behandeling Simonton therapie"
+  },
+  {
+    "Code": "24508",
+    "Description": "Behandeling speltherapie"
+  },
+  {
+    "Code": "24509",
+    "Description": "Oudergesprekken/ouderbegeleiding"
+  },
+  {
+    "Code": "24510",
+    "Description": "Evaluatie/verslag/rapportage"
+  },
+  {
+    "Code": "24511",
+    "Description": "Behandeling integratieve psychotherapie"
+  },
+  {
+    "Code": "24512",
+    "Description": "Behandeling regressie (reïncarnatie)therapie"
+  },
+  {
+    "Code": "24513",
+    "Description": "Behandeling lichaamsgerichte psychotherapie"
+  },
+  {
+    "Code": "24514",
+    "Description": "Behandeling creatieve therapie (vaktherapie)"
+  },
+  {
+    "Code": "24515",
+    "Description": "Behandeling psychomotore kindertherapie"
+  },
+  {
+    "Code": "24516",
+    "Description": "Behandeling emotioneel lichaamswerk"
+  },
+  {
+    "Code": "24600",
+    "Description": "Behandeling chiropractie"
+  },
+  {
+    "Code": "24601",
+    "Description": "Behandeling cranio-sacraaltherapie"
+  },
+  {
+    "Code": "24602",
+    "Description": "Behandeling haptotherapie"
+  },
+  {
+    "Code": "24603",
+    "Description": "Behandeling osteopathie"
+  },
+  {
+    "Code": "24604",
+    "Description": "Behandeling ademhalings- en ontspanningstherapie methode Van Dixhoorn"
+  },
+  {
+    "Code": "24605",
+    "Description": "Behandeling (ortho)manuele therapie"
+  },
+  {
+    "Code": "24606",
+    "Description": "Behandeling manuele therapie E.S. (Egg Shell)"
+  },
+  {
+    "Code": "24607",
+    "Description": "Behandeling overige alternatieve bewegingstherapie"
+  },
+  {
+    "Code": "24608",
+    "Description": "Behandeling body stress release"
+  },
+  {
+    "Code": "24609",
+    "Description": "Behandeling orthopedische geneeskunde (lid VAOG)"
+  },
+  {
+    "Code": "24610",
+    "Description": "Sportmassage"
+  },
+  {
+    "Code": "24611",
+    "Description": "Behandeling Musculoskeletale Geneeskunde"
+  },
+  {
+    "Code": "24700",
+    "Description": "Psychologische begeleiding"
+  },
+  {
+    "Code": "25000",
+    "Description": "Verblijfkosten in zorghotel"
+  },
+  {
+    "Code": "25001",
+    "Description": "Verblijfkosten in herstellingsoord"
+  },
+  {
+    "Code": "25002",
+    "Description": "Verblijfkosten in hospice"
+  },
+  {
+    "Code": "25003",
+    "Description": "Eigen bijdrage hospice"
+  },
+  {
+    "Code": "25004",
+    "Description": "Vervangende mantelzorg"
+  },
+  {
+    "Code": "25005",
+    "Description": "Mantelzorgmakelaar"
+  },
+  {
+    "Code": "25006",
+    "Description": "Herstel en Balans"
+  },
+  {
+    "Code": "25007",
+    "Description": "Obesitasbehandelprogramma (niet chirurgisch)"
+  },
+  {
+    "Code": "25008",
+    "Description": "Professionele alarmopvolging"
+  },
+  {
+    "Code": "25009",
+    "Description": "Veiligheidsgesprek"
+  },
+  {
+    "Code": "25010",
+    "Description": "Therapeutisch (vakantie) kamp vanaf 18 jaar"
+  },
+  {
+    "Code": "25011",
+    "Description": "Therapeutisch (vakantie) kamp tot 18 jaar"
+  },
+  {
+    "Code": "26000",
+    "Description": "Dossierkosten kinderopvang"
+  },
+  {
+    "Code": "26001",
+    "Description": "Kinderopvang bij ziekenhuisopname van ouders"
+  },
+  {
+    "Code": "26002",
+    "Description": "Thuiszorg na ziekenhuisopname"
+  },
+  {
+    "Code": "26003",
+    "Description": "Hulp na kraamzorgperiode"
+  },
+  {
+    "Code": "26004",
+    "Description": "Dossierkosten thuiszorg"
+  },
+  {
+    "Code": "26005",
+    "Description": "Dossierkosten hulp na kraamzorgperiode"
+  },
+  {
+    "Code": "26006",
+    "Description": "Dossierkosten huishoudelijke ondersteuning"
+  },
+  {
+    "Code": "26007",
+    "Description": "Dossierkosten huishoudelijke hulp"
+  },
+  {
+    "Code": "26008",
+    "Description": "Huishoudelijke ondersteuning"
+  },
+  {
+    "Code": "26009",
+    "Description": "Huishoudelijke hulp"
+  },
+  {
+    "Code": "27000",
+    "Description": "Webmodule Gezondheidscheck"
+  },
+  {
+    "Code": "27001",
+    "Description": "Webmodule uitgebreid Gezondheidscheck"
+  },
+  {
+    "Code": "27002",
+    "Description": "Webmodule extra uitgebreid Gezondheidscheck"
+  },
+  {
+    "Code": "27003",
+    "Description": "@Workmodule Gezondheidscheck"
+  },
+  {
+    "Code": "27004",
+    "Description": "Persoonlijke gezondheidscheck basis"
+  },
+  {
+    "Code": "27005",
+    "Description": "PreventieKompas 50+"
+  },
+  {
+    "Code": "27006",
+    "Description": "Health check"
+  },
+  {
+    "Code": "27007",
+    "Description": "Branchespecifieke Health check"
+  },
+  {
+    "Code": "27008",
+    "Description": "Arbeidsgerelateerde Health check"
+  },
+  {
+    "Code": "27009",
+    "Description": "Uitgebreid preventief onderzoek"
+  },
+  {
+    "Code": "27010",
+    "Description": "Gezond (preventie)box"
+  },
+  {
+    "Code": "27011",
+    "Description": "Medische basis module"
+  },
+  {
+    "Code": "27012",
+    "Description": "Webmodule werk, psych. welzijn, screening"
+  },
+  {
+    "Code": "27013",
+    "Description": "Module screening dikkedarmkanker"
+  },
+  {
+    "Code": "27014",
+    "Description": "Gezondheidscheck Basis incl. vingerprik"
+  },
+  {
+    "Code": "27015",
+    "Description": "Onderzoek naar arbeidsbelemmerende aandoeningen"
+  },
+  {
+    "Code": "28000",
+    "Description": "Consultatiebureau Senioren (CBS) 1e consult"
+  },
+  {
+    "Code": "28001",
+    "Description": "Consultatiebureau Senioren (CBS) jaarconsult"
+  },
+  {
+    "Code": "29000",
+    "Description": "Dubbelblinde placebogecontroleerde voedselprovocatietest"
+  },
+  {
+    "Code": "29001",
+    "Description": "Zorgadvies online"
+  },
+  {
+    "Code": "29002",
+    "Description": "Amsterdamse Aanpak Gezond Gewicht (AAGG)"
+  },
+  {
+    "Code": "29003",
+    "Description": "Slimmer Zwanger"
+  },
+  {
+    "Code": "29004",
+    "Description": "Standaard second opinion Internationaal multidisciplinair"
+  },
+  {
+    "Code": "29005",
+    "Description": "Premium second opinion Internationaal multidisciplinair"
+  },
+  {
+    "Code": "29006",
+    "Description": "Maatwerk second opinion Internationaal multidisciplinair"
+  }
+]

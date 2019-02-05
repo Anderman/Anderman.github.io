@@ -1,0 +1,30 @@
+[
+  {
+    "Code": "40011",
+    "Description": "Multidisciplinaire zorg CVR"
+  },
+  {
+    "Code": "40012",
+    "Description": "Multidisciplinaire zorg CVR niet Zvw"
+  },
+  {
+    "Code": "40021",
+    "Description": "Multidisciplinaire zorg COPD"
+  },
+  {
+    "Code": "40022",
+    "Description": "Multidisciplinaire zorg COPD niet Zvw"
+  },
+  {
+    "Code": "40050",
+    "Description": "Ketenzorg Diabetes Mellitus Kop tarief Plus"
+  },
+  {
+    "Code": "40051",
+    "Description": "Ketenzorg COPD Kop tarief Plus"
+  },
+  {
+    "Code": "40052",
+    "Description": "Ketenzorg CVRM Kop tarief Plus"
+  }
+]

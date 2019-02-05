@@ -1,0 +1,150 @@
+[
+  {
+    "Code": "70001",
+    "Description": "Instructie UR geneesmiddel gerelateerd hulpmiddel"
+  },
+  {
+    "Code": "70002",
+    "Description": "Medicatiebeoordeling chronisch UR geneesmiddelengebruik"
+  },
+  {
+    "Code": "70003",
+    "Description": "Medicatiebeoordeling chronisch UR geneesmiddelengebruik, thuis"
+  },
+  {
+    "Code": "70004",
+    "Description": "Farmaceutische begeleiding bij ziekenhuisopname of polikliniekbezoek"
+  },
+  {
+    "Code": "70005",
+    "Description": "Farmaceutische begeleiding bij ziekenhuisopname of polikliniekbezoek, ANZ"
+  },
+  {
+    "Code": "70006",
+    "Description": "Farmaceutische begeleiding i.v.m. ontslag uit het ziekenhuis"
+  },
+  {
+    "Code": "70007",
+    "Description": "Farmaceutische begeleiding i.v.m. ontslag uit het ziekenhuis, thuis"
+  },
+  {
+    "Code": "70008",
+    "Description": "Farmaceutische begeleiding i.v.m. ontslag uit het ziekenhuis, ANZ"
+  },
+  {
+    "Code": "70009",
+    "Description": "Farmaceutische begeleiding i.v.m. ontslag uit het ziekenhuis, thuis, ANZ"
+  },
+  {
+    "Code": "70010",
+    "Description": "Voorlichting farmaceutisch zelfmanagement voor patiëntengroep"
+  },
+  {
+    "Code": "70011",
+    "Description": "Advies farmaceutische zelfzorg"
+  },
+  {
+    "Code": "70012",
+    "Description": "Advies gebruik UR-geneesmiddelen tijdens reis"
+  },
+  {
+    "Code": "70013",
+    "Description": "Advies ziekterisico bij reizen"
+  },
+  {
+    "Code": "70014",
+    "Description": "Standaardterhandstelling - niet afleveren na overleg met arts/patiënt, thuis"
+  },
+  {
+    "Code": "70015",
+    "Description": "Standaardterhandstelling - niet afleveren na overleg met arts/patiënt, ANZ"
+  },
+  {
+    "Code": "70016",
+    "Description": "Standaardterhandstelling - niet afleveren na overleg met arts/patiënt, thuis, ANZ"
+  },
+  {
+    "Code": "70017",
+    "Description": "Instructie UR geneesmiddel gerelateerd hulpmiddel, thuis"
+  },
+  {
+    "Code": "70018",
+    "Description": "Instructie UR geneesmiddel gerelateerd hulpmiddel, ANZ"
+  },
+  {
+    "Code": "70019",
+    "Description": "Instructie UR geneesmiddel gerelateerd hulpmiddel, thuis, ANZ"
+  },
+  {
+    "Code": "70020",
+    "Description": "Farmaceutische begeleiding bij ziekenhuisopname of polikliniekbezoek, thuis"
+  },
+  {
+    "Code": "70021",
+    "Description": "Farmaceutische begeleiding bij ziekenhuisopname of polikliniekbezoek, thuis, ANZ"
+  },
+  {
+    "Code": "70022",
+    "Description": "Advies farmaceutische zelfzorg, ANZ"
+  },
+  {
+    "Code": "70023",
+    "Description": "Advies gebruik UR-geneesmiddelen tijdens reis, ANZ"
+  },
+  {
+    "Code": "70024",
+    "Description": "Advies ziekterisico bij reizen, ANZ"
+  },
+  {
+    "Code": "70025",
+    "Description": "Eerste terhandstellingsgesprek"
+  },
+  {
+    "Code": "70026",
+    "Description": "Begeleidingsgesprek nieuw geneesmiddel"
+  },
+  {
+    "Code": "70027",
+    "Description": "Farmaceutische begeleiding bij dagbehandeling/polikliniekbezoek"
+  },
+  {
+    "Code": "70028",
+    "Description": "Farmaceutische begeleiding bij ziekenhuisopname"
+  },
+  {
+    "Code": "70029",
+    "Description": "Farmaceutische begeleiding bij ziekenhuisopname, ANZ"
+  },
+  {
+    "Code": "71000",
+    "Description": "Therapietrouwverbetering bij patiënten met astma/COPD"
+  },
+  {
+    "Code": "71001",
+    "Description": "Medicatieoptimalisatie en begeleiding bij patiënten met de ziekte van Parkinson"
+  },
+  {
+    "Code": "71002",
+    "Description": "Medicatieoptimalisatie en begeleiding bij patiënten met complexe farmaceutische zorg"
+  },
+  {
+    "Code": "71003",
+    "Description": "Oncologie-groeifactoren"
+  },
+  {
+    "Code": "71004",
+    "Description": "Buddyzorg"
+  },
+  {
+    "Code": "71005",
+    "Description": "(Ontslag)begeleiding bij infusietherapie in de thuissituatie"
+  },
+  {
+    "Code": "71006",
+    "Description": "Farmacogenetisch consult"
+  },
+  {
+    "Code": "71007",
+    "Description": "Intensieve farmaceutische begeleiding door toepassing van E-health"
+  }
+]

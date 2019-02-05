@@ -1420,6 +1420,14 @@
     "Description": "Groepszitting voor behandeling diëtetiek als onderdeel van gecoördineerde multidisciplinaire zorgverlening aan patiënten met DM, COPD en VRM van meer dan tien personen"
   },
   {
+    "Code": "6310",
+    "Description": "Telefonische zitting ten behoeve van diëtetiek in de keten"
+  },
+  {
+    "Code": "6311",
+    "Description": "Individueel dieetvoorschrift ten behoeve van diëtetiek in de keten"
+  },
+  {
     "Code": "7000",
     "Description": "Huidtherapie"
   },
@@ -1928,6 +1936,106 @@
     "Description": "Onderhoudsfase 4 COOL"
   },
   {
+    "Code": "8025",
+    "Description": "Intake Licht verhoogd GGR"
+  },
+  {
+    "Code": "8026",
+    "Description": "Behandelfase 1 Slimmer Licht verhoogd GGR"
+  },
+  {
+    "Code": "8027",
+    "Description": "Behandelfase 2 Slimmer Licht verhoogd GGR"
+  },
+  {
+    "Code": "8028",
+    "Description": "Behandelfase 3 Slimmer Licht verhoogd GGR"
+  },
+  {
+    "Code": "8029",
+    "Description": "Behandelfase 4 Slimmer Licht verhoogd GGR"
+  },
+  {
+    "Code": "8030",
+    "Description": "Onderhoudsfase 1 Slimmer Licht verhoogd GGR"
+  },
+  {
+    "Code": "8031",
+    "Description": "Onderhoudsfase 2 Slimmer Licht verhoogd GGR"
+  },
+  {
+    "Code": "8032",
+    "Description": "Onderhoudsfase 3 Slimmer Licht verhoogd GGR"
+  },
+  {
+    "Code": "8033",
+    "Description": "Onderhoudsfase 4 Slimmer Licht verhoogd GGR"
+  },
+  {
+    "Code": "8034",
+    "Description": "Behandelfase 1 Beweegkuur Licht verhoogd GGR"
+  },
+  {
+    "Code": "8035",
+    "Description": "Behandelfase 2 Beweegkuur Licht verhoogd GGR"
+  },
+  {
+    "Code": "8036",
+    "Description": "Behandelfase 3 Beweegkuur Licht verhoogd GGR"
+  },
+  {
+    "Code": "8037",
+    "Description": "Behandelfase 4 Beweegkuur Licht verhoogd GGR"
+  },
+  {
+    "Code": "8038",
+    "Description": "Onderhoudsfase 1 Beweegkuur Licht verhoogd GGR"
+  },
+  {
+    "Code": "8039",
+    "Description": "Onderhoudsfase 2 Beweegkuur Licht verhoogd GGR"
+  },
+  {
+    "Code": "8040",
+    "Description": "Onderhoudsfase 3 Beweegkuur Licht verhoogd GGR"
+  },
+  {
+    "Code": "8041",
+    "Description": "Onderhoudsfase 4 Beweegkuur Licht verhoogd GGR"
+  },
+  {
+    "Code": "8042",
+    "Description": "Behandelfase 1 COOL Licht verhoogd GGR"
+  },
+  {
+    "Code": "8043",
+    "Description": "Behandelfase 2 COOL Licht verhoogd GGR"
+  },
+  {
+    "Code": "8044",
+    "Description": "Behandelfase 3 COOL Licht verhoogd GGR"
+  },
+  {
+    "Code": "8045",
+    "Description": "Behandelfase 4 COOL Licht verhoogd GGR"
+  },
+  {
+    "Code": "8046",
+    "Description": "Onderhoudsfase 1 COOL Licht verhoogd GGR"
+  },
+  {
+    "Code": "8047",
+    "Description": "Onderhoudsfase 2 COOL Licht verhoogd GGR"
+  },
+  {
+    "Code": "8048",
+    "Description": "Onderhoudsfase 3 COOL Licht verhoogd GGR"
+  },
+  {
+    "Code": "8049",
+    "Description": "Onderhoudsfase 4 COOL Licht verhoogd GGR"
+  },
+  {
     "Code": "9000",
     "Description": "Onderzoek/consult podologie"
   },
@@ -1986,6 +2094,38 @@
   {
     "Code": "9110",
     "Description": "Cursus valpreventie"
+  },
+  {
+    "Code": "9111",
+    "Description": "IB Valpreventie fase 1"
+  },
+  {
+    "Code": "9112",
+    "Description": "IB Valpreventie fase 2"
+  },
+  {
+    "Code": "9113",
+    "Description": "VVT Valpreventie fase 1"
+  },
+  {
+    "Code": "9114",
+    "Description": "VVT Valpreventie fase 2"
+  },
+  {
+    "Code": "9115",
+    "Description": "OIT Valpreventie fase 1"
+  },
+  {
+    "Code": "9116",
+    "Description": "OIT Valpreventie fase 2"
+  },
+  {
+    "Code": "9117",
+    "Description": "OIG Valpreventie fase 1"
+  },
+  {
+    "Code": "9118",
+    "Description": "OIG Valpreventie fase 2"
   },
   {
     "Code": "9200",

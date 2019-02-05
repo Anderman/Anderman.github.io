@@ -1,0 +1,492 @@
+[
+  {
+    "Code": 101,
+    "Description": "N.V. Univé Zorg",
+    "Concern": ""
+  },
+  {
+    "Code": 104,
+    "Description": "Nationale-Nederlanden Zorg",
+    "Concern": "CZ"
+  },
+  {
+    "Code": 201,
+    "Description": "OHRA Ziektekostenverzekering N.V.",
+    "Concern": "CZ"
+  },
+  {
+    "Code": 203,
+    "Description": "OOM Verzekeringen",
+    "Concern": ""
+  },
+  {
+    "Code": 212,
+    "Description": "Stichting Ziektekostenverzekering Krijgsmacht",
+    "Concern": ""
+  },
+  {
+    "Code": 403,
+    "Description": "ASR Ziektekostenverzekeringen",
+    "Concern": "a.s.r.\n"
+  },
+  {
+    "Code": 408,
+    "Description": "VvAA Zorgverzekeringen",
+    "Concern": "MULTIZORG VRZ"
+  },
+  {
+    "Code": 441,
+    "Description": "ONVZ Ziektekostenverzekeraar",
+    "Concern": "MULTIZORG VRZ"
+  },
+  {
+    "Code": 699,
+    "Description": "IZA Zorgverzekeraar NV",
+    "Concern": ""
+  },
+  {
+    "Code": 736,
+    "Description": "NV Zorgverzekeraar UMC",
+    "Concern": ""
+  },
+  {
+    "Code": 3311,
+    "Description": "Zilveren Kruis Zorgverzekeringen N.V.",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 3313,
+    "Description": "Interpolis Zorgverzekeringen NV",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 3314,
+    "Description": "OZF Zorgverzekeringen N.V.",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 3328,
+    "Description": "Aevitae (ASR Ziektekosten)",
+    "Concern": "a.s.r.\n"
+  },
+  {
+    "Code": 3329,
+    "Description": "Avéro Achmea Zorgverzekeringen NV",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 3331,
+    "Description": "PNOzorg",
+    "Concern": "MULTIZORG VRZ"
+  },
+  {
+    "Code": 3332,
+    "Description": "Menzis Zorgverzekeraar N.V.",
+    "Concern": "MENZIS"
+  },
+  {
+    "Code": 3333,
+    "Description": "Anderzorg N.V.",
+    "Concern": "MENZIS"
+  },
+  {
+    "Code": 3334,
+    "Description": "IZA-VNG",
+    "Concern": ""
+  },
+  {
+    "Code": 3336,
+    "Description": "Ditzo Zorgverzekering",
+    "Concern": "a.s.r.\n"
+  },
+  {
+    "Code": 3339,
+    "Description": "BeterDichterbij",
+    "Concern": "MULTIZORG VRZ"
+  },
+  {
+    "Code": 3340,
+    "Description": "ANNO12",
+    "Concern": ""
+  },
+  {
+    "Code": 3343,
+    "Description": "ONVZ Ziektekostenverzekeraar",
+    "Concern": "VRZ\nzorg-inkoop"
+  },
+  {
+    "Code": 3344,
+    "Description": "inTwente Zorgverzekeraar",
+    "Concern": "DSW-STAD \nHOLLAND\n"
+  },
+  {
+    "Code": 3346,
+    "Description": "InsureToStudy",
+    "Concern": "MULTIZORG VRZ"
+  },
+  {
+    "Code": 3349,
+    "Description": "StudentsInsured",
+    "Concern": "MULTIZORG VRZ"
+  },
+  {
+    "Code": 3350,
+    "Description": "ASR Schadeverzekering N.V.",
+    "Concern": ""
+  },
+  {
+    "Code": 3351,
+    "Description": "FBTO Zorgverzekeringen N.V.",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 3352,
+    "Description": "iptiQ Life S.A.",
+    "Concern": ""
+  },
+  {
+    "Code": 3353,
+    "Description": "Caresco",
+    "Concern": ""
+  },
+  {
+    "Code": 3354,
+    "Description": "Caresq",
+    "Concern": "Caresq"
+  },
+  {
+    "Code": 3355,
+    "Description": "Regeling Medische zorg Asielzoekers (RMA)",
+    "Concern": "DSW-STAD \nHOLLAND\n"
+  },
+  {
+    "Code": 3356,
+    "Description": "Medisch noodzakelijke zorg aan onverzekerde verzekeringsplichtigen",
+    "Concern": ""
+  },
+  {
+    "Code": 3357,
+    "Description": "Goudse Schadeverzekeringen N.V.",
+    "Concern": ""
+  },
+  {
+    "Code": 3358,
+    "Description": "De Friesland Zorgverzekeraar N.V.",
+    "Concern": "DE FRIESLAND"
+  },
+  {
+    "Code": 3359,
+    "Description": "EUCARE",
+    "Concern": ""
+  },
+  {
+    "Code": 3360,
+    "Description": "Aevitae (EUCARE)",
+    "Concern": ""
+  },
+  {
+    "Code": 5501,
+    "Description": "Zorgkantoor Groningen",
+    "Concern": "MENZIS"
+  },
+  {
+    "Code": 5502,
+    "Description": "Zorgkantoor Friesland",
+    "Concern": "DE FRIESLAND"
+  },
+  {
+    "Code": 5503,
+    "Description": "Zorgkantoor Drenthe",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 5504,
+    "Description": "Zorgkantoor Zwolle",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 5505,
+    "Description": "Zorgkantoor Twente",
+    "Concern": "MENZIS"
+  },
+  {
+    "Code": 5506,
+    "Description": "Zorgkantoor Apeldoorn, Zutphen en omstreken",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 5507,
+    "Description": "Zorgkantoor Arnhem",
+    "Concern": "MENZIS"
+  },
+  {
+    "Code": 5508,
+    "Description": "Zorgkantoor Nijmegen",
+    "Concern": ""
+  },
+  {
+    "Code": 5509,
+    "Description": "Zorgkantoor Utrecht",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 5510,
+    "Description": "Zorgkantoor Flevoland",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 5511,
+    "Description": "Zorgkantoor 't Gooi",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 5512,
+    "Description": "Zorgkantoor Noord Holland Noord",
+    "Concern": ""
+  },
+  {
+    "Code": 5513,
+    "Description": "Zorgkantoor Kennemerland",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 5514,
+    "Description": "Zorgkantoor Zaanstreek/Waterland",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 5515,
+    "Description": "Zorgkantoor Amsterdam",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 5516,
+    "Description": "Zorgkantoor Amstelland en De Meerlanden",
+    "Concern": "VRZ\nzorg-inkoop"
+  },
+  {
+    "Code": 5517,
+    "Description": "Zorgkantoor Zuid-Holland Noord",
+    "Concern": "VRZ\nzorg-inkoop"
+  },
+  {
+    "Code": 5518,
+    "Description": "Zorgkantoor Haaglanden",
+    "Concern": "CZ"
+  },
+  {
+    "Code": 5519,
+    "Description": "Zorgkantoor Westland Schieland Delfland (WSD)",
+    "Concern": "DSW-STAD \nHOLLAND\n"
+  },
+  {
+    "Code": 5520,
+    "Description": "Zorgkantoor Midden-Holland",
+    "Concern": ""
+  },
+  {
+    "Code": 5521,
+    "Description": "Zorgkantoor Rotterdam",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 5523,
+    "Description": "Zorgkantoor Zuid-Hollandse Eilanden",
+    "Concern": "CZ"
+  },
+  {
+    "Code": 5524,
+    "Description": "Zorgkantoor Waardenland",
+    "Concern": ""
+  },
+  {
+    "Code": 5525,
+    "Description": "Zorgkantoor Zeeland",
+    "Concern": "CZ"
+  },
+  {
+    "Code": 5526,
+    "Description": "Zorgkantoor West-Brabant",
+    "Concern": "CZ"
+  },
+  {
+    "Code": 5527,
+    "Description": "Zorgkantoor Midden-Brabant",
+    "Concern": ""
+  },
+  {
+    "Code": 5528,
+    "Description": "Zorgkantoor Noordoost Brabant",
+    "Concern": ""
+  },
+  {
+    "Code": 5529,
+    "Description": "Zorgkantoor Zuidoost-Brabant",
+    "Concern": "CZ"
+  },
+  {
+    "Code": 5530,
+    "Description": "Zorgkantoor Noord- en Midden Limburg",
+    "Concern": ""
+  },
+  {
+    "Code": 5531,
+    "Description": "Zorgkantoor Zuid-Limburg",
+    "Concern": "CZ"
+  },
+  {
+    "Code": 5532,
+    "Description": "Zorgkantoor Midden-IJssel",
+    "Concern": "VRZ\nzorg-inkoop"
+  },
+  {
+    "Code": 7029,
+    "Description": "OWM DSW Zorgverzekeraar U.A.",
+    "Concern": "DSW-STAD \nHOLLAND\n"
+  },
+  {
+    "Code": 7032,
+    "Description": "Eno Zorgverzekeraar N.V.",
+    "Concern": "VRZ\nzorg-inkoop"
+  },
+  {
+    "Code": 7037,
+    "Description": "Stad Holland Zorgverzekeraar OWM U.A.",
+    "Concern": "DSW-STAD \nHOLLAND\n"
+  },
+  {
+    "Code": 7053,
+    "Description": "OHRA Zorgverzekeringen N.V.",
+    "Concern": "CZ"
+  },
+  {
+    "Code": 7085,
+    "Description": "OWM Zorgverzekeraar Zorg en Zekerheid UA",
+    "Concern": "VRZ\nzorg-inkoop"
+  },
+  {
+    "Code": 7095,
+    "Description": "VGZ Zorgverzekeraar N.V.",
+    "Concern": ""
+  },
+  {
+    "Code": 7119,
+    "Description": "OWM CZ Groep Zorgverzekeraar ua",
+    "Concern": "CZ"
+  },
+  {
+    "Code": 7125,
+    "Description": "Zilveren Kruis Achmea Zorgverzekeringen, Groep Buitenlands recht",
+    "Concern": ""
+  },
+  {
+    "Code": 8956,
+    "Description": "Aevitae (VGZ)",
+    "Concern": ""
+  },
+  {
+    "Code": 8958,
+    "Description": "Aevitae (Avéro Achmea)",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 8959,
+    "Description": "Caresco BV (ASR Ziektekosten)",
+    "Concern": ""
+  },
+  {
+    "Code": 8960,
+    "Description": "Caresco BV (Avéro Achmea)",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 8971,
+    "Description": "One Underwriting Health B.V. (Avéro Achmea)",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 8980,
+    "Description": "CARESCO (ALGEMEEN T.B.V. RBVZ)",
+    "Concern": ""
+  },
+  {
+    "Code": 8981,
+    "Description": "AEVITAE (ALGEMEEN T.B.V. RBVZ)",
+    "Concern": ""
+  },
+  {
+    "Code": 8983,
+    "Description": "One Underwriting Health B.V. (ALG T.B.V. RBVZ)",
+    "Concern": ""
+  },
+  {
+    "Code": 9015,
+    "Description": "VGZ voor de zorg N.V.",
+    "Concern": ""
+  },
+  {
+    "Code": 9018,
+    "Description": "De Amersfoortse",
+    "Concern": "a.s.r.\n"
+  },
+  {
+    "Code": 9019,
+    "Description": "ASR VERZEKERINGEN",
+    "Concern": "MULTIZORG VRZ"
+  },
+  {
+    "Code": 9086,
+    "Description": "Pro Life Zorgverzekeringen",
+    "Concern": "ACHMEA"
+  },
+  {
+    "Code": 9551,
+    "Description": "Coöperatie VGZ UA",
+    "Concern": ""
+  },
+  {
+    "Code": 9664,
+    "Description": "Centrale Verwerkingseenheid CZ: CZ, Nationale-Nederlanden en OHRA",
+    "Concern": "CZ"
+  },
+  {
+    "Code": 9985,
+    "Description": "Uitvoeringsregeling opsporing en verzekering onverzekerden Zvw",
+    "Concern": ""
+  },
+  {
+    "Code": 9986,
+    "Description": "Buitenland Verbindingsorgaan",
+    "Concern": ""
+  },
+  {
+    "Code": 9987,
+    "Description": "Regeling wanbetalers premie Zorgverzekeringswet",
+    "Concern": ""
+  },
+  {
+    "Code": 9988,
+    "Description": "Uitvoeringsregeling gemoedsbezwaarden zorgkosten Zorgverzekeringswet",
+    "Concern": ""
+  },
+  {
+    "Code": 9989,
+    "Description": "Regeling financiering zorg illegalen",
+    "Concern": ""
+  },
+  {
+    "Code": 9990,
+    "Description": "Buitenland Verdragsgerechtigden",
+    "Concern": ""
+  },
+  {
+    "Code": 9991,
+    "Description": "OWM CZ groep U.A. Buitenlandse verzekerden",
+    "Concern": "CZ"
+  },
+  {
+    "Code": 9992,
+    "Description": "de Dienst Justitiële Inrichtingen",
+    "Concern": ""
+  }
+]

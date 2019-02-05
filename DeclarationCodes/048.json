@@ -1,0 +1,158 @@
+[
+  {
+    "Code": "30002",
+    "Description": "Individueel kort eerstelijns psychologisch consult"
+  },
+  {
+    "Code": "30003",
+    "Description": "Telefonisch consult"
+  },
+  {
+    "Code": "30004",
+    "Description": "E-mail consult"
+  },
+  {
+    "Code": "30005",
+    "Description": "Consult relatietherapie"
+  },
+  {
+    "Code": "30006",
+    "Description": "Consult gezinstherapie éénouder"
+  },
+  {
+    "Code": "30007",
+    "Description": "Consult gezinstherapie tweeouder"
+  },
+  {
+    "Code": "30008",
+    "Description": "Consult groepstherapie 4 t/m 8 personen"
+  },
+  {
+    "Code": "30009",
+    "Description": "Consult groepstherapie 9 t/m 12 personen"
+  },
+  {
+    "Code": "30010",
+    "Description": "Dubbel consult relatietherapie"
+  },
+  {
+    "Code": "30011",
+    "Description": "Dubbel consult gezinstherapie éénouder"
+  },
+  {
+    "Code": "30012",
+    "Description": "Dubbel consult gezinstherapie tweeouder"
+  },
+  {
+    "Code": "30013",
+    "Description": "Dubbel individueel eerstelijns psychologisch consult"
+  },
+  {
+    "Code": "30014",
+    "Description": "Dubbel consult groepstherapie 4 t/m 8 personen"
+  },
+  {
+    "Code": "30101",
+    "Description": "Individueel eerstelijns psychologisch consult aan huis"
+  },
+  {
+    "Code": "30102",
+    "Description": "Individueel kort eerstelijns psychologisch consult aan huis"
+  },
+  {
+    "Code": "30105",
+    "Description": "Consult relatietherapie aan huis"
+  },
+  {
+    "Code": "30106",
+    "Description": "Consult gezinstherapie éénouder aan huis"
+  },
+  {
+    "Code": "30107",
+    "Description": "Consult gezinstherapie tweeouder aan huis"
+  },
+  {
+    "Code": "30110",
+    "Description": "Dubbel consult relatietherapie aan huis"
+  },
+  {
+    "Code": "30111",
+    "Description": "Dubbel consult gezinstherapie éénouder aan huis"
+  },
+  {
+    "Code": "30112",
+    "Description": "Dubbel consult gezinstherapie tweeouder aan huis"
+  },
+  {
+    "Code": "30113",
+    "Description": "Dubbel individueel eerstelijns psychologisch consult aan huis"
+  },
+  {
+    "Code": "30114",
+    "Description": "Internetbehandeltraject"
+  },
+  {
+    "Code": "30115",
+    "Description": "Beating the Blues"
+  },
+  {
+    "Code": "30116",
+    "Description": "Fear Fighter"
+  },
+  {
+    "Code": "30117",
+    "Description": "Grip op je dip"
+  },
+  {
+    "Code": "30118",
+    "Description": "Sterkopjewerk.nl"
+  },
+  {
+    "Code": "30119",
+    "Description": "Depressievrij.nl"
+  },
+  {
+    "Code": "30120",
+    "Description": "Diabetergestemd.nl"
+  },
+  {
+    "Code": "30121",
+    "Description": "Minderdrinken.nl"
+  },
+  {
+    "Code": "30122",
+    "Description": "Screener"
+  },
+  {
+    "Code": "30123",
+    "Description": "Geenpaniekonline.nl"
+  },
+  {
+    "Code": "30124",
+    "Description": "Kleurjeleven.nl"
+  },
+  {
+    "Code": "30125",
+    "Description": "Psyfit.nl"
+  },
+  {
+    "Code": "30126",
+    "Description": "Moodlifter"
+  },
+  {
+    "Code": "30127",
+    "Description": "De moderne psycholoog"
+  },
+  {
+    "Code": "30128",
+    "Description": "Enter your life"
+  },
+  {
+    "Code": "30129",
+    "Description": "Cogmed Blended"
+  },
+  {
+    "Code": "30130",
+    "Description": "PQ-test"
+  }
+]

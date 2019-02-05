@@ -1,0 +1,322 @@
+[
+  {
+    "Code": "10101",
+    "Description": "Patiënt Profiel 1"
+  },
+  {
+    "Code": "10102",
+    "Description": "Patiënt Profiel 2"
+  },
+  {
+    "Code": "10103",
+    "Description": "Patiënt Profiel 3"
+  },
+  {
+    "Code": "10104",
+    "Description": "Patiënt Profiel 4"
+  },
+  {
+    "Code": "10105",
+    "Description": "Patiënt Profiel 5"
+  },
+  {
+    "Code": "10106",
+    "Description": "Patiënt Profiel 6"
+  },
+  {
+    "Code": "10107",
+    "Description": "Patiënt Profiel 7"
+  },
+  {
+    "Code": "10110",
+    "Description": "Patiënt profiel 0 Absorberende incontinentiematerialen na overlijden"
+  },
+  {
+    "Code": "10111",
+    "Description": "Patiënt profiel 1 Absorberende incontinentiematerialen na overlijden"
+  },
+  {
+    "Code": "10112",
+    "Description": "Patiënt profiel 2 Absorberende incontinentiematerialen na overlijden"
+  },
+  {
+    "Code": "10113",
+    "Description": "Patiënt profiel 3 Absorberende incontinentiematerialen na overlijden"
+  },
+  {
+    "Code": "10114",
+    "Description": "Patiënt profiel 4 Absorberende incontinentiematerialen na overlijden"
+  },
+  {
+    "Code": "10115",
+    "Description": "Patiënt profiel 5 Absorberende incontinentiematerialen na overlijden"
+  },
+  {
+    "Code": "10116",
+    "Description": "Patiënt profiel 6 Absorberende incontinentiematerialen na overlijden"
+  },
+  {
+    "Code": "10117",
+    "Description": "Patiënt profiel 7 Absorberende incontinentiematerialen na overlijden"
+  },
+  {
+    "Code": "10118",
+    "Description": "Patiënt profiel 0 Absorberende incontinentiematerialen na overstappen andere zorgverzekeraar"
+  },
+  {
+    "Code": "10119",
+    "Description": "Patiënt profiel 1 Absorberende incontinentiematerialen na overstappen andere zorgverzekeraar"
+  },
+  {
+    "Code": "10120",
+    "Description": "Patiënt profiel 2 Absorberende incontinentiematerialen na overstappen andere zorgverzekeraar"
+  },
+  {
+    "Code": "10121",
+    "Description": "Patiënt profiel 3 Absorberende incontinentiematerialen na overstappen andere zorgverzekeraar"
+  },
+  {
+    "Code": "10122",
+    "Description": "Patiënt profiel 4 Absorberende incontinentiematerialen na overstappen andere zorgverzekeraar"
+  },
+  {
+    "Code": "10123",
+    "Description": "Patiënt profiel 5 Absorberende incontinentiematerialen na overstappen andere zorgverzekeraar"
+  },
+  {
+    "Code": "10124",
+    "Description": "Patiënt profiel 6 Absorberende incontinentiematerialen na overstappen andere zorgverzekeraar"
+  },
+  {
+    "Code": "10125",
+    "Description": "Patiënt profiel 7 Absorberende incontinentiematerialen na overstappen andere zorgverzekeraar"
+  },
+  {
+    "Code": "10201",
+    "Description": "Gebruikerscategorie 1"
+  },
+  {
+    "Code": "10202",
+    "Description": "Gebruikerscategorie 2"
+  },
+  {
+    "Code": "10203",
+    "Description": "Gebruikerscategorie 3"
+  },
+  {
+    "Code": "10204",
+    "Description": "Gebruikerscategorie 4"
+  },
+  {
+    "Code": "10205",
+    "Description": "Gebruikerscategorie 5"
+  },
+  {
+    "Code": "10206",
+    "Description": "Gebruikerscategorie 6"
+  },
+  {
+    "Code": "10207",
+    "Description": "Gebruikerscategorie 7"
+  },
+  {
+    "Code": "10208",
+    "Description": "Gebruikerscategorie 8.1"
+  },
+  {
+    "Code": "10209",
+    "Description": "Gebruikerscategorie 8.2"
+  },
+  {
+    "Code": "10210",
+    "Description": "Gebruikerscategorie 8.3"
+  },
+  {
+    "Code": "10211",
+    "Description": "Gebruikerscategorie 8.4"
+  },
+  {
+    "Code": "10212",
+    "Description": "Gebruikerscategorie 8.5"
+  },
+  {
+    "Code": "10213",
+    "Description": "Gebruikerscategorie 8.6"
+  },
+  {
+    "Code": "10214",
+    "Description": "Gebruikerscategorie 8.7"
+  },
+  {
+    "Code": "10215",
+    "Description": "Gebruikerscategorie 8.8"
+  },
+  {
+    "Code": "10216",
+    "Description": "Gebruikerscategorie 8.9"
+  },
+  {
+    "Code": "10217",
+    "Description": "Gebruikerscategorie 9"
+  },
+  {
+    "Code": "10218",
+    "Description": "Gebruikerscategorie 1.1"
+  },
+  {
+    "Code": "10219",
+    "Description": "Gebruikerscategorie 10"
+  },
+  {
+    "Code": "10300",
+    "Description": "Diabetes basisactiviteit zinnig en zuinig"
+  },
+  {
+    "Code": "10301",
+    "Description": "Diabetes inspanningsactiviteit zinnig en zuinig"
+  },
+  {
+    "Code": "10302",
+    "Description": "teststrips"
+  },
+  {
+    "Code": "10303",
+    "Description": "1 tablet"
+  },
+  {
+    "Code": "10304",
+    "Description": "1 zwangerschapsdiabetes"
+  },
+  {
+    "Code": "10305",
+    "Description": "2 normaal"
+  },
+  {
+    "Code": "10306",
+    "Description": "3A intensief (standaard)"
+  },
+  {
+    "Code": "10307",
+    "Description": "3B intensief (uitzondering"
+  },
+  {
+    "Code": "10308",
+    "Description": "4 pomp"
+  },
+  {
+    "Code": "10309",
+    "Description": "Controle doelmatigheid diabetes"
+  },
+  {
+    "Code": "10310",
+    "Description": "Diabetes teststrip categorie 1"
+  },
+  {
+    "Code": "10311",
+    "Description": "Diabetes teststrip categorie 2"
+  },
+  {
+    "Code": "10312",
+    "Description": "Diabetes teststrip categorie 3"
+  },
+  {
+    "Code": "10400",
+    "Description": "Stomazorg  basisactiviteit zinnig en zuinig"
+  },
+  {
+    "Code": "10401",
+    "Description": "Stomazorg  inspanningsactiviteit zinnig en zuinig"
+  },
+  {
+    "Code": "10402",
+    "Description": "Huidplakken"
+  },
+  {
+    "Code": "10403",
+    "Description": "Huidplakken convex"
+  },
+  {
+    "Code": "10404",
+    "Description": "Eendelig colozak"
+  },
+  {
+    "Code": "10405",
+    "Description": "Eendelig colozak convex"
+  },
+  {
+    "Code": "10406",
+    "Description": "Eendelig ileozak"
+  },
+  {
+    "Code": "10407",
+    "Description": "Eendelig ileozak convex"
+  },
+  {
+    "Code": "10408",
+    "Description": "Eendelig urozak"
+  },
+  {
+    "Code": "10409",
+    "Description": "Eendelig urozak convex"
+  },
+  {
+    "Code": "10410",
+    "Description": "Meerdelig colozak"
+  },
+  {
+    "Code": "10411",
+    "Description": "Meerdelig ileozak"
+  },
+  {
+    "Code": "10412",
+    "Description": "Meerdelig urozak"
+  },
+  {
+    "Code": "10500",
+    "Description": "Inname kosten"
+  },
+  {
+    "Code": "10501",
+    "Description": "Ophaalkosten (oude posten)"
+  },
+  {
+    "Code": "10502",
+    "Description": "Schoonmaakkkosten reserve pomp/vernevelaar"
+  },
+  {
+    "Code": "10503",
+    "Description": "Ruiling (inname/bezorging)"
+  },
+  {
+    "Code": "10504",
+    "Description": "Bezorgkosten"
+  },
+  {
+    "Code": "10505",
+    "Description": "Advieskosten"
+  },
+  {
+    "Code": "10506",
+    "Description": "Professionele achterwacht alarmeringsapparaat"
+  },
+  {
+    "Code": "10507",
+    "Description": "Advieskosten telefonisch"
+  },
+  {
+    "Code": "10508",
+    "Description": "Administratiekosten"
+  },
+  {
+    "Code": "10509",
+    "Description": "Annuleringskosten"
+  },
+  {
+    "Code": "10510",
+    "Description": "Toeslag spoedaanvragen"
+  },
+  {
+    "Code": "10511",
+    "Description": "Verhuiskosten"
+  }
+]

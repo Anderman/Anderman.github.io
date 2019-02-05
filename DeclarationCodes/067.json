@@ -1,0 +1,226 @@
+[
+  {
+    "Code": "F125",
+    "Description": "Dagactiviteiten (educatief, recreatief en arbeidsmatig)"
+  },
+  {
+    "Code": "H150",
+    "Description": "Begeleiding extra"
+  },
+  {
+    "Code": "H152",
+    "Description": "Begeleiding speciaal 1 (nah)"
+  },
+  {
+    "Code": "H153",
+    "Description": "Gespecialiseerde begeleiding (psy)"
+  },
+  {
+    "Code": "H300",
+    "Description": "Begeleiding"
+  },
+  {
+    "Code": "H328",
+    "Description": "Behandeling basis som, pg, vg, lg"
+  },
+  {
+    "Code": "H329",
+    "Description": "Behandeling gedragswetenschapper"
+  },
+  {
+    "Code": "H811",
+    "Description": "Dagbesteding VG licht (per dagdeel)"
+  },
+  {
+    "Code": "H812",
+    "Description": "Dagbesteding VG midden (per dagdeel)"
+  },
+  {
+    "Code": "H813",
+    "Description": "Dagbesteding VG zwaar (per dagdeel)"
+  },
+  {
+    "Code": "Z310",
+    "Description": "1GGZ C (excl. dagbesteding)"
+  },
+  {
+    "Code": "Z311",
+    "Description": "1GGZ C (incl. dagbesteding)"
+  },
+  {
+    "Code": "Z320",
+    "Description": "2GGZ C (excl. dagbesteding)"
+  },
+  {
+    "Code": "Z321",
+    "Description": "2GGZ C (incl. dagbesteding)"
+  },
+  {
+    "Code": "Z330",
+    "Description": "3GGZ C (excl. dagbesteding)"
+  },
+  {
+    "Code": "Z331",
+    "Description": "3GGZ C (incl. dagbesteding)"
+  },
+  {
+    "Code": "Z340",
+    "Description": "4GGZ C (excl. dagbesteding)"
+  },
+  {
+    "Code": "Z341",
+    "Description": "4GGZ C (incl. dagbesteding)"
+  },
+  {
+    "Code": "Z350",
+    "Description": "5GGZ C (excl. dagbesteding)"
+  },
+  {
+    "Code": "Z351",
+    "Description": "5GGZ C (incl. dagbesteding)"
+  },
+  {
+    "Code": "Z360",
+    "Description": "6GGZ C (excl. dagbesteding)"
+  },
+  {
+    "Code": "Z361",
+    "Description": "6GGZ C (incl. dagbesteding)"
+  },
+  {
+    "Code": "Z414",
+    "Description": "1VG (excl. dagbesteding)"
+  },
+  {
+    "Code": "Z415",
+    "Description": "1VG (incl. dagbesteding)"
+  },
+  {
+    "Code": "Z424",
+    "Description": "2VG (excl. dagbesteding)"
+  },
+  {
+    "Code": "Z425",
+    "Description": "2VG (incl. dagbesteding)"
+  },
+  {
+    "Code": "Z432",
+    "Description": "3VG (excl. dagbesteding)"
+  },
+  {
+    "Code": "Z433",
+    "Description": "3VG (incl. dagbesteding)"
+  },
+  {
+    "Code": "Z442",
+    "Description": "4VG (excl. dagbesteding)"
+  },
+  {
+    "Code": "Z443",
+    "Description": "4VG (incl. dagbesteding)"
+  },
+  {
+    "Code": "Z456",
+    "Description": "5VG (excl. dagbesteding)"
+  },
+  {
+    "Code": "Z457",
+    "Description": "5VG (incl. dagbesteding)"
+  },
+  {
+    "Code": "Z462",
+    "Description": "6VG (excl. dagbesteding)"
+  },
+  {
+    "Code": "Z463",
+    "Description": "6VG (incl. dagbesteding)"
+  },
+  {
+    "Code": "Z472",
+    "Description": "7VG (excl. dagbesteding)"
+  },
+  {
+    "Code": "Z473",
+    "Description": "7VG (incl. dagbesteding)"
+  },
+  {
+    "Code": "CVPT1",
+    "Description": "1GGZ-C VPT (excl, dagbesteding)"
+  },
+  {
+    "Code": "CVPT2",
+    "Description": "2GGZ-C VPT (excl, dagbesteding)"
+  },
+  {
+    "Code": "CVPT3",
+    "Description": "3GGZ-C VPT (excl, dagbesteding)"
+  },
+  {
+    "Code": "CVPT4",
+    "Description": "4GGZ-C VPT (excl, dagbesteding)"
+  },
+  {
+    "Code": "CVPT5",
+    "Description": "5GGZ-C VPT (excl, dagbesteding)"
+  },
+  {
+    "Code": "CVPT6",
+    "Description": "6GGZ-C VPT (excl, dagbesteding)"
+  },
+  {
+    "Code": "VGVPT1",
+    "Description": "1VG VPT (incl. dagbesteding)"
+  },
+  {
+    "Code": "VGVPT2",
+    "Description": "2VG VPT (incl. dagbesteding)"
+  },
+  {
+    "Code": "VGVPT3",
+    "Description": "3VG VPT (incl. dagbesteding)"
+  },
+  {
+    "Code": "VGVPT4",
+    "Description": "4VG VPT(incl. dagbesteding)"
+  },
+  {
+    "Code": "VGVPT5",
+    "Description": "5VG VPT (incl. dagbesteding)"
+  },
+  {
+    "Code": "VGVPT6",
+    "Description": "6VG VPT (incl. dagbesteding)"
+  },
+  {
+    "Code": "VGVPT7",
+    "Description": "7VG VPT (incl. dagbesteding)"
+  },
+  {
+    "Code": "LVGV1",
+    "Description": "1LVG VPT (incl. dagbesteding)"
+  },
+  {
+    "Code": "LVGV2",
+    "Description": "2LVG VPT (incl. dagbesteding)"
+  },
+  {
+    "Code": "LVGV3",
+    "Description": "3LVG VPT (incl. dagbesteding)"
+  },
+  {
+    "Code": "LVGV4",
+    "Description": "4LVG VPT (incl. dagbesteding)"
+  },
+  {
+    "Code": "LVGV5",
+    "Description": "5LVG VPT (incl. dagbesteding)"
+  },
+  {
+    "Code": "SGLV1",
+    "Description": "1SGLVG VPT"
+  },
+  {
+    "Code": "VPT125",
+    "Description": "Dagactiviteiten GGZ VPT"
+  }
+]

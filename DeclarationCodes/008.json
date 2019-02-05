@@ -1,0 +1,1994 @@
+[
+  {
+    "Code": "11101",
+    "Description": "Inschrijving verzekerden vanaf 75 jaar niet woonachtig in een opslagwijk"
+  },
+  {
+    "Code": "11102",
+    "Description": "Inschrijving verzekerden tot 65 jaar en woonachtig in een opslagwijk"
+  },
+  {
+    "Code": "11103",
+    "Description": "Inschrijving verzekerden van 65 jaar tot 75 jaar en woonachtig in een opslagwijk"
+  },
+  {
+    "Code": "11104",
+    "Description": "Inschrijving verzekerden vanaf 75 jaar en woonachtig in een opslagwijk"
+  },
+  {
+    "Code": "11105",
+    "Description": "Inschrijving verzekerden vanaf 75 jaar tot 85 jaar niet woonachtig in een opslagwijk"
+  },
+  {
+    "Code": "11106",
+    "Description": "Inschrijving verzekerden vanaf 75 jaar tot 85 jaar en woonachtig in een opslagwijk"
+  },
+  {
+    "Code": "11107",
+    "Description": "Inschrijving verzekerden vanaf 85 jaar niet woonachtig in een opslagwijk"
+  },
+  {
+    "Code": "11108",
+    "Description": "Inschrijving verzekerden vanaf 85 jaar en woonachtig in een opslagwijk"
+  },
+  {
+    "Code": "12000",
+    "Description": "Consult regulier korter dan 20 minuten"
+  },
+  {
+    "Code": "12001",
+    "Description": "Consult regulier 20 minuten en langer"
+  },
+  {
+    "Code": "12002",
+    "Description": "Visite regulier korter dan 20 minuten"
+  },
+  {
+    "Code": "12003",
+    "Description": "Visite regulier 20 minuten en langer"
+  },
+  {
+    "Code": "12004",
+    "Description": "Telefonisch consult regulier"
+  },
+  {
+    "Code": "12006",
+    "Description": "Vaccinatie regulier"
+  },
+  {
+    "Code": "12007",
+    "Description": "E-mailconsult regulier"
+  },
+  {
+    "Code": "12010",
+    "Description": "Consult regulier korter dan 5 minuten"
+  },
+  {
+    "Code": "12011",
+    "Description": "Consult regulier vanaf 5 minuten en korter dan 20 minuten"
+  },
+  {
+    "Code": "12400",
+    "Description": "Consult passant korter dan 20 minuten"
+  },
+  {
+    "Code": "12401",
+    "Description": "Consult passant 20 minuten en langer"
+  },
+  {
+    "Code": "12402",
+    "Description": "Visite passant korter dan 20 minuten"
+  },
+  {
+    "Code": "12403",
+    "Description": "Visite passant 20 minuten en langer"
+  },
+  {
+    "Code": "12404",
+    "Description": "Telefonisch consult passant"
+  },
+  {
+    "Code": "12406",
+    "Description": "Vaccinatie passant"
+  },
+  {
+    "Code": "12410",
+    "Description": "Consult passant korter dan 5 minuten"
+  },
+  {
+    "Code": "12411",
+    "Description": "Consult passant vanaf 5 minuten tot 20 minuten"
+  },
+  {
+    "Code": "12500",
+    "Description": "Consult militair korter dan 20 minuten"
+  },
+  {
+    "Code": "12501",
+    "Description": "Consult militair 20 minuten en langer"
+  },
+  {
+    "Code": "12502",
+    "Description": "Visite militair korter dan 20 minuten"
+  },
+  {
+    "Code": "12503",
+    "Description": "Visite militair 20 minuten en langer"
+  },
+  {
+    "Code": "12504",
+    "Description": "Telefonisch consult militair"
+  },
+  {
+    "Code": "12506",
+    "Description": "Vaccinatie militair"
+  },
+  {
+    "Code": "12507",
+    "Description": "Consult militair korter dan 5 minuten"
+  },
+  {
+    "Code": "12519",
+    "Description": "Consult militair vanaf 5 minuten tot 20 minuten"
+  },
+  {
+    "Code": "12510",
+    "Description": "Consult gemoedsbezwaarde korter dan 20 minuten"
+  },
+  {
+    "Code": "12511",
+    "Description": "Consult gemoedsbezwaarde 20 minuten en langer"
+  },
+  {
+    "Code": "12512",
+    "Description": "Visite gemoedsbezwaarde korter dan 20 minuten"
+  },
+  {
+    "Code": "12513",
+    "Description": "Visite gemoedsbezwaarde 20 minuten en langer"
+  },
+  {
+    "Code": "12514",
+    "Description": "Telefonisch consult gemoedsbezwaarde"
+  },
+  {
+    "Code": "12516",
+    "Description": "Vaccinatie gemoedsbezwaarde"
+  },
+  {
+    "Code": "12520",
+    "Description": "Consult gemoedsbezwaarden korter dan 5 minuten"
+  },
+  {
+    "Code": "12521",
+    "Description": "Consult gemoedsbezwaarden vanaf 5 minuten tot 20 minuten"
+  },
+  {
+    "Code": "11201",
+    "Description": "Module POH-GGZ per kwartaal per ingeschreven verzekerde"
+  },
+  {
+    "Code": "12110",
+    "Description": "Consult POH-GGZ korter dan 20 minuten"
+  },
+  {
+    "Code": "12111",
+    "Description": "Consult POH-GGZ 20 minuten en langer"
+  },
+  {
+    "Code": "12112",
+    "Description": "Visite POH-GGZ korter dan 20 minuten"
+  },
+  {
+    "Code": "12113",
+    "Description": "Visite POH-GGZ 20 minuten en langer"
+  },
+  {
+    "Code": "12114",
+    "Description": "Telefonisch consult POH-GGZ"
+  },
+  {
+    "Code": "12115",
+    "Description": "E-mailconsult POH-GGZ"
+  },
+  {
+    "Code": "12116",
+    "Description": "Groepsconsult POH-GGZ"
+  },
+  {
+    "Code": "12117",
+    "Description": "Consult POH-GGZ korter dan 5 minuten"
+  },
+  {
+    "Code": "12118",
+    "Description": "Consult POH-GGZ vanaf 5 minuten tot 20 minuten"
+  },
+  {
+    "Code": "n.v.t.",
+    "Description": "Onderlinge dienstverlening t.b.v. POH-GGZ"
+  },
+  {
+    "Code": "n.v.t.",
+    "Description": "Onderlinge dienstverlening t.b.v. consultatie bij POH-GGZ"
+  },
+  {
+    "Code": "12150",
+    "Description": "Huisartsenzorg eerstelijns verblijf, dag korter dan 20 min"
+  },
+  {
+    "Code": "12151",
+    "Description": "Huisartsenzorg eerstelijns verblijf, dag 20 min en langer"
+  },
+  {
+    "Code": "12152",
+    "Description": "Huisartsenzorg eerstelijns verblijf, ANW korter dan 20 min"
+  },
+  {
+    "Code": "12153",
+    "Description": "Huisartsenzorg eerstelijns verblijf, ANW 20 min en langer"
+  },
+  {
+    "Code": "13012",
+    "Description": "Chirurgie"
+  },
+  {
+    "Code": "13034",
+    "Description": "Intensieve zorg, dag"
+  },
+  {
+    "Code": "13036",
+    "Description": "Intensieve zorg, ANW"
+  },
+  {
+    "Code": "13015",
+    "Description": "Ambulante compressietherapie bij ulcus cruris"
+  },
+  {
+    "Code": "13024",
+    "Description": "Oogboring"
+  },
+  {
+    "Code": "40001",
+    "Description": "Multidisciplinaire zorg DM2 incl. O&I"
+  },
+  {
+    "Code": "11602",
+    "Description": "Multidisciplinaire zorg DM2 koptarief"
+  },
+  {
+    "Code": "40011",
+    "Description": "Multidisciplinaire zorg VRM incl. O&I"
+  },
+  {
+    "Code": "11604",
+    "Description": "Multidisciplinaire zorg VRM koptarief"
+  },
+  {
+    "Code": "11625",
+    "Description": "Multidisciplinaire zorg DM2/VRM incl. O&I"
+  },
+  {
+    "Code": "11605",
+    "Description": "Multidisciplinaire zorg DM2/VRM koptarief"
+  },
+  {
+    "Code": "40021",
+    "Description": "Multidisciplinaire zorg COPD incl. O&I"
+  },
+  {
+    "Code": "11603",
+    "Description": "Multidisciplinaire zorg COPD koptarief"
+  },
+  {
+    "Code": "11626",
+    "Description": "Multidisciplinarie zorg Astma incl. O&I"
+  },
+  {
+    "Code": "11606",
+    "Description": "Multidisciplinarie zorg Astma koptarief"
+  },
+  {
+    "Code": "11627",
+    "Description": "Multidisciplinaire zorg COPD/Astma incl. O&I"
+  },
+  {
+    "Code": "11607",
+    "Description": "Multidisciplinaire zorg COPD/Astma koptarief"
+  },
+  {
+    "Code": "11600",
+    "Description": "module geïntegreerde eerstelijnszorg voor samenwerkingsverbanden met een rechtspersoonlijkheid"
+  },
+  {
+    "Code": "11601",
+    "Description": "module geïntegreerde eerstelijnszorg voor samenwerkingsverbanden zonder een rechtspersoonlijkheid"
+  },
+  {
+    "Code": "11624",
+    "Description": "O&I Wijkmanagement"
+  },
+  {
+    "Code": "11610",
+    "Description": "O&I Ketenzorg"
+  },
+  {
+    "Code": "11611",
+    "Description": "O&I Regiomanagement"
+  },
+  {
+    "Code": "11612",
+    "Description": "O&I Geïntegreerde eerstelijnszorg overig"
+  },
+  {
+    "Code": "11613",
+    "Description": "Multidisciplinaire zorg DM2/VRM - excl. O&I"
+  },
+  {
+    "Code": "11614",
+    "Description": "Multidisciplinaire zorg HVZ - excl. O&I"
+  },
+  {
+    "Code": "11615",
+    "Description": "Multidisciplinaire zorg VVR - excl. O&I"
+  },
+  {
+    "Code": "11616",
+    "Description": "Multidisciplinaire zorg DM2 - excl. O&I"
+  },
+  {
+    "Code": "11617",
+    "Description": "Multidisciplinaire zorg VRM - excl. O&I"
+  },
+  {
+    "Code": "11618",
+    "Description": "Multidisciplinarie zorg Astma - excl. O&I"
+  },
+  {
+    "Code": "11619",
+    "Description": "Multidisciplinaire zorg COPD/Astma - excl. O&I"
+  },
+  {
+    "Code": "11620",
+    "Description": "Multidisciplinaire zorg DM2 – niet gecontracteerd"
+  },
+  {
+    "Code": "11621",
+    "Description": "Multidisciplinaire zorg COPD – niet gecontracteerd"
+  },
+  {
+    "Code": "11622",
+    "Description": "Multidisciplinaire zorg HVZ – niet gecontracteerd"
+  },
+  {
+    "Code": "11623",
+    "Description": "Multidisciplinaire zorg COPD - excl. O&I"
+  },
+  {
+    "Code": "n.v.t.",
+    "Description": "Dienstuur HDS"
+  },
+  {
+    "Code": "n.v.t.",
+    "Description": "Opslag dienstuur HDS"
+  },
+  {
+    "Code": "12200",
+    "Description": "Consult ANW korter dan 20 minuten"
+  },
+  {
+    "Code": "12201",
+    "Description": "Consult ANW 20 minuten en langer"
+  },
+  {
+    "Code": "12202",
+    "Description": "Visite ANW korter dan 20 minuten"
+  },
+  {
+    "Code": "12203",
+    "Description": "Visite ANW 20 minuten en langer"
+  },
+  {
+    "Code": "12204",
+    "Description": "Telefonisch consult ANW"
+  },
+  {
+    "Code": "12206",
+    "Description": "Vaccinatie ANW"
+  },
+  {
+    "Code": "12207",
+    "Description": "Consult ANW korter dan 5 minuten"
+  },
+  {
+    "Code": "12208",
+    "Description": "Consult ANW vanaf 5 minuten tot 20 minuten"
+  },
+  {
+    "Code": "12816",
+    "Description": "Telefonische informatieverstrekking"
+  },
+  {
+    "Code": "12817",
+    "Description": "Schriftelijke informatieverstrekking"
+  },
+  {
+    "Code": "12701",
+    "Description": "Uitstrijkje"
+  },
+  {
+    "Code": "12800",
+    "Description": "Spreekuurcontrole (voor onder andere bedrijfsgeneeskundig onderzoek)"
+  },
+  {
+    "Code": "12801",
+    "Description": "Gericht klein onderzoek"
+  },
+  {
+    "Code": "12802",
+    "Description": "Visitecontrole (voor onder andere bedrijfsgeneeskundig onderzoek)"
+  },
+  {
+    "Code": "12803",
+    "Description": "Keuring voor invalideparkeerkaart (kort)"
+  },
+  {
+    "Code": "12804",
+    "Description": "Keuring voor invalideparkeerkaart (lang)"
+  },
+  {
+    "Code": "12806",
+    "Description": "Kleine keuring (oriënterend algemeen lichamelijk onderzoek)"
+  },
+  {
+    "Code": "12807",
+    "Description": "Periodiek (beperkt) geneeskundig onderzoek"
+  },
+  {
+    "Code": "12808",
+    "Description": "Scheepvaartkeuring"
+  },
+  {
+    "Code": "12809",
+    "Description": "“Grote keuring”"
+  },
+  {
+    "Code": "12810",
+    "Description": "Invaliditeitskeuring met rapport"
+  },
+  {
+    "Code": "12811",
+    "Description": "Rijbewijskeuring tot 15 minuten"
+  },
+  {
+    "Code": "12812",
+    "Description": "Rijbewijskeuring langer dan 15 minuten"
+  },
+  {
+    "Code": "12813",
+    "Description": "Bedrijfs- en sollicitatiekeuring"
+  },
+  {
+    "Code": "12814",
+    "Description": "Periodiek geneeskundig onderzoek (conform LHV-keuring)"
+  },
+  {
+    "Code": "12818",
+    "Description": "Keuring en onderzoek per 5 minuten"
+  },
+  {
+    "Code": "12805",
+    "Description": "Kilometervergoeding (voor de 5e en volgende retourkilometers) per retourkilometer (= twee gewone kilometers)"
+  },
+  {
+    "Code": "12900",
+    "Description": "Materiaalkosten atraumatisch hechtmateriaal, waaronder lijmen"
+  },
+  {
+    "Code": "12901",
+    "Description": "Materiaalkosten tapemateriaal ten behoeve van enkeldistorties"
+  },
+  {
+    "Code": "12902",
+    "Description": "Materiaalkosten zwangerschapsreactie (planotest en dergelijke)"
+  },
+  {
+    "Code": "12903",
+    "Description": "Materiaalkosten dipslides (urineweginfecties)"
+  },
+  {
+    "Code": "12904",
+    "Description": "Materiaalkosten teststrips bloedsuikerbepaling diabetespatiënten (waaronder eyetone-teststrips)"
+  },
+  {
+    "Code": "12905",
+    "Description": "Materiaalkosten vloeibaar stikstof of histofreezer"
+  },
+  {
+    "Code": "12906",
+    "Description": "Materiaalkosten blaaskatheter"
+  },
+  {
+    "Code": "12907",
+    "Description": "Materiaalkosten CRP-sneltest cassette(s)"
+  },
+  {
+    "Code": "12700",
+    "Description": "Kosten ECG maken"
+  },
+  {
+    "Code": "12009",
+    "Description": "Kosten entstoffen"
+  },
+  {
+    "Code": "12008",
+    "Description": "Laboratoriumkosten"
+  },
+  {
+    "Code": "12815",
+    "Description": "Scen"
+  },
+  {
+    "Code": "11500",
+    "Description": "Huisartsenzorg voor asielzoekers in de centrale opvang, per plaats"
+  },
+  {
+    "Code": "11300",
+    "Description": "Module achterstandsfonds, per op naam van de huisarts ingeschreven verzekerde in een opslagwijk en per kwartaal"
+  },
+  {
+    "Code": "13000",
+    "Description": "Audiometrie"
+  },
+  {
+    "Code": "13001",
+    "Description": "Diagnostiek met behulp van Doppler"
+  },
+  {
+    "Code": "13003",
+    "Description": "Tympanometrie"
+  },
+  {
+    "Code": "13004",
+    "Description": "Longfunctiemeting (= spirometrie)"
+  },
+  {
+    "Code": "13005",
+    "Description": "ECG-diagnostiek (ECG maken, interpreteren en bespreken met patiënt)"
+  },
+  {
+    "Code": "13006",
+    "Description": "Spleetlamponderzoek"
+  },
+  {
+    "Code": "13007",
+    "Description": "Tele-echo, tele-röntgen, tele-hartmonitoring op de waddeneilanden"
+  },
+  {
+    "Code": "13008",
+    "Description": "Bloeddrukmeting gedurende 24-uur, hypertensiemeting"
+  },
+  {
+    "Code": "13009",
+    "Description": "Teledermatologie"
+  },
+  {
+    "Code": "13010",
+    "Description": "Cognitieve functietest (MMSE)"
+  },
+  {
+    "Code": "13011",
+    "Description": "Hartritmestoornissen"
+  },
+  {
+    "Code": "13027",
+    "Description": "MRSA-screening"
+  },
+  {
+    "Code": "13029",
+    "Description": "Diabetes begeleiding per jaar"
+  },
+  {
+    "Code": "13030",
+    "Description": "Diabetes – instellen op insuline"
+  },
+  {
+    "Code": "13031",
+    "Description": "COPD-gestructureerde zorg per jaar"
+  },
+  {
+    "Code": "13032",
+    "Description": "Palliatieve consultatie, visite"
+  },
+  {
+    "Code": "13033",
+    "Description": "Palliatieve consultatie, telefonisch"
+  },
+  {
+    "Code": "13038",
+    "Description": "Euthanasie"
+  },
+  {
+    "Code": "13043",
+    "Description": "Gestructureerde huisartsenzorg in verzorgingshuis"
+  },
+  {
+    "Code": "13044",
+    "Description": "Gestructureerde huisartsenzorg in de maatschappelijke opvang"
+  },
+  {
+    "Code": "13045",
+    "Description": "Module Abdominale echografie"
+  },
+  {
+    "Code": "13013",
+    "Description": "Chirurgie in geval van cosmetiek"
+  },
+  {
+    "Code": "13021",
+    "Description": "Varices sclerosering in geval van cosmetiek"
+  },
+  {
+    "Code": "13039",
+    "Description": "Reizigersadvisering"
+  },
+  {
+    "Code": "13040",
+    "Description": "Sterilisatie man"
+  },
+  {
+    "Code": "13041",
+    "Description": "Besnijdenis"
+  },
+  {
+    "Code": "12600",
+    "Description": "Volledige verloskundige hulp, verzekerden niet woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12601",
+    "Description": "Deelprestatie volledige prenatale hulp, verzekerden niet woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12602",
+    "Description": "Deelprestatie volledige natale hulp, verzekerden niet woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12603",
+    "Description": "Deelprestatie volledige postnatale hulp, verzekerden niet woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12605",
+    "Description": "Deelprestatie spontane abortus of verwijzing tweede lijn prenatale zorg van 0 tot en met 14 weken, verzekerden niet woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12606",
+    "Description": "Deelprestatie spontane abortus of verwijzing tweede lijn prenatale zorg van 15 tot en met 29 weken, verzekerden niet woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12607",
+    "Description": "Deelprestatie spontane abortus of verwijzing tweede lijn prenatale zorg na 29 weken, maar vóór de bevalling, verzekerden niet woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12608",
+    "Description": "Deelprestatie prenatale zorg eerste huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode van 0 tot en met 14 weken, verzekerden niet woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12609",
+    "Description": "Deelprestatie prenatale zorg eerste huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode van 15 tot en met 29 weken, verzekerden niet woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12610",
+    "Description": "Deelprestatie prenatale zorg eerste huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode na 29 weken, maar vóór de bevalling, verzekerden niet woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12611",
+    "Description": "Deelprestatie prenatale zorg tweede huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode van 0 tot en met 14 weken, verzekerden niet woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12612",
+    "Description": "Deelprestatie prenatale zorg tweede huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode van 15 tot en met 29 weken, verzekerden niet woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12613",
+    "Description": "Deelprestatie prenatale zorg tweede huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode na 29 weken, maar vóór de bevalling, verzekerden niet woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12614",
+    "Description": "Algemene termijnen echo"
+  },
+  {
+    "Code": "12615",
+    "Description": "Prenatale screening: counseling"
+  },
+  {
+    "Code": "12616",
+    "Description": "Prenatale screening: NT-meting bij eenlingen en bij het eerste kind van een meerlingenzwangerschap"
+  },
+  {
+    "Code": "12617",
+    "Description": "Prenatale screening: Structureel Echoscopisch Onderzoek (SEO) bij eenlingen en bij het eerste kind van een meerlingenzwangerschap"
+  },
+  {
+    "Code": "12618",
+    "Description": "Specifieke diagnose echo"
+  },
+  {
+    "Code": "12619",
+    "Description": "Uitwendige versie bij stuitligging"
+  },
+  {
+    "Code": "12620",
+    "Description": "Volledige verloskundige hulp, verzekerden woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12621",
+    "Description": "Deelprestatie volledige prenatale hulp, verzekerden woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12622",
+    "Description": "Deelprestatie volledige natale hulp, verzekerden woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12623",
+    "Description": "Deelprestatie volledige postnatale hulp, verzekerden woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12625",
+    "Description": "Deelprestatie spontane abortus of verwijzing tweede lijn prenatale zorg van 0 tot en met 14 weken, verzekerden woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12626",
+    "Description": "Deelprestatie spontane abortus of verwijzing tweede lijn prenatale zorg van 15 tot en met 29 weken, verzekerden woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12627",
+    "Description": "Deelprestatie spontane abortus of verwijzing tweede lijn prenatale zorg na 29 weken, maar vóór de bevalling, verzekerden woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12628",
+    "Description": "Deelprestatie prenatale zorg eerste huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode van 0 tot en met 14 weken, verzekerden woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12629",
+    "Description": "Deelprestatie prenatale zorg eerste huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode van 15 tot en met 29 weken, verzekerden woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12630",
+    "Description": "Deelprestatie prenatale zorg eerste huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode na 29 weken, maar vóór de bevalling, verzekerden woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12631",
+    "Description": "Deelprestatie prenatale zorg tweede huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode van 0 tot en met 14 weken, verzekerden woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12632",
+    "Description": "Deelprestatie prenatale zorg tweede huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode van 15 tot en met 29 weken, verzekerden woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12633",
+    "Description": "Deelprestatie prenatale zorg tweede huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode na 29 weken, maar vóór de bevalling, verzekerden woonachtig in opslagwijken"
+  },
+  {
+    "Code": "12646",
+    "Description": "Prenatale screening: NT-meting bij elk volgend kind van een meerlingenzwangerschap"
+  },
+  {
+    "Code": "12647",
+    "Description": "Prenatale screening: Structureel Echoscopisch Onderzoek (SEO) bij elk volgend kind van een meerlingenzwangerschap"
+  },
+  {
+    "Code": "12650",
+    "Description": "Volledige verloskundige hulp, RZA-verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "12651",
+    "Description": "Deelprestatie volledige prenatale hulp, RZA-verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "12652",
+    "Description": "Deelprestatie volledige natale hulp, RZA-verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "12653",
+    "Description": "Deelprestatie volledige postnatale hulp, RZA-verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "12654",
+    "Description": "Deelprestatie spontane abortus of verwijzing tweede lijn prenatale zorg van 0 tot en met 14 weken, RZA-verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "12655",
+    "Description": "Deelprestatie spontane abortus of verwijzing tweede lijn prenatale zorg van 15 tot en met 29 weken, RZA-verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "12656",
+    "Description": "Deelprestatie spontane abortus of verwijzing tweede lijn prenatale zorg na 29 weken, maar vóór de bevalling, RZA-verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "12657",
+    "Description": "Deelprestatie prenatale zorg eerste huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode van 0 tot en met 14 weken, RZA-verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "12658",
+    "Description": "Deelprestatie prenatale zorg eerste huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode van 15 tot en met 29 weken, RZA-verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "12659",
+    "Description": "Deelprestatie prenatale zorg eerste huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode na 29 weken, maar vóór de bevalling, RZA-verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "12660",
+    "Description": "Deelprestatie prenatale zorg tweede huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode van 0 tot en met 14 weken, RZA-verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "12661",
+    "Description": "Deelprestatie prenatale zorg tweede huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode van 15 tot en met 29 weken, RZA-verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "12662",
+    "Description": "Deelprestatie prenatale zorg tweede huisarts bij verhuizing (overdracht tijdens zwangerschap) in de periode na 29 weken, maar vóór de bevalling, RZA-verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "12670",
+    "Description": "Preconceptieconsult, korter dan 20 minuten"
+  },
+  {
+    "Code": "12671",
+    "Description": "Preconceptieconsult, 20 minuten en langer"
+  },
+  {
+    "Code": "13023",
+    "Description": "Therapeutische injectie (Cyriax)"
+  },
+  {
+    "Code": "13042",
+    "Description": "IUD aanbrengen/implanteren of verwijderen etonogestrel implantatiestaafje"
+  },
+  {
+    "Code": "13049",
+    "Description": "Polyfarmacie"
+  },
+  {
+    "Code": "12850",
+    "Description": "Stoppen met roken gedragsmatige ondersteuning"
+  },
+  {
+    "Code": "12851",
+    "Description": "Stoppen met roken gedragsmatig en nicotine vervanging"
+  },
+  {
+    "Code": "12852",
+    "Description": "Stoppen met roken gedragsmatig en UR-middelen"
+  },
+  {
+    "Code": "12853",
+    "Description": "Stoppen met roken gedragsmatig, nicotine vervanging en UR-middelen"
+  },
+  {
+    "Code": "30111",
+    "Description": "Resultaatbeloning doelmatig voorschrijven"
+  },
+  {
+    "Code": "30160",
+    "Description": "Resultaatbeloning M&I IUD"
+  },
+  {
+    "Code": "30170",
+    "Description": "Resultaatbeloning M&I prestatie therapeutische injectie"
+  },
+  {
+    "Code": "30180",
+    "Description": "Resultaatbeloning M&I prestatie chirurgie"
+  },
+  {
+    "Code": "30181",
+    "Description": "Resultaatbeloning M&I Intensieve zorg dag"
+  },
+  {
+    "Code": "30182",
+    "Description": "Resultaatbeloning M&I Intensieve zorg ANW"
+  },
+  {
+    "Code": "30183",
+    "Description": "Resultaatbeloning M&I Ambulante compressietherapie"
+  },
+  {
+    "Code": "30184",
+    "Description": "Resultaatbeloning M&I Oogboring"
+  },
+  {
+    "Code": "30121",
+    "Description": "Resultaatbeloning service en bereikbaarheid"
+  },
+  {
+    "Code": "30140",
+    "Description": "Resultaatbeloning overig"
+  },
+  {
+    "Code": "31000",
+    "Description": "E-health - Eenmalig per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31001",
+    "Description": "E-health - Kwartaaltarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31002",
+    "Description": "E-health - Eenmalig per geïncludeerde patiënt"
+  },
+  {
+    "Code": "31003",
+    "Description": "E-health - Kwartaaltarief per geïncludeerde patiënt"
+  },
+  {
+    "Code": "31020",
+    "Description": "Meekijkconsult  - Eenmalig per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31021",
+    "Description": "Meekijkconsult  - Kwartaaltarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31022",
+    "Description": "Meekijkconsult - Eenmalig per geïncludeerde patiënt"
+  },
+  {
+    "Code": "31023",
+    "Description": "Meekijkconsult  - Kwartaaltarief per geïncludeerde patiënt"
+  },
+  {
+    "Code": "31040",
+    "Description": "Kwaliteit"
+  },
+  {
+    "Code": "31060",
+    "Description": "Ouderenzorg"
+  },
+  {
+    "Code": "31080",
+    "Description": "POH-S"
+  },
+  {
+    "Code": "31100",
+    "Description": "Organisatie ontwikkeling"
+  },
+  {
+    "Code": "31120",
+    "Description": "Preventie"
+  },
+  {
+    "Code": "31140",
+    "Description": "Innovatie - Eenmalig per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31141",
+    "Description": "Innovatie  - Kwartaaltarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31142",
+    "Description": "Innovatie - Eenmalig per geïncludeerde patiënt"
+  },
+  {
+    "Code": "31143",
+    "Description": "Innovatie  - Kwartaaltarief per geïncludeerde patiënt"
+  },
+  {
+    "Code": "31160",
+    "Description": "Substitutie - Eenmalig per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31161",
+    "Description": "Substitutie- Kwartaaltarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31162",
+    "Description": "Substitutie - Eenmalig per geïncludeerde patiënt"
+  },
+  {
+    "Code": "31163",
+    "Description": "Substitutie  - Kwartaaltarief per geïncludeerde patiënt"
+  },
+  {
+    "Code": "30112",
+    "Description": "Resultaatbeloning multidisciplinaire zorg doelmatig voorschrijven"
+  },
+  {
+    "Code": "30122",
+    "Description": "Resultaatbeloning multidisciplinaire zorg service en bereikbaarheid"
+  },
+  {
+    "Code": "30132",
+    "Description": "Resultaatbeloning ketenzorg DM2"
+  },
+  {
+    "Code": "30133",
+    "Description": "Resultaatbeloning ketenzorg COPD"
+  },
+  {
+    "Code": "30134",
+    "Description": "Resultaatbeloning ketenzorg CVRM"
+  },
+  {
+    "Code": "30150",
+    "Description": "Resultaatbeloning multidisciplinaire zorg overig"
+  },
+  {
+    "Code": "31010",
+    "Description": "E-health - Eenmalig per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31011",
+    "Description": "E-health - Kwartaaltarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31012",
+    "Description": "E-health - Eenmalig per geïncludeerde patiënt"
+  },
+  {
+    "Code": "31013",
+    "Description": "E-health - Kwartaaltarief per geïncludeerde patiënt"
+  },
+  {
+    "Code": "31030",
+    "Description": "Meekijkconsult  - Eenmalig per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31031",
+    "Description": "Meekijkconsult  - Kwartaaltarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31032",
+    "Description": "Meekijkconsult - Eenmalig per geïncludeerde patiënt"
+  },
+  {
+    "Code": "31033",
+    "Description": "Meekijkconsult  - Kwartaaltarief per geïncludeerde patiënt"
+  },
+  {
+    "Code": "31050",
+    "Description": "Kwaliteit"
+  },
+  {
+    "Code": "31070",
+    "Description": "Ouderenzorg"
+  },
+  {
+    "Code": "31090",
+    "Description": "POH-S"
+  },
+  {
+    "Code": "31110",
+    "Description": "Organisatie ontwikkeling"
+  },
+  {
+    "Code": "31130",
+    "Description": "Preventie"
+  },
+  {
+    "Code": "31150",
+    "Description": "Innovatie - Eenmalig per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31151",
+    "Description": "Innovatie  - Kwartaaltarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31152",
+    "Description": "Innovatie - Eenmalig per geïncludeerde patiënt"
+  },
+  {
+    "Code": "31153",
+    "Description": "Innovatie  - Kwartaaltarief per geïncludeerde patiënt"
+  },
+  {
+    "Code": "31170",
+    "Description": "Substitutie - Eenmalig per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31171",
+    "Description": "Substitutie - Kwartaaltarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31172",
+    "Description": "Substitutie - Eenmalig per geïncludeerde patiënt"
+  },
+  {
+    "Code": "31173",
+    "Description": "Substitutie  - Kwartaaltarief per geïncludeerde patiënt"
+  },
+  {
+    "Code": "31174",
+    "Description": "Praktijkmanagement huisartsenzorg"
+  },
+  {
+    "Code": "31175",
+    "Description": "Praktijkmanagement multidisciplinaire zorg"
+  },
+  {
+    "Code": "11608",
+    "Description": "Module geïntegreerde eerstelijnszorg voor samenwerkingsverbanden met een rechtspersoonlijkheid - Zorggroep"
+  },
+  {
+    "Code": "12300",
+    "Description": "Consult HAP/HDS"
+  },
+  {
+    "Code": "12301",
+    "Description": "Visite HAP/HDS"
+  },
+  {
+    "Code": "12302",
+    "Description": "Telefonisch consult HAP/HDS"
+  },
+  {
+    "Code": "11609",
+    "Description": "POH-GGZ module zorggroep"
+  },
+  {
+    "Code": "30000",
+    "Description": "Doelmatig voorschrijfgedrag huisartsen DSW"
+  },
+  {
+    "Code": "30001",
+    "Description": "Bereikbaarheid en continuïteit"
+  },
+  {
+    "Code": "30002",
+    "Description": "Resultaatbeloning service en bereikbaarheid Tarief 2"
+  },
+  {
+    "Code": "30003",
+    "Description": "Diagnostisch Toets Overleg"
+  },
+  {
+    "Code": "30004",
+    "Description": "Resultaatbeloning M&I Prestatie post operatief consult thuis"
+  },
+  {
+    "Code": "30005",
+    "Description": "Resultaatbeloning M&I Verrichting ter vervanging specialistenbezoek"
+  },
+  {
+    "Code": "30101",
+    "Description": "Doelmatig aanvragen diagnostiek"
+  },
+  {
+    "Code": "30102",
+    "Description": "Resultaatbeloning multidisciplinaire zorg overig"
+  },
+  {
+    "Code": "30103",
+    "Description": "Farmaceutisch overleg"
+  },
+  {
+    "Code": "30104",
+    "Description": "Module voorbereiding praktijk op gestructureerde ouderenzorg HCDO"
+  },
+  {
+    "Code": "30105",
+    "Description": "Regioprestatie Avondspreekuur"
+  },
+  {
+    "Code": "30106",
+    "Description": "IZP HVZ"
+  },
+  {
+    "Code": "30107",
+    "Description": "IZP VVR"
+  },
+  {
+    "Code": "30108",
+    "Description": "IZP DM"
+  },
+  {
+    "Code": "30109",
+    "Description": "IZP COPD"
+  },
+  {
+    "Code": "30110",
+    "Description": "IZP CVRM"
+  },
+  {
+    "Code": "30113",
+    "Description": "Nacalculatie resultaatbeloning doelmatig voorschrijven 2015"
+  },
+  {
+    "Code": "30114",
+    "Description": "Shared savings"
+  },
+  {
+    "Code": "30115",
+    "Description": "Nabetaling module"
+  },
+  {
+    "Code": "30116",
+    "Description": "Module Communicatie Ketenzorg"
+  },
+  {
+    "Code": "30117",
+    "Description": "Doelmatig voorschrijven 2016"
+  },
+  {
+    "Code": "30118",
+    "Description": "Resultaatbeloning ketenzorg VVR"
+  },
+  {
+    "Code": "30119",
+    "Description": "Resultaatbeloning ketenzorg HVZ"
+  },
+  {
+    "Code": "30120",
+    "Description": "Nabetaling doelmatig voorschrijven"
+  },
+  {
+    "Code": "31200",
+    "Description": "Toeslag basis huisartsenzorg DSW"
+  },
+  {
+    "Code": "31201",
+    "Description": "Toeslag POH GGZ DSW"
+  },
+  {
+    "Code": "31202",
+    "Description": "Zorgvernieuwing overig"
+  },
+  {
+    "Code": "31203",
+    "Description": "Zorgvernieuwing overig"
+  },
+  {
+    "Code": "31204",
+    "Description": "Zorgvernieuwing overig"
+  },
+  {
+    "Code": "31205",
+    "Description": "Zorgvernieuwing overig"
+  },
+  {
+    "Code": "31206",
+    "Description": "Innovatie 2 Eenmalig tarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31207",
+    "Description": "Innovatie 2 Kwartaal tarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31208",
+    "Description": "Innovatie 3 Eenmalig tarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31209",
+    "Description": "Innovatie 3 Kwartaal tarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31210",
+    "Description": "Substitutie 2 Eenmalig tarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31211",
+    "Description": "Substitutie 2 Kwartaal tarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31212",
+    "Description": "Substitutie 3 Eenmalig tarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31213",
+    "Description": "Substitutie 3 Kwartaal tarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31214",
+    "Description": "Innovatie 2 Eenmalig tarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31215",
+    "Description": "Innovatie 2 Kwartaal tarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31216",
+    "Description": "Innovatie 3 Eenmalig tarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31217",
+    "Description": "Innovatie 3 Kwartaal tarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31218",
+    "Description": "Substitutie 2 Eenmalig tarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31219",
+    "Description": "Substitutie 2 Kwartaal tarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31220",
+    "Description": "Substitutie 3 Eenmalig tarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31221",
+    "Description": "Substitutie 3 Kwartaal tarief per ingeschreven verzekerde"
+  },
+  {
+    "Code": "31222",
+    "Description": "Zorgvernieuwing overig"
+  },
+  {
+    "Code": "31223",
+    "Description": "Zorgvernieuwing overig"
+  },
+  {
+    "Code": "31224",
+    "Description": "Zorgvernieuwing overig"
+  },
+  {
+    "Code": "31225",
+    "Description": "Zorgvernieuwing overig"
+  },
+  {
+    "Code": "31226",
+    "Description": "Innovatie 2 Eenmalig tarief per geïncludeerde verzekerde"
+  },
+  {
+    "Code": "31227",
+    "Description": "Innovatie 2 Kwartaal tarief per geïncludeerde verzekerde"
+  },
+  {
+    "Code": "31228",
+    "Description": "Innovatie 3 Eenmalig tarief per geïncludeerde verzekerde"
+  },
+  {
+    "Code": "31229",
+    "Description": "Innovatie 3 Kwartaal tarief per geïncludeerde verzekerde"
+  },
+  {
+    "Code": "31230",
+    "Description": "Substitutie 2 Eenmalig tarief per geïncludeerde verzekerde"
+  },
+  {
+    "Code": "31231",
+    "Description": "Substitutie 2 Kwartaal tarief per geïncludeerde verzekerde"
+  },
+  {
+    "Code": "31232",
+    "Description": "Substitutie 3 Eenmalig tarief per geïncludeerde verzekerde"
+  },
+  {
+    "Code": "31233",
+    "Description": "Substitutie 3 Kwartaal tarief per geïncludeerde verzekerde"
+  },
+  {
+    "Code": "31234",
+    "Description": "Innovatie 2 Eenmalig tarief per geïncludeerde verzekerde"
+  },
+  {
+    "Code": "31235",
+    "Description": "Innovatie 2 Kwartaal tarief per geïncludeerde verzekerde"
+  },
+  {
+    "Code": "31236",
+    "Description": "Innovatie 3 Eenmalig tarief per geïncludeerde verzekerde"
+  },
+  {
+    "Code": "31237",
+    "Description": "Innovatie 3 Kwartaal tarief per geïncludeerde verzekerde"
+  },
+  {
+    "Code": "31238",
+    "Description": "Substitutie 2 Eenmalig tarief per geïncludeerde verzekerde"
+  },
+  {
+    "Code": "31239",
+    "Description": "Substitutie 2 Kwartaal tarief per geïncludeerde verzekerde"
+  },
+  {
+    "Code": "31240",
+    "Description": "Substitutie 3 Eenmalig tarief per geïncludeerde verzekerde"
+  },
+  {
+    "Code": "31241",
+    "Description": "Substitutie 3 Kwartaal tarief per geïncludeerde verzekerde"
+  },
+  {
+    "Code": "31242",
+    "Description": "KAM Polireview 10 minuten (max 4x per jaar) of update behandelwensgesprek (max 1x per jaar)"
+  },
+  {
+    "Code": "31243",
+    "Description": "KAM Telefonisch overleg specialist 10 minuten"
+  },
+  {
+    "Code": "31244",
+    "Description": "Behandelwensgesprek"
+  },
+  {
+    "Code": "31245",
+    "Description": "Variabiliseringsgelden"
+  },
+  {
+    "Code": "31246",
+    "Description": "Therapeutische injectie cyriax voor niet eigen ingeschreven patiënten"
+  },
+  {
+    "Code": "31247",
+    "Description": "POCT CRP"
+  },
+  {
+    "Code": "31248",
+    "Description": "POCT D-Dimeer"
+  },
+  {
+    "Code": "31249",
+    "Description": "POCT HbA1C"
+  },
+  {
+    "Code": "31250",
+    "Description": "KAM Polireview 20 minuten (max. 4x per jaar)"
+  },
+  {
+    "Code": "31251",
+    "Description": "KAM Polireview 30 minuten (max. 4x per jaar)"
+  },
+  {
+    "Code": "31252",
+    "Description": "KAM Telefonisch overleg specialist 20 minuten"
+  },
+  {
+    "Code": "31253",
+    "Description": "KAM Telefonisch overleg specialist 30 minuten"
+  },
+  {
+    "Code": "31254",
+    "Description": "Echografie diverse lichaamsdelen"
+  },
+  {
+    "Code": "31255",
+    "Description": "Meekijkconsult KNO"
+  },
+  {
+    "Code": "31256",
+    "Description": "Atriumfibrilleren"
+  },
+  {
+    "Code": "31257",
+    "Description": "Fundusfotografie"
+  },
+  {
+    "Code": "31258",
+    "Description": "Substitutie - Meekijkconsult ketenoptimalisatie DM en COPD"
+  },
+  {
+    "Code": "31259",
+    "Description": "Substitutie - Teleconsult ketenoptimalisatie DM en COPD"
+  },
+  {
+    "Code": "31260",
+    "Description": "Substitutie - Per verrichting"
+  },
+  {
+    "Code": "31261",
+    "Description": "Substitutie - Lage rugpijn"
+  },
+  {
+    "Code": "31262",
+    "Description": "Voorbereiding ouderenzorg 75+"
+  },
+  {
+    "Code": "31263",
+    "Description": "Voorbereiding ouderenzorg 75 t/m 84"
+  },
+  {
+    "Code": "31264",
+    "Description": "Voorbereiding ouderenzorg 85+"
+  },
+  {
+    "Code": "31265",
+    "Description": "Organisatie en infrastructuur ouderenzorg 75+"
+  },
+  {
+    "Code": "31266",
+    "Description": "Voorbereiding ouderenzorg 75 t/m 84"
+  },
+  {
+    "Code": "31267",
+    "Description": "Voorbereiding ouderenzorg 85+"
+  },
+  {
+    "Code": "31268",
+    "Description": "Ouderenzorg 75 t/m 84"
+  },
+  {
+    "Code": "31269",
+    "Description": "Ouderenzorg 85+"
+  },
+  {
+    "Code": "31270",
+    "Description": "Ouderenzorg 75 t/m 84"
+  },
+  {
+    "Code": "31271",
+    "Description": "Ouderenzorg 85+"
+  },
+  {
+    "Code": "31272",
+    "Description": "Ouderenzorg Transmuraal"
+  },
+  {
+    "Code": "31273",
+    "Description": "Project Uitsluitdiagnostiek"
+  },
+  {
+    "Code": "31274",
+    "Description": "Toeslag zorgzwaarte"
+  },
+  {
+    "Code": "31275",
+    "Description": "Regionale prestatie huisartsenzorg basis"
+  },
+  {
+    "Code": "31276",
+    "Description": "Regionale prestatie huisartsenzorg aanvullend"
+  },
+  {
+    "Code": "31277",
+    "Description": "Regionale prestatie huisartsenzorg diagnostiek"
+  },
+  {
+    "Code": "31278",
+    "Description": "Horizontaal doorverwijzen"
+  },
+  {
+    "Code": "31279",
+    "Description": "Prestatie Spiegelinformatie"
+  },
+  {
+    "Code": "31280",
+    "Description": "POH GGZ Intake"
+  },
+  {
+    "Code": "31281",
+    "Description": "POH GGZ Kort"
+  },
+  {
+    "Code": "31282",
+    "Description": "POH GGZ Lang"
+  },
+  {
+    "Code": "31283",
+    "Description": "Consultatie en Farmacotherapie 15 min"
+  },
+  {
+    "Code": "31284",
+    "Description": "Consultatie en Farmacotherapie 30 min"
+  },
+  {
+    "Code": "31285",
+    "Description": "Consultatie en Farmacotherapie 45 min"
+  },
+  {
+    "Code": "31286",
+    "Description": "Consultatie en Farmacotherapie 60 min"
+  },
+  {
+    "Code": "31287",
+    "Description": "Meekijkconsult SOLK 15 min"
+  },
+  {
+    "Code": "31288",
+    "Description": "Meekijkconsult SOLK 30 min"
+  },
+  {
+    "Code": "31289",
+    "Description": "Meekijkconsult SOLK 45 min"
+  },
+  {
+    "Code": "31290",
+    "Description": "Meekijkconsult SOLK 60 min"
+  },
+  {
+    "Code": "31291",
+    "Description": "Meekijkconsult SOLK 75 min"
+  },
+  {
+    "Code": "31292",
+    "Description": "Multidisciplinaire zorg HVZ incl. O&I"
+  },
+  {
+    "Code": "31293",
+    "Description": "Multidisciplinaire zorg VVR incl. O&I"
+  },
+  {
+    "Code": "31294",
+    "Description": "Substitutie - Per verrichting"
+  },
+  {
+    "Code": "31295",
+    "Description": "Meekijkconsult consult dermatologie"
+  },
+  {
+    "Code": "31296",
+    "Description": "Meekijkconsult behandeling dermatologie"
+  },
+  {
+    "Code": "31297",
+    "Description": "Meekijkconsult herhaalconsult dermatologie"
+  },
+  {
+    "Code": "31298",
+    "Description": "Meekijkconsult behandeling KNO"
+  },
+  {
+    "Code": "31299",
+    "Description": "Meekijkconsult herhaalconsult KNO"
+  },
+  {
+    "Code": "31300",
+    "Description": "Meekijkconsult consult chirurgie"
+  },
+  {
+    "Code": "31301",
+    "Description": "Meekijkconsult behandeling chirurgie"
+  },
+  {
+    "Code": "31302",
+    "Description": "Meekijkconsult herhaalconsult chirurgie"
+  },
+  {
+    "Code": "31303",
+    "Description": "Meekijkconsult consult interne geneeskunde"
+  },
+  {
+    "Code": "31304",
+    "Description": "Meekijkconsult behandeling interne geneeskunde"
+  },
+  {
+    "Code": "31305",
+    "Description": "Meekijkconsult herhaalconsult interne geneeskunde"
+  },
+  {
+    "Code": "31306",
+    "Description": "Meekijkconsult consult cardiologie"
+  },
+  {
+    "Code": "31307",
+    "Description": "Meekijkconsult diagnostiek zorgstraat"
+  },
+  {
+    "Code": "31308",
+    "Description": "Meekijkconsult echo"
+  },
+  {
+    "Code": "31309",
+    "Description": "Meekijkconsult holter"
+  },
+  {
+    "Code": "31310",
+    "Description": "Meekijkconsult tredmill"
+  },
+  {
+    "Code": "31311",
+    "Description": "Substitutie - Astma/COPD"
+  },
+  {
+    "Code": "31312",
+    "Description": "Substitutie - CVRM"
+  },
+  {
+    "Code": "31313",
+    "Description": "Borgen continuïteit huisartsenzorg Waddeneilanden"
+  },
+  {
+    "Code": "31314",
+    "Description": "Prestatie doelmatig voorschrijven/medisch farmaceutische beslisregels"
+  },
+  {
+    "Code": "31315",
+    "Description": "Prestatie FTO 4 / DTO"
+  },
+  {
+    "Code": "31316",
+    "Description": "Prestatie diagnostiek veneuze trombo embolie (VTE)"
+  },
+  {
+    "Code": "31317",
+    "Description": "Obstructieve LUTS"
+  },
+  {
+    "Code": "31318",
+    "Description": "Overactieve blaas (OAB)"
+  },
+  {
+    "Code": "31319",
+    "Description": "Bekkenbodemklachten"
+  },
+  {
+    "Code": "31320",
+    "Description": "Erectiele disfunctie"
+  },
+  {
+    "Code": "31321",
+    "Description": "Flowmetrie (cystoscopie)"
+  },
+  {
+    "Code": "31322",
+    "Description": "Administratiekosten DBMGZ"
+  },
+  {
+    "Code": "31323",
+    "Description": "Libidostoornissen"
+  },
+  {
+    "Code": "31324",
+    "Description": "Vroege, trage of geen zaadlozing"
+  },
+  {
+    "Code": "31325",
+    "Description": "Meekijkconsult - per verrichting"
+  },
+  {
+    "Code": "31326",
+    "Description": "ICT-Tool"
+  },
+  {
+    "Code": "31327",
+    "Description": "Meekijkconsult orthopedie"
+  },
+  {
+    "Code": "31328",
+    "Description": "Chirurgische verrichting step 2"
+  },
+  {
+    "Code": "31329",
+    "Description": "Cyriax step 2"
+  },
+  {
+    "Code": "31330",
+    "Description": "DBC POH GGZ"
+  },
+  {
+    "Code": "31331",
+    "Description": "Huisartsenhospitaal"
+  },
+  {
+    "Code": "31332",
+    "Description": "Diagnostiek veneuze trombose (DVT)"
+  },
+  {
+    "Code": "31333",
+    "Description": "SMZ Bewegingsapparaat - eerste consult"
+  },
+  {
+    "Code": "31334",
+    "Description": "SMZ Bewegingsapparaat - vervolg consult"
+  },
+  {
+    "Code": "31335",
+    "Description": "Zorgvernieuwing overig 2"
+  },
+  {
+    "Code": "31336",
+    "Description": "Prestatie multidisciplinair overleg voor palliatieve terminale zorg (MDO PaTz)"
+  },
+  {
+    "Code": "31337",
+    "Description": "Programmagelden Ouderenzorg"
+  },
+  {
+    "Code": "31338",
+    "Description": "Oogzorg"
+  },
+  {
+    "Code": "31339",
+    "Description": "Lichte traumazorg"
+  },
+  {
+    "Code": "31340",
+    "Description": "Zorg voor kwetsbare patiënten"
+  },
+  {
+    "Code": "31341",
+    "Description": "Groepsprogramma Keer diabetes om"
+  },
+  {
+    "Code": "31342",
+    "Description": "Zorgvernieuwing per verrichting"
+  },
+  {
+    "Code": "31343",
+    "Description": "Innovatie module POH-GGZ"
+  },
+  {
+    "Code": "31344",
+    "Description": "Kleine verrichtingen Medium (M)"
+  },
+  {
+    "Code": "31345",
+    "Description": "Kleine verrichtingen Large (L)"
+  },
+  {
+    "Code": "31346",
+    "Description": "Kleine verrichtingen Extra large (XL)"
+  },
+  {
+    "Code": "31347",
+    "Description": "Meekijkconsult Medium (M)"
+  },
+  {
+    "Code": "31348",
+    "Description": "Meekijkconsult Large (L)"
+  },
+  {
+    "Code": "31349",
+    "Description": "Meekijkconsult Extra large (XL)"
+  },
+  {
+    "Code": "31350",
+    "Description": "Consulttarief 1 1/2 lijnsspreekuur bewegingsapparaat"
+  },
+  {
+    "Code": "31351",
+    "Description": "Injectietarief (materialen) echospreekuur"
+  },
+  {
+    "Code": "31352",
+    "Description": "Injectietarief echospreekuur"
+  },
+  {
+    "Code": "31353",
+    "Description": "E-consult/meedenkconsult Dermatologie"
+  },
+  {
+    "Code": "31354",
+    "Description": "E-consult/meedenkconsult Interne geneeskunde"
+  },
+  {
+    "Code": "31355",
+    "Description": "Meekijkconsult - prestatie per verrichting"
+  },
+  {
+    "Code": "31356",
+    "Description": "Module Organisatie wijkgerichte zorginfrastructuur voor samenwerkingsverbanden/huisartsen zonder een rechtspersoonlijkheid"
+  },
+  {
+    "Code": "31357",
+    "Description": "Teledermatologie"
+  },
+  {
+    "Code": "31358",
+    "Description": "Onafhankelijk artsenbezoeker"
+  },
+  {
+    "Code": "31359",
+    "Description": "Praktijkmanager"
+  },
+  {
+    "Code": "31360",
+    "Description": "Substitutie - insuline huisartsenpraktijken"
+  },
+  {
+    "Code": "31361",
+    "Description": "Pilot SOLK"
+  },
+  {
+    "Code": "31362",
+    "Description": "Toeslag basis huisartsenzorg - huisarts"
+  },
+  {
+    "Code": "31363",
+    "Description": "Toeslag basis huisartsenzorg - multidisciplinaire eerstelijnszorg"
+  },
+  {
+    "Code": "31364",
+    "Description": "Vooronderzoek complexe euthanasie"
+  },
+  {
+    "Code": "31365",
+    "Description": "Onderzoek team complexe euthanasie"
+  },
+  {
+    "Code": "31366",
+    "Description": "Module Medicatie Veiligheid"
+  },
+  {
+    "Code": "31367",
+    "Description": "Zorgvernieuwing overig"
+  },
+  {
+    "Code": "31368",
+    "Description": "Meekijkconsult consult gyneacologie"
+  },
+  {
+    "Code": "31369",
+    "Description": "Meekijkconsult IUD consult (spiraal) gyneacologie"
+  },
+  {
+    "Code": "31370",
+    "Description": "Meekijkconsult pessarium consult gyneacologie"
+  },
+  {
+    "Code": "31371",
+    "Description": "Meekijkconsult herhaalconsult gyneacologie"
+  },
+  {
+    "Code": "31372",
+    "Description": "Meekijkconsult herhaalconsult orthopedie"
+  },
+  {
+    "Code": "31373",
+    "Description": "Meekijkconsult consult ouderenzorg"
+  },
+  {
+    "Code": "31374",
+    "Description": "Meekijkconsult herhaalconsult ouderenzorg"
+  },
+  {
+    "Code": "31375",
+    "Description": "Meekijkconsult e-consult ouderenzorg"
+  },
+  {
+    "Code": "31376",
+    "Description": "Meekijkconsult telefonisch consult ouderenzorg"
+  },
+  {
+    "Code": "31377",
+    "Description": "Meekijkconsult specialist ouderenzorg in de praktijk"
+  },
+  {
+    "Code": "31378",
+    "Description": "Ouderenzorg"
+  },
+  {
+    "Code": "31379",
+    "Description": "DBC Hartfalen"
+  },
+  {
+    "Code": "31380",
+    "Description": "DBC BBR"
+  },
+  {
+    "Code": "31381",
+    "Description": "Advance Care Planning"
+  },
+  {
+    "Code": "31382",
+    "Description": "Ouderenzorg 65+"
+  },
+  {
+    "Code": "31383",
+    "Description": "Borgen continuïteit huisartsenzorg"
+  },
+  {
+    "Code": "31384",
+    "Description": "Praktijkscan"
+  },
+  {
+    "Code": "31385",
+    "Description": "Beslissingsondersteunend instrument"
+  },
+  {
+    "Code": "31386",
+    "Description": "Transitiemanager praktijkovername"
+  },
+  {
+    "Code": "31387",
+    "Description": "Module meer tijd voor de patiënt"
+  },
+  {
+    "Code": "31388",
+    "Description": "Kleine verrichtingen Small (S)"
+  },
+  {
+    "Code": "31389",
+    "Description": "Atriumfibrilleren"
+  },
+  {
+    "Code": "31390",
+    "Description": "GeZZond Check"
+  },
+  {
+    "Code": "31391",
+    "Description": "Meekijkconsult Small (S)"
+  },
+  {
+    "Code": "31392",
+    "Description": "Ouderenzorg 75+"
+  }
+]

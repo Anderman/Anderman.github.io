@@ -1,0 +1,226 @@
+[
+  {
+    "Code": "65017",
+    "Description": "Behandeling van obesitas en metaboolsyndroom  Aanvullende verzekering (AV) : Dieetadvisering"
+  },
+  {
+    "Code": "65018",
+    "Description": "Behandeling van obesitas en metaboolsyndroom  Aanvullende verzekering (AV) : Fysiotherapie"
+  },
+  {
+    "Code": "65019",
+    "Description": "Behandeling van obesitas en metaboolsyndroom  Aanvullende verzekering (AV) : Psycholoog"
+  },
+  {
+    "Code": "65020",
+    "Description": "Lymfoedeemtherapie: Intake analyse zwelling"
+  },
+  {
+    "Code": "65021",
+    "Description": "Lymfoedeemtherapie: Beoordeling door de lymfoedeem werkgroep"
+  },
+  {
+    "Code": "65022",
+    "Description": "Lymfoedeemtherapie: Follow-up"
+  },
+  {
+    "Code": "65023",
+    "Description": "Lymfoedeemtherapie: Klinische niet operatieve behandeling van lymfoedeem"
+  },
+  {
+    "Code": "65024",
+    "Description": "Lymfoedeemtherapie: Klinische operatieve behandeling van lymfoedeem"
+  },
+  {
+    "Code": "65025",
+    "Description": "Lymfoedeemtherapie: Dagbehandeling standaard"
+  },
+  {
+    "Code": "65026",
+    "Description": "Lymfoedeemtherapie: Dagbehandeling complex"
+  },
+  {
+    "Code": "65027",
+    "Description": "Integraal revalidatie programma voor patiënten met chronisch hartfalen, assesmentprogramma (intake, diagnostiek)"
+  },
+  {
+    "Code": "65028",
+    "Description": "Transmurale ketenzorg voor ernstig te vroeg geboren kinderen en hun ouders"
+  },
+  {
+    "Code": "65029",
+    "Description": "Reguliere product Emcare Rotterdam"
+  },
+  {
+    "Code": "65030",
+    "Description": "Intake en advies Emcare Rotterdam"
+  },
+  {
+    "Code": "65031",
+    "Description": "Verwijzing vanuit eerstelijnszorg (huisarts) Emcare Rotterdam"
+  },
+  {
+    "Code": "65032",
+    "Description": "Toeslag bij multiple hoofdklachten Emcare Rotterdam"
+  },
+  {
+    "Code": "65033",
+    "Description": "Toeslag bij intensieve nazorg/recidief management Emcare"
+  },
+  {
+    "Code": "65034",
+    "Description": "Integraal revalidatie programma voor patiënten met chronisch hartfalen, inclusief begin- en eindassesment"
+  },
+  {
+    "Code": "65035",
+    "Description": "Integraal revalidatie programma voor patiënten met chronisch hartfalen, programma voortijdig afgebroken"
+  },
+  {
+    "Code": "65036",
+    "Description": "Voorrijkosten voor rijdende röntgen"
+  },
+  {
+    "Code": "65037",
+    "Description": "Polikliniek Huntington"
+  },
+  {
+    "Code": "65037",
+    "Description": "Polikliniek Huntington"
+  },
+  {
+    "Code": "65038",
+    "Description": "Regie op je BMI"
+  },
+  {
+    "Code": "65039",
+    "Description": "Regie op je BMI: OG intake"
+  },
+  {
+    "Code": "65040",
+    "Description": "Regie op je BMI: Behandeling/begeleiding inclusief e-coaching"
+  },
+  {
+    "Code": "65041",
+    "Description": "Regie op je BMI: Multimediale ondersteuning"
+  },
+  {
+    "Code": "65042",
+    "Description": "Regie op je BMI: Follow-up"
+  },
+  {
+    "Code": "65043",
+    "Description": "Regie op je BMI: Bonus"
+  },
+  {
+    "Code": "65044",
+    "Description": "Ketenzorg zelfmanagement anti-stolling: Co-medicatie intake"
+  },
+  {
+    "Code": "65045",
+    "Description": "Ketenzorg zelfmanagement anti-stolling: Co-medicatie kwartaal"
+  },
+  {
+    "Code": "65046",
+    "Description": "Ambulante zorg voor neuromodulatie - chronische nabehandelingspatiënt"
+  },
+  {
+    "Code": "65047",
+    "Description": "Ambulante zorg voor neuromodulatie - implantatiepatiënt"
+  },
+  {
+    "Code": "65048",
+    "Description": "Geïntegreerde behandeling reumapatiënten"
+  },
+  {
+    "Code": "65049",
+    "Description": "Gespecialiseerde stepped care tinnitus behandeling"
+  },
+  {
+    "Code": "65050",
+    "Description": "Gespecialiseerde tinnitus behandeling - stap 1 basisbehandeling"
+  },
+  {
+    "Code": "65051",
+    "Description": "Gespecialiseerde tinnitus behandeling - stap 2 individueel traject"
+  },
+  {
+    "Code": "65052",
+    "Description": "Gespecialiseerde tinnitus behandeling - stap 2 bij milde tot ernstige tinnitus klachten"
+  },
+  {
+    "Code": "65053",
+    "Description": "Gespecialiseerde tinnitus behandeling - stap 2 bij ernstige tinnitus klachten"
+  },
+  {
+    "Code": "65054",
+    "Description": "Gespecialiseerde tinnitus behandeling - stap 2 bij ernstige tinnitus klachten en ernstig gehoor verlies"
+  },
+  {
+    "Code": "65055",
+    "Description": "Integrale verloskundige zorg (NZa-registratienummer EI-322)"
+  },
+  {
+    "Code": "65056",
+    "Description": "Voorrijkosten rijdende röntgen (NZa-registratienummer EI-349)"
+  },
+  {
+    "Code": "65057",
+    "Description": "Integrale geboortezorg Delft"
+  },
+  {
+    "Code": "65058",
+    "Description": "Diagnostiek neurologische leerstoornissen met psychodiagnostiek (zorgtype 11 trajecten)"
+  },
+  {
+    "Code": "65059",
+    "Description": "Behandeling neurologische leerstoornissen met of zonder psychodiagnostiek (zorgtype 21 trajecten)"
+  },
+  {
+    "Code": "65060",
+    "Description": "Slaapapneu (OSAS) diagnostiek in/voor de eerste lijn"
+  },
+  {
+    "Code": "65061",
+    "Description": "Transmuraal Zorgdossier Parkinson (NZa-registratienummer E-369)"
+  },
+  {
+    "Code": "65062",
+    "Description": "Anderhalvelijn gespecialiseerde multidisciplinaire handrevalidatiezorg licht"
+  },
+  {
+    "Code": "65063",
+    "Description": "Anderhalvelijn gespecialiseerde multidisciplinaire handrevalidatiezorg middel"
+  },
+  {
+    "Code": "65064",
+    "Description": "Anderhalvelijn gespecialiseerde multidisciplinaire handrevalidatiezorg zwaar"
+  },
+  {
+    "Code": "65065",
+    "Description": "Telemonitoring intensief"
+  },
+  {
+    "Code": "65066",
+    "Description": "Telemonitoring basisintensief"
+  },
+  {
+    "Code": "65067",
+    "Description": "Telemonitoring basis"
+  },
+  {
+    "Code": "65068",
+    "Description": "Rhenium-188-HEDP (Nza-registratienummer E-371)"
+  },
+  {
+    "Code": "65069",
+    "Description": "Minimaal-invasieve ablatie van myomen"
+  },
+  {
+    "Code": "65070",
+    "Description": "Herstelgerichte specialistische beademingszorg in een verpleeghuissetting (EI-376)"
+  },
+  {
+    "Code": "65071",
+    "Description": "Chronisch specialistische beademingszorg in een verpleeghuissetting (EI-377)"
+  }
+]

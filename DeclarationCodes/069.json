@@ -1,0 +1,42 @@
+[
+  {
+    "Code": "1001",
+    "Description": "Geboortezorg prenataal"
+  },
+  {
+    "Code": "1002",
+    "Description": "Geboortezorg prenataal complex"
+  },
+  {
+    "Code": "1003",
+    "Description": "Geboortezorg nataal"
+  },
+  {
+    "Code": "1004",
+    "Description": "Geboortezorg nataal intramuraal op eigen verzoek"
+  },
+  {
+    "Code": "1005",
+    "Description": "Geboortezorg nataal complex"
+  },
+  {
+    "Code": "1006",
+    "Description": "Geboortezorg postnataal"
+  },
+  {
+    "Code": "1007",
+    "Description": "Geboortezorg postnataal complex"
+  },
+  {
+    "Code": "1008",
+    "Description": "Kraamzorg postnataal per uur"
+  },
+  {
+    "Code": "1009",
+    "Description": "Transitie integrale geboortezorg"
+  },
+  {
+    "Code": "1010",
+    "Description": "Overhead bij integrale geboortezorg"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "Code": "180002",
+    "Description": "Basis GGZ Middel (BM)"
+  },
+  {
+    "Code": "180003",
+    "Description": "Basis GGZ Intensief (BI)"
+  },
+  {
+    "Code": "180004",
+    "Description": "Basis GGZ Chronisch (BC)"
+  },
+  {
+    "Code": "180005",
+    "Description": "Onvolledig behandeltraject"
+  },
+  {
+    "Code": "194073",
+    "Description": "OVP niet-basispakketzorg consult"
+  },
+  {
+    "Code": "194074",
+    "Description": "OVP niet-basispakketzorg verblijf"
+  },
+  {
+    "Code": "198300",
+    "Description": "OVP niet-basispakketzorg consult"
+  },
+  {
+    "Code": "198301",
+    "Description": "OVP niet-basispakketzorg verblijf"
+  }
+]

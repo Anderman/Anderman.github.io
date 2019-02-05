@@ -1,0 +1,130 @@
+[
+  {
+    "Code": "270001",
+    "Description": "Cursus geïndiceerde preventie"
+  },
+  {
+    "Code": "270002",
+    "Description": "Face to face behandeling licht"
+  },
+  {
+    "Code": "270003",
+    "Description": "Blended behandeling licht"
+  },
+  {
+    "Code": "270004",
+    "Description": "Face to face behandeling middel"
+  },
+  {
+    "Code": "270005",
+    "Description": "Blended behandeling middel"
+  },
+  {
+    "Code": "270006",
+    "Description": "Face to face behandeling intensief"
+  },
+  {
+    "Code": "270007",
+    "Description": "Blended behandeling intensief"
+  },
+  {
+    "Code": "270008",
+    "Description": "Lithiumspiegelbepaling m.b.v. point of care technologie: poliklinische toepassing"
+  },
+  {
+    "Code": "270009",
+    "Description": "Lithiumspiegelbepaling m.b.v. point of care technologie: decentrale bepaling door behandelaar"
+  },
+  {
+    "Code": "270010",
+    "Description": "Per dag ZZP 3GGZ-B incl.BH excl.DB"
+  },
+  {
+    "Code": "270011",
+    "Description": "Per dag ZZP 3GGZ-B incl.BH incl.DB"
+  },
+  {
+    "Code": "270012",
+    "Description": "Per dag ZZP 4GGZ-B incl.BH excl.DB"
+  },
+  {
+    "Code": "270013",
+    "Description": "Per dag ZZP 4GGZ-B incl.BH incl.DB"
+  },
+  {
+    "Code": "270014",
+    "Description": "Per dag ZZP 5GGZ-B incl.BH excl.DB"
+  },
+  {
+    "Code": "270015",
+    "Description": "Per dag ZZP 5GGZ-B incl.BH incl.DB"
+  },
+  {
+    "Code": "270016",
+    "Description": "Per dag ZZP 6GGZ-B incl.BH excl.DB"
+  },
+  {
+    "Code": "270017",
+    "Description": "Per dag ZZP 6GGZ-B incl.BH incl.DB"
+  },
+  {
+    "Code": "270018",
+    "Description": "Per dag ZZP 7GGZ-B incl.BH excl.DB"
+  },
+  {
+    "Code": "270019",
+    "Description": "Per dag ZZP 7GGZ-B incl.BH incl.DB"
+  },
+  {
+    "Code": "270020",
+    "Description": "Per dag ZZP klinisch intensieve behandeling"
+  },
+  {
+    "Code": "270021",
+    "Description": "Per dag Vervoer dagbesteding GGZ"
+  },
+  {
+    "Code": "270022",
+    "Description": "Per dag Toeslag Niet-strafrechtelijke forensische psychiatrie (NSFP)"
+  },
+  {
+    "Code": "270023",
+    "Description": "Toeslag woonzorg zzp ggz-b jong volwassenen (18 t/m 22 jaar)"
+  },
+  {
+    "Code": "270024",
+    "Description": "Virtual Reality Cognitieve Gedragstherapie (VR-CGT)"
+  },
+  {
+    "Code": "270025",
+    "Description": "Super Brains Basis"
+  },
+  {
+    "Code": "270026",
+    "Description": "Super Brains Intake"
+  },
+  {
+    "Code": "270027",
+    "Description": "Super Brains Vervolg"
+  },
+  {
+    "Code": "270028",
+    "Description": "Goalie+"
+  },
+  {
+    "Code": "270029",
+    "Description": "Super Brains Digital Coach"
+  },
+  {
+    "Code": "270030",
+    "Description": "ggz-b vmr incl. BH excl. DB"
+  },
+  {
+    "Code": "270031",
+    "Description": "ggz-b vmr incl. BH incl. DB"
+  },
+  {
+    "Code": "270032",
+    "Description": "ZZP I - per etmaal"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "Code": "1011",
+    "Description": "Volledige verloskundige zorg, woonachtig in een achterstandswijk"
+  },
+  {
+    "Code": "1021",
+    "Description": "Volledige verloskundige zorg, RZA-verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "1101",
+    "Description": "Volledige prenatale zorg"
+  },
+  {
+    "Code": "1102",
+    "Description": "Volledige natale zorg"
+  },
+  {
+    "Code": "1103",
+    "Description": "Volledige postnatale zorg"
+  },
+  {
+    "Code": "1104",
+    "Description": "Volledige natale zorg inclusief toeslag voor RZA-verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "1111",
+    "Description": "Volledige prenatale zorg, woonachtig in een achterstandswijk"
+  },
+  {
+    "Code": "1112",
+    "Description": "Volledige natale zorg, woonachtig in een achterstandswijk"
+  },
+  {
+    "Code": "1113",
+    "Description": "Volledige postnatale zorg, woonachtig in een achterstandswijk"
+  },
+  {
+    "Code": "1121",
+    "Description": "Volledige prenatale zorg, RZA-verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "1122",
+    "Description": "Volledige natale zorg, RZA- verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "1123",
+    "Description": "Volledige postnatale zorg, RZA- verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "1201",
+    "Description": "Prenatale zorg van 0 t/m 14 weken"
+  },
+  {
+    "Code": "1202",
+    "Description": "Prenatale zorg van 0 t/m 29 weken"
+  },
+  {
+    "Code": "1203",
+    "Description": "Prenatale zorg na 29 weken, doch vóór de bevalling"
+  },
+  {
+    "Code": "1204",
+    "Description": "Prenatale zorg van 15 t/m 29 weken"
+  },
+  {
+    "Code": "1211",
+    "Description": "Prenatale zorg van 0 t/m 14 weken, woonachtig in een achterstandswijk"
+  },
+  {
+    "Code": "1213",
+    "Description": "Prenatale zorg na 29 weken doch vóór de bevalling, woonachtig in een achterstandswijk"
+  },
+  {
+    "Code": "1214",
+    "Description": "Prenatale zorg van 15 t/m 29 weken, woonachtig in een achterstandswijk"
+  },
+  {
+    "Code": "1221",
+    "Description": "Prenatale zorg van 0 t/m 14 weken, RZA- verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "1222",
+    "Description": "Prenatale zorg van 15 t/m 29 weken, RZA- verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "1223",
+    "Description": "Prenatale zorg na 29 weken doch vóór de bevalling, RZA- verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "1301",
+    "Description": "Prenatale zorg 1e verloskundige, periode 0 t/m 14 weken"
+  },
+  {
+    "Code": "1302",
+    "Description": "Prenatale zorg 1e verloskundige, periode 15 t/m 29 weken"
+  },
+  {
+    "Code": "1303",
+    "Description": "Prenatale zorg 1e verloskundige, periode na 29 weken, doch voor de bevalling."
+  },
+  {
+    "Code": "1311",
+    "Description": "In de periode van 0 t/m 14 weken, eerste verloskundige, woonachtig in een achterstandswijk"
+  },
+  {
+    "Code": "1312",
+    "Description": "In de periode van 15 t/m 29 weken, eerste verloskundige, woonachtig in een achterstandswijk"
+  },
+  {
+    "Code": "1313",
+    "Description": "In de periode na 29 weken doch vóór de bevalling, eerste verloskundige, woonachtig in een achterstandswijk"
+  },
+  {
+    "Code": "1321",
+    "Description": "In de periode van 0 t/m 14 weken, eerste zorgaanbieder, RZA- verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "1322",
+    "Description": "In de periode van 15 t/m 29 weken, eerste zorgaanbieder, RZA- verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "1323",
+    "Description": "In de periode na 29 weken doch vóór de bevalling, eerste zorgaanbieder, RZA- verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "1351",
+    "Description": "Prenatale zorg 2e verloskundige, periode 0 t/m 14 weken"
+  },
+  {
+    "Code": "1352",
+    "Description": "Prenatale zorg 2e verloskundige, periode 15 t/m 29 weken"
+  },
+  {
+    "Code": "1353",
+    "Description": "Prenatale zorg 2e verloskundige, periode na 29 weken, doch voor de bevalling."
+  },
+  {
+    "Code": "1361",
+    "Description": "In de periode van 0 t/m 14 weken, tweede verloskundige, woonachtig in een achterstandswijk"
+  },
+  {
+    "Code": "1362",
+    "Description": "In de periode van 15 t/m 29 weken, tweede verloskundige, woonachtig in een achterstandswijk"
+  },
+  {
+    "Code": "1363",
+    "Description": "In de periode na 29 weken doch vóór de bevalling, tweede verloskundige, woonachtig in een achterstandswijk"
+  },
+  {
+    "Code": "1371",
+    "Description": "In de periode van 0 t/m 14 weken, tweede zorgaanbieder, RZA- verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "1372",
+    "Description": "In de periode van 15 t/m 29 weken, tweede zorgaanbieder, RZA- verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "1373",
+    "Description": "In de periode na 29 weken doch vóór de bevalling, tweede zorgaanbieder, RZA- verzekerden in de centrale opvang"
+  },
+  {
+    "Code": "1401",
+    "Description": "Uitwendige versie bij stuitligging"
+  },
+  {
+    "Code": "1602",
+    "Description": "Algemene termijnen echo"
+  },
+  {
+    "Code": "1603",
+    "Description": "Specifieke diagnose echo: groeistagnatie (maximaal 2 echo's)"
+  },
+  {
+    "Code": "1604",
+    "Description": "Specifieke diagnose echo: bloedverlies (maximaal 2 echo's)"
+  },
+  {
+    "Code": "1605",
+    "Description": "Specifieke diagnose echo: uitwendige versie (maximaal 2 echo's)"
+  },
+  {
+    "Code": "1606",
+    "Description": "Specifieke diagnose echo: ligging (maximaal 1 echo)"
+  },
+  {
+    "Code": "1607",
+    "Description": "Specifieke diagnose echo: placentacontrole (maximaal 1 echo)"
+  },
+  {
+    "Code": "1610",
+    "Description": "Prenatale screening: counseling"
+  },
+  {
+    "Code": "1612",
+    "Description": "Prenatale screening: Structureel Echoscopisch Onderzoek (SEO), bij eenlingen en bij het eerste kind van een meerlingenzwangerschap"
+  },
+  {
+    "Code": "1613",
+    "Description": "Prenatale screening: NT-meting voor zwangere vrouwen vanaf 36 jaar of met medische indicatie, bij eenlingen en bij het eerste kind van een meerlingenzwangerschap"
+  },
+  {
+    "Code": "1614",
+    "Description": "Prenatale screening: NT-meting voor zwangere vrouwen onder 36 jaar en zonder medische indicatie, bij eenlingen en bij het eerste kind van een meerlingenzwangerschap"
+  },
+  {
+    "Code": "1622",
+    "Description": "Prenatale screening: Structureel Echoscopisch Onderzoek (SEO), bij elk volgend kind van een meerlingenzwangerschap"
+  },
+  {
+    "Code": "1623",
+    "Description": "Prenatale screening: NT-meting voor zwangere vrouwen vanaf 36 jaar of met medische indicatie, bij elk volgend kind van een meerlingenzwangerschap"
+  },
+  {
+    "Code": "1624",
+    "Description": "Prenatale screening: NT-meting voor zwangere vrouwen onder 36 jaar en zonder medische indicatie, bij elk volgend kind van een meerlingenzwangerschap"
+  },
+  {
+    "Code": "1625",
+    "Description": "Prenatale screening: NT meting met medische indicatie - bij eenlingen en bij het eerste kind van een meerlingenzwangerschap"
+  },
+  {
+    "Code": "1626",
+    "Description": "Prenatale screening: NT meting zonder medische indicatie - bij eenlingen en bij het eerste kind van een meerlingenzwangerschap"
+  },
+  {
+    "Code": "1627",
+    "Description": "Prenatale screening: NT meting met medische indicatie - bij elk volgend kind van een meerlingenzwangerschap"
+  },
+  {
+    "Code": "1628",
+    "Description": "Prenatale screening: NT meting zonder medische indicatie - bij elk volgend kind van een meerlingenzwangerschap"
+  },
+  {
+    "Code": "1701",
+    "Description": "Module regionale ondersteuning eerstelijnszorg voor verloskunde"
+  },
+  {
+    "Code": "1702",
+    "Description": "Module kwaliteitsontwikkeling voor verloskunde"
+  },
+  {
+    "Code": "1703",
+    "Description": "Module geboortecentrum"
+  },
+  {
+    "Code": "1704",
+    "Description": "Module geboortecentrum Volledige bevalling"
+  },
+  {
+    "Code": "1705",
+    "Description": "Module geboortecentrum Doorverwezen bevalling"
+  },
+  {
+    "Code": "1706",
+    "Description": "Bevalling in een geboortecentrum op sociale indicatie of medische indicatie"
+  },
+  {
+    "Code": "1707",
+    "Description": "Verblijf geboortecentrum"
+  },
+  {
+    "Code": "1708",
+    "Description": "Consult lactatiekundige"
+  },
+  {
+    "Code": "1709",
+    "Description": "Telefonisch consult lactatiekundige"
+  },
+  {
+    "Code": "1710",
+    "Description": "Consult aan huis lactatiekundige"
+  },
+  {
+    "Code": "1711",
+    "Description": "Module Expertise en Procesbegeleiding"
+  },
+  {
+    "Code": "1712",
+    "Description": "Module Convenant"
+  },
+  {
+    "Code": "1713",
+    "Description": "Module Open Project"
+  },
+  {
+    "Code": "1714",
+    "Description": "Bevalling met lachgassedatie in een geboortecentrum"
+  },
+  {
+    "Code": "1715",
+    "Description": "Integrale geboortezorg"
+  },
+  {
+    "Code": "1716",
+    "Description": "Module geboortecentrum post partum doorverwezen bevalling"
+  },
+  {
+    "Code": "1717",
+    "Description": "Preconceptieconsult, korter dan 20 minuten"
+  },
+  {
+    "Code": "1718",
+    "Description": "Preconceptieconsult 20 minuten en langer"
+  },
+  {
+    "Code": "1719",
+    "Description": "Plaatsen/verwijderen van een spiraal (IUD)"
+  },
+  {
+    "Code": "1720",
+    "Description": "Module geboortecentrum doorverwezen lachgas bevalling"
+  },
+  {
+    "Code": "1721",
+    "Description": "Specifieke diagnose echo: verminderde vitaliteit (maximaal 1 echo)"
+  },
+  {
+    "Code": "9000",
+    "Description": "Toeslag natale verloskundige zorg"
+  },
+  {
+    "Code": "9001",
+    "Description": "Toeslag volledige verloskundige zorg"
+  },
+  {
+    "Code": "9002",
+    "Description": "Toeslag prenatale verloskundige zorg"
+  },
+  {
+    "Code": "9003",
+    "Description": "Toeslag postnatale verloskundige zorg"
+  },
+  {
+    "Code": "9004",
+    "Description": "Kering (versie) stuitliggingen door verloskundige"
+  }
+]

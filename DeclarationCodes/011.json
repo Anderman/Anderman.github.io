@@ -1,0 +1,146 @@
+[
+  {
+    "Code": "196201",
+    "Description": "Uur kraamzorg (K 201) (niet in een achterstandswijk)"
+  },
+  {
+    "Code": "196202",
+    "Description": "Inschrijving (K 202) (niet in een achterstandswijk)"
+  },
+  {
+    "Code": "196203",
+    "Description": "Intake bij de client thuis (K 203) (niet in een achterstandswijk)"
+  },
+  {
+    "Code": "196204",
+    "Description": "Partusassistentie (K 204) (niet in een achterstandswijk)"
+  },
+  {
+    "Code": "196205",
+    "Description": "Intake telefonisch (K 205) (niet in een achterstandswijk)"
+  },
+  {
+    "Code": "196206",
+    "Description": "Uur partusassistentie  (K 206) (niet in een achterstandswijk)"
+  },
+  {
+    "Code": "196207",
+    "Description": "Module geboortecentrum"
+  },
+  {
+    "Code": "196208",
+    "Description": "Module geboortecentrum Volledige bevalling"
+  },
+  {
+    "Code": "196209",
+    "Description": "Module geboortecentrum Doorverwezen tijdens bevalling"
+  },
+  {
+    "Code": "196210",
+    "Description": "Uur kraamzorg (K 201) (in een achterstandswijk)"
+  },
+  {
+    "Code": "196211",
+    "Description": "Inschrijving (K 202) (in een achterstandswijk)"
+  },
+  {
+    "Code": "196212",
+    "Description": "Intake bij de client thuis (K 203) (in een achterstandswijk)"
+  },
+  {
+    "Code": "196213",
+    "Description": "Partusassistentie (K 204) (in een achterstandswijk)"
+  },
+  {
+    "Code": "196214",
+    "Description": "Intake telefonisch (K 205) (in een achterstandswijk)"
+  },
+  {
+    "Code": "196215",
+    "Description": "Uur partusassistentie  (K 206) (in een achterstandswijk)"
+  },
+  {
+    "Code": "196216",
+    "Description": "Bevalling in een geboortecentrum op sociale indicatie of medische indicatie"
+  },
+  {
+    "Code": "196217",
+    "Description": "Verblijf geboortecentrum"
+  },
+  {
+    "Code": "196218",
+    "Description": "Consult lactatiekundige"
+  },
+  {
+    "Code": "196219",
+    "Description": "Telefonisch consult lactatiekundige"
+  },
+  {
+    "Code": "196220",
+    "Description": "Consult aan huis lactatiekundige"
+  },
+  {
+    "Code": "196221",
+    "Description": "Geïntegreerde voorlichting in niet achterstandswijk"
+  },
+  {
+    "Code": "196222",
+    "Description": "Geïntegreerde voorlichting in achterstandswijk"
+  },
+  {
+    "Code": "196223",
+    "Description": "Geïntegreerd huisbezoek"
+  },
+  {
+    "Code": "196224",
+    "Description": "Kraamverzorgende Plus in niet achterstandswijk"
+  },
+  {
+    "Code": "196225",
+    "Description": "Kraamverzorgende Plus in achterstandswijk"
+  },
+  {
+    "Code": "196226",
+    "Description": "Huishoudelijke hulp na Kraamzorg"
+  },
+  {
+    "Code": "196227",
+    "Description": "Babybalance"
+  },
+  {
+    "Code": "196228",
+    "Description": "Bevalling met lachgassedatie in een geboortecentrum"
+  },
+  {
+    "Code": "196229",
+    "Description": "Module geboortecentrum post partum doorverwezen bevalling"
+  },
+  {
+    "Code": "196230",
+    "Description": "Kraamzorg niet via de biologische moeder"
+  },
+  {
+    "Code": "196231",
+    "Description": "Integrale geboortezorg"
+  },
+  {
+    "Code": "196232",
+    "Description": "Module geboortecentrum doorverwezen lachgas bevalling"
+  },
+  {
+    "Code": "196233",
+    "Description": "Uur kraamzorg SOS (interventiegroep)"
+  },
+  {
+    "Code": "196234",
+    "Description": "Uur kraamzorg SOS achterstandswijken (interventiegroep)"
+  },
+  {
+    "Code": "196235",
+    "Description": "Uur kraamzorg SOS (controlegroep)"
+  },
+  {
+    "Code": "196236",
+    "Description": "Uur kraamzorg SOS achterstandswijken (controlegroep)"
+  }
+]

@@ -1,0 +1,558 @@
+[
+  {
+    "Code": "000011",
+    "Description": "Taxivervoer - Oncologische behandelingen met chemotherapie, immunotherapie of (vanaf 01-01-2018) radiotherapie"
+  },
+  {
+    "Code": "000012",
+    "Description": "Taxivervoer - Rolstoelgebruikers"
+  },
+  {
+    "Code": "000013",
+    "Description": "Taxivervoer - Visueel gehandicapten"
+  },
+  {
+    "Code": "000014",
+    "Description": "Taxivervoer - Hardheidsclausule (van/ naar AWBZ)"
+  },
+  {
+    "Code": "000015",
+    "Description": "Taxivervoer - Hardheidsclausule (voor kind en jeugd)"
+  },
+  {
+    "Code": "000016",
+    "Description": "Taxivervoer - Hardheidsclausule (revalidatie)"
+  },
+  {
+    "Code": "000017",
+    "Description": "Taxivervoer - Hardheidsclausule (opnamevoorkomend)"
+  },
+  {
+    "Code": "000018",
+    "Description": "Taxivervoer - Hardheidsclausule (overige)"
+  },
+  {
+    "Code": "000019",
+    "Description": "Taxivervoer - overige"
+  },
+  {
+    "Code": "000020",
+    "Description": "Taxivervoer - Nierdialysepatienten"
+  },
+  {
+    "Code": "000021",
+    "Description": "Taxivervoer - Oncologische behandelingen met chemotherapie, immunotherapie of (vanaf 01-01-2018) radiotherapie"
+  },
+  {
+    "Code": "000022",
+    "Description": "Taxivervoer - Rolstoelgebruikers"
+  },
+  {
+    "Code": "000023",
+    "Description": "Taxivervoer - Visueel gehandicapten"
+  },
+  {
+    "Code": "000024",
+    "Description": "Taxivervoer - Hardheidsclausule (van/ naar AWBZ)"
+  },
+  {
+    "Code": "000025",
+    "Description": "Taxivervoer - Hardheidsclausule (voor kind en jeugd)"
+  },
+  {
+    "Code": "000026",
+    "Description": "Taxivervoer - Hardheidsclausule (revalidatie)"
+  },
+  {
+    "Code": "000027",
+    "Description": "Taxivervoer - Hardheidsclausule (opnamevoorkomend)"
+  },
+  {
+    "Code": "000028",
+    "Description": "Taxivervoer - Hardheidsclausule (overige)"
+  },
+  {
+    "Code": "000029",
+    "Description": "Taxivervoer - overige"
+  },
+  {
+    "Code": "000030",
+    "Description": "Taxivervoer - Nierdialysepatienten"
+  },
+  {
+    "Code": "000031",
+    "Description": "Taxivervoer - Oncologische behandelingen met chemotherapie, immunotherapie of (vanaf 01-01-2018) radiotherapie"
+  },
+  {
+    "Code": "000032",
+    "Description": "Taxivervoer - Rolstoelgebruikers"
+  },
+  {
+    "Code": "000033",
+    "Description": "Taxivervoer - Visueel gehandicapten"
+  },
+  {
+    "Code": "000034",
+    "Description": "Taxivervoer - Hardheidsclausule (van/ naar AWBZ)"
+  },
+  {
+    "Code": "000035",
+    "Description": "Taxivervoer - Hardheidsclausule (voor kind en jeugd)"
+  },
+  {
+    "Code": "000036",
+    "Description": "Taxivervoer - Hardheidsclausule (revalidatie)"
+  },
+  {
+    "Code": "000037",
+    "Description": "Taxivervoer - Hardheidsclausule (opnamevoorkomend)"
+  },
+  {
+    "Code": "000038",
+    "Description": "Taxivervoer - Hardheidsclausule (overige)"
+  },
+  {
+    "Code": "000039",
+    "Description": "Taxivervoer - overige"
+  },
+  {
+    "Code": "000040",
+    "Description": "Rolstoeltaxi - Nierdialysepatienten"
+  },
+  {
+    "Code": "000041",
+    "Description": "Rolstoeltaxi - Oncologische behandelingen met chemotherapie, immunotherapie of (vanaf 01-01-2018) radiotherapie"
+  },
+  {
+    "Code": "000042",
+    "Description": "Rolstoeltaxi -  Rolstoelgebruikers"
+  },
+  {
+    "Code": "000043",
+    "Description": "Rolstoeltaxi  - Visueel gehandicapten"
+  },
+  {
+    "Code": "000044",
+    "Description": "Rolstoeltaxi  - Hardheidsclausule (van/ naar AWBZ)"
+  },
+  {
+    "Code": "000045",
+    "Description": "Rolstoeltaxi -  Hardheidsclausule (voor kind en jeugd)"
+  },
+  {
+    "Code": "000046",
+    "Description": "Rolstoeltaxi  - Hardheidsclausule (revalidatie)"
+  },
+  {
+    "Code": "000047",
+    "Description": "Rolstoeltaxi  - Hardheidsclausule (opnamevoorkomend)"
+  },
+  {
+    "Code": "000048",
+    "Description": "Rolstoeltaxi  - Hardheidsclausule (overige)"
+  },
+  {
+    "Code": "000049",
+    "Description": "Rolstoeltaxi  - overige"
+  },
+  {
+    "Code": "000050",
+    "Description": "Rolstoeltaxi - Nierdialysepatienten"
+  },
+  {
+    "Code": "000051",
+    "Description": "Rolstoeltaxi - Oncologische behandelingen met chemotherapie, immunotherapie of (vanaf 01-01-2018) radiotherapie"
+  },
+  {
+    "Code": "000052",
+    "Description": "Rolstoeltaxi - Rolstoelgebruikers"
+  },
+  {
+    "Code": "000053",
+    "Description": "Rolstoeltaxi  - Visueel gehandicapten"
+  },
+  {
+    "Code": "000054",
+    "Description": "Rolstoeltaxi  - Hardheidsclausule (van/ naar AWBZ)"
+  },
+  {
+    "Code": "000055",
+    "Description": "Rolstoeltaxi - Hardheidsclausule (voor kind en jeugd)"
+  },
+  {
+    "Code": "000056",
+    "Description": "Rolstoeltaxi  - Hardheidsclausule (revalidatie)"
+  },
+  {
+    "Code": "000057",
+    "Description": "Rolstoeltaxi  - Hardheidsclausule (opnamevoorkomend)"
+  },
+  {
+    "Code": "000058",
+    "Description": "Rolstoeltaxi  - Hardheidsclausule (overige)"
+  },
+  {
+    "Code": "000059",
+    "Description": "Rolstoeltaxi  - overige"
+  },
+  {
+    "Code": "000060",
+    "Description": "Rolstoeltaxi - Nierdialysepatienten"
+  },
+  {
+    "Code": "000061",
+    "Description": "Rolstoeltaxi - Oncologische behandelingen met chemotherapie, immunotherapie of (vanaf 01-01-2018) radiotherapie"
+  },
+  {
+    "Code": "000062",
+    "Description": "Rolstoeltaxi - Rolstoelgebruikers"
+  },
+  {
+    "Code": "000063",
+    "Description": "Rolstoeltaxi  - Visueel gehandicapten"
+  },
+  {
+    "Code": "000064",
+    "Description": "Rolstoeltaxi  - Hardheidsclausule (van/ naar AWBZ)"
+  },
+  {
+    "Code": "000065",
+    "Description": "Rolstoeltaxi -  Hardheidsclausule (voor kind en jeugd)"
+  },
+  {
+    "Code": "000066",
+    "Description": "Rolstoeltaxi  - Hardheidsclausule (revalidatie)"
+  },
+  {
+    "Code": "000067",
+    "Description": "Rolstoeltaxi  - Hardheidsclausule (opnamevoorkomend)"
+  },
+  {
+    "Code": "000068",
+    "Description": "Rolstoeltaxi  - Hardheidsclausule (overige)"
+  },
+  {
+    "Code": "000069",
+    "Description": "Rolstoeltaxi  - overige"
+  },
+  {
+    "Code": "000070",
+    "Description": "Ligtaxi - Nierdialysepatienten"
+  },
+  {
+    "Code": "000071",
+    "Description": "Ligtaxi - Oncologische behandelingen met chemotherapie, immunotherapie of (vanaf 01-01-2018) radiotherapie"
+  },
+  {
+    "Code": "000072",
+    "Description": "Ligtaxi - Rolstoelgebruikers"
+  },
+  {
+    "Code": "000073",
+    "Description": "Ligtaxi - Visueel gehandicapten"
+  },
+  {
+    "Code": "000074",
+    "Description": "Ligtaxi - Hardheidsclausule (van/ naar AWBZ)"
+  },
+  {
+    "Code": "000075",
+    "Description": "Ligtaxi - Hardheidsclausule (voor kind en jeugd)"
+  },
+  {
+    "Code": "000076",
+    "Description": "Ligtaxi - Hardheidsclausule (revalidatie)"
+  },
+  {
+    "Code": "000077",
+    "Description": "Ligtaxi - Hardheidsclausule (opnamevoorkomend)"
+  },
+  {
+    "Code": "000078",
+    "Description": "Ligtaxi - Hardheidsclausule (overige)"
+  },
+  {
+    "Code": "000079",
+    "Description": "Ligtaxi - overige"
+  },
+  {
+    "Code": "000080",
+    "Description": "Ligtaxi - Nierdialysepatienten"
+  },
+  {
+    "Code": "000081",
+    "Description": "Ligtaxi - Oncologische behandelingen met chemotherapie, immunotherapie of (vanaf 01-01-2018) radiotherapie"
+  },
+  {
+    "Code": "000082",
+    "Description": "Ligtaxi - Rolstoelgebruikers"
+  },
+  {
+    "Code": "000083",
+    "Description": "Ligtaxi - Visueel gehandicapten"
+  },
+  {
+    "Code": "000084",
+    "Description": "Ligtaxi - Hardheidsclausule (van/ naar AWBZ)"
+  },
+  {
+    "Code": "000085",
+    "Description": "Ligtaxi - Hardheidsclausule (voor kind en jeugd)"
+  },
+  {
+    "Code": "000086",
+    "Description": "Ligtaxi - Hardheidsclausule (revalidatie)"
+  },
+  {
+    "Code": "000087",
+    "Description": "Ligtaxi - Hardheidsclausule (opnamevoorkomend)"
+  },
+  {
+    "Code": "000088",
+    "Description": "Ligtaxi - Hardheidsclausule (overige)"
+  },
+  {
+    "Code": "000089",
+    "Description": "Ligtaxi - overige"
+  },
+  {
+    "Code": "000090",
+    "Description": "Ligtaxi - Nierdialysepatienten"
+  },
+  {
+    "Code": "000091",
+    "Description": "Ligtaxi - Oncologische behandelingen met chemotherapie, immunotherapie of (vanaf 01-01-2018) radiotherapie"
+  },
+  {
+    "Code": "000092",
+    "Description": "Ligtaxi - Rolstoelgebruikers"
+  },
+  {
+    "Code": "000093",
+    "Description": "Ligtaxi - Visueel gehandicapten"
+  },
+  {
+    "Code": "000094",
+    "Description": "Ligtaxi - Hardheidsclausule (van/ naar AWBZ)"
+  },
+  {
+    "Code": "000095",
+    "Description": "Ligtaxi - Hardheidsclausule (voor kind en jeugd)"
+  },
+  {
+    "Code": "000096",
+    "Description": "Ligtaxi - Hardheidsclausule (revalidatie)"
+  },
+  {
+    "Code": "000097",
+    "Description": "Ligtaxi - Hardheidsclausule (opnamevoorkomend)"
+  },
+  {
+    "Code": "000098",
+    "Description": "Ligtaxi - Hardheidsclausule (overige)"
+  },
+  {
+    "Code": "000099",
+    "Description": "Ligtaxi - overige"
+  },
+  {
+    "Code": "000100",
+    "Description": "Helicopter"
+  },
+  {
+    "Code": "000101",
+    "Description": "Helicopter"
+  },
+  {
+    "Code": "000110",
+    "Description": "Boot"
+  },
+  {
+    "Code": "000111",
+    "Description": "Boot"
+  },
+  {
+    "Code": "000120",
+    "Description": "Vliegtuig"
+  },
+  {
+    "Code": "000121",
+    "Description": "Vliegtuig"
+  },
+  {
+    "Code": "000130",
+    "Description": "Openbaar vervoer - Nierdialysepatienten"
+  },
+  {
+    "Code": "000131",
+    "Description": "Openbaar vervoer - Oncologische behandelingen met chemotherapie, immunotherapie of (vanaf 01-01-2018) radiotherapie"
+  },
+  {
+    "Code": "000132",
+    "Description": "Openbaar vervoer - Rolstoelgebruikers"
+  },
+  {
+    "Code": "000133",
+    "Description": "Openbaar vervoer - Visueel gehandicapten"
+  },
+  {
+    "Code": "000134",
+    "Description": "Openbaar vervoer - Hardheidsclausule (overige)"
+  },
+  {
+    "Code": "000139",
+    "Description": "Openbaar vervoer - overige"
+  },
+  {
+    "Code": "000140",
+    "Description": "Openbaar vervoer - Nierdialysepatienten"
+  },
+  {
+    "Code": "000141",
+    "Description": "Openbaar vervoer - Oncologische behandelingen met chemotherapie, immunotherapie of (vanaf 01-01-2018) radiotherapie"
+  },
+  {
+    "Code": "000142",
+    "Description": "Openbaar vervoer - Rolstoelgebruikers"
+  },
+  {
+    "Code": "000143",
+    "Description": "Openbaar vervoer - Visueel gehandicapten"
+  },
+  {
+    "Code": "000144",
+    "Description": "Openbaar vervoer - Hardheidsclausule (overige)"
+  },
+  {
+    "Code": "000149",
+    "Description": "Openbaar vervoer - overige"
+  },
+  {
+    "Code": "000150",
+    "Description": "Openbaar vervoer - Nierdialysepatienten"
+  },
+  {
+    "Code": "000151",
+    "Description": "Openbaar vervoer - Oncologische behandelingen met chemotherapie, immunotherapie of (vanaf 01-01-2018) radiotherapie"
+  },
+  {
+    "Code": "000152",
+    "Description": "Openbaar vervoer - Rolstoelgebruikers"
+  },
+  {
+    "Code": "000153",
+    "Description": "Openbaar vervoer - Visueel gehandicapten"
+  },
+  {
+    "Code": "000154",
+    "Description": "Openbaar vervoer - Hardheidsclausule (overige)"
+  },
+  {
+    "Code": "000159",
+    "Description": "Openbaar vervoer - overige"
+  },
+  {
+    "Code": "000160",
+    "Description": "Eigen vervoer - Nierdialysepatienten"
+  },
+  {
+    "Code": "000161",
+    "Description": "Eigen vervoer - Oncologische behandelingen met chemotherapie, immunotherapie of (vanaf 01-01-2018) radiotherapie"
+  },
+  {
+    "Code": "000162",
+    "Description": "Eigen vervoer - Rolstoelgebruikers"
+  },
+  {
+    "Code": "000163",
+    "Description": "Eigen vervoer - Visueel gehandicapten"
+  },
+  {
+    "Code": "000164",
+    "Description": "Eigen vervoer - Hardheidsclausule (overige)"
+  },
+  {
+    "Code": "000169",
+    "Description": "Eigen vervoer - overige"
+  },
+  {
+    "Code": "000170",
+    "Description": "Eigen vervoer - Nierdialysepatienten"
+  },
+  {
+    "Code": "000171",
+    "Description": "Eigen vervoer - Oncologische behandelingen met chemotherapie, immunotherapie of (vanaf 01-01-2018) radiotherapie"
+  },
+  {
+    "Code": "000172",
+    "Description": "Eigen vervoer - Rolstoelgebruikers"
+  },
+  {
+    "Code": "000173",
+    "Description": "Eigen vervoer - Visueel gehandicapten"
+  },
+  {
+    "Code": "000174",
+    "Description": "Eigen vervoer - Hardheidsclausule (overige)"
+  },
+  {
+    "Code": "000179",
+    "Description": "Eigen vervoer - overige"
+  },
+  {
+    "Code": "000180",
+    "Description": "Eigen vervoer - Nierdialysepatienten"
+  },
+  {
+    "Code": "000181",
+    "Description": "Eigen vervoer - Oncologische behandelingen met chemotherapie, immunotherapie of (vanaf 01-01-2018) radiotherapie"
+  },
+  {
+    "Code": "000182",
+    "Description": "Eigen vervoer - Rolstoelgebruikers"
+  },
+  {
+    "Code": "000183",
+    "Description": "Eigen vervoer - Visueel gehandicapten"
+  },
+  {
+    "Code": "000184",
+    "Description": "Eigen vervoer - Hardheidsclausule (overige)"
+  },
+  {
+    "Code": "000189",
+    "Description": "Eigen vervoer - overige"
+  },
+  {
+    "Code": "000190",
+    "Description": "Eigen vervoer (auto) donor"
+  },
+  {
+    "Code": "000191",
+    "Description": "Openbaar vervoer donor"
+  },
+  {
+    "Code": "000192",
+    "Description": "Taxivervoer donor"
+  },
+  {
+    "Code": "000200",
+    "Description": "Intensieve kindzorg - Taxivervoer"
+  },
+  {
+    "Code": "000201",
+    "Description": "Intensieve kindzorg - Rolstoeltaxi"
+  },
+  {
+    "Code": "000202",
+    "Description": "Intensieve kindzorg - Ligtaxi"
+  },
+  {
+    "Code": "000203",
+    "Description": "Intensieve kindzorg - Openbaar vervoer"
+  },
+  {
+    "Code": "000204",
+    "Description": "Intensieve kindzorg - Eigen vervoer"
+  }
+]

@@ -1,0 +1,2290 @@
+[
+  {
+    "Code": "C22",
+    "Description": "Aanvullende medische anamnese na (schriftelijke) routinevragen"
+  },
+  {
+    "Code": "C28",
+    "Description": "Uitgebreid onderzoek t.b.v. opstellen en vastleggen behandelplan"
+  },
+  {
+    "Code": "C29",
+    "Description": "Studiemodellen t.b.v. behandelplan"
+  },
+  {
+    "Code": "C65",
+    "Description": "Planmatig beslijpen van alle voortanden, per boven- of onderkaak"
+  },
+  {
+    "Code": "C80",
+    "Description": "Mondzorg aan huis"
+  },
+  {
+    "Code": "C84",
+    "Description": "Voorbereiding behandeling onder algehele anesthesie"
+  },
+  {
+    "Code": "C85",
+    "Description": "Weekendbehandeling"
+  },
+  {
+    "Code": "C86",
+    "Description": "Avondbehandeling"
+  },
+  {
+    "Code": "C87",
+    "Description": "Nachtbehandeling"
+  },
+  {
+    "Code": "C99",
+    "Description": "Gedeeltelijk voltooid werk consultatie en diagnostiek"
+  },
+  {
+    "Code": "X10",
+    "Description": "Maken en beoordelen kleine röntgenfoto"
+  },
+  {
+    "Code": "X11",
+    "Description": "Beoordelen kleine röntgenfoto"
+  },
+  {
+    "Code": "X21",
+    "Description": "Maken en beoordelen kaakoverzichtsfoto"
+  },
+  {
+    "Code": "X22",
+    "Description": "Maken en beoordelen kaakoverzichtsfoto t.b.v. implantologie in de tandenloze kaak"
+  },
+  {
+    "Code": "X23",
+    "Description": "Beoordelen kaakoverzichtsfoto"
+  },
+  {
+    "Code": "X24",
+    "Description": "Maken en beoordelen schedelfoto"
+  },
+  {
+    "Code": "X34",
+    "Description": "Beoordelen schedelfoto"
+  },
+  {
+    "Code": "X25",
+    "Description": "Maken en beoordelen meerdimensionale kaakfoto"
+  },
+  {
+    "Code": "X26",
+    "Description": "Beoordelen meerdimensionale kaakfoto"
+  },
+  {
+    "Code": "X99",
+    "Description": "Gedeelteijk voltooid werk maken en/of beoordelen röntgenfoto's"
+  },
+  {
+    "Code": "M01",
+    "Description": "Preventieve voorlichting en/of instructie, per 5 minuten"
+  },
+  {
+    "Code": "M02",
+    "Description": "Consult voor evaluatie van preventie, per 5 minuten"
+  },
+  {
+    "Code": "M03",
+    "Description": "Gebitsreiniging, per 5 minuten"
+  },
+  {
+    "Code": "M05",
+    "Description": "Niet restauratieve behandeling van cariës in het melkgebit"
+  },
+  {
+    "Code": "M32",
+    "Description": "Eenvoudig bacteriologisch- of enzymatisch onderzoek"
+  },
+  {
+    "Code": "M30",
+    "Description": "Behandeling van gevoelige tandhalzen en (preventief) toedienen medicament"
+  },
+  {
+    "Code": "M40",
+    "Description": "Fluoridebehandeling"
+  },
+  {
+    "Code": "M61",
+    "Description": "Mondbeschermer"
+  },
+  {
+    "Code": "M99",
+    "Description": "Gedeelteijk voltooid werk preventieve mondzorg"
+  },
+  {
+    "Code": "M10",
+    "Description": "Fluoridebehandeling, methode I"
+  },
+  {
+    "Code": "M20",
+    "Description": "Fluoridebehandeling, methode II"
+  },
+  {
+    "Code": "A15",
+    "Description": "Oppervlakte verdoving"
+  },
+  {
+    "Code": "A10",
+    "Description": "Geleidings-, infiltratie- en/of intraligamentaire verdoving"
+  },
+  {
+    "Code": "A20",
+    "Description": "Behandeling onder algehele anesthesie of sedatie"
+  },
+  {
+    "Code": "B10",
+    "Description": "Introductie roesje (lachgassedatie)"
+  },
+  {
+    "Code": "B11",
+    "Description": "Toediening roesje (lachgassedatie)"
+  },
+  {
+    "Code": "B12",
+    "Description": "Overheadkosten roesje (lachgassedatie)"
+  },
+  {
+    "Code": "V71",
+    "Description": "Eénvlaksvulling amalgaam"
+  },
+  {
+    "Code": "V72",
+    "Description": "Tweevlaksvulling amalgaam"
+  },
+  {
+    "Code": "V73",
+    "Description": "Drievlaksvulling amalgaam"
+  },
+  {
+    "Code": "V74",
+    "Description": "Meervlaksvulling amalgaam"
+  },
+  {
+    "Code": "V81",
+    "Description": "Eénvlaksvulling glasionomeer/glascarbomeer/compomeer"
+  },
+  {
+    "Code": "V82",
+    "Description": "Tweevlaksvulling glasionomeer/glascarbomeer/compomeer"
+  },
+  {
+    "Code": "V83",
+    "Description": "Drievlaksvulling glasionomeer/glascarbomeer/compomeer"
+  },
+  {
+    "Code": "V84",
+    "Description": "Meervlaksvulling glasionomeer/glascarbomeer/compomeer"
+  },
+  {
+    "Code": "V91",
+    "Description": "Eénvlaksvulling composiet"
+  },
+  {
+    "Code": "V92",
+    "Description": "Tweevlaksvulling composiet"
+  },
+  {
+    "Code": "V93",
+    "Description": "Drievlaksvulling composiet"
+  },
+  {
+    "Code": "V94",
+    "Description": "Meervlaksvulling composiet"
+  },
+  {
+    "Code": "V15",
+    "Description": "Aanbrengen schildje van tandkleurig plastisch materiaal"
+  },
+  {
+    "Code": "V30",
+    "Description": "Fissuurlak, eerste element"
+  },
+  {
+    "Code": "V35",
+    "Description": "Fissuurlak, ieder volgend element in dezelfde zitting"
+  },
+  {
+    "Code": "V40",
+    "Description": "Het polijsten, beslijpen en bijwerken van oude vullingen"
+  },
+  {
+    "Code": "V50",
+    "Description": "Droogleggen van elementen door middel van een rubberen lapje"
+  },
+  {
+    "Code": "V70",
+    "Description": "Parapulpaire stift"
+  },
+  {
+    "Code": "V80",
+    "Description": "Wortelkanaalstift"
+  },
+  {
+    "Code": "V85",
+    "Description": "Elke volgende wortelkanaalstift in hetzelfde element"
+  },
+  {
+    "Code": "V99",
+    "Description": "Gedeeltelijk voltooid werk vullingen"
+  },
+  {
+    "Code": "V11",
+    "Description": "Eénvlaksvulling"
+  },
+  {
+    "Code": "V12",
+    "Description": "Tweevlaksvulling"
+  },
+  {
+    "Code": "V13",
+    "Description": "Drievlaksvulling"
+  },
+  {
+    "Code": "V14",
+    "Description": "Kroon van plastisch materiaal"
+  },
+  {
+    "Code": "V20",
+    "Description": "Etsen ten behoeve van composietvulling"
+  },
+  {
+    "Code": "V21",
+    "Description": "Etsen in combinatie met etsbare onderlaag ten behoeve van composietvulling"
+  },
+  {
+    "Code": "V60",
+    "Description": "Indirecte pulpa-overkapping"
+  },
+  {
+    "Code": "E01",
+    "Description": "Wortelkanaalbehandeling consult"
+  },
+  {
+    "Code": "E02",
+    "Description": "Uitgebreid wortelkanaalbehandeling consult"
+  },
+  {
+    "Code": "E03",
+    "Description": "Consult na tandheelkundig ongeval"
+  },
+  {
+    "Code": "E60",
+    "Description": "Geheel of gedeeltelijk weghalen van pulpaweefsel"
+  },
+  {
+    "Code": "E04",
+    "Description": "Toeslag voor kosten bij gebruik van roterende nikkel-titanium instrumenten"
+  },
+  {
+    "Code": "E13",
+    "Description": "Wortelkanaalbehandeling per element met 1 kanaal"
+  },
+  {
+    "Code": "E14",
+    "Description": "Wortelkanaalbehandeling per element met 2 kanalen"
+  },
+  {
+    "Code": "E16",
+    "Description": "Wortelkanaalbehandeling per element met 3 kanalen"
+  },
+  {
+    "Code": "E17",
+    "Description": "Wortelkanaalbehandeling per element met 4 of meer kanalen"
+  },
+  {
+    "Code": "E85",
+    "Description": "Elektronische lengtebepaling"
+  },
+  {
+    "Code": "E19",
+    "Description": "Insluiten calciumhydroxide of daarmee vergelijkbare desinfectans per element, per zitting"
+  },
+  {
+    "Code": "E66",
+    "Description": "Wortelkanaalbehandeling van melkelement"
+  },
+  {
+    "Code": "E51",
+    "Description": "Verwijderen van kroon of brug"
+  },
+  {
+    "Code": "E52",
+    "Description": "Moeilijke wortelkanaalopening"
+  },
+  {
+    "Code": "E53",
+    "Description": "Verwijderen van wortelstift"
+  },
+  {
+    "Code": "E54",
+    "Description": "Verwijderen van wortelkanaalvulmateriaal"
+  },
+  {
+    "Code": "E55",
+    "Description": "Behandeling dichtgeslibd of verkalkt wortelkanaal"
+  },
+  {
+    "Code": "E56",
+    "Description": "Voortgezette behandeling met iatrogene schade"
+  },
+  {
+    "Code": "E57",
+    "Description": "Behandeling van element met uitzonderlijke anatomie"
+  },
+  {
+    "Code": "E61",
+    "Description": "Behandelen van open wortelpunt met calciumhydroxide, eerste zitting"
+  },
+  {
+    "Code": "E62",
+    "Description": "Behandelen van open wortelpunt met calciumhydroxide, elke volgende zitting"
+  },
+  {
+    "Code": "E63",
+    "Description": "Toeslag voor afsluiting met Mineral Trioxide Aggregate (MTA) of een vergelijkbaar biokeramisch materiaal"
+  },
+  {
+    "Code": "E64",
+    "Description": "Afsluiting van open wortelpunt"
+  },
+  {
+    "Code": "E77",
+    "Description": "Initiële wortelkanaalbehandeling, eerste kanaal"
+  },
+  {
+    "Code": "E78",
+    "Description": "Initiële wortelkanaalbehandeling, elk volgend kanaal"
+  },
+  {
+    "Code": "E90",
+    "Description": "Inwendig bleken, eerste zitting"
+  },
+  {
+    "Code": "E95",
+    "Description": "Inwendig bleken, elke volgende zitting"
+  },
+  {
+    "Code": "E97",
+    "Description": "Uitwendig bleken per kaak"
+  },
+  {
+    "Code": "E40",
+    "Description": "Directe pulpa-overkapping"
+  },
+  {
+    "Code": "E42",
+    "Description": "Terugzetten van een verplaatst element na tandheelkundig ongeval"
+  },
+  {
+    "Code": "E43",
+    "Description": "Vastzetten element d.m.v. een spalk na tandheelkundig ongeval"
+  },
+  {
+    "Code": "E44",
+    "Description": "Verwijderen spalk, per element"
+  },
+  {
+    "Code": "E45",
+    "Description": "Aanbrengen rubberdam"
+  },
+  {
+    "Code": "E31",
+    "Description": "Snij-/ hoektand"
+  },
+  {
+    "Code": "E32",
+    "Description": "Premolaar"
+  },
+  {
+    "Code": "E33",
+    "Description": "Molaar"
+  },
+  {
+    "Code": "E34",
+    "Description": "Aanbrengen retrograde vulling"
+  },
+  {
+    "Code": "E36",
+    "Description": "Het trekken van een element met re-implantatie"
+  },
+  {
+    "Code": "E37",
+    "Description": "Kijkoperatie"
+  },
+  {
+    "Code": "E86",
+    "Description": "Gebruik operatiemicroscoop bij wortelkanaalbehandeling"
+  },
+  {
+    "Code": "E87",
+    "Description": "Gebruiksklaar maken van praktijkruimte voor wortelkanaalbehandeling"
+  },
+  {
+    "Code": "E99",
+    "Description": "Gedeeltelijk voltooid werk wortelkanaalbehandelingen"
+  },
+  {
+    "Code": "E98",
+    "Description": "Materialen voor thuisbleken"
+  },
+  {
+    "Code": "R08",
+    "Description": "Eenvlaks composiet inlay"
+  },
+  {
+    "Code": "R09",
+    "Description": "Tweevlaks composiet inlay"
+  },
+  {
+    "Code": "R10",
+    "Description": "Drievlaks composiet inlay"
+  },
+  {
+    "Code": "R11",
+    "Description": "Eenvlaksinlay"
+  },
+  {
+    "Code": "R12",
+    "Description": "Tweevlaksinlay"
+  },
+  {
+    "Code": "R13",
+    "Description": "Drievlaksinlay"
+  },
+  {
+    "Code": "R14",
+    "Description": "Toeslag voor extra retentie bij het plaatsen van indirecte restauraties"
+  },
+  {
+    "Code": "R24",
+    "Description": "Kroon"
+  },
+  {
+    "Code": "R28",
+    "Description": "Endokroon, indirect vervaardigd"
+  },
+  {
+    "Code": "R29",
+    "Description": "Confectiekroon"
+  },
+  {
+    "Code": "R31",
+    "Description": "Opbouw plastisch materiaal"
+  },
+  {
+    "Code": "R32",
+    "Description": "Gegoten opbouw, indirecte methode"
+  },
+  {
+    "Code": "R33",
+    "Description": "Gegoten opbouw, directe methode"
+  },
+  {
+    "Code": "R40",
+    "Description": "Eerste brugtussendeel"
+  },
+  {
+    "Code": "R45",
+    "Description": "Tweede en volgende brugdeel in hetzelfde tussendeel"
+  },
+  {
+    "Code": "R46",
+    "Description": "Brugverankering, per anker"
+  },
+  {
+    "Code": "R49",
+    "Description": "Toeslag voor brug op vijf- of meer pijlerelementen"
+  },
+  {
+    "Code": "R50",
+    "Description": "Metalen fixatiekap met afdruk"
+  },
+  {
+    "Code": "R55",
+    "Description": "Gipsslot met extra afdruk"
+  },
+  {
+    "Code": "R60",
+    "Description": "Plakbrug zonder preparatie"
+  },
+  {
+    "Code": "R61",
+    "Description": "Plakbrug met preparatie"
+  },
+  {
+    "Code": "R65",
+    "Description": "Toeslag voor elk volgende brugdeel in hetzelfde tussendeel"
+  },
+  {
+    "Code": "R66",
+    "Description": "Toeslag voor elke volgende bevestiging boven het aantal van twee"
+  },
+  {
+    "Code": "R70",
+    "Description": "Toeslag voor kroon onder bestaand frame-anker"
+  },
+  {
+    "Code": "R71",
+    "Description": "Vernieuwen porseleinen schildje, reparatie metalen/porseleinen kroon in de mond"
+  },
+  {
+    "Code": "R72",
+    "Description": "Vernieuwen schildje van plastisch materiaal"
+  },
+  {
+    "Code": "R73",
+    "Description": "Aanbrengen extra retentie of pinnen in schildje"
+  },
+  {
+    "Code": "R74",
+    "Description": "Opnieuw vastzetten niet plastische restauraties"
+  },
+  {
+    "Code": "R75",
+    "Description": "Opnieuw vastzetten plakbrug"
+  },
+  {
+    "Code": "R76",
+    "Description": "Toeslag voor gegoten opbouw onder bestaande kroon"
+  },
+  {
+    "Code": "R77",
+    "Description": "Moeizaam verwijderen van oud kroon- en brugwerk per (pijler)element"
+  },
+  {
+    "Code": "R78",
+    "Description": "Schildje van keramiek of kunststof, zonder preparatie"
+  },
+  {
+    "Code": "R79",
+    "Description": "Schildje van keramiek of kunststof, met preparatie"
+  },
+  {
+    "Code": "R80",
+    "Description": "Temporaire, eerste voorziening"
+  },
+  {
+    "Code": "R85",
+    "Description": "Temporaire, volgende voorziening"
+  },
+  {
+    "Code": "R90",
+    "Description": "Gedeeltelijk voltooid werk"
+  },
+  {
+    "Code": "R99",
+    "Description": "Gedeeltelijk voltooid werk kronen en bruggen"
+  },
+  {
+    "Code": "G01",
+    "Description": "Uitgebreid functie-onderzoek (UFO)"
+  },
+  {
+    "Code": "G02",
+    "Description": "Spieractiviteitsmeting en registratie"
+  },
+  {
+    "Code": "G03",
+    "Description": "Gedocumenteerde verwijzing kaakgewrichtsbehandeling"
+  },
+  {
+    "Code": "G61",
+    "Description": "Instructie spieroefeningen"
+  },
+  {
+    "Code": "G62",
+    "Description": "Occlusale spalk"
+  },
+  {
+    "Code": "G63",
+    "Description": "Repositiespalk"
+  },
+  {
+    "Code": "G64",
+    "Description": "Controlebezoek spalk inclusief kleine correcties"
+  },
+  {
+    "Code": "G65",
+    "Description": "Indirect planmatig inslijpen"
+  },
+  {
+    "Code": "G66",
+    "Description": "Biofeedbacktherapie"
+  },
+  {
+    "Code": "G67",
+    "Description": "Behandeling triggerpoint"
+  },
+  {
+    "Code": "G68",
+    "Description": "Reparatie occlusale- of repositiespalk, met afdruk"
+  },
+  {
+    "Code": "G33",
+    "Description": "Aanbrengen front/hoektandgeleiding"
+  },
+  {
+    "Code": "G69",
+    "Description": "Opbeetplaat"
+  },
+  {
+    "Code": "G10",
+    "Description": "Niet-standaard beetregistratie"
+  },
+  {
+    "Code": "G11",
+    "Description": "Scharnierasbepaling"
+  },
+  {
+    "Code": "G12",
+    "Description": "Centrale relatiebepaling"
+  },
+  {
+    "Code": "G13",
+    "Description": "Protrale/laterale bepalingen"
+  },
+  {
+    "Code": "G14",
+    "Description": "Instellen volledig instelbare articulator, pantograaf en registratie"
+  },
+  {
+    "Code": "G15",
+    "Description": "Toeslag voor het behouden van beethoogte"
+  },
+  {
+    "Code": "G16",
+    "Description": "Therapeutische positiebepaling"
+  },
+  {
+    "Code": "G20",
+    "Description": "Beetregistratie intra-oraal"
+  },
+  {
+    "Code": "G71",
+    "Description": "Apparaat voor snurk- en slaapstoornissen (MRA)"
+  },
+  {
+    "Code": "G72",
+    "Description": "Controlebezoek MRA"
+  },
+  {
+    "Code": "G73",
+    "Description": "Reparatie MRA met afdruk"
+  },
+  {
+    "Code": "G99",
+    "Description": "Gedeeltelijk voltooid werk kaakgewrichtsbehandelingen"
+  },
+  {
+    "Code": "H11",
+    "Description": "Trekken tand of kies"
+  },
+  {
+    "Code": "H16",
+    "Description": "Trekken volgende tand of kies, in dezelfde zitting en hetzelfde kwadrant"
+  },
+  {
+    "Code": "H21",
+    "Description": "Kosten hechtmateriaal"
+  },
+  {
+    "Code": "H26",
+    "Description": "Hechten weke delen"
+  },
+  {
+    "Code": "H50",
+    "Description": "Terugzetten/ terugplaatsen tand of kies, eerste element exclusief wortelkanaalbehandeling"
+  },
+  {
+    "Code": "H55",
+    "Description": "Terugzetten/ terugplaatsen tand of kies, buurelement, exclusief wortelkanaalbehandeling"
+  },
+  {
+    "Code": "H90",
+    "Description": "Voorbereiding praktijkruimte ten behoeve van chirurgische verrichtingen vallend onder onderdeel B"
+  },
+  {
+    "Code": "H33",
+    "Description": "Hemisectie van een molaar"
+  },
+  {
+    "Code": "H35",
+    "Description": "Moeizaam trekken tand of kies, met mucoperiostale opklap"
+  },
+  {
+    "Code": "H40",
+    "Description": "Corrigeren van de vorm van de kaak, per kaak"
+  },
+  {
+    "Code": "H41",
+    "Description": "Verwijderen van het lipbandje of tongriempje"
+  },
+  {
+    "Code": "H42",
+    "Description": "Wortelpuntoperatie, per tandwortel, zonder afsluiting"
+  },
+  {
+    "Code": "H43",
+    "Description": "Wortelpuntoperatie, per tandwortel, met ante of retrogradeafsluiting"
+  },
+  {
+    "Code": "H44",
+    "Description": "Primaire antrumsluiting"
+  },
+  {
+    "Code": "H59",
+    "Description": "Behandeling kaakbreuk, per kaak"
+  },
+  {
+    "Code": "H60",
+    "Description": "Marsupialisatie"
+  },
+  {
+    "Code": "H65",
+    "Description": "Primaire sluiting"
+  },
+  {
+    "Code": "H70",
+    "Description": "Lappige fibromen, Schlotterkamm tubercorrectie e.d., enkelzijdig per kaak"
+  },
+  {
+    "Code": "H75",
+    "Description": "Lappige fibromen, Schlotterkamm, tubercorrectie e.d., dubbelzijdig per kaak"
+  },
+  {
+    "Code": "H80",
+    "Description": "Alveolotomie torus, vergelijkbare praeprothetische botcorrecties, enkelzijdig per kaak"
+  },
+  {
+    "Code": "H85",
+    "Description": "Alveolotomie torus, vergelijkbare praeprothetische botcorrecties, dubbelzijdig per kaak"
+  },
+  {
+    "Code": "H99",
+    "Description": "Gedeeltelijk voltooid werk chirurgische ingrepen"
+  },
+  {
+    "Code": "P60",
+    "Description": "Uitgebreid onderzoek naar functioneren van het bestaande kunstgebit"
+  },
+  {
+    "Code": "P65",
+    "Description": "Planmatig inslijpen van het bestaande kunstgebit"
+  },
+  {
+    "Code": "P17",
+    "Description": "Toeslag voor beetregistratie met specifieke apparatuur"
+  },
+  {
+    "Code": "P10",
+    "Description": "Gedeeltelijk kunstgebit van kunsthars, 1-4 elementen"
+  },
+  {
+    "Code": "P15",
+    "Description": "Gedeeltelijk kunstgebit van kunsthars, 5-13 elementen"
+  },
+  {
+    "Code": "P16",
+    "Description": "Toeslag voor individuele afdruk met randopbouw bij gedeeltelijk kunstgebit van kunsthars"
+  },
+  {
+    "Code": "P18",
+    "Description": "Toeslag voor gegoten anker bij gedeeltelijk kunstgebit van kunsthars"
+  },
+  {
+    "Code": "P34",
+    "Description": "Frame kunstgebit, 1-4 elementen"
+  },
+  {
+    "Code": "P35",
+    "Description": "Frame kunstgebit, 5-13 elementen"
+  },
+  {
+    "Code": "P31",
+    "Description": "Wortelkap met stift"
+  },
+  {
+    "Code": "P32",
+    "Description": "Toeslag voor maken precisiekoppeling per koppeling c.q. staafhuls"
+  },
+  {
+    "Code": "P33",
+    "Description": "Toeslag voor aanbrengen telescoopkroon met precisiekoppeling"
+  },
+  {
+    "Code": "P40",
+    "Description": "Toeslag immediaat kunstgebit, kunstgebittarief verhoogd met per immediaat te vervangen element"
+  },
+  {
+    "Code": "P45",
+    "Description": "Noodkunstgebit"
+  },
+  {
+    "Code": "P21",
+    "Description": "Volledig kunstgebit bovenkaak"
+  },
+  {
+    "Code": "P25",
+    "Description": "Volledig kunstgebit onderkaak"
+  },
+  {
+    "Code": "P30",
+    "Description": "Volledig kunstgebit boven- en onderkaak"
+  },
+  {
+    "Code": "P36",
+    "Description": "Individuele afdruk zonder randopbouw"
+  },
+  {
+    "Code": "P14",
+    "Description": "Individuele afdruk met randopbouw"
+  },
+  {
+    "Code": "P37",
+    "Description": "Frontopstelling in aparte zitting"
+  },
+  {
+    "Code": "P27",
+    "Description": "Reoccluderen"
+  },
+  {
+    "Code": "P28",
+    "Description": "Naregistratie en remounten"
+  },
+  {
+    "Code": "P38",
+    "Description": "Toeslag voor bepaling verticale beethoogte met behulp van specifieke apparatuur"
+  },
+  {
+    "Code": "P39",
+    "Description": "Toeslag voor bepaling neutrale zone"
+  },
+  {
+    "Code": "P41",
+    "Description": "Toeslag voor relinen van alginaatafdruk"
+  },
+  {
+    "Code": "P42",
+    "Description": "Toeslag voor specifieke A-zone-bepaling"
+  },
+  {
+    "Code": "P43",
+    "Description": "Toeslag voor extra beetbepaling met waswallen"
+  },
+  {
+    "Code": "P29",
+    "Description": "Toeslag te berekenen voor elk element bij een overkappingskunstgebit"
+  },
+  {
+    "Code": "P06",
+    "Description": "Tissue conditioning volledig kunstgebit, per kaak"
+  },
+  {
+    "Code": "P01",
+    "Description": "Opvullen volledig kunstgebit, indirect zonder randopbouw, per kaak"
+  },
+  {
+    "Code": "P02",
+    "Description": "Opvullen volledig kunstgebit, indirect met randopbouw, per kaak"
+  },
+  {
+    "Code": "P03",
+    "Description": "Opvullen volledig kunstgebit, direct zonder randopbouw, per kaak"
+  },
+  {
+    "Code": "P04",
+    "Description": "Opvullen volledig kunstgebit, direct met randopbouw, per kaak"
+  },
+  {
+    "Code": "P70",
+    "Description": "Opvullen overkappingsprothese op natuurlijke pijlers zonder staafdemontage, per kaak"
+  },
+  {
+    "Code": "P07",
+    "Description": "Reparatie volledig kunstgebit, zonder afdruk, per kaak"
+  },
+  {
+    "Code": "P08",
+    "Description": "Reparatie volledig kunstgebit, met afdruk, per kaak"
+  },
+  {
+    "Code": "P56",
+    "Description": "Tissue conditioning gedeeltelijk kunstgebit of framekunstgebit, per kaak"
+  },
+  {
+    "Code": "P51",
+    "Description": "Opvullen gedeeltelijk kunstgebit / framekunstgebit, indirect zonder randopbouw, per kaak"
+  },
+  {
+    "Code": "P52",
+    "Description": "Opvullen gedeeltelijk kunstgebit / framekunstgebit, indirect met randopbouw, per kaak"
+  },
+  {
+    "Code": "P53",
+    "Description": "Opvullen gedeeltelijk kunstgebit / framekunstgebit, direct zonder randopbouw, per kaak"
+  },
+  {
+    "Code": "P54",
+    "Description": "Opvullen gedeeltelijk kunstgebit / framekunstgebit, direct met randopbouw, per kaak"
+  },
+  {
+    "Code": "P57",
+    "Description": "Reparatie gedeeltelijk kunstgebit/ framekunstgebit, zonder afdruk, per kaak"
+  },
+  {
+    "Code": "P58",
+    "Description": "Reparatie gedeeltelijk kunstgebit/ framekunstgebit, met afdruk, per kaak"
+  },
+  {
+    "Code": "P78",
+    "Description": "Uitbreiding gedeeltelijk kunstgebit met element(en) tot volledig kunstgebit inclusief afdruk, per kaak"
+  },
+  {
+    "Code": "P79",
+    "Description": "Uitbreiding gedeeltelijk kunstgebit met element of anker inclusief afdruk, per kaak"
+  },
+  {
+    "Code": "P99",
+    "Description": "Gedeeltelijk voltooid werk kunstgebitten"
+  },
+  {
+    "Code": "T11",
+    "Description": "Onderzoek van het tandvlees met pocketstatus"
+  },
+  {
+    "Code": "T12",
+    "Description": "Onderzoek van het tandvlees met parodontiumstatus"
+  },
+  {
+    "Code": "T21",
+    "Description": "Grondig reinigen wortel, complex"
+  },
+  {
+    "Code": "T22",
+    "Description": "Grondig reinigen wortel, standaard"
+  },
+  {
+    "Code": "T31",
+    "Description": "Herbeoordeling met pocketstatus, na initiële tandvleesbehandeling"
+  },
+  {
+    "Code": "T32",
+    "Description": "Herbeoordeling met parodontiumstatus, na initiële tandvleesbehandeling"
+  },
+  {
+    "Code": "T33",
+    "Description": "Uitgebreid bespreken vervolgtraject na herbeoordeling"
+  },
+  {
+    "Code": "T41",
+    "Description": "Beperkt consult parodontale nazorg"
+  },
+  {
+    "Code": "T42",
+    "Description": "Consult parodontale nazorg"
+  },
+  {
+    "Code": "T43",
+    "Description": "Uitgebreid consult parodontale nazorg"
+  },
+  {
+    "Code": "T44",
+    "Description": "Complex consult parodontale nazorg"
+  },
+  {
+    "Code": "T60",
+    "Description": "Evaluatie-onderzoek met pocketstatus"
+  },
+  {
+    "Code": "T61",
+    "Description": "Evaluatie-onderzoek met parodontiumstatus"
+  },
+  {
+    "Code": "T70",
+    "Description": "Flapoperatie tussen 2 elementen"
+  },
+  {
+    "Code": "T71",
+    "Description": "Flapoperatie per sextant (één zesde deel)"
+  },
+  {
+    "Code": "T72",
+    "Description": "Flapoperatie uitgebreid per sextant ( één zesde deel)"
+  },
+  {
+    "Code": "T73",
+    "Description": "Directe post-operatieve zorg, kort"
+  },
+  {
+    "Code": "T74",
+    "Description": "Directe post-operatieve zorg, uitgebreid"
+  },
+  {
+    "Code": "T75",
+    "Description": "Post-operatief evaluatie-onderzoek met parodontiumstatus"
+  },
+  {
+    "Code": "T76",
+    "Description": "Tuber- of retromolaarplastiek"
+  },
+  {
+    "Code": "T80",
+    "Description": "Tandvleestransplantaat"
+  },
+  {
+    "Code": "T81",
+    "Description": "Tuber- of retromolaarplastiek"
+  },
+  {
+    "Code": "T82",
+    "Description": "Tandvleescorrectie per element"
+  },
+  {
+    "Code": "T83",
+    "Description": "Tandvleescorrectie per sextant (één zesde deel)"
+  },
+  {
+    "Code": "T84",
+    "Description": "Aanbrengen regeneratiemateriaal als zelfstandige verrichting, per sextant (één zesde deel)"
+  },
+  {
+    "Code": "T85",
+    "Description": "Aanbrengen regeneratiemateriaal als niet-zelfstandige verrichting, gelijktijdig met flapoperatie in hetzelfde sextant (één zesde deel), per element\nverrichting, gelijktijdig met flapoperatie"
+  },
+  {
+    "Code": "T86",
+    "Description": "Operatieve verwijdering van regeneratiemateriaal"
+  },
+  {
+    "Code": "T87",
+    "Description": "Kroonverlenging per element"
+  },
+  {
+    "Code": "T88",
+    "Description": "Kroonverlenging per sextant"
+  },
+  {
+    "Code": "T89",
+    "Description": "Directe post-operatieve zorg, kort"
+  },
+  {
+    "Code": "T90",
+    "Description": "Directe postoperatieve zorg, uitgebreid"
+  },
+  {
+    "Code": "T91",
+    "Description": "Pocketregistratie"
+  },
+  {
+    "Code": "T92",
+    "Description": "Parodontiumregistratie"
+  },
+  {
+    "Code": "T93",
+    "Description": "Bacteriologisch onderzoek ten behoeve van tandvleesbehandeling"
+  },
+  {
+    "Code": "T94",
+    "Description": "Behandeling tandvleesabces"
+  },
+  {
+    "Code": "T57",
+    "Description": "Toepassing lokaal medicament"
+  },
+  {
+    "Code": "T95",
+    "Description": "(Draad)Spalk"
+  },
+  {
+    "Code": "T96",
+    "Description": "Uitgebreide Voedingsanalyse"
+  },
+  {
+    "Code": "T99",
+    "Description": "Gedeeltelijk voltooid werk tandvleesbehandelingen"
+  },
+  {
+    "Code": "T51",
+    "Description": "Kort consult nazorg tandvleesbehandeling door een tandarts"
+  },
+  {
+    "Code": "T52",
+    "Description": "Kort consult nazorg tandvleesbehandeling door een mondhygiënist"
+  },
+  {
+    "Code": "T53",
+    "Description": "Standaard consult nazorg tandvleesbehandeling door een tandarts"
+  },
+  {
+    "Code": "T54",
+    "Description": "Standaard consult nazorg tandvleesbehandeling door een mondhygiënist"
+  },
+  {
+    "Code": "T55",
+    "Description": "Uitgebreid consult nazorg tandvleesbehandeling door een tandarts"
+  },
+  {
+    "Code": "T56",
+    "Description": "Uitgebreid consult nazorg tandvleesbehandeling door een mondhygiënist"
+  },
+  {
+    "Code": "J97",
+    "Description": "Overheadkosten implantaten"
+  },
+  {
+    "Code": "J98",
+    "Description": "Overheadkosten pre-implantologische chirurgie"
+  },
+  {
+    "Code": "J01",
+    "Description": "Initieel onderzoek implantologie"
+  },
+  {
+    "Code": "J02",
+    "Description": "Verlengd onderzoek implantologie"
+  },
+  {
+    "Code": "J03",
+    "Description": "Proefopstelling"
+  },
+  {
+    "Code": "J05",
+    "Description": "Implantaatpositionering op grond van CT-scan"
+  },
+  {
+    "Code": "J09",
+    "Description": "Ophoging bodem bijholte, eerste kaakhelft"
+  },
+  {
+    "Code": "J10",
+    "Description": "Ophoging bodem bijholte, tweede kaakhelft in dezelfde zitting"
+  },
+  {
+    "Code": "J11",
+    "Description": "Prepareren donorplaats"
+  },
+  {
+    "Code": "J12",
+    "Description": "Kaakverbreding en/of verhoging in frontregio of eerste kaakhelft"
+  },
+  {
+    "Code": "J13",
+    "Description": "Kaakverbreding en/of verhoging in tweede kaakhelft in dezelfde zitting"
+  },
+  {
+    "Code": "J07",
+    "Description": "Toeslag kosten boren voor eenmalig gebruik of toeslag kosten inzetstukken van een Implant Removal Set voor eenmalig gebrui"
+  },
+  {
+    "Code": "J06",
+    "Description": "Vrijleggen foramen mentale"
+  },
+  {
+    "Code": "J15",
+    "Description": "Kaakverbreding en/of verhoging per kaakhelft of in frontregio"
+  },
+  {
+    "Code": "J17",
+    "Description": "Aanvullende ophoging bodem bijholte"
+  },
+  {
+    "Code": "J18",
+    "Description": "Ophoging bodem bijholte orthograad"
+  },
+  {
+    "Code": "J19",
+    "Description": "Toeslag esthetische zone"
+  },
+  {
+    "Code": "J20",
+    "Description": "Plaatsen eerste implantaat per kaak"
+  },
+  {
+    "Code": "J28",
+    "Description": "Plaatsen volgend implantaat"
+  },
+  {
+    "Code": "J23",
+    "Description": "Plaatsen eerste Healing Abutment (wondheler)"
+  },
+  {
+    "Code": "J29",
+    "Description": "Plaatsen volgende Healing Abutment (wondheler)"
+  },
+  {
+    "Code": "J26",
+    "Description": "Moeizaam verwijderen implantaat"
+  },
+  {
+    "Code": "J36",
+    "Description": "Verwijderen implantaat"
+  },
+  {
+    "Code": "J27",
+    "Description": "Vervangen (eerste) implantaat"
+  },
+  {
+    "Code": "J37",
+    "Description": "Vervangen volgend implantaat"
+  },
+  {
+    "Code": "J08",
+    "Description": "Aanbrengen botvervangers in extractie wond"
+  },
+  {
+    "Code": "J30",
+    "Description": "Bindweefseltransplantaat per donorplaats"
+  },
+  {
+    "Code": "J32",
+    "Description": "Verwijderen gefractureerd abutment/ occlusale schroef"
+  },
+  {
+    "Code": "J33",
+    "Description": "Kosten implantaat"
+  },
+  {
+    "Code": "J34",
+    "Description": "Bepaling stabiliteit implantaat middels ISQ-meting"
+  },
+  {
+    "Code": "J40",
+    "Description": "Twee magneten/drukknoppen"
+  },
+  {
+    "Code": "J41",
+    "Description": "Elke volgende magneet, drukknop"
+  },
+  {
+    "Code": "J42",
+    "Description": "Staaf tussen twee implantaten in dezelfde kaak"
+  },
+  {
+    "Code": "J43",
+    "Description": "Elke volgende staaf tussen implantaten in dezelfde kaak"
+  },
+  {
+    "Code": "J44",
+    "Description": "Plaatsen opbouw ten behoeve van implantaatkroon"
+  },
+  {
+    "Code": "J50",
+    "Description": "Gelijktijdig plaatsen volledig kunstgebit en klikgebit"
+  },
+  {
+    "Code": "J51",
+    "Description": "Onder-klikgebit"
+  },
+  {
+    "Code": "J52",
+    "Description": "Boven-klikgebit"
+  },
+  {
+    "Code": "J53",
+    "Description": "Omvorming klikgebit"
+  },
+  {
+    "Code": "J54",
+    "Description": "Omvorming klikgebit bij staven tussen twee implantaten"
+  },
+  {
+    "Code": "J55",
+    "Description": "Omvorming klikgebit bij staven tussen drie of vier implantaten"
+  },
+  {
+    "Code": "J56",
+    "Description": "Omvorming klikgebit bij staven tussen meer dan vier implantaten"
+  },
+  {
+    "Code": "J57",
+    "Description": "Toeslag vervangings- klikgebit op bestaande stegconstructie tussen twee implantaten"
+  },
+  {
+    "Code": "J58",
+    "Description": "Toeslag vervangings- klikgebit op bestaande stegcontructie tussen drie of vier implantaten"
+  },
+  {
+    "Code": "J59",
+    "Description": "Toeslag vervangings- klikgebit op bestaande stegcontructie tussen meer dan vier implantaten"
+  },
+  {
+    "Code": "J60",
+    "Description": "Specifiek consult nazorg implantologie"
+  },
+  {
+    "Code": "J61",
+    "Description": "Uitgebreid consult nazorg implantologie"
+  },
+  {
+    "Code": "J70",
+    "Description": "Opvullen zonder staafdemontage"
+  },
+  {
+    "Code": "J71",
+    "Description": "Opvullen met staafdemontage op twee implantaten"
+  },
+  {
+    "Code": "J72",
+    "Description": "Opvullen met staafdemontage op drie of vier implantaten"
+  },
+  {
+    "Code": "J73",
+    "Description": "Opvullen met staafdemontage op meer dan vier implantaten"
+  },
+  {
+    "Code": "J74",
+    "Description": "Reparatie zonder staafdemontage"
+  },
+  {
+    "Code": "J75",
+    "Description": "Reparatie met staafdemontage op twee implantaten"
+  },
+  {
+    "Code": "J76",
+    "Description": "Reparatie met staafdemontage op drie of vier implantaten"
+  },
+  {
+    "Code": "J77",
+    "Description": "Reparatie met staafdemontage op meer dan vier implantaten"
+  },
+  {
+    "Code": "J78",
+    "Description": "Verwijderen en vervangen drukknop"
+  },
+  {
+    "Code": "J79",
+    "Description": "Verwijderen en vervangen steg"
+  },
+  {
+    "Code": "J80",
+    "Description": "Twee implantaten in de onderkaak voor een implantaatgedragen kunstgebit"
+  },
+  {
+    "Code": "J99",
+    "Description": "Gedeeltelijk voltooid werk implantaten"
+  },
+  {
+    "Code": "J16",
+    "Description": "Kaakverbreding en/of verhoging in tweede kaakhelft"
+  },
+  {
+    "Code": "J21",
+    "Description": "Plaatsen elk volgend implantaat in dezelfde kaak, door dezelfde wond"
+  },
+  {
+    "Code": "J22",
+    "Description": "Plaatsen elk volgend implantaat in dezelfde kaak, andere wond"
+  },
+  {
+    "Code": "J24",
+    "Description": "Plaatsen volgende Healing Abutment (wondheler), dezelfde wond"
+  },
+  {
+    "Code": "J25",
+    "Description": "Plaatsen volgende Healing Abutment (wondheler), andere wond"
+  },
+  {
+    "Code": "J31",
+    "Description": "Volgende bindweefseltransplantaat"
+  },
+  {
+    "Code": "U25",
+    "Description": "Tijdtarief tandheelkundige hulp aan patiënten die behandeld worden in de Wlz-instelling in eenheden van vijf minuten"
+  },
+  {
+    "Code": "U35",
+    "Description": "Tijdtarief tandheelkundige hulp aan patiënten die verblijven in de Wlz-instelling en behandeld worden in de eigen praktijk van de zorgaanbieder in eenheden van vijf minuten"
+  },
+  {
+    "Code": "U05",
+    "Description": "Tijdtarief begeleiding moeilijk behandelbare patiënten in eenheden van vijf minuten"
+  },
+  {
+    "Code": "U20",
+    "Description": "Second opinion verricht door de Stichting TIP"
+  },
+  {
+    "Code": "U10",
+    "Description": "Tijdtarief begeleiding moeilijk behandelbare patiënten"
+  },
+  {
+    "Code": "U01",
+    "Description": "Tandheelkundige hulp aan patiënten die behandeld worden in de Wlz-instelling door zorgaanbieder zonder eigen huispraktijk"
+  },
+  {
+    "Code": "U015",
+    "Description": "Tandheelkundige hulp aan patiënten die behandeld worden in de Wlz-instelling door zorgaanbieder zonder eigen huispraktijk - Vijfminutentarief"
+  },
+  {
+    "Code": "U02",
+    "Description": "Tijdtarief tandheelkundige hulp aan patiënten die behandeld worden in de Wlz-instelling"
+  },
+  {
+    "Code": "U025",
+    "Description": "Tandheelkundige hulp aan patiënten die behandeld worden in de Wlz-instelling door zorgaanbieder met een eigen huispraktijk - Vijfminutentarief"
+  },
+  {
+    "Code": "U03",
+    "Description": "Tijdtarief tandheelkundige hulp aan patiënten die verblijven in de Wlz-instelling en behandeld worden in de eigen praktijk van de zorgaanbieder"
+  },
+  {
+    "Code": "U035",
+    "Description": "Tandheelkundige hulp aan patiënten die verblijven in de Wlz-instelling in de eigen huispraktijk van de zorgaanbieder - Vijfminutentarief"
+  },
+  {
+    "Code": "Z10",
+    "Description": "Abonnement categorie A per maand"
+  },
+  {
+    "Code": "Z20",
+    "Description": "Abonnement categorie B per maand"
+  },
+  {
+    "Code": "Z30",
+    "Description": "Abonnement categorie C per maand"
+  },
+  {
+    "Code": "Z40",
+    "Description": "Abonnement categorie D per maand"
+  },
+  {
+    "Code": "Z50",
+    "Description": "Abonnement categorie E per maand"
+  },
+  {
+    "Code": "Z60",
+    "Description": "Abonnement categorie F per maand"
+  },
+  {
+    "Code": "JTV010",
+    "Description": "Toeslag haal- en/of brengservice"
+  },
+  {
+    "Code": "JTV001",
+    "Description": "Instellingstoeslag"
+  },
+  {
+    "Code": "K01",
+    "Description": "Toeslag haal- en/of brengservice"
+  },
+  {
+    "Code": "K02",
+    "Description": "Instellingstoeslag"
+  },
+  {
+    "Code": "X731CU",
+    "Description": "Uurtarief mondzorg aan bijzondere groepen"
+  },
+  {
+    "Code": "X731CV",
+    "Description": "5-minutentarief mondzorg aan bijzondere groepen"
+  },
+  {
+    "Code": "X611C",
+    "Description": "Verdoving door middel van een roesje"
+  },
+  {
+    "Code": "X631CU",
+    "Description": "Uurtarief voor verdoving door middel van algehele narcose"
+  },
+  {
+    "Code": "X631CV",
+    "Description": "5-minutentarief voor verdoving door middel van algehele narcose"
+  },
+  {
+    "Code": "X831",
+    "Description": "Collectief maximum tijdstarief mondzorg aan bijzondere zorggroepen"
+  },
+  {
+    "Code": "X631C",
+    "Description": "Verdoving door middel van algehele narcose"
+  },
+  {
+    "Code": "F121A",
+    "Description": "Eerste consult"
+  },
+  {
+    "Code": "F122A",
+    "Description": "Vervolgconsult"
+  },
+  {
+    "Code": "F123A",
+    "Description": "Controlebezoek"
+  },
+  {
+    "Code": "F124A",
+    "Description": "Second opinion"
+  },
+  {
+    "Code": "F125A",
+    "Description": "Maken gebitsmodellen"
+  },
+  {
+    "Code": "F126A",
+    "Description": "Beoordelen gebitsmodellen inclusief bespreken behandelplan"
+  },
+  {
+    "Code": "F127A",
+    "Description": "Multidisciplinair consult, per uur (multidisciplinair consult bij een patiënt met een vermoedelijke afwijking in de zin van schisis of (een) in ernst met schisis vergelijkbare aangeboren afwijking (per uur, deelbaar in eenheden van vijf minuten)"
+  },
+  {
+    "Code": "F127AV",
+    "Description": "Multidisciplinair consult, vijf minuten tarief (multidisciplinair consult bij een patiënt met een vermoedelijke afwijking in de zin van schisis of (een) in ernst met schisis vergelijkbare aangeboren afwijking"
+  },
+  {
+    "Code": "F130A",
+    "Description": "Uitgebreid onderzoek t.b.v. opstellen en vastleggen van complex behandelplan door orthodontisch zorgaanbieder"
+  },
+  {
+    "Code": "F131A",
+    "Description": "Vervaardigen van een diagnostische setup"
+  },
+  {
+    "Code": "F132A",
+    "Description": "Maken van extra gebitsmodellen t.b.v. behandelingsevaluatie"
+  },
+  {
+    "Code": "F133A",
+    "Description": "Beoordelen van extra gebitsmodellen t.b.v. behandelingsevaluatie"
+  },
+  {
+    "Code": "F151A",
+    "Description": "Intra-orale röntgenfoto (3x4 cm.)"
+  },
+  {
+    "Code": "F152A",
+    "Description": "Occlusale opbeet röntgenfoto"
+  },
+  {
+    "Code": "F155A",
+    "Description": "Vervaardiging orthopantomogram"
+  },
+  {
+    "Code": "F156A",
+    "Description": "Beoordeling orthopantomogram"
+  },
+  {
+    "Code": "F157A",
+    "Description": "Vervaardiging laterale schedelröntgenfoto"
+  },
+  {
+    "Code": "F158A",
+    "Description": "Beoordeling laterale schedelröntgenfoto"
+  },
+  {
+    "Code": "F159A",
+    "Description": "Vervaardiging voor-achterwaartse schedelröntgenfoto"
+  },
+  {
+    "Code": "F160A",
+    "Description": "Beoordeling voor-achterwaartse schedelröntgenfoto"
+  },
+  {
+    "Code": "F161A",
+    "Description": "Meerdimensionale kaakfoto"
+  },
+  {
+    "Code": "F162A",
+    "Description": "Beoordelen meerdimensionale kaakfoto"
+  },
+  {
+    "Code": "F401A",
+    "Description": "Plaatsen beugel categorie 0"
+  },
+  {
+    "Code": "F411A",
+    "Description": "Plaatsen beugel categorie 1"
+  },
+  {
+    "Code": "F421A",
+    "Description": "Plaatsen beugel categorie 2"
+  },
+  {
+    "Code": "F431A",
+    "Description": "Plaatsen beugel categorie 3"
+  },
+  {
+    "Code": "F441A",
+    "Description": "Plaatsen beugel categorie 4"
+  },
+  {
+    "Code": "F451A",
+    "Description": "Plaatsen beugel categorie 5"
+  },
+  {
+    "Code": "F461A",
+    "Description": "Plaatsen beugel categorie 6"
+  },
+  {
+    "Code": "F471A",
+    "Description": "Plaatsen beugel categorie 7"
+  },
+  {
+    "Code": "F481A",
+    "Description": "Plaatsen beugel categorie 8"
+  },
+  {
+    "Code": "F491A",
+    "Description": "Plaatsen beugel categorie 9"
+  },
+  {
+    "Code": "F492A",
+    "Description": "Verwijderen beugel categorie 5 t/m 9 per kaak"
+  },
+  {
+    "Code": "F511A",
+    "Description": "Beugelconsult per maand categorie 1"
+  },
+  {
+    "Code": "F512A",
+    "Description": "Beugelconsult per maand categorie 2"
+  },
+  {
+    "Code": "F513A",
+    "Description": "Beugelconsult per maand categorie 3"
+  },
+  {
+    "Code": "F514A",
+    "Description": "Beugelconsult per maand categorie 4"
+  },
+  {
+    "Code": "F515A",
+    "Description": "Beugelconsult per maand categorie 5"
+  },
+  {
+    "Code": "F516A",
+    "Description": "Beugelconsult per maand categorie 6"
+  },
+  {
+    "Code": "F517A",
+    "Description": "Beugelconsult per maand categorie 7"
+  },
+  {
+    "Code": "F518A",
+    "Description": "Beugelconsult per maand categorie 8"
+  },
+  {
+    "Code": "F519A",
+    "Description": "Beugelconsult per maand categorie 9"
+  },
+  {
+    "Code": "F521A",
+    "Description": "Beugelconsult vanaf 25e behandelingsmaand (beugel categorie 1 t/m 9)"
+  },
+  {
+    "Code": "F531A",
+    "Description": "Nacontrole per drie maanden beugel categorie 1 t/m 4"
+  },
+  {
+    "Code": "F532A",
+    "Description": "Nacontrole per drie maanden beugel categorie 5, 7, 8"
+  },
+  {
+    "Code": "F533A",
+    "Description": "Nacontrole per drie maanden beugel categorie 6, 9"
+  },
+  {
+    "Code": "F611A",
+    "Description": "Documenteren en bespreken gegevens elektronische chip in uitneembare apparatuur"
+  },
+  {
+    "Code": "F612A",
+    "Description": "Plaatsen intermaxillaire correctieveren"
+  },
+  {
+    "Code": "F716A",
+    "Description": "Mondbeschermer tijdens behandeling met apparatuur"
+  },
+  {
+    "Code": "F721A",
+    "Description": "Trekken tand of kies"
+  },
+  {
+    "Code": "F722A",
+    "Description": "Trekken volgende tand of kies, in dezelfde zitting en hetzelfde kwadrant"
+  },
+  {
+    "Code": "F723A",
+    "Description": "Plaatsen micro-implantaat (voor beugel)"
+  },
+  {
+    "Code": "F724A",
+    "Description": "Preventieve voorlichting en/ of instructie"
+  },
+  {
+    "Code": "F810A",
+    "Description": "Reparatie of vervanging beugel categorie 1 tot en met 4 vanwege slijtage"
+  },
+  {
+    "Code": "F811A",
+    "Description": "Reparatie of vervanging van beugel"
+  },
+  {
+    "Code": "F812A",
+    "Description": "Herstel en plaatsen van retentie-apparatuur"
+  },
+  {
+    "Code": "F813A",
+    "Description": "Plaatsen extra retentiebeugel, per kaak"
+  },
+  {
+    "Code": "F814A",
+    "Description": "Plaatsen retentie-apparatuur bij orthodontisch niet behandelde of door andere zorgaanbieder orthodontisch behandelde patiënt"
+  },
+  {
+    "Code": "F815A",
+    "Description": "Verwijderen spalk, per element"
+  },
+  {
+    "Code": "F911A",
+    "Description": "Inkopen op uitkomst orthodontie"
+  },
+  {
+    "Code": "F153A",
+    "Description": "Extra-orale röntgenfoto (13x18 cm.)"
+  },
+  {
+    "Code": "F154A",
+    "Description": "Röntgenonderzoek d.m.v. hand/pols-foto’s"
+  },
+  {
+    "Code": "F121B",
+    "Description": "Eerste consult"
+  },
+  {
+    "Code": "F122B",
+    "Description": "Vervolgconsult"
+  },
+  {
+    "Code": "F123B",
+    "Description": "Controlebezoek"
+  },
+  {
+    "Code": "F124B",
+    "Description": "Second opinion"
+  },
+  {
+    "Code": "F125B",
+    "Description": "Maken gebitsmodellen"
+  },
+  {
+    "Code": "F126B",
+    "Description": "Beoordelen gebitsmodellen inclusief bespreken behandelplan"
+  },
+  {
+    "Code": "F127B",
+    "Description": "Multidisciplinair consult, per uur (deelbaar in eenheden van vijf minuten)"
+  },
+  {
+    "Code": "F127BV",
+    "Description": "Multidisciplinair consult, vijf minuten tarief"
+  },
+  {
+    "Code": "F130B",
+    "Description": "Uitgebreid onderzoek t.b.v. opstellen en vastleggen van complex behandelplan door orthodontisch zorgaanbieder"
+  },
+  {
+    "Code": "F131B",
+    "Description": "Vervaardigen van een diagnostische setup"
+  },
+  {
+    "Code": "F132B",
+    "Description": "Maken van extra gebitsmodellen t.b.v. behandelingsevaluatie"
+  },
+  {
+    "Code": "F133B",
+    "Description": "Beoordelen van extra gebitsmodellen t.b.v. behandelingsevaluatie"
+  },
+  {
+    "Code": "F151B",
+    "Description": "intra-orale röntgenfoto (3x4 cm.)"
+  },
+  {
+    "Code": "F152B",
+    "Description": "occlusale opbeet röntgenfoto"
+  },
+  {
+    "Code": "F153B",
+    "Description": "extra-orale röntgenfoto (13x18 cm.)"
+  },
+  {
+    "Code": "F154B",
+    "Description": "röntgenonderzoek d.m.v. hand/pols-foto’s"
+  },
+  {
+    "Code": "F155B",
+    "Description": "vervaardiging orthopantomogram"
+  },
+  {
+    "Code": "F156B",
+    "Description": "beoordeling orthopantomogram"
+  },
+  {
+    "Code": "F157B",
+    "Description": "vervaardiging laterale schedelröntgenfoto"
+  },
+  {
+    "Code": "F158B",
+    "Description": "beoordeling laterale schedelröntgenfoto"
+  },
+  {
+    "Code": "F159B",
+    "Description": "vervaardiging voor-achterwaartse schedelröntgenfoto"
+  },
+  {
+    "Code": "F160B",
+    "Description": "Beoordeling voor-achterwaartse schedelröntgenfoto"
+  },
+  {
+    "Code": "F161B",
+    "Description": "Meerdimensionale kaakfoto"
+  },
+  {
+    "Code": "F162B",
+    "Description": "Beoordelen meerdimensionale kaakfoto"
+  },
+  {
+    "Code": "F401B",
+    "Description": "Plaatsen beugel categorie 0"
+  },
+  {
+    "Code": "F411B",
+    "Description": "Plaatsen beugel categorie 1"
+  },
+  {
+    "Code": "F421B",
+    "Description": "Plaatsen beugel categorie 2"
+  },
+  {
+    "Code": "F431B",
+    "Description": "Plaatsen beugel categorie 3"
+  },
+  {
+    "Code": "F441B",
+    "Description": "Plaatsen beugel categorie 4"
+  },
+  {
+    "Code": "F451B",
+    "Description": "Plaatsen beugel categorie 5"
+  },
+  {
+    "Code": "F461B",
+    "Description": "Plaatsen beugel categorie 6"
+  },
+  {
+    "Code": "F471B",
+    "Description": "Plaatsen beugel categorie 7"
+  },
+  {
+    "Code": "F481B",
+    "Description": "Plaatsen beugel categorie 8"
+  },
+  {
+    "Code": "F491B",
+    "Description": "Plaatsen beugel categorie 9"
+  },
+  {
+    "Code": "F492B",
+    "Description": "Verwijderen beugel categorie 5 t/m 9 per kaak"
+  },
+  {
+    "Code": "F511B",
+    "Description": "Beugelconsult per maand categorie 1"
+  },
+  {
+    "Code": "F512B",
+    "Description": "Beugelconsult per maand categorie 2"
+  },
+  {
+    "Code": "F513B",
+    "Description": "Beugelconsult per maand categorie 3"
+  },
+  {
+    "Code": "F514B",
+    "Description": "Beugelconsult per maand categorie 4"
+  },
+  {
+    "Code": "F515B",
+    "Description": "Beugelconsult per maand categorie 5"
+  },
+  {
+    "Code": "F516B",
+    "Description": "Beugelconsult per maand categorie 6"
+  },
+  {
+    "Code": "F517B",
+    "Description": "Beugelconsult per maand categorie 7"
+  },
+  {
+    "Code": "F518B",
+    "Description": "Beugelconsult per maand categorie 8"
+  },
+  {
+    "Code": "F519B",
+    "Description": "Beugelconsult per maand categorie 9"
+  },
+  {
+    "Code": "F531B",
+    "Description": "Nacontrole beugel per drie maanden categorie 1 t/m 4"
+  },
+  {
+    "Code": "F532B",
+    "Description": "Nacontrole beugel per drie maanden categorie 5, 7, 8"
+  },
+  {
+    "Code": "F533B",
+    "Description": "Nacontrole beugel per drie maanden categorie 6, 9"
+  },
+  {
+    "Code": "F611B",
+    "Description": "Documenteren en bespreken gegevens elektronische chip in uitneembare apparatuur"
+  },
+  {
+    "Code": "F612B",
+    "Description": "Plaatsen intermaxillaire correctieveren"
+  },
+  {
+    "Code": "F716B",
+    "Description": "Mondbeschermer tijdens behandeling met apparatuur"
+  },
+  {
+    "Code": "F721B",
+    "Description": "Trekken tand of kies"
+  },
+  {
+    "Code": "F722B",
+    "Description": "Trekken volgende tand of kies, in dezelfde zitting en hetzelfde kwadrant"
+  },
+  {
+    "Code": "F723B",
+    "Description": "Plaatsen micro-implantaat (voor beugel)"
+  },
+  {
+    "Code": "F724B",
+    "Description": "Preventieve voorlichting en/ of instructie"
+  },
+  {
+    "Code": "F810B",
+    "Description": "Reparatie of vervanging beugel categorie 1 tot en met 4 vanwege slijtage"
+  },
+  {
+    "Code": "F811B",
+    "Description": "Reparatie of vervanging van beugel"
+  },
+  {
+    "Code": "F812B",
+    "Description": "Herstel en plaatsen van retentieapparatuur"
+  },
+  {
+    "Code": "F813B",
+    "Description": "Plaatsen extra retentiebeugel, per kaak"
+  },
+  {
+    "Code": "F814B",
+    "Description": "Plaatsen retentie-apparatuur bij orthodontisch niet behandelde of door andere zorgaanbieder orthodontisch behandelde patiënt"
+  },
+  {
+    "Code": "F815B",
+    "Description": "Verwijderen spalk, per element"
+  },
+  {
+    "Code": "F121C",
+    "Description": "Eerste consult"
+  },
+  {
+    "Code": "F122C",
+    "Description": "Vervolgconsult"
+  },
+  {
+    "Code": "F123C",
+    "Description": "Controlebezoek"
+  },
+  {
+    "Code": "F124C",
+    "Description": "Second opinion"
+  },
+  {
+    "Code": "F125C",
+    "Description": "Maken gebitsmodellen"
+  },
+  {
+    "Code": "F126C",
+    "Description": "Beoordelen gebitsmodellen, inclusief bespreken behandelplan"
+  },
+  {
+    "Code": "F127C",
+    "Description": "Multidisciplinair consult, per uur (deelbaar in eenheden van vijf minuten)"
+  },
+  {
+    "Code": "F127CV",
+    "Description": "Multidisciplinair consult, vijf minuten tarief"
+  },
+  {
+    "Code": "F128C",
+    "Description": "Prenataal consult (deelbaar in eenheden van vijf minuten)"
+  },
+  {
+    "Code": "F128CV",
+    "Description": "Prenataal consult, vijf minuten tarief"
+  },
+  {
+    "Code": "F129C",
+    "Description": "Orthodontie in de eerste twee levensjaren"
+  },
+  {
+    "Code": "F130C",
+    "Description": "Uitgebreid onderzoek t.b.v. opstellen en vastleggen van complex behandelplan door orthodontisch zorgaanbieder"
+  },
+  {
+    "Code": "F131C",
+    "Description": "Vervaardigen van een diagnostische setup"
+  },
+  {
+    "Code": "F132C",
+    "Description": "Maken van extra gebitsmodellen t.b.v. behandelingsevaluatie"
+  },
+  {
+    "Code": "F133C",
+    "Description": "Beoordelen van extra gebitsmodellen t.b.v. behandelingsevaluatie"
+  },
+  {
+    "Code": "F151C",
+    "Description": "Intra-orale röntgenfoto (3x4 cm.)"
+  },
+  {
+    "Code": "F152C",
+    "Description": "Occlusale opbeet röntgenfoto"
+  },
+  {
+    "Code": "F153C",
+    "Description": "Extra-orale röntgenfoto (13x18 cm.)"
+  },
+  {
+    "Code": "F154C",
+    "Description": "Röntgenonderzoek d.m.v. hand/pols-foto’s"
+  },
+  {
+    "Code": "F155C",
+    "Description": "Vervaardiging orthopantomogram"
+  },
+  {
+    "Code": "F156C",
+    "Description": "Beoordeling orthopantomogram"
+  },
+  {
+    "Code": "F157C",
+    "Description": "Vervaardiging laterale schedelröntgenfoto"
+  },
+  {
+    "Code": "F158C",
+    "Description": "Beoordeling laterale schedelröntgenfoto"
+  },
+  {
+    "Code": "F159C",
+    "Description": "Vervaardiging voor-achterwaartse schedelröntgenfoto"
+  },
+  {
+    "Code": "F160C",
+    "Description": "Beoordeling voor-achterwaartse schedelröntgenfoto"
+  },
+  {
+    "Code": "F161C",
+    "Description": "Meerdimensionale kaakfoto"
+  },
+  {
+    "Code": "F162C",
+    "Description": "Beoordelen meerdimensionale kaakfoto"
+  },
+  {
+    "Code": "F401C",
+    "Description": "Plaatsen beugel categorie 0"
+  },
+  {
+    "Code": "F411C",
+    "Description": "Plaatsen beugel categorie 1"
+  },
+  {
+    "Code": "F421C",
+    "Description": "Plaatsen beugel categorie 2"
+  },
+  {
+    "Code": "F431C",
+    "Description": "Plaatsen beugel categorie 3"
+  },
+  {
+    "Code": "F441C",
+    "Description": "Plaatsen beugel categorie 4"
+  },
+  {
+    "Code": "F451C",
+    "Description": "Plaatsen beugel categorie 5"
+  },
+  {
+    "Code": "F461C",
+    "Description": "Plaatsen beugel categorie 6"
+  },
+  {
+    "Code": "F471C",
+    "Description": "Plaatsen beugel categorie 7"
+  },
+  {
+    "Code": "F481C",
+    "Description": "Plaatsen beugel categorie 8"
+  },
+  {
+    "Code": "F491C",
+    "Description": "Plaatsen beugel categorie 9"
+  },
+  {
+    "Code": "F492C",
+    "Description": "Verwijderen beugel categorie 5 t/m 9 per kaak"
+  },
+  {
+    "Code": "F511C",
+    "Description": "Beugelconsult per maand categorie 1"
+  },
+  {
+    "Code": "F512C",
+    "Description": "Beugelconsult per maand categorie 2"
+  },
+  {
+    "Code": "F513C",
+    "Description": "Beugelconsult per maand categorie 3"
+  },
+  {
+    "Code": "F514C",
+    "Description": "Beugelconsult per maand categorie 4"
+  },
+  {
+    "Code": "F515C",
+    "Description": "Beugelconsult per maand categorie 5"
+  },
+  {
+    "Code": "F516C",
+    "Description": "Beugelconsult per maand categorie 6"
+  },
+  {
+    "Code": "F517C",
+    "Description": "Beugelconsult per maand categorie 7"
+  },
+  {
+    "Code": "F518C",
+    "Description": "Beugelconsult per maand categorie 8"
+  },
+  {
+    "Code": "F519C",
+    "Description": "Beugelconsult per maand categorie 9"
+  },
+  {
+    "Code": "F531C",
+    "Description": "Nacontrole beugel per drie maanden categorie 1 t/m 4"
+  },
+  {
+    "Code": "F532C",
+    "Description": "Nacontrole beugel per drie maanden categorie 5, 7, 8"
+  },
+  {
+    "Code": "F533C",
+    "Description": "Nacontrole beugel per drie maanden categorie 6, 9"
+  },
+  {
+    "Code": "F611C",
+    "Description": "Documenteren en bespreken gegevens elektronische chip in uitneembare apparatuur"
+  },
+  {
+    "Code": "F612C",
+    "Description": "Plaatsen intermaxillaire correctieveren"
+  },
+  {
+    "Code": "F716C",
+    "Description": "Mondbeschermer tijdens behandeling met apparatuur"
+  },
+  {
+    "Code": "F721C",
+    "Description": "Trekken tand of kies"
+  },
+  {
+    "Code": "F722C",
+    "Description": "Trekken volgende tand of kies, in dezelfde zitting en hetzelfde kwadrant"
+  },
+  {
+    "Code": "F723C",
+    "Description": "Plaatsen micro-implantaat (voor beugel)"
+  },
+  {
+    "Code": "F724C",
+    "Description": "Preventieve voorlichting en/ of instructie"
+  },
+  {
+    "Code": "F810C",
+    "Description": "Reparatie of vervanging beugel categorie 1 tot en met 4 vanwege slijtage"
+  },
+  {
+    "Code": "F811C",
+    "Description": "Reparatie of vervanging van beugel"
+  },
+  {
+    "Code": "F812C",
+    "Description": "Herstel en plaatsen van retentieapparatuur"
+  },
+  {
+    "Code": "F813C",
+    "Description": "Plaatsen extra retentiebeugels, per kaak"
+  },
+  {
+    "Code": "F814C",
+    "Description": "Plaatsen retentie-apparatuur bij orthodontisch niet behandelde of door andere zorgaanbieder orthodontisch behandelde patiënt"
+  },
+  {
+    "Code": "F815C",
+    "Description": "Verwijderen spalk, per element"
+  },
+  {
+    "Code": "AWB001",
+    "Description": "Reiskosten die de tandarts maakt van en naar de Wlz-inrichting (deze tarieven zijn exclusief techniekkosten"
+  },
+  {
+    "Code": "AWB010",
+    "Description": "Tandtechnische kosten die de tandarts maakt t.b.v. behandeling in een Wlz-inrichting"
+  },
+  {
+    "Code": "C70",
+    "Description": "Keuringsrapport met bitewingfoto's"
+  },
+  {
+    "Code": "C75",
+    "Description": "Keuringsrapport zonder bitewingfoto's"
+  },
+  {
+    "Code": "C76",
+    "Description": "Afgifte gezondheidsverklaring"
+  },
+  {
+    "Code": "C90",
+    "Description": "Niet nagekomen afspraak"
+  },
+  {
+    "Code": "11",
+    "Description": "Autokostenvergoeding"
+  },
+  {
+    "Code": "12",
+    "Description": "Reiskostenvergoeding"
+  },
+  {
+    "Code": "WRK001",
+    "Description": "Reiskosten per kilometer"
+  },
+  {
+    "Code": "WRK002",
+    "Description": "Reiskosten pont / tol"
+  },
+  {
+    "Code": "G201",
+    "Description": "Intraveneuze sedatie of narcose"
+  }
+]
