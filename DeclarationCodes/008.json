@@ -208,10 +208,6 @@
     "Description": "Onderlinge dienstverlening t.b.v. POH-GGZ"
   },
   {
-    "Code": "n.v.t.",
-    "Description": "Onderlinge dienstverlening t.b.v. consultatie bij POH-GGZ"
-  },
-  {
     "Code": "12150",
     "Description": "Huisartsenzorg eerstelijns verblijf, dag korter dan 20 min"
   },
@@ -362,14 +358,6 @@
   {
     "Code": "11623",
     "Description": "Multidisciplinaire zorg COPD - excl. O&I"
-  },
-  {
-    "Code": "n.v.t.",
-    "Description": "Dienstuur HDS"
-  },
-  {
-    "Code": "n.v.t.",
-    "Description": "Opslag dienstuur HDS"
   },
   {
     "Code": "12200",

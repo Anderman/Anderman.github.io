@@ -17,6 +17,7 @@ namespace CodeProvider
 {
 	internal class Program
 	{
+		private const string ZH308 = "https://puc.overheid.nl/nza/doc/PUC_259929_22/1/"; // declarationCode for DBC
 		private const string Aw319 = "https://www.vektis.nl/streams/standaardisatie/standaarden/AW319-1.4";
 
 		private static void Main(string[] args)

@@ -10,6 +10,7 @@ namespace CodeProvider.Infrastructure
 		public static string GetCodes(Stream stream, int sheetNumber, int firstRow, int codeColumn, int descriptionColumn)
 		{
 			var codes = new List<CodeDescription>();
+			var uniqueCodes = new HashSet<string>();
 			using (var reader = ExcelReaderFactory.CreateReader(stream))
 			{
 				SelectSheet(reader, sheetNumber);
@@ -20,7 +21,8 @@ namespace CodeProvider.Infrastructure
 					var description = reader.GetValue(descriptionColumn)?.ToString()?.Trim();
 					if (string.IsNullOrWhiteSpace(code) || string.IsNullOrWhiteSpace(description))
 						continue;
-					codes.Add(new CodeDescription { Code = code, Description = description });
+					if (uniqueCodes.Add(code))
+						codes.Add(new CodeDescription { Code = code, Description = description });
 				}
 			}
 
