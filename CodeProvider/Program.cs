@@ -42,6 +42,7 @@ namespace CodeProvider
 		public static void CreateMunicipalityCodes(List<string> links)
 		{
 			//https://www.cbs.nl/-/media/cbs/onze%20diensten/methoden/classificaties/overig/gemeenten%20alfabetisch%202019.xls
+			//https://opendata.cbs.nl/ODataApi/OData/84378NED
 			foreach (var path in Directory.GetFiles($"{WebsiteFiles.Municipality}"))
 				MunicipalityProvider.Convert(path, links);
 		}
