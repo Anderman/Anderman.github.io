@@ -1,6 +1,6 @@
-namespace CodeProvider.Test
+namespace CodeProvider
 {
-	public class Codes
+	public class CodeDescription
 	{
 		public string Code;
 		public string Description;

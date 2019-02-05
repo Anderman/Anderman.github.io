@@ -3,15 +3,16 @@ using System.Diagnostics;
 using System.IO;
 using System.Text;
 using ExcelDataReader;
+using Newtonsoft.Json;
 
-namespace CodeProvider.Test
+namespace CodeProvider.Infrastructure
 {
-	public static class ExcelReader { 
-
-		public static List<Codes> GetCodes(string fileName, int sheetNumber, int firstRow, int codeColumn, int descriptionColumn)
+	public static class ExcelReader
+	{
+		public static string GetCodes(string fileName, int sheetNumber, int firstRow, int codeColumn, int descriptionColumn)
 		{
 			Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
-			var z = new List<Codes>();
+			var codes = new List<CodeDescription>();
 			using (var stream = File.Open(fileName, FileMode.Open, FileAccess.Read))
 			{
 				using (var reader = ExcelReaderFactory.CreateReader(stream))
@@ -25,12 +26,12 @@ namespace CodeProvider.Test
 						var description = reader.GetValue(descriptionColumn)?.ToString()?.Trim();
 						if (string.IsNullOrWhiteSpace(code) || string.IsNullOrWhiteSpace(description))
 							continue;
-						z.Add(new Codes { Code = code, Description = description });
+						codes.Add(new CodeDescription { Code = code, Description = description });
 					}
 				}
 			}
 
-			return z;
+			return JsonConvert.SerializeObject(codes, Formatting.Indented);
 		}
 
 		private static void SelectSheet(IExcelDataReader reader, int sheetNumber)
