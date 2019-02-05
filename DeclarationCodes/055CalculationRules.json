@@ -1,0 +1,2402 @@
+[
+  {
+    "DeclarationCode": "F125",
+    "UnitId": 4,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H104",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H106",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H107",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H117",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H120",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H126",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H127",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H128",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H132",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H136",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H137",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H150",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H152",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H153",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H180",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H300",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H301",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H302",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H303",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H304",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H305",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H321",
+    "UnitId": 81,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H325",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H326",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H327",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H329",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H330",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H331",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H332",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H333",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H334",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H335",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H336",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H337",
+    "UnitId": 81,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H531",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H533",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H800",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H802",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H803",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H811",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H812",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H813",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H814",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H815",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H816",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H817",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H818",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H819",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H820",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H821",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H822",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H831",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H832",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H833",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H834",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H835",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H836",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H837",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H838",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H839",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H851",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H852",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H853",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H854",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H855",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H856",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H871",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H872",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H873",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H874",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H875",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H876",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H881",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H882",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H883",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H884",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H885",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H891",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H894",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H895",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H896",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H900",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H902",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H903",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H904",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H905",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H906",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H910",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H913",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H914",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H915",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H916",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H920",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H921",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H922",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H930",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H931",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H933",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H934",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H940",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H941",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H942",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H943",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H950",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H951",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H952",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H960",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H961",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H962",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H970",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H971",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H972",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H974",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H975",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H976",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H981",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H982",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H983",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H984",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "H985",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "I001",
+    "UnitId": 81,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "I002",
+    "UnitId": 81,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "M001",
+    "UnitId": 81,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "M002",
+    "UnitId": 81,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "S321",
+    "UnitId": 81,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S325",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S326",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S327",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S329",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S330",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S334",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S335",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S336",
+    "UnitId": 1,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S802",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S803",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S804",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S819",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S837",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S838",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S839",
+    "UnitId": 16,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S881",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S882",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S883",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S884",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S885",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S894",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S895",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "S896",
+    "UnitId": 14,
+    "PeriodType": 2
+  },
+  {
+    "DeclarationCode": "V015",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V025",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V031",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V033",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V041",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V043",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V051",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V053",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V061",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V063",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V071",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V073",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V081",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V083",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V095",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V097",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V101",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V103",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V414",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V415",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V424",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V425",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V430",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V431",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V432",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V433",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V440",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V441",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V442",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V443",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V454",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V455",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V456",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V457",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V460",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V461",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V462",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V463",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V470",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V471",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V472",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V473",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V480",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V481",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V482",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V483",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V513",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V523",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V533",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V543",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V553",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V573",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V614",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V615",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V624",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V625",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V630",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V631",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V632",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V633",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V640",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V641",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V642",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V643",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V650",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V651",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V652",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V653",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V660",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V661",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V662",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V663",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V670",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V671",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V672",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V673",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V710",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V711",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V712",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V713",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V720",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V721",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V722",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V723",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V730",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V731",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V732",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V733",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V740",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V741",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V742",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V743",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V814",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V815",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V824",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V825",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V830",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V831",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V832",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V833",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V840",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V841",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V842",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V843",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V850",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V851",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V852",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V853",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V901",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V903",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V904",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V905",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V910",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V913",
+    "UnitId": 16,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V914",
+    "UnitId": 16,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V915",
+    "UnitId": 16,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V918",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V919",
+    "UnitId": 16,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V920",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V921",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V941",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V942",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V943",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V944",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V945",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V975",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V976",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V977",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V978",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V979",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V980",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "V981",
+    "UnitId": 1,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WV041",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WV043",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WV051",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WV053",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WV061",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WV063",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WV071",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WV073",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WV081",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WV083",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WV095",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WV097",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WV101",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WV103",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WZ041",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WZ043",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WZ051",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WZ053",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WZ061",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WZ063",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WZ071",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WZ073",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WZ081",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WZ083",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WZ095",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WZ097",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WZ101",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "WZ103",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z015",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z025",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z031",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z033",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z041",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z043",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z051",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z053",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z061",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z063",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z071",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z073",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z081",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z083",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z095",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z097",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z1000",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z1001",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z1002",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z1003",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z101",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z103",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z110",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z212",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z213",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z222",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z223",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z232",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z233",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z242",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z243",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z252",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z253",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z262",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z263",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z272",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z273",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z280",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z414",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z415",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z424",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z425",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z430",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z431",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z432",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z433",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z440",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z441",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z442",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z443",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z454",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z455",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z456",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z457",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z460",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z461",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z462",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z463",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z470",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z471",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z472",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z473",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z480",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z481",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z482",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z483",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z490",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z491",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z513",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z523",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z533",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z543",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z553",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z560",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z573",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z614",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z615",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z624",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z625",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z630",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z631",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z632",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z633",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z640",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z641",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z642",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z643",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z650",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z651",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z652",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z653",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z660",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z661",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z662",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z663",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z670",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z671",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z672",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z673",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z710",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z711",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z712",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z713",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z720",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z721",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z722",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z723",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z730",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z731",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z732",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z733",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z740",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z741",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z742",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z743",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z814",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z815",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z824",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z825",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z830",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z831",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z832",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z833",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z840",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z841",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z842",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z843",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z850",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z851",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z852",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z853",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z901",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z902",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z903",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z904",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z905",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z910",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z911",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z912",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z913",
+    "UnitId": 16,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z914",
+    "UnitId": 16,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z915",
+    "UnitId": 16,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z916",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z917",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z918",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z919",
+    "UnitId": 16,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z920",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z921",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z922",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z941",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z942",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z943",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z944",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z945",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z975",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z976",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z977",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z978",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z979",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z980",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z981",
+    "UnitId": 1,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z982",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z983",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z984",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z995",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z997",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z998",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "Z999",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "ZMZ01",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "ZMZTK",
+    "UnitId": 14,
+    "PeriodType": 1
+  },
+  {
+    "DeclarationCode": "ZMZTL",
+    "UnitId": 14,
+    "PeriodType": 1
+  }
+]
