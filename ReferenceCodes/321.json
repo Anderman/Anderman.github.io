@@ -1,0 +1,66 @@
+[
+  {
+    "Code": "002",
+    "Description": "Tweede of vervolgaandoening die voor komt op de 'lijst'"
+  },
+  {
+    "Code": "003",
+    "Description": "Eerste indicatie fysiotherapie, met uitzondering bekkenfysiotherapie bij urine-incontinentie, van aandoening die niet voorkomt op de lijst"
+  },
+  {
+    "Code": "004",
+    "Description": "Eerste indicatie kinderfysiotherapie van aandoening die niet voor komt op de 'lijst'"
+  },
+  {
+    "Code": "005",
+    "Description": "1e vervolgindicatie kinderfysiotherapie van een aandoening die niet voor komt op de 'lijst'"
+  },
+  {
+    "Code": "006",
+    "Description": "Eerste indicatie oefentherapie c/m van aandoening die niet voor komt op de 'lijst'"
+  },
+  {
+    "Code": "007",
+    "Description": "1e vervolgindicatie oefentherapie c/m van een aandoening die niet voor komt op de 'lijst'"
+  },
+  {
+    "Code": "008",
+    "Description": "Eerste n behandelingen van een nieuwe chronische indicatie fysiotherapie/oefentherapie voor verzekerden van 18 jaar en ouder"
+  },
+  {
+    "Code": "009",
+    "Description": "Behandelingen vallend onder de regeling paramedische hulp die niet vergoed worden uit de basisverzekering"
+  },
+  {
+    "Code": "010",
+    "Description": "Eerste n behandelingen bekkenfysiotherapie bij urine-incontinentie voor verzekerden van 18 jaar en ouder."
+  },
+  {
+    "Code": "011",
+    "Description": "Eerste n behandelingen gesuperviseerde oefentherapie bij perifeer arterieel vaatlijden in fase 2 Fontaine (Claudicatio intermittens)."
+  },
+  {
+    "Code": "012",
+    "Description": "Eerste n behandelingen fysiotherapie/gesuperviseerde oefentherapie bij artrose van heup- of kniegewricht."
+  },
+  {
+    "Code": "013",
+    "Description": "COPD risicogroep A, startjaar (maximaal 5 behandelingen)"
+  },
+  {
+    "Code": "014",
+    "Description": "COPD risicogroep B, startjaar (maximaal 27 behandelingen)"
+  },
+  {
+    "Code": "015",
+    "Description": "COPD risicogroep C/D, startjaar (maximaal 70 behandelingen)"
+  },
+  {
+    "Code": "016",
+    "Description": "COPD risicogroep B, onderhoudsjaar (maximaal 3 behandelingen) na startjaar"
+  },
+  {
+    "Code": "017",
+    "Description": "COPD risicogroep C/D, onderhoudsjaar (maximaal 52 behandelingen) na startjaar"
+  }
+]

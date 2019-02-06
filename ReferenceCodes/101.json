@@ -1,0 +1,326 @@
+[
+  {
+    "Code": "0200",
+    "Description": "Apothekers"
+  },
+  {
+    "Code": "0300",
+    "Description": "Medisch specialisten, niet nader gespecificeerd"
+  },
+  {
+    "Code": "0400",
+    "Description": "Fysiotherapeuten, niet nader gespecificeerd"
+  },
+  {
+    "Code": "0500",
+    "Description": "Logopedisten, niet nader gespecificeerd"
+  },
+  {
+    "Code": "0600",
+    "Description": "Ziekenhuizen, niet nader gespecificeerd"
+  },
+  {
+    "Code": "0601",
+    "Description": "Ziekenhuizen, algemene ziekenhuizen"
+  },
+  {
+    "Code": "0602",
+    "Description": "Ziekenhuizen, academische ziekenhuizen"
+  },
+  {
+    "Code": "0603",
+    "Description": "Ziekenhuizen, astmaklinieken"
+  },
+  {
+    "Code": "0604",
+    "Description": "Ziekenhuizen, beademingscentra"
+  },
+  {
+    "Code": "0606",
+    "Description": "Ziekenhuizen, epilepsie-centra"
+  },
+  {
+    "Code": "0607",
+    "Description": "Ziekenhuizen, kinderziekenhuizen"
+  },
+  {
+    "Code": "0608",
+    "Description": "Ziekenhuizen, kankerklinieken"
+  },
+  {
+    "Code": "0610",
+    "Description": "Ziekenhuizen, kraamklinieken"
+  },
+  {
+    "Code": "0612",
+    "Description": "Ziekenhuizen, neurologische klinieken"
+  },
+  {
+    "Code": "0613",
+    "Description": "Ziekenhuizen, oogziekenhuizen"
+  },
+  {
+    "Code": "0614",
+    "Description": "Ziekenhuizen, orthopaedische klinieken"
+  },
+  {
+    "Code": "0615",
+    "Description": "Ziekenhuizen, reumaklinieken"
+  },
+  {
+    "Code": "0616",
+    "Description": "Ziekenhuizen, revalidatiecentra"
+  },
+  {
+    "Code": "0617",
+    "Description": "Ziekenhuizen, sanatoria met longkliniek"
+  },
+  {
+    "Code": "0621",
+    "Description": "Ziekenhuizen, sanatoria"
+  },
+  {
+    "Code": "0628",
+    "Description": "Ziekenhuizen, multi-categorale ziekenhuizen"
+  },
+  {
+    "Code": "0629",
+    "Description": "Ziekenhuizen, psychiatrische ziekenhuizen"
+  },
+  {
+    "Code": "0700",
+    "Description": "Oefentherapeuten, niet nader gespecificeerd"
+  },
+  {
+    "Code": "0800",
+    "Description": "Verloskundigen, niet nader gespecificeerd"
+  },
+  {
+    "Code": "1100",
+    "Description": "Tandartsspecialisten mondziekten en kaakchirurgie"
+  },
+  {
+    "Code": "1200",
+    "Description": "Tandartsen, algemeen practicus"
+  },
+  {
+    "Code": "1300",
+    "Description": "Tandartsspecialisten dentomaxillaire orthopaedie"
+  },
+  {
+    "Code": "1400",
+    "Description": "Bedrijfsartsen"
+  },
+  {
+    "Code": "1800",
+    "Description": "Dialysecentra"
+  },
+  {
+    "Code": "1900",
+    "Description": "Audiologische centra"
+  },
+  {
+    "Code": "2000",
+    "Description": "Radiotherapeutische centra"
+  },
+  {
+    "Code": "2100",
+    "Description": "Dienstenstructuren"
+  },
+  {
+    "Code": "2200",
+    "Description": "Zelfstandige behandelcentra (ZBC)"
+  },
+  {
+    "Code": "2300",
+    "Description": "Inrichtingen voor revalidatiedagbehandeling"
+  },
+  {
+    "Code": "2500",
+    "Description": "Inrichtingen voor psychiatrische deeltijdbehandeling"
+  },
+  {
+    "Code": "3000",
+    "Description": "Zwakzinnigeninrichtingen"
+  },
+  {
+    "Code": "3100",
+    "Description": "Bloedbanken"
+  },
+  {
+    "Code": "3300",
+    "Description": "Kraamcentra"
+  },
+  {
+    "Code": "3400",
+    "Description": "Trombosediensten"
+  },
+  {
+    "Code": "3500",
+    "Description": "Instellingen voor visueel gehandicapten"
+  },
+  {
+    "Code": "3700",
+    "Description": "Gezondheidscentra"
+  },
+  {
+    "Code": "3800",
+    "Description": "Tandheelkundige centra"
+  },
+  {
+    "Code": "3900",
+    "Description": "Regionale instellingen voor jeugdtandverzorging"
+  },
+  {
+    "Code": "4000",
+    "Description": "Instellingen voor auditief gehandicapten"
+  },
+  {
+    "Code": "4200",
+    "Description": "Verzorgingstehuizen"
+  },
+  {
+    "Code": "4500",
+    "Description": "Verpleeginrichtingen somatische zieken"
+  },
+  {
+    "Code": "4600",
+    "Description": "Verpleeginrichtingen psycho-geriatrische patienten"
+  },
+  {
+    "Code": "4700",
+    "Description": "Gecombineerde verpleeginrichtingen"
+  },
+  {
+    "Code": "4800",
+    "Description": "Overige instellingen, waaronder 'Het Dorp'"
+  },
+  {
+    "Code": "4900",
+    "Description": "Abortusklinieken"
+  },
+  {
+    "Code": "5000",
+    "Description": "Laboratoria"
+  },
+  {
+    "Code": "5100",
+    "Description": "Klinisch-genetisch centra"
+  },
+  {
+    "Code": "5200",
+    "Description": "Eurotransplant"
+  },
+  {
+    "Code": "5600",
+    "Description": "Consultatiebureaus voor alcohol en drugs"
+  },
+  {
+    "Code": "6000",
+    "Description": "Instellingen voor dagverpleging voor ouderen"
+  },
+  {
+    "Code": "6500",
+    "Description": "Gezinsvervangende tehuizen"
+  },
+  {
+    "Code": "7000",
+    "Description": "Kinderdagverblijven"
+  },
+  {
+    "Code": "7200",
+    "Description": "Regionale instellingen beschermd wonen (RIBW)"
+  },
+  {
+    "Code": "7500",
+    "Description": "AWBZ gefinancierde thuiszorg, kruiswerk en gezinsverzorging"
+  },
+  {
+    "Code": "7600",
+    "Description": "Leveranciers hulpmiddelen, niet nader gespecificeerd"
+  },
+  {
+    "Code": "7800",
+    "Description": "Sociaal pedagogische diensten"
+  },
+  {
+    "Code": "7900",
+    "Description": "RIAGG's"
+  },
+  {
+    "Code": "8100",
+    "Description": "Niet erkende zwakzinnigeninrichtingen"
+  },
+  {
+    "Code": "8200",
+    "Description": "Bejaardenoorden"
+  },
+  {
+    "Code": "8300",
+    "Description": "Overige niet erkende instellingen"
+  },
+  {
+    "Code": "8400",
+    "Description": "Overige artsen, niet nader gespecificeerd"
+  },
+  {
+    "Code": "8600",
+    "Description": "Instellingen voor maatschappelijke dienstverlening"
+  },
+  {
+    "Code": "8700",
+    "Description": "Mondhygienisten"
+  },
+  {
+    "Code": "8800",
+    "Description": "Ergotherapeuten"
+  },
+  {
+    "Code": "8900",
+    "Description": "Schoonheidsspecialisten, niet nader gespecificeerd"
+  },
+  {
+    "Code": "9000",
+    "Description": "Genezers (niet artsen), niet nader gespecificeerd"
+  },
+  {
+    "Code": "9200",
+    "Description": "Ziekenhuisvervangende thuiszorg (financiering 2e compartiment)"
+  },
+  {
+    "Code": "9300",
+    "Description": "Tandtechnici/tandprothetici"
+  },
+  {
+    "Code": "9400",
+    "Description": "Psychologen, niet nader gespecificeerd"
+  },
+  {
+    "Code": "9500",
+    "Description": "Orthopedagogen, niet nader gespecificeerd"
+  },
+  {
+    "Code": "9600",
+    "Description": "Pedicuren, niet nader gespecificeerd"
+  },
+  {
+    "Code": "9900",
+    "Description": "Overigen"
+  },
+  {
+    "Code": "9901",
+    "Description": "Verpleeghuisartsen"
+  },
+  {
+    "Code": "9903",
+    "Description": "Schoolarts"
+  },
+  {
+    "Code": "9904",
+    "Description": "Sportarts"
+  },
+  {
+    "Code": "9905",
+    "Description": "Retour rit begeleider"
+  }
+]

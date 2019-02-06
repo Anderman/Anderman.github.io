@@ -1,0 +1,14 @@
+[
+  {
+    "Code": "2",
+    "Description": "Op verzoek van verzekerde niet doorsturen naar zorgverzekeraar"
+  },
+  {
+    "Code": "3",
+    "Description": "Op verzoek van zorgverlener niet doorsturen naar zorgverzekeraar"
+  },
+  {
+    "Code": "4",
+    "Description": "Op verzoek van verzekerde én zorgverlener niet doorsturen naar zorgverzekeraar"
+  }
+]

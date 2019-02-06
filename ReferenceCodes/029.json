@@ -1,0 +1,66 @@
+[
+  {
+    "Code": "02",
+    "Description": "Tarief nevenverrichting/ kosten instelling"
+  },
+  {
+    "Code": "03",
+    "Description": "Verpleegdag/speciale verzorgingseenheid"
+  },
+  {
+    "Code": "04",
+    "Description": "Honorarium medisch specialist"
+  },
+  {
+    "Code": "05",
+    "Description": "Kosten medisch specialist"
+  },
+  {
+    "Code": "06",
+    "Description": "n.v.t."
+  },
+  {
+    "Code": "07",
+    "Description": "Honorarium huisarts"
+  },
+  {
+    "Code": "08",
+    "Description": "Honorarium anaesthesie (als pure anaesthesie)"
+  },
+  {
+    "Code": "09",
+    "Description": "Overige kosten"
+  },
+  {
+    "Code": "10",
+    "Description": "DBC-behandeling"
+  },
+  {
+    "Code": "11",
+    "Description": "Verblijf"
+  },
+  {
+    "Code": "12",
+    "Description": "Verrichting"
+  },
+  {
+    "Code": "13",
+    "Description": "Dagbesteding"
+  },
+  {
+    "Code": "14",
+    "Description": "Basis GGZ"
+  },
+  {
+    "Code": "15",
+    "Description": "Transitie"
+  },
+  {
+    "Code": "16",
+    "Description": "ZZP Verblijf"
+  },
+  {
+    "Code": "17",
+    "Description": "ZZP Toeslag"
+  }
+]

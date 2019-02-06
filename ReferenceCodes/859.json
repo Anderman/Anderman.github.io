@@ -1,0 +1,22 @@
+[
+  {
+    "Code": "003",
+    "Description": "Bijzondere tandheelkunde, tandheelkundige afwijkingen"
+  },
+  {
+    "Code": "004",
+    "Description": "Handicap of anders medisch gecompromitteerd"
+  },
+  {
+    "Code": "014",
+    "Description": "Bijzondere tandheelkunde jeugdigen"
+  },
+  {
+    "Code": "020",
+    "Description": "Bijzondere tandheelkunde Wlz"
+  },
+  {
+    "Code": "090",
+    "Description": "Fronttandvervanging"
+  }
+]

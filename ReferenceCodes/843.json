@@ -1,0 +1,154 @@
+[
+  {
+    "Code": "01",
+    "Description": "Edelachtbare"
+  },
+  {
+    "Code": "02",
+    "Description": "Edelgrootachtbare"
+  },
+  {
+    "Code": "03",
+    "Description": "Edelgrootachtbare"
+  },
+  {
+    "Code": "04",
+    "Description": "Eerwaarde broeder (frater)"
+  },
+  {
+    "Code": "05",
+    "Description": "Eerwaarde zuster"
+  },
+  {
+    "Code": "06",
+    "Description": "Hoogedelgestrenge (ambtelijk)"
+  },
+  {
+    "Code": "07",
+    "Description": "Hoogedelgestrenge (militair)"
+  },
+  {
+    "Code": "08",
+    "Description": "Hoogeerwaarde"
+  },
+  {
+    "Code": "09",
+    "Description": "Hooggeboren"
+  },
+  {
+    "Code": "10",
+    "Description": "Hooggeleerde"
+  },
+  {
+    "Code": "11",
+    "Description": "Hoogwaardige heer monseigneur"
+  },
+  {
+    "Code": "12",
+    "Description": "Hoogwaardige pater"
+  },
+  {
+    "Code": "13",
+    "Description": "Hoogwelgeboren"
+  },
+  {
+    "Code": "14",
+    "Description": "RA (achter de naam)"
+  },
+  {
+    "Code": "15",
+    "Description": "Weledelgeleerde"
+  },
+  {
+    "Code": "16",
+    "Description": "Weledelgeleerde + MBA (achter de naam)"
+  },
+  {
+    "Code": "17",
+    "Description": "Weledelgestrenge (academisch)"
+  },
+  {
+    "Code": "18",
+    "Description": "Weledelgestrenge (ambtelijk)"
+  },
+  {
+    "Code": "19",
+    "Description": "Weledelgestrenge (militair)"
+  },
+  {
+    "Code": "20",
+    "Description": "Weledelzeergeleerde"
+  },
+  {
+    "Code": "21",
+    "Description": "Weleerwaarde"
+  },
+  {
+    "Code": "22",
+    "Description": "Weleerwaarde pater"
+  },
+  {
+    "Code": "23",
+    "Description": "Weleerwaarde zeergeleerde"
+  },
+  {
+    "Code": "24",
+    "Description": "Zeereerwaarde"
+  },
+  {
+    "Code": "25",
+    "Description": "Zeereerwaarde hooggeleerde"
+  },
+  {
+    "Code": "26",
+    "Description": "Zeereerwaarde moeder"
+  },
+  {
+    "Code": "27",
+    "Description": "Zeereerwaarde zeergeleerde"
+  },
+  {
+    "Code": "28",
+    "Description": "Zijne eminentie"
+  },
+  {
+    "Code": "29",
+    "Description": "Zijne excellentie (ambtelijk)"
+  },
+  {
+    "Code": "30",
+    "Description": "Zijne excellentie (militair)"
+  },
+  {
+    "Code": "31",
+    "Description": "Zijne heiligheid"
+  },
+  {
+    "Code": "32",
+    "Description": "Zijne Hoogwaardige excellentie"
+  },
+  {
+    "Code": "33",
+    "Description": "Zijne hoogwaardige excellentie monseigneur"
+  },
+  {
+    "Code": "34",
+    "Description": "Zijne/hare excellentie (ambtelijk)"
+  },
+  {
+    "Code": "35",
+    "Description": "Zijne/hare excellentie (militair)"
+  },
+  {
+    "Code": "36",
+    "Description": "Zijne/hare hoogheid"
+  },
+  {
+    "Code": "37",
+    "Description": "Zijne/hare koninklijke hoogheid"
+  },
+  {
+    "Code": "38",
+    "Description": "Zijne/hare majesteit"
+  }
+]

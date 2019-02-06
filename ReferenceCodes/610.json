@@ -1,0 +1,374 @@
+[
+  {
+    "Code": "0002",
+    "Description": "Afbuigende gewichtscurve"
+  },
+  {
+    "Code": "0003",
+    "Description": "Decubitus"
+  },
+  {
+    "Code": "0004",
+    "Description": "Anemie (ijzergebreksanemie)"
+  },
+  {
+    "Code": "0005",
+    "Description": "Onbedoeld gewichtsverlies"
+  },
+  {
+    "Code": "0006",
+    "Description": "Ondervoeding"
+  },
+  {
+    "Code": "0007",
+    "Description": "BMI < 18,5"
+  },
+  {
+    "Code": "0008",
+    "Description": "Hyeremisis gravidarum"
+  },
+  {
+    "Code": "0009",
+    "Description": "Excessieve gewichtstoename bij zwangerschap"
+  },
+  {
+    "Code": "0010",
+    "Description": "Ondervoeding tijdens zwangerschap"
+  },
+  {
+    "Code": "0011",
+    "Description": "Slikklachten"
+  },
+  {
+    "Code": "0012",
+    "Description": "Slijmvorming"
+  },
+  {
+    "Code": "0013",
+    "Description": "Kauw/gebitsproblemen"
+  },
+  {
+    "Code": "0014",
+    "Description": "Brandwonden"
+  },
+  {
+    "Code": "0015",
+    "Description": "Andere chirurgie"
+  },
+  {
+    "Code": "0016",
+    "Description": "Bariatrische chirurgie (maagverkleinende operatie)"
+  },
+  {
+    "Code": "0017",
+    "Description": "Ileostoma"
+  },
+  {
+    "Code": "0018",
+    "Description": "Intermaxillaire fixatie (kaakfixatie)"
+  },
+  {
+    "Code": "0019",
+    "Description": "Pre en postoperatieve zorg"
+  },
+  {
+    "Code": "0020",
+    "Description": "Gastrostomie  incl. PEG"
+  },
+  {
+    "Code": "0021",
+    "Description": "Andere eetstoornissen"
+  },
+  {
+    "Code": "0022",
+    "Description": "Anorexia Nervosa"
+  },
+  {
+    "Code": "0023",
+    "Description": "Boulimea Nervosa"
+  },
+  {
+    "Code": "0024",
+    "Description": "Binge Eating Disorder"
+  },
+  {
+    "Code": "0025",
+    "Description": "Andere hart- en vaatziekten"
+  },
+  {
+    "Code": "0026",
+    "Description": "Hartfalen"
+  },
+  {
+    "Code": "0027",
+    "Description": "Hypertensie"
+  },
+  {
+    "Code": "0028",
+    "Description": "Andere infectieziekten"
+  },
+  {
+    "Code": "0029",
+    "Description": "HIV-infectie/aids"
+  },
+  {
+    "Code": "0030",
+    "Description": "Andere longziekten"
+  },
+  {
+    "Code": "0031",
+    "Description": "Acute longziekten (infecties/pneumonie/acute bronchitis"
+  },
+  {
+    "Code": "0032",
+    "Description": "Chronische obstructieve longziekten (COPD/astma/bronchitis/emphyseem)"
+  },
+  {
+    "Code": "0033",
+    "Description": "Andere maag-, darm- en leverziekten"
+  },
+  {
+    "Code": "0034",
+    "Description": "Acute pancreatitis"
+  },
+  {
+    "Code": "0035",
+    "Description": "Chronische pancreatitis"
+  },
+  {
+    "Code": "0036",
+    "Description": "Chronische obstipatie"
+  },
+  {
+    "Code": "0037",
+    "Description": "Coeliakie en dermatitis herpetiformis"
+  },
+  {
+    "Code": "0038",
+    "Description": "Colitis ulcerosa"
+  },
+  {
+    "Code": "0039",
+    "Description": "Ziekte van Crohn"
+  },
+  {
+    "Code": "0040",
+    "Description": "Cystic fibrosis (taaislijmziekte)"
+  },
+  {
+    "Code": "0041",
+    "Description": "Diverticulosis"
+  },
+  {
+    "Code": "0042",
+    "Description": "Diverticulitis coli"
+  },
+  {
+    "Code": "0043",
+    "Description": "Dumpingsyndroom"
+  },
+  {
+    "Code": "0044",
+    "Description": "Oesofagitis"
+  },
+  {
+    "Code": "0045",
+    "Description": "Gastro-oesofageale reflux bij zuigelingen en volwassenen"
+  },
+  {
+    "Code": "0046",
+    "Description": "Lactose-intolerantie"
+  },
+  {
+    "Code": "0047",
+    "Description": "Levercirrose"
+  },
+  {
+    "Code": "0048",
+    "Description": "Leverziekten excl. levercirrose"
+  },
+  {
+    "Code": "0049",
+    "Description": "Peuterdiarree"
+  },
+  {
+    "Code": "0050",
+    "Description": "Prikkelbaar Darmsyndroom/Irritable Bowel Syndrome/ Spastisch colon"
+  },
+  {
+    "Code": "0051",
+    "Description": "Short Bowel Syndroom"
+  },
+  {
+    "Code": "0052",
+    "Description": "Andere metabole ziekten"
+  },
+  {
+    "Code": "0053",
+    "Description": "Aangeboren stofwisselingsziekten, fenylketonurie (PKU)"
+  },
+  {
+    "Code": "0054",
+    "Description": "Diabetes type 1"
+  },
+  {
+    "Code": "0055",
+    "Description": "Diabetes type  2"
+  },
+  {
+    "Code": "0056",
+    "Description": "Zwangerschapsdiabetes"
+  },
+  {
+    "Code": "0057",
+    "Description": "Hypercholesterolemie"
+  },
+  {
+    "Code": "0058",
+    "Description": "Ideopatische reactieve hypoglycemie"
+  },
+  {
+    "Code": "0059",
+    "Description": "Osteoporose"
+  },
+  {
+    "Code": "0060",
+    "Description": "Andere neurologische aandoeningen"
+  },
+  {
+    "Code": "0061",
+    "Description": "Multiple sclerose"
+  },
+  {
+    "Code": "0062",
+    "Description": "Ziekte van Parkinson"
+  },
+  {
+    "Code": "0063",
+    "Description": "Ziekte van Huntington"
+  },
+  {
+    "Code": "0064",
+    "Description": "Ziekte van Alzheimer"
+  },
+  {
+    "Code": "0065",
+    "Description": "Epilepsie"
+  },
+  {
+    "Code": "0066",
+    "Description": "Dementie"
+  },
+  {
+    "Code": "0067",
+    "Description": "Neuromusculaire aandoeningen/ ALS"
+  },
+  {
+    "Code": "0068",
+    "Description": "Duchenne spierdystrofie"
+  },
+  {
+    "Code": "0069",
+    "Description": "Andere nierziekten"
+  },
+  {
+    "Code": "0070",
+    "Description": "Chronische nierschade"
+  },
+  {
+    "Code": "0071",
+    "Description": "Chronische nierschade met hemodialyse"
+  },
+  {
+    "Code": "0072",
+    "Description": "Chronische nierschade met peritoneale dialyse"
+  },
+  {
+    "Code": "0073",
+    "Description": "Chronische nierschade met niertransplantatie"
+  },
+  {
+    "Code": "0074",
+    "Description": "Chronische nierschade met nefrotisch syndroom"
+  },
+  {
+    "Code": "0075",
+    "Description": "Urinewegstenen"
+  },
+  {
+    "Code": "0076",
+    "Description": "Oncologie"
+  },
+  {
+    "Code": "0077",
+    "Description": "Andere psychische en gedragsstoornissen"
+  },
+  {
+    "Code": "0078",
+    "Description": "Stemmingstoornissen/depressie"
+  },
+  {
+    "Code": "0079",
+    "Description": "Persoonlijkheids- en gedragsstoornissen"
+  },
+  {
+    "Code": "0080",
+    "Description": "Autisme"
+  },
+  {
+    "Code": "0081",
+    "Description": "ADHD"
+  },
+  {
+    "Code": "0082",
+    "Description": "Andere reumatische ziekten"
+  },
+  {
+    "Code": "0083",
+    "Description": "Jicht"
+  },
+  {
+    "Code": "0084",
+    "Description": "Reumatoïde artritis"
+  },
+  {
+    "Code": "0085",
+    "Description": "\"Te hoog gewicht bij kinderen BMI volgens afkappunten overgewicht en obesitas bij kinderen\n\""
+  },
+  {
+    "Code": "0086",
+    "Description": "Te hoog gewicht bij volwassenen BMI 25 < 30"
+  },
+  {
+    "Code": "0087",
+    "Description": "Te hoog gewicht bij volwassenen BMI 30 < 35"
+  },
+  {
+    "Code": "0088",
+    "Description": "Te hoog gewicht bij volwassenen BMI 35 < 40"
+  },
+  {
+    "Code": "0089",
+    "Description": "Te hoog gewicht bij volwassenen BMI >= 40"
+  },
+  {
+    "Code": "0090",
+    "Description": "Voedingsproblematiek specifiek in de verstandelijk gehandicaptenzorg"
+  },
+  {
+    "Code": "0091",
+    "Description": "Voedingsstoffen kunstmatig toegediend (sondevoeding, parenterale voeding)"
+  },
+  {
+    "Code": "0092",
+    "Description": "Voedselovergevoeligheid"
+  },
+  {
+    "Code": "0093",
+    "Description": "Voedselallergie"
+  },
+  {
+    "Code": "0094",
+    "Description": "Voedselintolerantie"
+  }
+]

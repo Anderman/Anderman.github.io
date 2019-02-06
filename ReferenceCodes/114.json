@@ -1,0 +1,14 @@
+[
+  {
+    "Code": "2",
+    "Description": "Betreft totaalrecord (geheel) van apotheekbereiding"
+  },
+  {
+    "Code": "3",
+    "Description": "Betreft geen apotheekbereiding"
+  },
+  {
+    "Code": "9",
+    "Description": "Niet relevant (dummy waarde)"
+  }
+]

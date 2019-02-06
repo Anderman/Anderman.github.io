@@ -1,0 +1,58 @@
+[
+  {
+    "Code": "AWG",
+    "Description": "Aruban guilder"
+  },
+  {
+    "Code": "BEF",
+    "Description": "Belgian franc"
+  },
+  {
+    "Code": "DEM",
+    "Description": "Deutsche mark"
+  },
+  {
+    "Code": "EUR",
+    "Description": "Euro"
+  },
+  {
+    "Code": "FRF",
+    "Description": "French franc"
+  },
+  {
+    "Code": "GBP",
+    "Description": "Pound sterling"
+  },
+  {
+    "Code": "IEP",
+    "Description": "Irish pound"
+  },
+  {
+    "Code": "ITL",
+    "Description": "Italian lira"
+  },
+  {
+    "Code": "LUF",
+    "Description": "Luxembourg franc"
+  },
+  {
+    "Code": "NLG",
+    "Description": "Netherlands guilder"
+  },
+  {
+    "Code": "SRD",
+    "Description": "Surinam dollar"
+  },
+  {
+    "Code": "SRG",
+    "Description": "Suriname guilder"
+  },
+  {
+    "Code": "USD",
+    "Description": "Us dollar"
+  },
+  {
+    "Code": "XEU",
+    "Description": "European currency unit"
+  }
+]

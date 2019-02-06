@@ -24,56 +24,69 @@ namespace CodeProvider
 		{
 			Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
 
-			var links = new List<string>();
+			var indexLinks = new List<string>();
 			//ReadAgb();
-			CreateDeclarationCodes(links);
-			CreateMunicipalityCodes(links);
-			CreateUzoviCodes(links);
-			CreateWlzRules(links);
-			CreateIndexHtml(links);
+			CreateDeclarationCodes(indexLinks);
+			CreateMunicipalityCodes(indexLinks);
+			CreateVektisCodes(indexLinks);
+			CreateWlzRules(indexLinks);
+			CreateIndexHtml(indexLinks);
 		}
 
-		private static void CreateIndexHtml(List<string> links)
+		private static void CreateIndexHtml(List<string> indexLinks)
 		{
-			var contents = string.Join("<br/>\n", links.Select(x => $"<a href='{x}'>{x}</a>"));
+			var contents = string.Join("<br/>\n", indexLinks.Select(x => $"<a href='{x}'>{x}</a>"));
 			File.WriteAllText($"{WebsiteFiles.Root}index.html", contents);
 		}
 
-		public static void CreateDeclarationCodes(List<string> links)
+		public static void CreateDeclarationCodes(List<string> indexLinks)
 		{
 			var client = new HttpClient();
 			var content = client.GetStringAsync("https://tog.vektis.nl/WebInfo.aspx?ID=Prestatiecodelijsten").Result;
 			var httpLinks = content.Split("\"").Where(x => x.StartsWith("/Bestanden")).Select(x => $"https://tog.vektis.nl{x}");
 			foreach (var httpLink in httpLinks)
 			{
-				DeclarationCodeProvider.Convert(httpLink, links);
-				CalculationCodeProvider.Convert(httpLink, links);
+				DeclarationCodeProvider.Convert(httpLink, indexLinks);
+				CalculationCodeProvider.Convert(httpLink, indexLinks);
 			}
 		}
 
-		public static void CreateMunicipalityCodes(List<string> links)
+		public static void CreateMunicipalityCodes(List<string> indexLinks)
 		{
 			//https://www.cbs.nl/-/media/cbs/onze%20diensten/methoden/classificaties/overig/gemeenten%20alfabetisch%202019.xls
 			//https://opendata.cbs.nl/ODataApi/OData/84378NED
 			foreach (var path in Directory.GetFiles($"{WebsiteFiles.Municipality}"))
-				MunicipalityProvider.Convert(path, links);
+				MunicipalityProvider.Convert(path, indexLinks);
 		}
 
-		public static void CreateUzoviCodes(List<string> links)
+		private const string UzoviRegister = "https://www.vektis.nl/streams/zorgverzekeraars-vinden";
+
+		public static void CreateUzoviRegisterCodes(List<string> indexLinks)
 		{
-			var link = "https://www.vektis.nl/uploads/Docs%20per%20pagina/zv%20vinden/20181116_%20UZOVI_register.xlsx";
-			UzoviProvider.Convert(link, links);
+			var link = MyHttpClient.GetLinkByHRef(UzoviRegister, "UZOVI_register.xlsx");
+			UzoviProvider.Convert(link, indexLinks);
 		}
 
-		public static void CreateWlzRules(List<string> links)
+		private const string VektisCodes = "https://www.vektis.nl/streams/standaardisatie/codelijsten";
+		public static void CreateVektisCodes(List<string> indexLinks)
+		{
+			var links = MyHttpClient.GetLinksByHRef(VektisCodes, "COD");
+			foreach (var link in links)
+			{
+				var excelLink= MyHttpClient.GetLinkByHRef(link, "xls");
+				VektisCodeProvider.Convert(excelLink, indexLinks);
+			}
+		}
+
+		public static void CreateWlzRules(List<string> indexLinks)
 		{
 			var client = new HttpClient();
 			var content = client.GetStringAsync(Aw319).Result;
 			var aTags = Regex.Matches(content, @"(<a.*?>.*?</a>)", RegexOptions.Singleline).Select(x => x.ToString()).ToArray();
 			var httpLink = aTags.Where(x => x.Contains("Koppeltabel", StringComparison.OrdinalIgnoreCase)).Select(x => x.Split("\"").FirstOrDefault(y => y.StartsWith("https://www.vektis.nl"))).OrderBy(x => x).Last();
 
-			WlzCalculationRuleProvider.Convert(httpLink, links);
-			WlzLegitimationRuleProvider.Convert(httpLink, links);
+			WlzCalculationRuleProvider.Convert(httpLink, indexLinks);
+			WlzLegitimationRuleProvider.Convert(httpLink, indexLinks);
 		}
 
 		public static void AgbCodes()
@@ -149,6 +162,40 @@ namespace CodeProvider
 					Console.WriteLine(response);
 				}
 			}
+		}
+	}
+
+	public static class MyHttpClient
+	{
+		public static string GetLinkByHRef(string webPage, string hRefContains)
+		{
+			var link = GetLinks(webPage, hRefContains).Last();
+			return AddAuthority(webPage, link);
+		}
+
+		public static List<string> GetLinksByHRef(string webPage, string hRefContains)
+		{
+			var links = GetLinks(webPage, hRefContains);
+			return links.Where(x=>!string.IsNullOrWhiteSpace(x)).Select(x => AddAuthority(webPage,x)).ToList();
+		}
+
+		private static string AddAuthority(string webPage, string link)
+		{
+			Console.WriteLine(link);
+			if (link.StartsWith("http", StringComparison.OrdinalIgnoreCase))
+				return link;
+			return new Uri(webPage).GetLeftPart(UriPartial.Authority) + "/" + link;
+		}
+
+		private static string[] GetATags(string content)
+		{
+			return Regex.Matches(content, @"(<a.*?>.*?</a>)", RegexOptions.Singleline).Select(x => x.ToString()).ToArray();
+		}
+
+		private static List<string> GetLinks(string link, string hRefContains)
+		{
+			var content = new HttpClient().GetStringAsync(link).Result;
+			return GetATags(content).Where(x => x.Contains(hRefContains, StringComparison.OrdinalIgnoreCase)).Select(x => x.Split("\"").FirstOrDefault(y => y.Contains(hRefContains))).Distinct().ToList();
 		}
 	}
 }

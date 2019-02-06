@@ -1,0 +1,146 @@
+[
+  {
+    "Code": "12",
+    "Description": "Indiceren"
+  },
+  {
+    "Code": "21",
+    "Description": "Aanschaf hulpmiddel in eigendom"
+  },
+  {
+    "Code": "22",
+    "Description": "Energiekosten hulpmiddel in eigendom"
+  },
+  {
+    "Code": "23",
+    "Description": "Reparatie hulpmiddel in eigendom"
+  },
+  {
+    "Code": "24",
+    "Description": "Aanpassingen hulpmiddel in eigendom"
+  },
+  {
+    "Code": "25",
+    "Description": "Onderhoud hulpmiddel in eigendom"
+  },
+  {
+    "Code": "26",
+    "Description": "Dienstverlening m.b.t. hulpmiddel in eigendom"
+  },
+  {
+    "Code": "27",
+    "Description": "Opleiding m.b.t. hulpmiddelen in eigendom"
+  },
+  {
+    "Code": "31",
+    "Description": "Aanschaf bruikleenhulpmiddel"
+  },
+  {
+    "Code": "32",
+    "Description": "Energiekosten bruikleenhulpmiddel"
+  },
+  {
+    "Code": "33",
+    "Description": "Reparatie bruikleenhulpmiddel"
+  },
+  {
+    "Code": "34",
+    "Description": "Aanpassingen bruikleenhulpmiddel"
+  },
+  {
+    "Code": "35",
+    "Description": "Onderhoud bruikleenhulpmiddel"
+  },
+  {
+    "Code": "36",
+    "Description": "Dienstverlening m.b.t. bruikleenhulpmiddel"
+  },
+  {
+    "Code": "37",
+    "Description": "Opleiding m.b.t. bruikleenhulpmiddelen"
+  },
+  {
+    "Code": "38",
+    "Description": "Herverstrekking bruikleenhulpmiddel"
+  },
+  {
+    "Code": "41",
+    "Description": "Huur bij huur hulpmiddel"
+  },
+  {
+    "Code": "42",
+    "Description": "Energiekosten bij huur hulpmiddel"
+  },
+  {
+    "Code": "43",
+    "Description": "Reparatie bij huur hulpmiddel"
+  },
+  {
+    "Code": "44",
+    "Description": "Aanpassingen bij huur hulpmiddel"
+  },
+  {
+    "Code": "45",
+    "Description": "Onderhoud bij huur hulpmiddel"
+  },
+  {
+    "Code": "46",
+    "Description": "Dienstverlening m.b.t. huur hulpmiddel"
+  },
+  {
+    "Code": "47",
+    "Description": "Opleiding m.b.t. huur hulpmiddel"
+  },
+  {
+    "Code": "48",
+    "Description": "Herverstrekking huur hulpmiddel"
+  },
+  {
+    "Code": "51",
+    "Description": "Aanschaf hulpmiddel kortdurend in eigendom"
+  },
+  {
+    "Code": "53",
+    "Description": "Reparatie hulpmiddel kortdurende in eigendom"
+  },
+  {
+    "Code": "54",
+    "Description": "Aanpassing hulpmiddel kortdurend in eigendom"
+  },
+  {
+    "Code": "56",
+    "Description": "Dienstverlening m.b.t. hulpmiddel kortdurende in eigendom"
+  },
+  {
+    "Code": "61",
+    "Description": "Aanschaf kortdurend bruikleenhulpmiddel"
+  },
+  {
+    "Code": "63",
+    "Description": "Reparatie kortdurend bruikleenhulpmiddel"
+  },
+  {
+    "Code": "64",
+    "Description": "Aanpassing kortdurend bruikleenhulpmiddel"
+  },
+  {
+    "Code": "66",
+    "Description": "Dienstverlening kortdurend bruikleenhulpmiddel"
+  },
+  {
+    "Code": "71",
+    "Description": "Aanschaf kortdurend huur hulpmiddel"
+  },
+  {
+    "Code": "73",
+    "Description": "Reparatie kortdurend  huur hulpmiddel"
+  },
+  {
+    "Code": "74",
+    "Description": "Aanpassing kortdurend huur hulpmiddel"
+  },
+  {
+    "Code": "76",
+    "Description": "Dienstverlening kortdurend huur hulpmiddel"
+  }
+]

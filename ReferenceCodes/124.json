@@ -1,0 +1,42 @@
+[
+  {
+    "Code": "01",
+    "Description": "Naar huis terug"
+  },
+  {
+    "Code": "02",
+    "Description": "Overleden"
+  },
+  {
+    "Code": "03",
+    "Description": "Kenmerk m-10 (=dagverpleging a007)"
+  },
+  {
+    "Code": "04",
+    "Description": "Voortaan voor rekening van AWBZ in zelfde ziekenhuis"
+  },
+  {
+    "Code": "05",
+    "Description": "Voortaan voor rekening van AWBZ in andere inrichting of terug naar AWBZ-inrichting"
+  },
+  {
+    "Code": "06",
+    "Description": "Overplaatsing naar ander ziekenhuis"
+  },
+  {
+    "Code": "07",
+    "Description": "Ziekenhuisopname korter dan 24 uur (tegen advies of onduidelijke reden)"
+  },
+  {
+    "Code": "08",
+    "Description": "Onbekend (vervallen)"
+  },
+  {
+    "Code": "09",
+    "Description": "Overig"
+  },
+  {
+    "Code": "99",
+    "Description": "Onbekend"
+  }
+]

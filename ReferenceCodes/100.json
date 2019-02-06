@@ -1,0 +1,34 @@
+[
+  {
+    "Code": "02",
+    "Description": "Diagnostiek bij volwassenen met epilepsie"
+  },
+  {
+    "Code": "03",
+    "Description": "Diagnostiek bij kinderen met epilepsie"
+  },
+  {
+    "Code": "04",
+    "Description": "Behandeling volwassenen met epilepsie"
+  },
+  {
+    "Code": "05",
+    "Description": "Behandeling kinderen met epilepsie"
+  },
+  {
+    "Code": "06",
+    "Description": "Psychogene niet epileptische aanvallen (PNES)"
+  },
+  {
+    "Code": "07",
+    "Description": "Epilepsie chirurgie"
+  },
+  {
+    "Code": "08",
+    "Description": "Adaptieproblemen"
+  },
+  {
+    "Code": "09",
+    "Description": "Diagnostiek kinderen zonder epilepsie"
+  }
+]

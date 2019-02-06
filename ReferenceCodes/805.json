@@ -1,0 +1,1702 @@
+[
+  {
+    "Code": "000201",
+    "Description": "Euroned systems"
+  },
+  {
+    "Code": "000202",
+    "Description": "Euroned systems"
+  },
+  {
+    "Code": "000301",
+    "Description": "Microbais Automatisering BV"
+  },
+  {
+    "Code": "000401",
+    "Description": "Promedico ICT BV"
+  },
+  {
+    "Code": "000402",
+    "Description": "Promedico ICT BV"
+  },
+  {
+    "Code": "000403",
+    "Description": "Promedico ICT BV"
+  },
+  {
+    "Code": "000501",
+    "Description": "iSOFT Nederland B.V."
+  },
+  {
+    "Code": "000502",
+    "Description": "iSOFT Nederland B.V."
+  },
+  {
+    "Code": "000503",
+    "Description": "iSOFT Nederland B.V."
+  },
+  {
+    "Code": "000504",
+    "Description": "iSOFT Nederland B.V."
+  },
+  {
+    "Code": "000505",
+    "Description": "iSOFT Nederland B.V."
+  },
+  {
+    "Code": "000506",
+    "Description": "iSOFT Nederland B.V."
+  },
+  {
+    "Code": "000601",
+    "Description": "Verenigde Apotheken Limburg"
+  },
+  {
+    "Code": "000701",
+    "Description": "Clearing House Apothekers"
+  },
+  {
+    "Code": "000801",
+    "Description": "Pharmapartners"
+  },
+  {
+    "Code": "000802",
+    "Description": "Pharmapartners"
+  },
+  {
+    "Code": "000803",
+    "Description": "Pharmapartners"
+  },
+  {
+    "Code": "000804",
+    "Description": "Pharmapartners"
+  },
+  {
+    "Code": "000901",
+    "Description": "Psystrong-IT"
+  },
+  {
+    "Code": "001001",
+    "Description": "ManageWare Pro"
+  },
+  {
+    "Code": "001101",
+    "Description": "Kroon Informatica"
+  },
+  {
+    "Code": "001201",
+    "Description": "Logic Data BV"
+  },
+  {
+    "Code": "001301",
+    "Description": "Fairware"
+  },
+  {
+    "Code": "001401",
+    "Description": "Chipsoft"
+  },
+  {
+    "Code": "001402",
+    "Description": "Chipsoft"
+  },
+  {
+    "Code": "001501",
+    "Description": "Robadent Softwarehouse B.V."
+  },
+  {
+    "Code": "001601",
+    "Description": "UNIT4 Business Software B.V."
+  },
+  {
+    "Code": "001701",
+    "Description": "YourCare information systems b.v."
+  },
+  {
+    "Code": "001801",
+    "Description": "Ensemble BV"
+  },
+  {
+    "Code": "001901",
+    "Description": "C.V. Prosoftware"
+  },
+  {
+    "Code": "001902",
+    "Description": "Prosoftware"
+  },
+  {
+    "Code": "001903",
+    "Description": "Prosoftware"
+  },
+  {
+    "Code": "001904",
+    "Description": "Prosoftware"
+  },
+  {
+    "Code": "001905",
+    "Description": "Prosoftware"
+  },
+  {
+    "Code": "001906",
+    "Description": "C.V. Prosoftware"
+  },
+  {
+    "Code": "002001",
+    "Description": "PinkRoccade Healthcare B.V."
+  },
+  {
+    "Code": "002002",
+    "Description": "PinkRoccade Healthcare B.V."
+  },
+  {
+    "Code": "002003",
+    "Description": "PinkRoccade Healthcare B.V."
+  },
+  {
+    "Code": "002004",
+    "Description": "PinkRoccade Healthcare B.V."
+  },
+  {
+    "Code": "002101",
+    "Description": "Nexus-Nederland B.V."
+  },
+  {
+    "Code": "002102",
+    "Description": "Nexus-Nederland B.V."
+  },
+  {
+    "Code": "002201",
+    "Description": "VCD Healthcare"
+  },
+  {
+    "Code": "002202",
+    "Description": "VCD Healthcare"
+  },
+  {
+    "Code": "002203",
+    "Description": "VCD Healthcare"
+  },
+  {
+    "Code": "002204",
+    "Description": "VCD Healthcare"
+  },
+  {
+    "Code": "002205",
+    "Description": "VCD Healthcare"
+  },
+  {
+    "Code": "002301",
+    "Description": "Softwarebureau Dimasys"
+  },
+  {
+    "Code": "002401",
+    "Description": "Webvis IT"
+  },
+  {
+    "Code": "002501",
+    "Description": "Stichting Intermedicare"
+  },
+  {
+    "Code": "002601",
+    "Description": "Korton Internet b.v."
+  },
+  {
+    "Code": "002602",
+    "Description": "Korton Internet b.v."
+  },
+  {
+    "Code": "002603",
+    "Description": "Korton Internet b.v."
+  },
+  {
+    "Code": "002604",
+    "Description": "Korton Internet b.v."
+  },
+  {
+    "Code": "002701",
+    "Description": "Impulse Beheer B.V."
+  },
+  {
+    "Code": "002801",
+    "Description": "Bakker Software"
+  },
+  {
+    "Code": "002901",
+    "Description": "Mentaal beheer"
+  },
+  {
+    "Code": "003001",
+    "Description": "MicroWare Automatisering B.V."
+  },
+  {
+    "Code": "003002",
+    "Description": "MicroWare Automatisering B.V."
+  },
+  {
+    "Code": "003101",
+    "Description": "Promeetec Software & Declaratieservice"
+  },
+  {
+    "Code": "003102",
+    "Description": "Promeetec Software & Declaratieservice"
+  },
+  {
+    "Code": "003103",
+    "Description": "Promeetec Software & Declaratieservice"
+  },
+  {
+    "Code": "003104",
+    "Description": "Promeetec Software & Declaratieservice"
+  },
+  {
+    "Code": "003105",
+    "Description": "Promeetec Software & Declaratieservice"
+  },
+  {
+    "Code": "003106",
+    "Description": "Promeetec Software & Declaratieservice"
+  },
+  {
+    "Code": "003107",
+    "Description": "Promeetec Software & Declaratieservice"
+  },
+  {
+    "Code": "003108",
+    "Description": "Promeetec Software & Declaratieservice"
+  },
+  {
+    "Code": "003109",
+    "Description": "Promeetec"
+  },
+  {
+    "Code": "003110",
+    "Description": "Promeetec B.V."
+  },
+  {
+    "Code": "003201",
+    "Description": "Medicore B.V."
+  },
+  {
+    "Code": "003301",
+    "Description": "NederCare BV"
+  },
+  {
+    "Code": "003401",
+    "Description": "Sovas BV"
+  },
+  {
+    "Code": "003402",
+    "Description": "Sovas BV"
+  },
+  {
+    "Code": "003501",
+    "Description": "Tromp & Van Bruxvoort ZorgIT B.V."
+  },
+  {
+    "Code": "003601",
+    "Description": "Convenient B.V."
+  },
+  {
+    "Code": "003602",
+    "Description": "Convenient B.V."
+  },
+  {
+    "Code": "003603",
+    "Description": "Convenient B.V."
+  },
+  {
+    "Code": "003604",
+    "Description": "Convenient"
+  },
+  {
+    "Code": "003701",
+    "Description": "Vlot Systemen B.V."
+  },
+  {
+    "Code": "003702",
+    "Description": "Vlot Systemen B.V."
+  },
+  {
+    "Code": "003801",
+    "Description": "Corilus"
+  },
+  {
+    "Code": "003901",
+    "Description": "TabDents"
+  },
+  {
+    "Code": "004001",
+    "Description": "SAP"
+  },
+  {
+    "Code": "004101",
+    "Description": "Trits Professional Services B.V."
+  },
+  {
+    "Code": "004102",
+    "Description": "Trits Professional Services B.V."
+  },
+  {
+    "Code": "004103",
+    "Description": "Trits Professional Services B.V."
+  },
+  {
+    "Code": "004104",
+    "Description": "Trits Professional Services B.V."
+  },
+  {
+    "Code": "004201",
+    "Description": "WinBase Groep BV"
+  },
+  {
+    "Code": "004202",
+    "Description": "WinBase Groep BV"
+  },
+  {
+    "Code": "004203",
+    "Description": "WinBase Groep BV"
+  },
+  {
+    "Code": "004301",
+    "Description": "Orfeus B.V."
+  },
+  {
+    "Code": "004401",
+    "Description": "Allegro Sultum BV"
+  },
+  {
+    "Code": "004501",
+    "Description": "Dynadata BV"
+  },
+  {
+    "Code": "004601",
+    "Description": "Tetra BV"
+  },
+  {
+    "Code": "004701",
+    "Description": "World of Health"
+  },
+  {
+    "Code": "004801",
+    "Description": "BS Automatisering BV"
+  },
+  {
+    "Code": "004901",
+    "Description": "Robinion"
+  },
+  {
+    "Code": "005001",
+    "Description": "IGN Automatisering BV"
+  },
+  {
+    "Code": "005101",
+    "Description": "Vertimart Consultants BV"
+  },
+  {
+    "Code": "005102",
+    "Description": "Vertimart Consultants B.V."
+  },
+  {
+    "Code": "005201",
+    "Description": "Complan Valens BV"
+  },
+  {
+    "Code": "005301",
+    "Description": "Scazl"
+  },
+  {
+    "Code": "005401",
+    "Description": "VOVB en Partners B.V."
+  },
+  {
+    "Code": "005501",
+    "Description": "Emanon BV"
+  },
+  {
+    "Code": "005601",
+    "Description": "Netdata"
+  },
+  {
+    "Code": "005701",
+    "Description": "Allround Services Int."
+  },
+  {
+    "Code": "005801",
+    "Description": "Helder Software BV"
+  },
+  {
+    "Code": "005901",
+    "Description": "L.S.S."
+  },
+  {
+    "Code": "006001",
+    "Description": "A12.it Software B.V."
+  },
+  {
+    "Code": "006101",
+    "Description": "Flexdata B.V."
+  },
+  {
+    "Code": "006102",
+    "Description": "Flexdata B.V."
+  },
+  {
+    "Code": "006103",
+    "Description": "Flexdata B.V."
+  },
+  {
+    "Code": "006201",
+    "Description": "For All IT Care B.V."
+  },
+  {
+    "Code": "006202",
+    "Description": "For All IT Care B.V."
+  },
+  {
+    "Code": "006301",
+    "Description": "Censys BV"
+  },
+  {
+    "Code": "006302",
+    "Description": "Censys BV"
+  },
+  {
+    "Code": "006401",
+    "Description": "BaseClass"
+  },
+  {
+    "Code": "006501",
+    "Description": "Microdent v.o.f."
+  },
+  {
+    "Code": "006601",
+    "Description": "JDS Automatisering"
+  },
+  {
+    "Code": "006701",
+    "Description": "Ranmore BV"
+  },
+  {
+    "Code": "006801",
+    "Description": "Turnkey Systems Enschede"
+  },
+  {
+    "Code": "006802",
+    "Description": "Turnkey Systems Enschede"
+  },
+  {
+    "Code": "006901",
+    "Description": "Gé Systems Nederland B.V."
+  },
+  {
+    "Code": "006902",
+    "Description": "Gé Systems Nederland B.V."
+  },
+  {
+    "Code": "006903",
+    "Description": "Gé Systems Nederland B.V."
+  },
+  {
+    "Code": "007001",
+    "Description": "Binario BV"
+  },
+  {
+    "Code": "007101",
+    "Description": "Synerga"
+  },
+  {
+    "Code": "007201",
+    "Description": "AABW B.V."
+  },
+  {
+    "Code": "007301",
+    "Description": "Automation Partners"
+  },
+  {
+    "Code": "007401",
+    "Description": "Dentio VOF"
+  },
+  {
+    "Code": "007501",
+    "Description": "De Netwerkadviseur BV"
+  },
+  {
+    "Code": "007601",
+    "Description": "Vrumun VOF"
+  },
+  {
+    "Code": "007701",
+    "Description": "Henry Schein B.V."
+  },
+  {
+    "Code": "007801",
+    "Description": "Sesam Software"
+  },
+  {
+    "Code": "007901",
+    "Description": "FACET Informatisering BV"
+  },
+  {
+    "Code": "008001",
+    "Description": "Netpoint Facilities B.V."
+  },
+  {
+    "Code": "008002",
+    "Description": "Netpoint Facilities B.V."
+  },
+  {
+    "Code": "008003",
+    "Description": "Netpoint Facilities B.V."
+  },
+  {
+    "Code": "008101",
+    "Description": "G2 Zorgsoftware bv"
+  },
+  {
+    "Code": "008201",
+    "Description": "Qurius Nederland BV"
+  },
+  {
+    "Code": "008301",
+    "Description": "IGCN"
+  },
+  {
+    "Code": "008401",
+    "Description": "Open Source Medical Software"
+  },
+  {
+    "Code": "008501",
+    "Description": "Systicon consultancy"
+  },
+  {
+    "Code": "008502",
+    "Description": "Systicon consultancy"
+  },
+  {
+    "Code": "008503",
+    "Description": "Systicon consultancy"
+  },
+  {
+    "Code": "008504",
+    "Description": "Systicon consultancy"
+  },
+  {
+    "Code": "008601",
+    "Description": "Mechatronics Software Applications BV"
+  },
+  {
+    "Code": "008701",
+    "Description": "Motiv IT Masters"
+  },
+  {
+    "Code": "008801",
+    "Description": "BCIP b.v."
+  },
+  {
+    "Code": "008901",
+    "Description": "Dyos"
+  },
+  {
+    "Code": "009001",
+    "Description": "Epic Den Bosch B.V."
+  },
+  {
+    "Code": "009101",
+    "Description": "FIS Automatisering"
+  },
+  {
+    "Code": "009201",
+    "Description": "MadeWare"
+  },
+  {
+    "Code": "009301",
+    "Description": "De Heer & Co. Software B.V."
+  },
+  {
+    "Code": "009302",
+    "Description": "De Heer & Co. Software B.V."
+  },
+  {
+    "Code": "009401",
+    "Description": "Dataconcept IT B.V."
+  },
+  {
+    "Code": "009501",
+    "Description": "Eljakim IT BV"
+  },
+  {
+    "Code": "009601",
+    "Description": "Simac Phobos B.V."
+  },
+  {
+    "Code": "009701",
+    "Description": "Peters Informatisering Tilburg bv"
+  },
+  {
+    "Code": "009801",
+    "Description": "Software of Excellence"
+  },
+  {
+    "Code": "009901",
+    "Description": "Cormel IT Services"
+  },
+  {
+    "Code": "010001",
+    "Description": "*WEGA Automatisering VOF"
+  },
+  {
+    "Code": "010101",
+    "Description": "E.novation B.V."
+  },
+  {
+    "Code": "010102",
+    "Description": "E.novation B.V."
+  },
+  {
+    "Code": "010103",
+    "Description": "ENOVATION B.V."
+  },
+  {
+    "Code": "010104",
+    "Description": "ENOVATION B.V."
+  },
+  {
+    "Code": "010201",
+    "Description": "Adapcare B.V."
+  },
+  {
+    "Code": "010301",
+    "Description": "Convenient"
+  },
+  {
+    "Code": "010401",
+    "Description": "Ecare Services"
+  },
+  {
+    "Code": "010402",
+    "Description": "Ecare services B.V."
+  },
+  {
+    "Code": "010403",
+    "Description": "Ecare services B.V."
+  },
+  {
+    "Code": "010404",
+    "Description": "Ecare services B.V."
+  },
+  {
+    "Code": "010405",
+    "Description": "Ecare services B.V."
+  },
+  {
+    "Code": "010501",
+    "Description": "OctoQ B.V."
+  },
+  {
+    "Code": "010601",
+    "Description": "Fontaneda Software B.V."
+  },
+  {
+    "Code": "010602",
+    "Description": "Fontaneda Software B.V."
+  },
+  {
+    "Code": "010603",
+    "Description": "Fontaneda Software B.V."
+  },
+  {
+    "Code": "010701",
+    "Description": "OmniHis B.V."
+  },
+  {
+    "Code": "010702",
+    "Description": "OmniHis B.V."
+  },
+  {
+    "Code": "010801",
+    "Description": "Altiplano"
+  },
+  {
+    "Code": "010901",
+    "Description": "Nedap Healthcare"
+  },
+  {
+    "Code": "011001",
+    "Description": "Systek"
+  },
+  {
+    "Code": "011101",
+    "Description": "I'tension BV"
+  },
+  {
+    "Code": "011102",
+    "Description": "I'tension B.V."
+  },
+  {
+    "Code": "011201",
+    "Description": "Curasoft B.V."
+  },
+  {
+    "Code": "011301",
+    "Description": "TTS technology to serve B.V."
+  },
+  {
+    "Code": "011302",
+    "Description": "TTS technology to serve B.V."
+  },
+  {
+    "Code": "011401",
+    "Description": "FACE"
+  },
+  {
+    "Code": "011402",
+    "Description": "FACE"
+  },
+  {
+    "Code": "011501",
+    "Description": "ALERT Life Sciences Computing bv"
+  },
+  {
+    "Code": "011601",
+    "Description": "Medned Information Consultancy B.V."
+  },
+  {
+    "Code": "011602",
+    "Description": "Medned Information Consultancy B.V."
+  },
+  {
+    "Code": "011701",
+    "Description": "Mediparc B.V."
+  },
+  {
+    "Code": "011801",
+    "Description": "MIPS4B"
+  },
+  {
+    "Code": "011901",
+    "Description": "Dent-o-vision"
+  },
+  {
+    "Code": "011902",
+    "Description": "Dent-o-vision"
+  },
+  {
+    "Code": "012001",
+    "Description": "aVineas"
+  },
+  {
+    "Code": "012101",
+    "Description": "Advanced Internet Services"
+  },
+  {
+    "Code": "012201",
+    "Description": "RAM Mobile Data"
+  },
+  {
+    "Code": "012301",
+    "Description": "Umbrella-group.nl"
+  },
+  {
+    "Code": "012302",
+    "Description": "Umbrella-group.nl"
+  },
+  {
+    "Code": "012401",
+    "Description": "VHI zakelijke software"
+  },
+  {
+    "Code": "012402",
+    "Description": "VHI zakelijke software"
+  },
+  {
+    "Code": "012501",
+    "Description": "Vodisys Medical Software"
+  },
+  {
+    "Code": "012601",
+    "Description": "Call Care Nederland BV"
+  },
+  {
+    "Code": "012701",
+    "Description": "VST Software B.V."
+  },
+  {
+    "Code": "012801",
+    "Description": "Novict BV"
+  },
+  {
+    "Code": "012901",
+    "Description": "Dixis B.V."
+  },
+  {
+    "Code": "012902",
+    "Description": "Dixis"
+  },
+  {
+    "Code": "012903",
+    "Description": "Dixis"
+  },
+  {
+    "Code": "013001",
+    "Description": "Labelsoft Clinical IT B.V."
+  },
+  {
+    "Code": "013002",
+    "Description": "Labelsoft Clinical IT B.V."
+  },
+  {
+    "Code": "013101",
+    "Description": "NICE Software BV"
+  },
+  {
+    "Code": "013201",
+    "Description": "Infomedics Care B.v."
+  },
+  {
+    "Code": "013202",
+    "Description": "Infomedics Care B.v."
+  },
+  {
+    "Code": "013203",
+    "Description": "Infomedics Care B.v."
+  },
+  {
+    "Code": "013204",
+    "Description": "Infomedics Care B.v."
+  },
+  {
+    "Code": "013401",
+    "Description": "Selexit"
+  },
+  {
+    "Code": "013402",
+    "Description": "Selexit"
+  },
+  {
+    "Code": "013501",
+    "Description": "Calculus Software B.V."
+  },
+  {
+    "Code": "013502",
+    "Description": "Calculus Software B.V."
+  },
+  {
+    "Code": "013601",
+    "Description": "Topicus FinCare"
+  },
+  {
+    "Code": "013602",
+    "Description": "Topicus Zorg B.V."
+  },
+  {
+    "Code": "013701",
+    "Description": "Branch Solutions B.V."
+  },
+  {
+    "Code": "013702",
+    "Description": "Branch Solutions B.V."
+  },
+  {
+    "Code": "013703",
+    "Description": "Branch Solutions B.V."
+  },
+  {
+    "Code": "013801",
+    "Description": "Centric Healthcare Solutions"
+  },
+  {
+    "Code": "013802",
+    "Description": "Centric Healthcare Solutions"
+  },
+  {
+    "Code": "013901",
+    "Description": "PC Datasystems"
+  },
+  {
+    "Code": "014001",
+    "Description": "Logic4 B.V."
+  },
+  {
+    "Code": "014002",
+    "Description": "Logic4 B.V."
+  },
+  {
+    "Code": "014101",
+    "Description": "Euphoria Software"
+  },
+  {
+    "Code": "014201",
+    "Description": "Facet Novium"
+  },
+  {
+    "Code": "014202",
+    "Description": "Facet Novium"
+  },
+  {
+    "Code": "014203",
+    "Description": "Facet Novium"
+  },
+  {
+    "Code": "014301",
+    "Description": "Ten Hove automatisering"
+  },
+  {
+    "Code": "014302",
+    "Description": "Ten Hove automatisering"
+  },
+  {
+    "Code": "014401",
+    "Description": "Conclusion Digital B.V."
+  },
+  {
+    "Code": "014501",
+    "Description": "Fa-med BV"
+  },
+  {
+    "Code": "014502",
+    "Description": "Fa-med BV"
+  },
+  {
+    "Code": "014601",
+    "Description": "ABECON Informatiesystemen B.V."
+  },
+  {
+    "Code": "014701",
+    "Description": "Multisoft"
+  },
+  {
+    "Code": "014801",
+    "Description": "Hoffice Automatisering"
+  },
+  {
+    "Code": "014802",
+    "Description": "Hoffice Automatisering"
+  },
+  {
+    "Code": "014803",
+    "Description": "Hoffice Automatisering"
+  },
+  {
+    "Code": "014901",
+    "Description": "Evry BV"
+  },
+  {
+    "Code": "015001",
+    "Description": "Scripta Consultancy"
+  },
+  {
+    "Code": "015101",
+    "Description": "FootFit"
+  },
+  {
+    "Code": "015102",
+    "Description": "FootFit"
+  },
+  {
+    "Code": "015201",
+    "Description": "Posthie automatiseringsdiensten"
+  },
+  {
+    "Code": "015202",
+    "Description": "Posthie automatiseringsdiensten"
+  },
+  {
+    "Code": "015301",
+    "Description": "B&F Optics B.V."
+  },
+  {
+    "Code": "015401",
+    "Description": "GeriMedica B.V."
+  },
+  {
+    "Code": "015501",
+    "Description": "SpotOnMedics B.V."
+  },
+  {
+    "Code": "015601",
+    "Description": "VWS Holding B.V."
+  },
+  {
+    "Code": "015602",
+    "Description": "VWS Holding B.V."
+  },
+  {
+    "Code": "015701",
+    "Description": "DinZ"
+  },
+  {
+    "Code": "015801",
+    "Description": "Monitored Rehab Systems B.V."
+  },
+  {
+    "Code": "015901",
+    "Description": "Easy Brothers Software"
+  },
+  {
+    "Code": "016001",
+    "Description": "Timeff B.V."
+  },
+  {
+    "Code": "016101",
+    "Description": "RE-tech"
+  },
+  {
+    "Code": "016201",
+    "Description": "Din Computers B.V."
+  },
+  {
+    "Code": "016301",
+    "Description": "WayPoint7 Software"
+  },
+  {
+    "Code": "016401",
+    "Description": "ESCenS"
+  },
+  {
+    "Code": "016501",
+    "Description": "Optifile Automatisering B.V."
+  },
+  {
+    "Code": "016601",
+    "Description": "Lable"
+  },
+  {
+    "Code": "016701",
+    "Description": "Sense4ICT"
+  },
+  {
+    "Code": "016801",
+    "Description": "CityGis"
+  },
+  {
+    "Code": "016901",
+    "Description": "VCD Automatisering"
+  },
+  {
+    "Code": "017001",
+    "Description": "Transition B.V."
+  },
+  {
+    "Code": "017101",
+    "Description": "Inphar BV"
+  },
+  {
+    "Code": "017201",
+    "Description": "Cegeka Nederland B.V."
+  },
+  {
+    "Code": "017202",
+    "Description": "Cegeka Nederland B.V."
+  },
+  {
+    "Code": "017203",
+    "Description": "Cegeka Nederland B.V."
+  },
+  {
+    "Code": "017301",
+    "Description": "Frenzs B.V."
+  },
+  {
+    "Code": "017401",
+    "Description": "Infomedics Factoring B.V."
+  },
+  {
+    "Code": "017501",
+    "Description": "I-TeQ B.V."
+  },
+  {
+    "Code": "017502",
+    "Description": "I-TeQ B.V."
+  },
+  {
+    "Code": "017601",
+    "Description": "Asterisque B.V."
+  },
+  {
+    "Code": "017701",
+    "Description": "International Intelligence"
+  },
+  {
+    "Code": "017801",
+    "Description": "Aspin B.V."
+  },
+  {
+    "Code": "017901",
+    "Description": "Cariphy B.V."
+  },
+  {
+    "Code": "018001",
+    "Description": "Zaak op Orde"
+  },
+  {
+    "Code": "018101",
+    "Description": "SPFI B.V."
+  },
+  {
+    "Code": "018102",
+    "Description": "SPFI B.V."
+  },
+  {
+    "Code": "018201",
+    "Description": "Telasoft"
+  },
+  {
+    "Code": "018301",
+    "Description": "The Gecko Project B.V."
+  },
+  {
+    "Code": "018401",
+    "Description": "Vossius Consultancy B.V."
+  },
+  {
+    "Code": "018501",
+    "Description": "Steynsway"
+  },
+  {
+    "Code": "018601",
+    "Description": "SharepointServices Limited"
+  },
+  {
+    "Code": "018701",
+    "Description": "Tinstone VOF"
+  },
+  {
+    "Code": "018801",
+    "Description": "Zilos ZGP Services"
+  },
+  {
+    "Code": "018901",
+    "Description": "Roel TM B.V."
+  },
+  {
+    "Code": "019001",
+    "Description": "NIGELLA IT B.V."
+  },
+  {
+    "Code": "019002",
+    "Description": "NIGELLA IT B.V."
+  },
+  {
+    "Code": "019101",
+    "Description": "Brightfish B.V."
+  },
+  {
+    "Code": "019201",
+    "Description": "Qplanning B.V."
+  },
+  {
+    "Code": "019301",
+    "Description": "Topicus.Healthcare B.V."
+  },
+  {
+    "Code": "019302",
+    "Description": "Topicus.Healthcare B.V."
+  },
+  {
+    "Code": "019303",
+    "Description": "Topicus.Healthcare B.V."
+  },
+  {
+    "Code": "019304",
+    "Description": "Topicus.Healthcare B.V."
+  },
+  {
+    "Code": "019401",
+    "Description": "AB Network Solutions B.V."
+  },
+  {
+    "Code": "019501",
+    "Description": "Joost Miltenburg Software Consultancy"
+  },
+  {
+    "Code": "019701",
+    "Description": "Crossuite BVBA"
+  },
+  {
+    "Code": "019702",
+    "Description": "Crossuite BVBA"
+  },
+  {
+    "Code": "019703",
+    "Description": "Crossuite BVBA"
+  },
+  {
+    "Code": "019901",
+    "Description": "B.E.S.T Almere"
+  },
+  {
+    "Code": "020001",
+    "Description": "MediChip B.V."
+  },
+  {
+    "Code": "020101",
+    "Description": "Pharmawise B.V."
+  },
+  {
+    "Code": "020201",
+    "Description": "Cdgo It Consultancy"
+  },
+  {
+    "Code": "020301",
+    "Description": "Victis"
+  },
+  {
+    "Code": "020501",
+    "Description": "TRICS B.V."
+  },
+  {
+    "Code": "020601",
+    "Description": "SimplyCare B.V."
+  },
+  {
+    "Code": "020701",
+    "Description": "Entana B.V."
+  },
+  {
+    "Code": "020801",
+    "Description": "Datawerken Informatie Technologie B.V."
+  },
+  {
+    "Code": "020901",
+    "Description": "Fenestrae"
+  },
+  {
+    "Code": "020902",
+    "Description": "Fenestrae"
+  },
+  {
+    "Code": "020903",
+    "Description": "Fenestrae"
+  },
+  {
+    "Code": "020904",
+    "Description": "Fenestrae B.V."
+  },
+  {
+    "Code": "021001",
+    "Description": "Bedge B.V."
+  },
+  {
+    "Code": "021201",
+    "Description": "Intomedical B.V."
+  },
+  {
+    "Code": "021301",
+    "Description": "EUSoftware (Netherlands) B.V."
+  },
+  {
+    "Code": "021401",
+    "Description": "Control, ICT en Operations B.V."
+  },
+  {
+    "Code": "021601",
+    "Description": "RPD Care B.V."
+  },
+  {
+    "Code": "021801",
+    "Description": "Image Creations"
+  },
+  {
+    "Code": "022001",
+    "Description": "Brightin B.V."
+  },
+  {
+    "Code": "022103",
+    "Description": "Gecko-Ict B.V."
+  },
+  {
+    "Code": "022501",
+    "Description": "Atermes B.V."
+  },
+  {
+    "Code": "022601",
+    "Description": "Webstones"
+  },
+  {
+    "Code": "022701",
+    "Description": "Fernum Software B.V."
+  },
+  {
+    "Code": "022801",
+    "Description": "Bauwan Beheer BV"
+  },
+  {
+    "Code": "022901",
+    "Description": "Reports B.V."
+  },
+  {
+    "Code": "023001",
+    "Description": "Wijkzorg.nl B.V."
+  },
+  {
+    "Code": "023101",
+    "Description": "Winvision Products B.V."
+  },
+  {
+    "Code": "023201",
+    "Description": "Weave B.V."
+  },
+  {
+    "Code": "023301",
+    "Description": "Digital Partner B.V."
+  },
+  {
+    "Code": "023401",
+    "Description": "H2O Software"
+  },
+  {
+    "Code": "023501",
+    "Description": "Cloud Solutions Circle B.V."
+  },
+  {
+    "Code": "023601",
+    "Description": "Roxolit B.V."
+  },
+  {
+    "Code": "023602",
+    "Description": "Roxolit B.V."
+  },
+  {
+    "Code": "023701",
+    "Description": "Feniks Automatisering B.V."
+  },
+  {
+    "Code": "023801",
+    "Description": "Finalist Noord Nederland B.V."
+  },
+  {
+    "Code": "023901",
+    "Description": "Intelly c.s."
+  },
+  {
+    "Code": "024001",
+    "Description": "Carepoint Nederland B.V."
+  },
+  {
+    "Code": "024101",
+    "Description": "Klinerva B.V."
+  },
+  {
+    "Code": "024201",
+    "Description": "Navara Consulting Services B.V."
+  },
+  {
+    "Code": "024301",
+    "Description": "James software B.V."
+  },
+  {
+    "Code": "024401",
+    "Description": "Reware NL. B.V."
+  },
+  {
+    "Code": "024501",
+    "Description": "W.K.M. Business Software B.V."
+  },
+  {
+    "Code": "024502",
+    "Description": "W.K.M. Business Software B.V."
+  },
+  {
+    "Code": "024503",
+    "Description": "W.K.M. Business Software B.V."
+  },
+  {
+    "Code": "024504",
+    "Description": "W.K.M. Business Software B.V."
+  },
+  {
+    "Code": "024701",
+    "Description": "Logis P. B.V."
+  },
+  {
+    "Code": "024702",
+    "Description": "Logis P. B.V."
+  },
+  {
+    "Code": "024801",
+    "Description": "Astus B.V."
+  },
+  {
+    "Code": "024901",
+    "Description": "IPN Software GmbH"
+  },
+  {
+    "Code": "025001",
+    "Description": "123-bServices B.V."
+  },
+  {
+    "Code": "025101",
+    "Description": "Bedrijfsautomatisering Holland"
+  },
+  {
+    "Code": "025102",
+    "Description": "Bedrijfsautomatisering Holland"
+  },
+  {
+    "Code": "025201",
+    "Description": "Web2work B.V."
+  },
+  {
+    "Code": "025301",
+    "Description": "CompuGroup Medical Nederland B.V."
+  },
+  {
+    "Code": "025302",
+    "Description": "CompuGroup Medical Nederland B.V."
+  },
+  {
+    "Code": "025303",
+    "Description": "CompuGroup Medical Nederland B.V."
+  },
+  {
+    "Code": "025304",
+    "Description": "CompuGroup Medical Nederland B.V."
+  },
+  {
+    "Code": "025305",
+    "Description": "CompuGroup Medical Nederland B.V."
+  },
+  {
+    "Code": "025401",
+    "Description": "CQT Zorg & Gezondheid B.V."
+  },
+  {
+    "Code": "025402",
+    "Description": "CQT Zorg & Gezondheid B.V."
+  },
+  {
+    "Code": "025501",
+    "Description": "Acousoft Informatisering B.V."
+  },
+  {
+    "Code": "025502",
+    "Description": "Acousoft Informatisering B.V."
+  },
+  {
+    "Code": "025601",
+    "Description": "Coolweb Zorgsoftware B.V."
+  },
+  {
+    "Code": "025701",
+    "Description": "WIZZ software en service"
+  },
+  {
+    "Code": "025801",
+    "Description": "CareSharing B.V."
+  },
+  {
+    "Code": "025901",
+    "Description": "Probol B.V."
+  },
+  {
+    "Code": "026001",
+    "Description": "ValueCare Assurance B.V."
+  },
+  {
+    "Code": "026101",
+    "Description": "VitalHealth Software B.V."
+  },
+  {
+    "Code": "026201",
+    "Description": "VIR E-care Solutions B.V."
+  },
+  {
+    "Code": "026202",
+    "Description": "VIR E-care Solutions B.V."
+  },
+  {
+    "Code": "026203",
+    "Description": "Qurentis B.v."
+  },
+  {
+    "Code": "026401",
+    "Description": "Ncontrol B.V."
+  },
+  {
+    "Code": "026402",
+    "Description": "Ncontrol B.V."
+  },
+  {
+    "Code": "026601",
+    "Description": "Dazzleware B.V."
+  },
+  {
+    "Code": "026701",
+    "Description": "Careway B.V."
+  },
+  {
+    "Code": "026801",
+    "Description": "Gino B.V."
+  },
+  {
+    "Code": "027001",
+    "Description": "DataScore Software B.V."
+  },
+  {
+    "Code": "027101",
+    "Description": "Tjip B.V."
+  },
+  {
+    "Code": "027102",
+    "Description": "Tjip B.V."
+  },
+  {
+    "Code": "027201",
+    "Description": "FENAC"
+  },
+  {
+    "Code": "027301",
+    "Description": "Metanova B.V."
+  },
+  {
+    "Code": "027401",
+    "Description": "Edentum"
+  },
+  {
+    "Code": "027501",
+    "Description": "O&R Solutions B.V."
+  },
+  {
+    "Code": "027601",
+    "Description": "RETO Design"
+  },
+  {
+    "Code": "027701",
+    "Description": "Softlex B.V."
+  },
+  {
+    "Code": "027801",
+    "Description": "Grexx N.V."
+  },
+  {
+    "Code": "027901",
+    "Description": "Zorgverkeer B.V."
+  },
+  {
+    "Code": "028001",
+    "Description": "Oazis"
+  },
+  {
+    "Code": "028201",
+    "Description": "ZorgDomein Nederland B.V."
+  },
+  {
+    "Code": "028401",
+    "Description": "Xlab Cloud Services B.V."
+  },
+  {
+    "Code": "028501",
+    "Description": "Vaccinatieregister B.V."
+  },
+  {
+    "Code": "028701",
+    "Description": "Ditips B.V."
+  },
+  {
+    "Code": "029001",
+    "Description": "Crossmarx B.V."
+  },
+  {
+    "Code": "029101",
+    "Description": "Rem Automatisering B.V."
+  },
+  {
+    "Code": "029201",
+    "Description": "Inno 3D"
+  },
+  {
+    "Code": "029301",
+    "Description": "Lost Lemon B.V."
+  },
+  {
+    "Code": "029401",
+    "Description": "Qaleido International B.V."
+  },
+  {
+    "Code": "029501",
+    "Description": "Declareasy B.V."
+  },
+  {
+    "Code": "029601",
+    "Description": "FarMedvisie B.V."
+  },
+  {
+    "Code": "029801",
+    "Description": "Lateralus B.V."
+  },
+  {
+    "Code": "029901",
+    "Description": "Code24 B.V."
+  },
+  {
+    "Code": "030001",
+    "Description": "Softstar B.V."
+  },
+  {
+    "Code": "030101",
+    "Description": "YourFlow B.V."
+  },
+  {
+    "Code": "030201",
+    "Description": "Solit Application Development"
+  },
+  {
+    "Code": "030202",
+    "Description": "Solit Application Development"
+  },
+  {
+    "Code": "030301",
+    "Description": "Itzos Care B.V."
+  },
+  {
+    "Code": "030401",
+    "Description": "Umance B.V."
+  },
+  {
+    "Code": "030501",
+    "Description": "Simac Obec B.V."
+  },
+  {
+    "Code": "030601",
+    "Description": "Ledger Leopard B.V."
+  },
+  {
+    "Code": "030701",
+    "Description": "FourD"
+  },
+  {
+    "Code": "030801",
+    "Description": "Danthas B.V."
+  },
+  {
+    "Code": "031001",
+    "Description": "Solviteers Softwareontwikkeling B.V."
+  },
+  {
+    "Code": "031101",
+    "Description": "New Chapter"
+  },
+  {
+    "Code": "031201",
+    "Description": "Landmerc B.V."
+  },
+  {
+    "Code": "031301",
+    "Description": "Transvision B.V."
+  },
+  {
+    "Code": "031601",
+    "Description": "Magic Benelux B.V."
+  },
+  {
+    "Code": "032101",
+    "Description": "CNS Connect B.V."
+  },
+  {
+    "Code": "032201",
+    "Description": "Pulse Business Solutions B.V."
+  },
+  {
+    "Code": "999801",
+    "Description": "Eigen organisatie of andere organisatie die software exclusief voor één of enkele partijen maakt"
+  }
+]

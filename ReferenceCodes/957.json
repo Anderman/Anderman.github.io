@@ -1,0 +1,254 @@
+[
+  {
+    "Code": "002",
+    "Description": "Waarde rubriek: ten onrechte ingevuld"
+  },
+  {
+    "Code": "003",
+    "Description": "Waarde rubriek: niet numeriek"
+  },
+  {
+    "Code": "004",
+    "Description": "Waarde rubriek: niet alfabetisch"
+  },
+  {
+    "Code": "005",
+    "Description": "Waarde rubriek: onder minimum"
+  },
+  {
+    "Code": "006",
+    "Description": "Waarde rubriek: boven maximum"
+  },
+  {
+    "Code": "007",
+    "Description": "Waarde rubriek: ongeldig"
+  },
+  {
+    "Code": "008",
+    "Description": "Niet correct"
+  },
+  {
+    "Code": "051",
+    "Description": "Onjuiste datum: onbestaanbare datum"
+  },
+  {
+    "Code": "052",
+    "Description": "Onjuiste datum: datum valt vroeger dan is toegestaan"
+  },
+  {
+    "Code": "053",
+    "Description": "Onjuiste datum: datum valt later dan is toegestaan"
+  },
+  {
+    "Code": "054",
+    "Description": "Onjuiste datum: begindatum en einddatum corresponderen niet met elkaar"
+  },
+  {
+    "Code": "100",
+    "Description": "Niet verzekerd"
+  },
+  {
+    "Code": "101",
+    "Description": "Niet verzekerd voor de hoofdverzekering"
+  },
+  {
+    "Code": "102",
+    "Description": "Niet verzekerd voor de aanvullende verzekering"
+  },
+  {
+    "Code": "104",
+    "Description": "Patiënt is niet gedurende de gehele periode verzekerd, correctie uitgevoerd"
+  },
+  {
+    "Code": "108",
+    "Description": "Niet bekend"
+  },
+  {
+    "Code": "110",
+    "Description": "BSN komt niet overeen met verzekerdengegeven."
+  },
+  {
+    "Code": "120",
+    "Description": "Verzekerdennummer komt niet overeen met verzekerdengegeven."
+  },
+  {
+    "Code": "140",
+    "Description": "Cliënt is niet verzekerd wegens overlijden"
+  },
+  {
+    "Code": "160",
+    "Description": "Niet bekend als zorgverlener"
+  },
+  {
+    "Code": "161",
+    "Description": "Geen zorgverlener op behandelingsdatum"
+  },
+  {
+    "Code": "162",
+    "Description": "Zorgverlener hiervoor niet erkend of bevoegd"
+  },
+  {
+    "Code": "163",
+    "Description": "Geen zorgverlener op datum toestemmingsaanvraag"
+  },
+  {
+    "Code": "164",
+    "Description": "Behandeling/verrichting niet toegestaan in uw praktijk"
+  },
+  {
+    "Code": "165",
+    "Description": "Geen relatie bekend tussen zorgverlener in voorlooprecord en praktijk in voorlooprecord"
+  },
+  {
+    "Code": "200",
+    "Description": "Voldoet niet aan de normen voor deze behandeling/verrichting"
+  },
+  {
+    "Code": "201",
+    "Description": "Niet toegestaan voor deze verrichting"
+  },
+  {
+    "Code": "202",
+    "Description": "Niet toegestaan i.v.m. leeftijd patiënt"
+  },
+  {
+    "Code": "208",
+    "Description": "Prestatiecode niet bekend"
+  },
+  {
+    "Code": "209",
+    "Description": "Aantal prestaties niet akkoord"
+  },
+  {
+    "Code": "210",
+    "Description": "Prestatie is afgewezen; voor meer informatie, neem contact op met de zorgverzekeraar"
+  },
+  {
+    "Code": "351",
+    "Description": "Verkeerd tarief gehanteerd"
+  },
+  {
+    "Code": "352",
+    "Description": "Reeds gedeclareerd"
+  },
+  {
+    "Code": "353",
+    "Description": "Niet declarabel voor de opgegeven waarde"
+  },
+  {
+    "Code": "356",
+    "Description": "Maximum te claimen bedrag of aantal voor deze verrichting is al gedeclareerd"
+  },
+  {
+    "Code": "357",
+    "Description": "Declaratie is te laat ingediend"
+  },
+  {
+    "Code": "362",
+    "Description": "Bedrag niet accoord"
+  },
+  {
+    "Code": "363",
+    "Description": "Voor deze cliënt is reeds voor de aanggeven datum-tijd gefactureerd door een (andere) zorgverlener of (afdeling van uw) instelling"
+  },
+  {
+    "Code": "364",
+    "Description": "Passantentarief mag niet gedeclareerd worden"
+  },
+  {
+    "Code": "365",
+    "Description": "Inschrijftarief is dit kwartaal reeds betaald aan een andere huisarts"
+  },
+  {
+    "Code": "366",
+    "Description": "Verzekerde staat op naam andere huisarts ingeschreven."
+  },
+  {
+    "Code": "367",
+    "Description": "Declaratie inschrijftarief niet toegestaan"
+  },
+  {
+    "Code": "368",
+    "Description": "Deze prestatie valt niet onder het contract"
+  },
+  {
+    "Code": "371",
+    "Description": "Creditering fout: factuur onbekend"
+  },
+  {
+    "Code": "372",
+    "Description": "Creditering fout: subfactuur onbekend"
+  },
+  {
+    "Code": "373",
+    "Description": "Creditering fout: factuurregel onbekend"
+  },
+  {
+    "Code": "374",
+    "Description": "Inschrijftarief incorrect ivm met leeftijd"
+  },
+  {
+    "Code": "375",
+    "Description": "Inschrijftarief incorrect ivm achterstandswijk"
+  },
+  {
+    "Code": "380",
+    "Description": "Verzekerde is niet op de naam van de desbetreffende huisarts ingeschreven."
+  },
+  {
+    "Code": "381",
+    "Description": "Debetregel en identieke creditregel in hetzelfde bestand is niet toegestaan"
+  },
+  {
+    "Code": "382",
+    "Description": "Berekend bedrag mag niet lager zijn dan gedeclareerd bedrag"
+  },
+  {
+    "Code": "383",
+    "Description": "Indicaties Debet/Credit mogen niet verschillend zijn binnen één record"
+  },
+  {
+    "Code": "500",
+    "Description": "Niet in overeenstemming met afgegeven toestemmingsverklaring"
+  },
+  {
+    "Code": "501",
+    "Description": "Niet in overeenstemming met de verzekeringsgegevens toestemmingsverklaring"
+  },
+  {
+    "Code": "502",
+    "Description": "Geen toestemmingsverklaring afgegeven"
+  },
+  {
+    "Code": "503",
+    "Description": "Toestemmingsverklaring is vervallen"
+  },
+  {
+    "Code": "504",
+    "Description": "Valt buiten de gemachtigde periode"
+  },
+  {
+    "Code": "505",
+    "Description": "Reeds toestemming afgegeven"
+  },
+  {
+    "Code": "506",
+    "Description": "Patiënt ziet af van behandeling"
+  },
+  {
+    "Code": "507",
+    "Description": "Toestemming vervalt op verzoek zorgverlener"
+  },
+  {
+    "Code": "508",
+    "Description": "Toestemming nog niet verleend, verzekerde verscheen nog niet op het spreekuur medische dienst zorgverlener"
+  },
+  {
+    "Code": "509",
+    "Description": "Cliëntnummer patiënt van zorgverlener niet in overeenstemming met die op de melding"
+  },
+  {
+    "Code": "510",
+    "Description": "Declaratie betreft geen Zvw-zorg"
+  }
+]

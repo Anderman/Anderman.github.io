@@ -1,0 +1,30 @@
+[
+  {
+    "Code": "02",
+    "Description": "Week"
+  },
+  {
+    "Code": "03",
+    "Description": "Twee weken"
+  },
+  {
+    "Code": "04",
+    "Description": "Vier weken"
+  },
+  {
+    "Code": "05",
+    "Description": "Maand"
+  },
+  {
+    "Code": "06",
+    "Description": "Kwartaal"
+  },
+  {
+    "Code": "07",
+    "Description": "Half jaar"
+  },
+  {
+    "Code": "08",
+    "Description": "Jaar"
+  }
+]

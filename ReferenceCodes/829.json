@@ -1,0 +1,22 @@
+[
+  {
+    "Code": "1",
+    "Description": "Eigen naam"
+  },
+  {
+    "Code": "2",
+    "Description": "Naam echtgenoot of geregistreerd partner of alternatieve naam"
+  },
+  {
+    "Code": "3",
+    "Description": "Naam echtgenoot of geregistreerd partner gevolgd door eigen naam"
+  },
+  {
+    "Code": "4",
+    "Description": "Eigen naam gevolgd door naam echtgenoot of geregistreerd partner"
+  },
+  {
+    "Code": "5",
+    "Description": "Pseudoniem"
+  }
+]

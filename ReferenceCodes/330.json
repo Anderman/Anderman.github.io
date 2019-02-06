@@ -1,0 +1,18 @@
+[
+  {
+    "Code": "02",
+    "Description": "Diskette"
+  },
+  {
+    "Code": "03",
+    "Description": "CD-rom"
+  },
+  {
+    "Code": "04",
+    "Description": "Batch (internet)"
+  },
+  {
+    "Code": "05",
+    "Description": "Real-time (internet)"
+  }
+]

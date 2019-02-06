@@ -1,0 +1,66 @@
+[
+  {
+    "Code": "02",
+    "Description": "Cliënt uitbehandeld (behandeldoel bereikt)"
+  },
+  {
+    "Code": "03",
+    "Description": "(nog) geen machtiging voor verlenging van de behandeling"
+  },
+  {
+    "Code": "04",
+    "Description": "Cliënt is opgenomen in een instelling"
+  },
+  {
+    "Code": "05",
+    "Description": "Niet-chronische aandoening is chronische aandoening geworden"
+  },
+  {
+    "Code": "06",
+    "Description": "Chronische aandoening is niet-chronische aandoening geworden"
+  },
+  {
+    "Code": "10",
+    "Description": "Cliënt is op eigen initiatief gestopt"
+  },
+  {
+    "Code": "11",
+    "Description": "Cliënt is verhuisd"
+  },
+  {
+    "Code": "12",
+    "Description": "Cliënt is overleden"
+  },
+  {
+    "Code": "20",
+    "Description": "Cliënt is niet meer verzekerd voor deze zorg"
+  },
+  {
+    "Code": "21",
+    "Description": "Cliënt is overgegaan naar een andere zorgverzekeraar"
+  },
+  {
+    "Code": "30",
+    "Description": "Verwijzer stopte de behandeling"
+  },
+  {
+    "Code": "40",
+    "Description": "Paramedicus (behandelaar) stopte de behandeling"
+  },
+  {
+    "Code": "41",
+    "Description": "Patiënt is overgegaan naar een andere behandelaar"
+  },
+  {
+    "Code": "50",
+    "Description": "Eenmalig onderzoek"
+  },
+  {
+    "Code": "51",
+    "Description": "Screening zonder behandelvervolg"
+  },
+  {
+    "Code": "99",
+    "Description": "Behandeling wegens onbekende reden beëindigd"
+  }
+]

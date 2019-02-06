@@ -1,0 +1,14 @@
+[
+  {
+    "Code": "1",
+    "Description": "MANNELIJK"
+  },
+  {
+    "Code": "2",
+    "Description": "VROUWELIJK"
+  },
+  {
+    "Code": "9",
+    "Description": "NIET GESPECIFICEERD"
+  }
+]

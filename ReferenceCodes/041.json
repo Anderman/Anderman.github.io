@@ -1,0 +1,34 @@
+[
+  {
+    "Code": "D",
+    "Description": "Distaal"
+  },
+  {
+    "Code": "I",
+    "Description": "Incisaal"
+  },
+  {
+    "Code": "L",
+    "Description": "Labiaal"
+  },
+  {
+    "Code": "LI",
+    "Description": "Linguaal"
+  },
+  {
+    "Code": "M",
+    "Description": "Mesiaal"
+  },
+  {
+    "Code": "O",
+    "Description": "Occlusaal"
+  },
+  {
+    "Code": "P",
+    "Description": "Palatinaal"
+  },
+  {
+    "Code": "V",
+    "Description": "Vestibulair"
+  }
+]

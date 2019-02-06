@@ -1,0 +1,78 @@
+[
+  {
+    "Code": "CM",
+    "Description": "Centimeter"
+  },
+  {
+    "Code": "DO",
+    "Description": "Dosis"
+  },
+  {
+    "Code": "DR",
+    "Description": "Druppel"
+  },
+  {
+    "Code": "E",
+    "Description": "Eenheid"
+  },
+  {
+    "Code": "G",
+    "Description": "Gram"
+  },
+  {
+    "Code": "IE",
+    "Description": "Internationale eenheid"
+  },
+  {
+    "Code": "KG",
+    "Description": "Kilogram"
+  },
+  {
+    "Code": "L",
+    "Description": "Liter"
+  },
+  {
+    "Code": "M",
+    "Description": "Meter"
+  },
+  {
+    "Code": "ME",
+    "Description": "Mega-eenheid"
+  },
+  {
+    "Code": "MG",
+    "Description": "Milligram"
+  },
+  {
+    "Code": "MI",
+    "Description": "MILLIMOL"
+  },
+  {
+    "Code": "ML",
+    "Description": "Milliliter"
+  },
+  {
+    "Code": "MM",
+    "Description": "Millimeter"
+  },
+  {
+    "Code": "MQ",
+    "Description": "MEGABEQUEREL"
+  },
+  {
+    "Code": "ST",
+    "Description": "Stuk"
+  },
+  {
+    "Code": "UG",
+    "Description": "Microgram"
+  },
+  {
+    "Code": "UL",
+    "Description": "Microliter"
+  },
+  {
+    "Code": "VP",
+    "Description": "Verpakking"
+  }
+]

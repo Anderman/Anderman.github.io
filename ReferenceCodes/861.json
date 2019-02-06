@@ -1,0 +1,18 @@
+[
+  {
+    "Code": "2",
+    "Description": "Werkgeverscollectvitiet"
+  },
+  {
+    "Code": "3",
+    "Description": "Collectiviteit waarvan het type onbekend is bij de zorgverzekeraar"
+  },
+  {
+    "Code": "4",
+    "Description": "CVZ-collectiviteit"
+  },
+  {
+    "Code": "9",
+    "Description": "Geen collectiviteit"
+  }
+]

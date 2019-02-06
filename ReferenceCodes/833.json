@@ -1,0 +1,18 @@
+[
+  {
+    "Code": "02",
+    "Description": "Zorgverlener"
+  },
+  {
+    "Code": "03",
+    "Description": "Praktijk"
+  },
+  {
+    "Code": "04",
+    "Description": "Instelling"
+  },
+  {
+    "Code": "99",
+    "Description": "Onbekend"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "Code": "122",
+    "Description": "TBS met dwangverpleging (art. 37a Sr)"
+  },
+  {
+    "Code": "123",
+    "Description": "Overplaatsing vanuit TBS-kliniek (art. 14 Bvt)"
+  },
+  {
+    "Code": "124",
+    "Description": "Plaatsing ter observatie (art. 13 Bvt)"
+  },
+  {
+    "Code": "125",
+    "Description": "TBS met proefverlof (art. 51 Bvt)"
+  },
+  {
+    "Code": "126",
+    "Description": "Voorwaardelijke beëindiging van de verpleging van overheidswege (art. 38 g Sr)"
+  },
+  {
+    "Code": "127",
+    "Description": "TBS met voorwaarden (art. 38a Sr)"
+  },
+  {
+    "Code": "128",
+    "Description": "Voorwaardelijke veroordeling (art. 14a WvSr)"
+  },
+  {
+    "Code": "129",
+    "Description": "Sepot met voorwaarden (art. 167 / 244 lid 3 Sv)"
+  },
+  {
+    "Code": "130",
+    "Description": "Schorsing voorlopige hechtenis met voorwaarden (art. 80 Sv)"
+  },
+  {
+    "Code": "131",
+    "Description": "Voorwaardelijke gratieverlening (art. 13 Gratiewet jo. 558 Sv)"
+  },
+  {
+    "Code": "132",
+    "Description": "Plaatsing t.b.v. pro-justitia rapportage (art. 196 / 317 WvSv)"
+  },
+  {
+    "Code": "133",
+    "Description": "Plaatsing in een psychiatrisch ziekenhuis van een gedetineerde met toepassing van art. 15 lid 5 van de Pbw"
+  },
+  {
+    "Code": "134",
+    "Description": "Overbrenging van een gedetineerde op basis van artikel 43 lid 3 van de Pbw"
+  },
+  {
+    "Code": "135",
+    "Description": "ISD met voorwaarden (artikel 38p lid 5 Sr)"
+  },
+  {
+    "Code": "136",
+    "Description": "ISD (art. 38 m Sr)"
+  },
+  {
+    "Code": "137",
+    "Description": "Penitentiair programma met zorg (art. 5 Pm)"
+  },
+  {
+    "Code": "138",
+    "Description": "Interne overplaatsing op zorgafdeling in het gevangeniswezen"
+  },
+  {
+    "Code": "140",
+    "Description": "Poliklinische verrichtingen door GGZ in het gevangeniswezen"
+  },
+  {
+    "Code": "141",
+    "Description": "Voorwaardelijke Invrijheidsstelling met bijzondere voorwaarden (art. 15a Sr)"
+  },
+  {
+    "Code": "142",
+    "Description": "Strafbeschikking met aanwijzingen (art. 257 lid 3 Sv)"
+  },
+  {
+    "Code": "143",
+    "Description": "Voorgenomen indicatiebesluit"
+  },
+  {
+    "Code": "144",
+    "Description": "FPT Proefverlof"
+  },
+  {
+    "Code": "145",
+    "Description": "FPT Voorwaardelijke beëindiging"
+  },
+  {
+    "Code": "146",
+    "Description": "Verdiepingsdiagnostiek"
+  },
+  {
+    "Code": "148",
+    "Description": "Voorlopige verpleging (art 509i Sv)"
+  },
+  {
+    "Code": "149",
+    "Description": "Bevel aanhouding (art 509h Sv)"
+  },
+  {
+    "Code": "151",
+    "Description": "Zelfstandige gedragsbeinvloedende en vrijheidsbeperkende maatregel (art. 38z SR jo. Art. 38ab Sr)"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Code": "01",
+    "Description": "Toeslag persoonlijk hoogleraarbehandeling"
+  },
+  {
+    "Code": "02",
+    "Description": "Assistentie medisch specialist"
+  },
+  {
+    "Code": "03",
+    "Description": "Assistentie arts"
+  },
+  {
+    "Code": "04",
+    "Description": "Nachttoeslag"
+  },
+  {
+    "Code": "05",
+    "Description": "Weekendtoeslag"
+  },
+  {
+    "Code": "06",
+    "Description": "Nachtweekendtoeslag"
+  },
+  {
+    "Code": "07",
+    "Description": "Toeslag prestaties verricht buiten ziekenhuis, cf. tariefbeschikking"
+  },
+  {
+    "Code": "08",
+    "Description": "Toeslag medisch specialist in loondienst"
+  },
+  {
+    "Code": "09",
+    "Description": "Toeslag lumpsum (lokaal initiatief)"
+  }
+]

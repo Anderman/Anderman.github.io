@@ -1,0 +1,46 @@
+[
+  {
+    "Code": "02",
+    "Description": "Aanspraak, niet preferent middel geleverd wegens logistieke noodzaak"
+  },
+  {
+    "Code": "03",
+    "Description": "Aanspraak, niet preferent middel wegens medische noodzaak"
+  },
+  {
+    "Code": "04",
+    "Description": "Bijlage 2 middel"
+  },
+  {
+    "Code": "05",
+    "Description": "Verzekerde voldoet aan de aanspraakvoorwaarden"
+  },
+  {
+    "Code": "06",
+    "Description": "Verbandmiddel chronisch gebruik bij ernstige aandoeningen"
+  },
+  {
+    "Code": "07",
+    "Description": "Verzekerde voldoet niet aan de aanspraakvoorwaarden"
+  },
+  {
+    "Code": "08",
+    "Description": "Geen aanspraak, niet preferent middel geleverd wegens logistieke noodzaak."
+  },
+  {
+    "Code": "09",
+    "Description": "Geen aanspraak, niet preferent middel geleverd wegens medische noodzaak"
+  },
+  {
+    "Code": "10",
+    "Description": "Alleen GVS-bijdrage"
+  },
+  {
+    "Code": "11",
+    "Description": "Zelfzorgmiddel, niet preferent middel geleverd wegens logistieke noodzaak"
+  },
+  {
+    "Code": "12",
+    "Description": "Zelfzorgmiddel, niet preferent middel geleverd wegens medische noodzaak"
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "Code": "0110",
+    "Description": "CIZ locatie Sellingen"
+  },
+  {
+    "Code": "0120",
+    "Description": "CIZ locatie Nieuwe Pekela"
+  },
+  {
+    "Code": "0130",
+    "Description": "CIZ locatie Bedum"
+  },
+  {
+    "Code": "0140",
+    "Description": "CIZ locatie Groningen"
+  },
+  {
+    "Code": "0141",
+    "Description": "CIZ locatie Hoogezand"
+  },
+  {
+    "Code": "0142",
+    "Description": "CIZ locatie Leek"
+  },
+  {
+    "Code": "0200",
+    "Description": "CIZ Regiobureau Leeuwarden"
+  },
+  {
+    "Code": "0210",
+    "Description": "CIZ locatie Leeuwarden"
+  },
+  {
+    "Code": "0220",
+    "Description": "CIZ Locatie Sneek"
+  },
+  {
+    "Code": "0230",
+    "Description": "CIZ locatie Drachten"
+  },
+  {
+    "Code": "0300",
+    "Description": "CIZ Drenthe"
+  },
+  {
+    "Code": "0310",
+    "Description": "CIZ locatie Norg"
+  },
+  {
+    "Code": "0320",
+    "Description": "CIZ locatie Emmen"
+  },
+  {
+    "Code": "0330",
+    "Description": "CIZ locatie Dwingelo"
+  },
+  {
+    "Code": "0400",
+    "Description": "CIZ Zwolle"
+  },
+  {
+    "Code": "0410",
+    "Description": "CIZ locatie Zwolle"
+  },
+  {
+    "Code": "0420",
+    "Description": "CIZ locatie Harderwijk"
+  },
+  {
+    "Code": "0500",
+    "Description": "CIZ Twente"
+  },
+  {
+    "Code": "0510",
+    "Description": "CIZ locatie Almelo"
+  },
+  {
+    "Code": "0520",
+    "Description": "CIZ locatie Hengelo"
+  },
+  {
+    "Code": "0530",
+    "Description": "CIZ locatie Enschede"
+  },
+  {
+    "Code": "0600",
+    "Description": "CIZ Deventer Apeldoorn"
+  },
+  {
+    "Code": "0610",
+    "Description": "Regionaal indicatieorgaan Zutphen e.o."
+  },
+  {
+    "Code": "0620",
+    "Description": "Stichting Het Scharfshuis"
+  },
+  {
+    "Code": "0630",
+    "Description": "CIZ locatie Apeldoorn"
+  },
+  {
+    "Code": "0700",
+    "Description": "CIZ Gelderland"
+  },
+  {
+    "Code": "0710",
+    "Description": "CIZ locatie Doetinchem"
+  },
+  {
+    "Code": "0720",
+    "Description": "CIZ locatie Groenlo"
+  },
+  {
+    "Code": "0730",
+    "Description": "CIZ locatie Arnhem"
+  },
+  {
+    "Code": "0740",
+    "Description": "St. indicatieorgaan Renkum"
+  },
+  {
+    "Code": "0750",
+    "Description": "CIZ locatie Rheden"
+  },
+  {
+    "Code": "0760",
+    "Description": "CIZ locatie Duiven"
+  },
+  {
+    "Code": "0770",
+    "Description": "CIZ locatie Huissen"
+  },
+  {
+    "Code": "0780",
+    "Description": "RIO Gelderse Vallei"
+  },
+  {
+    "Code": "0790",
+    "Description": "CIZ locatie Ede"
+  },
+  {
+    "Code": "0800",
+    "Description": "CIZ Nijmegen Tiel"
+  },
+  {
+    "Code": "0810",
+    "Description": "CIZ locatie Nijmegen"
+  },
+  {
+    "Code": "0820",
+    "Description": "CIZ locatie Tiel"
+  },
+  {
+    "Code": "0900",
+    "Description": "CIZ Utrecht"
+  },
+  {
+    "Code": "0910",
+    "Description": "CIZ locatie Amersfoort"
+  },
+  {
+    "Code": "0920",
+    "Description": "RIO De Bilt Zeist"
+  },
+  {
+    "Code": "0930",
+    "Description": "RIO Zuidoost Utrecht oost"
+  },
+  {
+    "Code": "0940",
+    "Description": "RIO Zuidoost Utrecht"
+  },
+  {
+    "Code": "0950",
+    "Description": "CIZ locatie Utrecht"
+  },
+  {
+    "Code": "0960",
+    "Description": "Stichting RIO ZWU"
+  },
+  {
+    "Code": "0970",
+    "Description": "RIO West Utrecht"
+  },
+  {
+    "Code": "0980",
+    "Description": "CIZ locatie Heuvelrug"
+  },
+  {
+    "Code": "0981",
+    "Description": "CIZ locatie Zeist"
+  },
+  {
+    "Code": "0982",
+    "Description": "CIZ locatie Maarn"
+  },
+  {
+    "Code": "0983",
+    "Description": "CIZ locatie Veenendaal"
+  },
+  {
+    "Code": "0990",
+    "Description": "CIZ locatie IJsselstein"
+  },
+  {
+    "Code": "1000",
+    "Description": "CIZ Flevoland Almere"
+  },
+  {
+    "Code": "1010",
+    "Description": "CIZ locatie Lelystad"
+  },
+  {
+    "Code": "1020",
+    "Description": "CIZ locatie Almere"
+  },
+  {
+    "Code": "1100",
+    "Description": "CIZ locatie Hilversum"
+  },
+  {
+    "Code": "1200",
+    "Description": "CIZ locatie Noord-Holland Noord"
+  },
+  {
+    "Code": "1210",
+    "Description": "CIZ locatie Hoorn"
+  },
+  {
+    "Code": "1220",
+    "Description": "CIZ locatie Alkmaar"
+  },
+  {
+    "Code": "1230",
+    "Description": "CIZ locatie Den Helder"
+  },
+  {
+    "Code": "1240",
+    "Description": "CIZ locatie Den Helder (Texel Wieringen)"
+  },
+  {
+    "Code": "1300",
+    "Description": "CIZ Haarlem Beverwijk"
+  },
+  {
+    "Code": "1310",
+    "Description": "CIZ locatie Beverwijk"
+  },
+  {
+    "Code": "1320",
+    "Description": "CIZ locatie Haarlem"
+  },
+  {
+    "Code": "1400",
+    "Description": "CIZ Purmerend Zaandam"
+  },
+  {
+    "Code": "1410",
+    "Description": "CIZ locatie Purmerend"
+  },
+  {
+    "Code": "1420",
+    "Description": "CIZ locatie Zaandam"
+  },
+  {
+    "Code": "1500",
+    "Description": "CIZ locatie Amsterdam"
+  },
+  {
+    "Code": "1600",
+    "Description": "CIZ locatie Amstelveen"
+  },
+  {
+    "Code": "1700",
+    "Description": "CIZ Zuid-Holland Zuid"
+  },
+  {
+    "Code": "1710",
+    "Description": "CIZ locatie Noordwijk"
+  },
+  {
+    "Code": "1720",
+    "Description": "CIZ locatie Alphen aan den Rijn"
+  },
+  {
+    "Code": "1730",
+    "Description": "CIZ locatie Leiderdorp"
+  },
+  {
+    "Code": "1800",
+    "Description": "CIZ regio Den Haag"
+  },
+  {
+    "Code": "1810",
+    "Description": "CIZ locatie Voorburg"
+  },
+  {
+    "Code": "1820",
+    "Description": "CIZ locatie Den Haag"
+  },
+  {
+    "Code": "1830",
+    "Description": "CIZ locatie Zoetermeer"
+  },
+  {
+    "Code": "1840",
+    "Description": "CIZ locatie Holland West"
+  },
+  {
+    "Code": "1900",
+    "Description": "CIZ Delft"
+  },
+  {
+    "Code": "1910",
+    "Description": "CIZ locatie Delft"
+  },
+  {
+    "Code": "1920",
+    "Description": "CIZ locatie Bergschenhoek"
+  },
+  {
+    "Code": "2000",
+    "Description": "CIZ locatie Gouda"
+  },
+  {
+    "Code": "2100",
+    "Description": "CIZ regio Rotterdam"
+  },
+  {
+    "Code": "2110",
+    "Description": "CIZ locatie Rotterdam"
+  },
+  {
+    "Code": "2120",
+    "Description": "CIZ locatie Capelle aan den IJssel"
+  },
+  {
+    "Code": "2200",
+    "Description": "CIZ locatie Schiedam"
+  },
+  {
+    "Code": "2300",
+    "Description": "CIZ locatie Ridderkerk"
+  },
+  {
+    "Code": "2310",
+    "Description": "RIOBAR"
+  },
+  {
+    "Code": "2320",
+    "Description": "RIO Voorne, Putten en Rozenburg"
+  },
+  {
+    "Code": "2330",
+    "Description": "RIO Hoekse Waard"
+  },
+  {
+    "Code": "2340",
+    "Description": "RIO Goeree-Overflakkee"
+  },
+  {
+    "Code": "2400",
+    "Description": "CIZ Gorinchem Dordrecht"
+  },
+  {
+    "Code": "2410",
+    "Description": "CIZ locatie Gorinchem"
+  },
+  {
+    "Code": "2420",
+    "Description": "CIZ locatie Dordrecht"
+  },
+  {
+    "Code": "2500",
+    "Description": "CIZ Zeeland"
+  },
+  {
+    "Code": "2510",
+    "Description": "CIZ locatie Goes"
+  },
+  {
+    "Code": "2520",
+    "Description": "CIZ locatie Vlissingen"
+  },
+  {
+    "Code": "2530",
+    "Description": "CIZ locatie Terneuzen"
+  },
+  {
+    "Code": "2540",
+    "Description": "CIZ locatie Sint Maartensdijk"
+  },
+  {
+    "Code": "2600",
+    "Description": "CIZ Noord-Brabant West"
+  },
+  {
+    "Code": "2610",
+    "Description": "CIZ locatie Wouw"
+  },
+  {
+    "Code": "2620",
+    "Description": "CIZ locatie Breda"
+  },
+  {
+    "Code": "2630",
+    "Description": "CIZ locatie Almkerk"
+  },
+  {
+    "Code": "2700",
+    "Description": "CIZ locatie Tilburg"
+  },
+  {
+    "Code": "2800",
+    "Description": "CIZ Noord-Brabant Noord"
+  },
+  {
+    "Code": "2810",
+    "Description": "CIZ locatie Den Bosch"
+  },
+  {
+    "Code": "2820",
+    "Description": "CIZ locatie Oss"
+  },
+  {
+    "Code": "2900",
+    "Description": "CIZ locatie Veldhoven"
+  },
+  {
+    "Code": "2910",
+    "Description": "RIO Eindhoven"
+  },
+  {
+    "Code": "2920",
+    "Description": "RIO Groot Kemperland"
+  },
+  {
+    "Code": "2930",
+    "Description": "RIO Helmond e.o."
+  },
+  {
+    "Code": "3000",
+    "Description": "CIZ Limburg Midden Noord"
+  },
+  {
+    "Code": "3010",
+    "Description": "CIZ locatie Horst"
+  },
+  {
+    "Code": "3020",
+    "Description": "CIZ locatie Roermond"
+  },
+  {
+    "Code": "3100",
+    "Description": "CIZ Limburg Zuid"
+  },
+  {
+    "Code": "3110",
+    "Description": "CIZ locatie Geleen"
+  },
+  {
+    "Code": "3120",
+    "Description": "CIZ locatie Heerlen"
+  },
+  {
+    "Code": "3130",
+    "Description": "LIO Landgraaf"
+  },
+  {
+    "Code": "3140",
+    "Description": "CIZ locatie Maastricht"
+  },
+  {
+    "Code": "3200",
+    "Description": "CIZ locatie Deventer"
+  }
+]

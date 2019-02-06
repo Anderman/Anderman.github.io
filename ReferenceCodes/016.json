@@ -1,0 +1,2386 @@
+[
+  {
+    "Code": "0101",
+    "Description": "Huisartsen, niet apotheekhoudend"
+  },
+  {
+    "Code": "0102",
+    "Description": "Huisarts, medicatiebeoordeling chronisch UR-geneesmiddelgebruik"
+  },
+  {
+    "Code": "0110",
+    "Description": "Huisartsen, apotheekhoudend"
+  },
+  {
+    "Code": "0111",
+    "Description": "Huisartsen, niet apotheekhoudend, medicatiebeoordeling"
+  },
+  {
+    "Code": "0112",
+    "Description": "Huisartsen, Apotheekhoudend, medicatiebeoordeling"
+  },
+  {
+    "Code": "0120",
+    "Description": "Alternatieve huisartsen"
+  },
+  {
+    "Code": "0200",
+    "Description": "Apothekers"
+  },
+  {
+    "Code": "0201",
+    "Description": "Apotheker, medicatiebeoordeling chronisch UR-geneesmiddelgebruik"
+  },
+  {
+    "Code": "0300",
+    "Description": "Medisch specialisten, niet nader gespecificeerd"
+  },
+  {
+    "Code": "0301",
+    "Description": "Medisch specialisten, oogheelkunde"
+  },
+  {
+    "Code": "0302",
+    "Description": "Medisch specialisten, keel-, neus- en oorheelkunde"
+  },
+  {
+    "Code": "0303",
+    "Description": "Medisch specialisten, chirurgie"
+  },
+  {
+    "Code": "0304",
+    "Description": "Medisch specialisten, plastische chirurgie"
+  },
+  {
+    "Code": "0305",
+    "Description": "Medisch specialisten, orthopedie"
+  },
+  {
+    "Code": "0306",
+    "Description": "Medisch specialisten, urologie"
+  },
+  {
+    "Code": "0307",
+    "Description": "Medisch specialisten, obstetrie en gynaecologie"
+  },
+  {
+    "Code": "0308",
+    "Description": "Medisch specialisten, neurochirurgie"
+  },
+  {
+    "Code": "0309",
+    "Description": "Medisch specialisten, zenuw - en zielsziekten"
+  },
+  {
+    "Code": "0310",
+    "Description": "Medisch specialisten, dermatologie"
+  },
+  {
+    "Code": "0313",
+    "Description": "Medisch specialisten, inwendige geneeskunde"
+  },
+  {
+    "Code": "0316",
+    "Description": "Medisch specialisten, kindergeneeskunde"
+  },
+  {
+    "Code": "0318",
+    "Description": "Medisch specialisten, gastro-enterologie (maag-darm-lever-arts)"
+  },
+  {
+    "Code": "0320",
+    "Description": "Medisch specialisten, cardiologie"
+  },
+  {
+    "Code": "0322",
+    "Description": "Medisch specialisten, longziekten"
+  },
+  {
+    "Code": "0324",
+    "Description": "Medisch specialisten, reumatologie"
+  },
+  {
+    "Code": "0326",
+    "Description": "Medisch specialisten, allergologie"
+  },
+  {
+    "Code": "0327",
+    "Description": "Medisch specialisten, revalidatie"
+  },
+  {
+    "Code": "0328",
+    "Description": "Medisch specialisten, cardio thoracale chirurgie"
+  },
+  {
+    "Code": "0329",
+    "Description": "Medisch specialisten, psychiatrie"
+  },
+  {
+    "Code": "0330",
+    "Description": "Medisch specialisten, neurologie"
+  },
+  {
+    "Code": "0335",
+    "Description": "Medisch specialisten, geriatrie"
+  },
+  {
+    "Code": "0360",
+    "Description": "Medisch specialisten, radiologie"
+  },
+  {
+    "Code": "0361",
+    "Description": "Medisch specialisten, radiotherapie"
+  },
+  {
+    "Code": "0362",
+    "Description": "Medisch specialisten, radiologie (voorheen radiodiagnostiek)"
+  },
+  {
+    "Code": "0363",
+    "Description": "Medisch specialisten, nucleaire geneeskunde"
+  },
+  {
+    "Code": "0386",
+    "Description": "Medisch specialisten, klinische chemie"
+  },
+  {
+    "Code": "0387",
+    "Description": "Medisch specialisten, medische microbiologie"
+  },
+  {
+    "Code": "0388",
+    "Description": "Medisch specialisten, pathologische anatomie"
+  },
+  {
+    "Code": "0389",
+    "Description": "Medisch specialisten, anaesthesiologie"
+  },
+  {
+    "Code": "0390",
+    "Description": "Medisch specialisten, klinische genetica"
+  },
+  {
+    "Code": "0400",
+    "Description": "Fysiotherapeuten, niet nader gespecificeerd"
+  },
+  {
+    "Code": "0401",
+    "Description": "Fysiotherapeuten, fysiotherapie"
+  },
+  {
+    "Code": "0402",
+    "Description": "Fysiotherapeuten, heilgymnastiek/massage"
+  },
+  {
+    "Code": "0403",
+    "Description": "Fysiotherapeuten, kinderfysiotherapie"
+  },
+  {
+    "Code": "0404",
+    "Description": "Fysiotherapeuten, manuele therapie"
+  },
+  {
+    "Code": "0405",
+    "Description": "Fysiotherapeuten, oedeemtherapie"
+  },
+  {
+    "Code": "0406",
+    "Description": "Fysiotherapeuten, bekkenfysiotherapie"
+  },
+  {
+    "Code": "0407",
+    "Description": "Fysiotherapeuten, fysiotherapie in de geriatrie"
+  },
+  {
+    "Code": "0408",
+    "Description": "Fysiotherapeuten, sportfysiotherapie"
+  },
+  {
+    "Code": "0409",
+    "Description": "Fysiotherapeuten, psychosomatische fysiotherapie"
+  },
+  {
+    "Code": "0410",
+    "Description": "Oro-faciale fysiotherapie"
+  },
+  {
+    "Code": "0411",
+    "Description": "Arbeids- en/of bedrijfsfysiotherapeut"
+  },
+  {
+    "Code": "0412",
+    "Description": "Fysiotherapeuten, Oncologie"
+  },
+  {
+    "Code": "0413",
+    "Description": "Fysiotherapeuten, manuele therapie en heilgymnastiek"
+  },
+  {
+    "Code": "0414",
+    "Description": "Fysiotherapeuten, manuele therapie en sportfysiotherapie"
+  },
+  {
+    "Code": "0415",
+    "Description": "Fysiotherapeuten, manuele therapie en kinderfysiotherapie"
+  },
+  {
+    "Code": "0416",
+    "Description": "Fysiotherapeuten, manuele therapie en oedeemtherapie"
+  },
+  {
+    "Code": "0417",
+    "Description": "Fysiotherapeuten, bekkenfysiotherapie en manuele therapie"
+  },
+  {
+    "Code": "0418",
+    "Description": "Fysiotherapeuten, kinderfysio- en oedeemtherapie"
+  },
+  {
+    "Code": "0419",
+    "Description": "Fysiotherapeuten, kinder- en bekkenfysiotherapie"
+  },
+  {
+    "Code": "0420",
+    "Description": "Fysiotherapeuten, bekkenfysio- en oedeemtherapie"
+  },
+  {
+    "Code": "0421",
+    "Description": "Fysiotherapeuten, fysiotherapie in de geriatrie en oedeemtherapie"
+  },
+  {
+    "Code": "0422",
+    "Description": "Fysiotherapeuten, sportfysio- en oedeemtherapie"
+  },
+  {
+    "Code": "0423",
+    "Description": "Fysiotherapeuten, manuele therapie, kinderfysio- en oedeemtherapie"
+  },
+  {
+    "Code": "0424",
+    "Description": "Fysiotherapeuten, manuele therapie, bekkenfysio- en oedeemtherapie"
+  },
+  {
+    "Code": "0425",
+    "Description": "Fysiotherapeuten, kinderfysio-, bekkenfysiotherapie, en manuele therapie"
+  },
+  {
+    "Code": "0426",
+    "Description": "Fysiotherapeuten, kinderfysio-, bekkenfysio- en oedeemtherapie"
+  },
+  {
+    "Code": "0427",
+    "Description": "Fysiotherapeuten, manuele therapie, kinderfysio-, bekkenfysio- en oedeemtherapie"
+  },
+  {
+    "Code": "0428",
+    "Description": "Fysiotherapeuten, manuele therapie, kinderfysio-, sportfysio-, oedeemtherapie"
+  },
+  {
+    "Code": "0429",
+    "Description": "Fysiotherapeuten, manuele therapie, bekkenfysio-,  sportfysio-, oedeemtherapie, fysiotherapie in de geriatrie"
+  },
+  {
+    "Code": "0430",
+    "Description": "Fysiotherapeuten, manuele therapie, bekkenfysio-, sportfysio- en oedeemtherapie"
+  },
+  {
+    "Code": "0431",
+    "Description": "Fysiotherapeuten, heilgymnastiek/massage en fysiotherapie in de geriatrie"
+  },
+  {
+    "Code": "0432",
+    "Description": "Fysiotherapeuten, heilgymnastiek/massage en sportfysiotherapie"
+  },
+  {
+    "Code": "0433",
+    "Description": "Fysiotherapeuten, manuele therapie, oedeemtherapie, kinder-, bekken- en sportfysiotherapie"
+  },
+  {
+    "Code": "0434",
+    "Description": "Fysiotherapeuten, heilgymnastiek, kinder-, bekken- en sportfysiotherapie, fysiotherapie in de geriatrie"
+  },
+  {
+    "Code": "0435",
+    "Description": "Fysiotherapeuten, manuele therapie, kinder- en sportfysiotherapie"
+  },
+  {
+    "Code": "0436",
+    "Description": "Fysiotherapeuten, manuele therapie, oedeemtherapie en fysiotherapie in de geriatrie"
+  },
+  {
+    "Code": "0437",
+    "Description": "Fysiotherapeuten, manuele therapie, oedeemtherapie, kinder-, bekken- en sportfysiotherapie, fysiotherapie in de geriatrie"
+  },
+  {
+    "Code": "0438",
+    "Description": "Fysiotherapeuten, manuele therapie en fysiotherapie in de geriatrie"
+  },
+  {
+    "Code": "0439",
+    "Description": "Fysiotherapeuten, manuele therapie, bekken- en sportfysiotherapie"
+  },
+  {
+    "Code": "0440",
+    "Description": "Fysiotherapeuten, kinderfysiotherapie en fysiotherapie in de geriatrie"
+  },
+  {
+    "Code": "0441",
+    "Description": "Fysiotherapeuten, psychosomatische fysio- en oedeemtherapie"
+  },
+  {
+    "Code": "0442",
+    "Description": "Fysiotherapeuten, psychosomatische fysiotherapie en manuele therapie"
+  },
+  {
+    "Code": "0443",
+    "Description": "Fysiotherapeuten, Psychosomatische fysio- en bekkentherapie"
+  },
+  {
+    "Code": "0444",
+    "Description": "Fysiotherapeuten, Sportfysio-, kinderfysio-, en oedeemtherapie"
+  },
+  {
+    "Code": "0445",
+    "Description": "Fysiotherapeuten, bekkenfysiotherapie, oedeemtherapie en fysiotherapie in de geriatrie"
+  },
+  {
+    "Code": "0446",
+    "Description": "Fysiotherapeuten, kinderfysiotherapie en psychosomatische fysiotherapie"
+  },
+  {
+    "Code": "0447",
+    "Description": "Fysiotherapeuten, sport- en kinderfysiotherapie"
+  },
+  {
+    "Code": "0448",
+    "Description": "Fysiotherapeuten, fysiotherapie en manuele therapie"
+  },
+  {
+    "Code": "0449",
+    "Description": "Fysiotherapeuten, kinder- en sportfysiotherapie, oedeemtherapie en psychosomatische fysiotherapie"
+  },
+  {
+    "Code": "0450",
+    "Description": "Fysiotherapeuten, fysio- en kinderfysiotherapie"
+  },
+  {
+    "Code": "0451",
+    "Description": "Fysiotherapeuten, psychosomatische-, oedeem-, bekkenfysiotherapie"
+  },
+  {
+    "Code": "0452",
+    "Description": "Fysiotherapeuten, psychosomatische- en sportfysiotherapie"
+  },
+  {
+    "Code": "0453",
+    "Description": "Fysiotherapeuten, heilgymnastiek/massage, oedeemtherapie"
+  },
+  {
+    "Code": "0454",
+    "Description": "Fysiotherapeuten, heilgymnastiek, massage en bekkenfysiotherapie"
+  },
+  {
+    "Code": "0455",
+    "Description": "Fysiotherapeuten, psychosomatische, sportfysio- en manuele therapie"
+  },
+  {
+    "Code": "0456",
+    "Description": "Fysiotherapeuten, heilgymnastiek, massage, geriatrie en psychosomatische fysiotherapie"
+  },
+  {
+    "Code": "0457",
+    "Description": "Fysiotherapeuten, manuele therapie, oedeemtherapie, kinder-, bekkenfysiotherapie en geriatrie"
+  },
+  {
+    "Code": "0458",
+    "Description": "Fysiotherapeuten, manuele therapie, kinderfysiotherapie, oedeemtherapie en geriatrie"
+  },
+  {
+    "Code": "0459",
+    "Description": "Fysiotherapeuten, manuele therapie, bekkenfysiotherapie en geriatrie"
+  },
+  {
+    "Code": "0460",
+    "Description": "Fysiotherapeuten, fysiotherapie, manuele therapie, sportfysiotherapie en geriatrie"
+  },
+  {
+    "Code": "0461",
+    "Description": "Fysiotherapeuten, fysiotherapie en heilgymnastiek/massage"
+  },
+  {
+    "Code": "0462",
+    "Description": "Fysiotherapeuten, fysio- en oedeemtherapie (lympfedrainage)"
+  },
+  {
+    "Code": "0463",
+    "Description": "Fysiotherapeuten, fysio- en bekkenfysiotherapie"
+  },
+  {
+    "Code": "0464",
+    "Description": "Fysiotherapeuten, fysio- en fysiotherapie in de geriatrie"
+  },
+  {
+    "Code": "0465",
+    "Description": "Fysiotherapeuten, fysio- en sportfysiotherapie"
+  },
+  {
+    "Code": "0466",
+    "Description": "Fysiotherapeuten, fysio- en psychosomatische fysiotherapie"
+  },
+  {
+    "Code": "0467",
+    "Description": "Fysiotherapeuten, fysio-, manuele- en kinderfysiotherapie"
+  },
+  {
+    "Code": "0468",
+    "Description": "Fysiotherapeuten, fysio-, manuele- en oedeemtherapie"
+  },
+  {
+    "Code": "0469",
+    "Description": "Fysiotherapeuten, fysio-, manuele- en bekkenfysiotherapie"
+  },
+  {
+    "Code": "0470",
+    "Description": "Fysiotherapeuten, fysio-, kinderfysio- en oedeemtherapie"
+  },
+  {
+    "Code": "0471",
+    "Description": "Fysiotherapeuten, fysio-, kinderfysio- en bekkenfysiotherapie"
+  },
+  {
+    "Code": "0472",
+    "Description": "Fysiotherapeuten, fysio-, oedeem- en bekkentherapie"
+  },
+  {
+    "Code": "0473",
+    "Description": "Fysiotherapeuten, fysio-, oedeem- en geriatrische fysiotherapie"
+  },
+  {
+    "Code": "0474",
+    "Description": "Fysiotherapeuten, fysio- en ora-faciaal therapie"
+  },
+  {
+    "Code": "0475",
+    "Description": "Fysiotherapeuten, fysio-, manueel en ora-faciaal therapie"
+  },
+  {
+    "Code": "0476",
+    "Description": "Fysiotherapeuten, fysio-, manueel en arbeidsfysiotherapie"
+  },
+  {
+    "Code": "0477",
+    "Description": "Fysiotherapeut Leefstijlcoach"
+  },
+  {
+    "Code": "0500",
+    "Description": "Logopedisten, niet nader gespecificeerd"
+  },
+  {
+    "Code": "0501",
+    "Description": "Logopedisten, logopedie"
+  },
+  {
+    "Code": "0502",
+    "Description": "Logopedisten, foniatrie"
+  },
+  {
+    "Code": "0503",
+    "Description": "Logopedisten, stottertherapie"
+  },
+  {
+    "Code": "0504",
+    "Description": "Logopedisten, preverbale therapie"
+  },
+  {
+    "Code": "0505",
+    "Description": "Logopedie, direct toegankelijk / 1e lijn"
+  },
+  {
+    "Code": "0506",
+    "Description": "Logopedisten, afasie"
+  },
+  {
+    "Code": "0507",
+    "Description": "Logopedisten, Hanen-ouderprogramma"
+  },
+  {
+    "Code": "0508",
+    "Description": "Logopedisten, Integraal Zorg Stotteren (IZS)"
+  },
+  {
+    "Code": "0510",
+    "Description": "Logopedisten, logopedie, direct toegankelijk"
+  },
+  {
+    "Code": "0511",
+    "Description": "Logopedisten, foniatrie, direct toegankelijk"
+  },
+  {
+    "Code": "0512",
+    "Description": "Logopedisten, stottertherapie, direct toegankelijk"
+  },
+  {
+    "Code": "0513",
+    "Description": "Logopedisten, preverbale therapie, direct toegankelijk"
+  },
+  {
+    "Code": "0514",
+    "Description": "Logopedisten, afasie, direct toegankelijk"
+  },
+  {
+    "Code": "0515",
+    "Description": "Logopedisten, Hanen-ouderenprogramma, direct toegankelijk"
+  },
+  {
+    "Code": "0516",
+    "Description": "Logopedisten, Integraal Stotteren IZS, direct toegankelijk"
+  },
+  {
+    "Code": "0517",
+    "Description": "Preverbale therapie, Hanen-ouderen programma"
+  },
+  {
+    "Code": "0518",
+    "Description": "Stottertherapie, preverbale therapie"
+  },
+  {
+    "Code": "0519",
+    "Description": "Stottertherapie,Integraal Zorg Stotteren (IZS)"
+  },
+  {
+    "Code": "0520",
+    "Description": "Stottertherapie, Hanen-ouderprogramma"
+  },
+  {
+    "Code": "0521",
+    "Description": "Preverbale therapie, Afasie"
+  },
+  {
+    "Code": "0522",
+    "Description": "Afasie, Hanen-ouderprogramma"
+  },
+  {
+    "Code": "0523",
+    "Description": "Stottertherapie, Afasie"
+  },
+  {
+    "Code": "0524",
+    "Description": "Stottertherapie, Afasie, Preverbale therapie"
+  },
+  {
+    "Code": "0525",
+    "Description": "Stottertherapie ,Hanen-ouderprogramma, Afasie, Preverbale therapie"
+  },
+  {
+    "Code": "0526",
+    "Description": "Stottertherapie, Hanen-ouderprogramma,Preverbale therapie"
+  },
+  {
+    "Code": "0527",
+    "Description": "Hanen-ouderprogramma, Preverbale therapie, Direct toegankelijk"
+  },
+  {
+    "Code": "0528",
+    "Description": "Stottertherapie, Preverbale therapie, Direct toegankelijk"
+  },
+  {
+    "Code": "0529",
+    "Description": "Stottertherapie, Preverbale therapie, Afasie, Direct toegankelijk"
+  },
+  {
+    "Code": "0530",
+    "Description": "Stottertherapie, Preverbale therapie, Afasie, Hanen-ouderprogramma, Direct toegankelijk"
+  },
+  {
+    "Code": "0531",
+    "Description": "Stottertherapie, Preverbale therapie, Hanen-ouderprogramma, Direct toegankelijk"
+  },
+  {
+    "Code": "0532",
+    "Description": "Stottertherapie, Integraal Zorg Stotteren (IZS), Direct toegankelijk"
+  },
+  {
+    "Code": "0533",
+    "Description": "Stottertherapie, Hanen-ouderprogramma, Direct toegankelijk"
+  },
+  {
+    "Code": "0534",
+    "Description": "Preverbale therapie, Afasie, Direct toegankelijk"
+  },
+  {
+    "Code": "0535",
+    "Description": "Afasie, Hanen-ouderprogramma, Direct toegankelijk"
+  },
+  {
+    "Code": "0536",
+    "Description": "Stottertherapie, Afasie, Direct toegankelijk"
+  },
+  {
+    "Code": "0600",
+    "Description": "Ziekenhuizen, niet nader gespecificeerd"
+  },
+  {
+    "Code": "0601",
+    "Description": "Ziekenhuizen, algemene ziekenhuizen"
+  },
+  {
+    "Code": "0602",
+    "Description": "Ziekenhuizen, academische ziekenhuizen"
+  },
+  {
+    "Code": "0603",
+    "Description": "Ziekenhuizen, astmaklinieken"
+  },
+  {
+    "Code": "0604",
+    "Description": "Ziekenhuizen, beademingscentra"
+  },
+  {
+    "Code": "0606",
+    "Description": "Ziekenhuizen, epilepsiecentra"
+  },
+  {
+    "Code": "0607",
+    "Description": "Ziekenhuizen, kinderziekenhuizen"
+  },
+  {
+    "Code": "0608",
+    "Description": "Ziekenhuizen, kankerklinieken"
+  },
+  {
+    "Code": "0610",
+    "Description": "Ziekenhuizen, kraamklinieken"
+  },
+  {
+    "Code": "0612",
+    "Description": "Ziekenhuizen, neurologische klinieken"
+  },
+  {
+    "Code": "0613",
+    "Description": "Ziekenhuizen, oogziekenhuizen"
+  },
+  {
+    "Code": "0614",
+    "Description": "Ziekenhuizen, orthopaedische klinieken"
+  },
+  {
+    "Code": "0615",
+    "Description": "Ziekenhuizen, reumaklinieken"
+  },
+  {
+    "Code": "0616",
+    "Description": "Ziekenhuizen, revalidatie-centra"
+  },
+  {
+    "Code": "0617",
+    "Description": "Ziekenhuizen, sanatoria met longklinieken"
+  },
+  {
+    "Code": "0621",
+    "Description": "Ziekenhuizen, sanatoria"
+  },
+  {
+    "Code": "0628",
+    "Description": "Ziekenhuizen, multi-categorale ziekenhuizen"
+  },
+  {
+    "Code": "0629",
+    "Description": "Ziekenhuizen, psychiatrische ziekenhuizen"
+  },
+  {
+    "Code": "0630",
+    "Description": "Ziekenhuizen, militaire ziekenhuizen"
+  },
+  {
+    "Code": "0650",
+    "Description": "Ziekenhuizen, buitenlandse ziekenhuizen"
+  },
+  {
+    "Code": "0700",
+    "Description": "Oefentherapeuten, niet nader gespecificeerd"
+  },
+  {
+    "Code": "0701",
+    "Description": "Oefentherapeuten, methode Cesar"
+  },
+  {
+    "Code": "0702",
+    "Description": "Oefentherapeuten, methode Mensendieck"
+  },
+  {
+    "Code": "0703",
+    "Description": "Oefentherapeuten, kinderoefentherapie"
+  },
+  {
+    "Code": "0704",
+    "Description": "Oefentherapeuten, psychosomatische oefentherapie"
+  },
+  {
+    "Code": "0705",
+    "Description": "Oefentherapeuten, methode cesar, kinderoefentherapie"
+  },
+  {
+    "Code": "0706",
+    "Description": "Oefentherapeuten, methode mensendieck, kinderoefentherapie"
+  },
+  {
+    "Code": "0707",
+    "Description": "Oefentherapeuten, methode cesar, psychosomatische oefentherapie"
+  },
+  {
+    "Code": "0708",
+    "Description": "Oefentherapeuten, methode mensendieck, psychosomatische oefentherapie"
+  },
+  {
+    "Code": "0709",
+    "Description": "Oefentherapeuten, direct toegankelijk"
+  },
+  {
+    "Code": "0710",
+    "Description": "Oefentherapeuten, Methode Cesar, direct toegankelijk"
+  },
+  {
+    "Code": "0711",
+    "Description": "Oefentherapeuten, Methode Mensendieck, direct toegankelijk"
+  },
+  {
+    "Code": "0712",
+    "Description": "Oefentherapeuten, kinderoefentherapie, direct toegankelijk"
+  },
+  {
+    "Code": "0713",
+    "Description": "Oefentherapeuten, psychosomatische oefentherapie, direct toegankelijk"
+  },
+  {
+    "Code": "0714",
+    "Description": "Oefentherapeuten, Methode Cesar, kinderoefentherapie, direct toegankelijk"
+  },
+  {
+    "Code": "0715",
+    "Description": "Oefentherapeuten, Methode Mensendieck, kinderoefentherapie, direct toegankelijk"
+  },
+  {
+    "Code": "0716",
+    "Description": "Oefentherapeuten, Methode Cesar, psychosomatische oefentherapie, direct toegankelijk"
+  },
+  {
+    "Code": "0717",
+    "Description": "Oefentherapeuten, Methode Mensendieck, psychosomatische oefentherapie, direct toegankelijk"
+  },
+  {
+    "Code": "0718",
+    "Description": "Oefentherapeut Leefstijlcoach"
+  },
+  {
+    "Code": "0800",
+    "Description": "Verloskundigen, niet nader gespecificeerd"
+  },
+  {
+    "Code": "0801",
+    "Description": "Verloskundigen, met bevoegdheid echoscopie"
+  },
+  {
+    "Code": "0802",
+    "Description": "Verloskundigen, echoscopie NT"
+  },
+  {
+    "Code": "0803",
+    "Description": "Verloskundigen, echoscopie SEO"
+  },
+  {
+    "Code": "0804",
+    "Description": "Verloskundigen, echoscopie uitwendig"
+  },
+  {
+    "Code": "1100",
+    "Description": "Tandartsspecialisten mondziekten en kaakchirurgie"
+  },
+  {
+    "Code": "1101",
+    "Description": "Mondzorg en kaakchirurgie, implantoloog"
+  },
+  {
+    "Code": "1200",
+    "Description": "Tandartsen, algemeen practicus"
+  },
+  {
+    "Code": "1201",
+    "Description": "Tandarts, implantoloog"
+  },
+  {
+    "Code": "1202",
+    "Description": "Tandartsen, pedodontoloog"
+  },
+  {
+    "Code": "1203",
+    "Description": "Tandartsen, endododontoloog"
+  },
+  {
+    "Code": "1210",
+    "Description": "Tandarts algemeen practicus, Pedodontoloog"
+  },
+  {
+    "Code": "1211",
+    "Description": "Tandarts algemeen practicus, Endodontoloog"
+  },
+  {
+    "Code": "1212",
+    "Description": "Tandarts, Endodontoloog, Pedodontoloog"
+  },
+  {
+    "Code": "1213",
+    "Description": "Tandarts algemeen practicus, Pedodontoloog, Endodontoloog"
+  },
+  {
+    "Code": "1300",
+    "Description": "Tandartsspecialisten dentomaxillaire orthopaedie"
+  },
+  {
+    "Code": "1301",
+    "Description": "Tandartsspecialisten dentomaxillaire orthopaedie, Implantologie"
+  },
+  {
+    "Code": "1400",
+    "Description": "Arts arbeid en gezondheid"
+  },
+  {
+    "Code": "1401",
+    "Description": "Arts arbeid en gezondheid, zorgverlener"
+  },
+  {
+    "Code": "1402",
+    "Description": "Arts arbeid en gezondheid, bedrijfsgeneeskunde"
+  },
+  {
+    "Code": "1403",
+    "Description": "Arts arbeid en gezondheid, verzekeringsgeneeskunde"
+  },
+  {
+    "Code": "1410",
+    "Description": "Arts arbeid en gezondheid, bedrijfs- en verzekeringsgeneeskunde"
+  },
+  {
+    "Code": "1700",
+    "Description": "Rechtspersonen"
+  },
+  {
+    "Code": "1800",
+    "Description": "Dialysecentra"
+  },
+  {
+    "Code": "1900",
+    "Description": "Audiologische centra"
+  },
+  {
+    "Code": "2000",
+    "Description": "Radiotherapeutische centra"
+  },
+  {
+    "Code": "2100",
+    "Description": "Dienstenstructuren (ANW-diensten)"
+  },
+  {
+    "Code": "2200",
+    "Description": "Zelfstandige behandelcentra (ZBC)"
+  },
+  {
+    "Code": "2270",
+    "Description": "Zelfstandige behandelcentra (EMS)"
+  },
+  {
+    "Code": "2300",
+    "Description": "Inrichtingen voor revalidatiedagbehandeling"
+  },
+  {
+    "Code": "2400",
+    "Description": "Dietisten"
+  },
+  {
+    "Code": "2401",
+    "Description": "Dietisten, direct toegankelijk / 1e lijn"
+  },
+  {
+    "Code": "2402",
+    "Description": "Diëtist Leefstijlcoach"
+  },
+  {
+    "Code": "2410",
+    "Description": "Dietisten, dietist, direct toegankelijk"
+  },
+  {
+    "Code": "2500",
+    "Description": "Inrichtingen voor psychiatrische deeltijdbehandeling"
+  },
+  {
+    "Code": "2600",
+    "Description": "Podotherapeuten"
+  },
+  {
+    "Code": "3000",
+    "Description": "Instelling voor verstandelijk gehandicapten"
+  },
+  {
+    "Code": "3100",
+    "Description": "Bloedbanken"
+  },
+  {
+    "Code": "3200",
+    "Description": "GGD's (instellingen)"
+  },
+  {
+    "Code": "3300",
+    "Description": "Kraamcentra"
+  },
+  {
+    "Code": "3400",
+    "Description": "Trombosediensten"
+  },
+  {
+    "Code": "3500",
+    "Description": "Instellingen voor visueel gehandicapten"
+  },
+  {
+    "Code": "3600",
+    "Description": "Ambulancevervoerders"
+  },
+  {
+    "Code": "3700",
+    "Description": "Gezondheidscentra"
+  },
+  {
+    "Code": "3800",
+    "Description": "Instellingen voor bijzondere tandheelkunde en mondzorg"
+  },
+  {
+    "Code": "3801",
+    "Description": "Instelling voor bijzondere tandheelkunde, collectief tijdstarief"
+  },
+  {
+    "Code": "3802",
+    "Description": "Instelling voor bijzondere tandheelkunde, individueel tijdstarief"
+  },
+  {
+    "Code": "3803",
+    "Description": "Instelling voor Mondzorg"
+  },
+  {
+    "Code": "3900",
+    "Description": "Regionale instellingen voor jeugdtandverzorging"
+  },
+  {
+    "Code": "4000",
+    "Description": "Instellingen voor auditief gehandicapten"
+  },
+  {
+    "Code": "4100",
+    "Description": "Beheerstichtingen verpleeghuizen, verzorgingshuizen en thuiszorg"
+  },
+  {
+    "Code": "4101",
+    "Description": "ZZP-ers in wijkverpleging"
+  },
+  {
+    "Code": "4102",
+    "Description": "PGB aanbieders"
+  },
+  {
+    "Code": "4200",
+    "Description": "Verzorgingstehuizen"
+  },
+  {
+    "Code": "4300",
+    "Description": "Beheerstichtingen verzorgingshuizen"
+  },
+  {
+    "Code": "4400",
+    "Description": "Optometristen"
+  },
+  {
+    "Code": "4401",
+    "Description": "Optometristen, direct toegankelijk"
+  },
+  {
+    "Code": "4402",
+    "Description": "Orthoptisten"
+  },
+  {
+    "Code": "4500",
+    "Description": "Verpleeginrichtingen somatische zieken"
+  },
+  {
+    "Code": "4600",
+    "Description": "Verpleeginrichtingen psycho-geriatrische patienten"
+  },
+  {
+    "Code": "4700",
+    "Description": "Gecombineerde verpleeginrichtingen"
+  },
+  {
+    "Code": "4800",
+    "Description": "Overige instellingen"
+  },
+  {
+    "Code": "4801",
+    "Description": "Gemeenten"
+  },
+  {
+    "Code": "4802",
+    "Description": "Instelling voor Reizigersvaccinatie"
+  },
+  {
+    "Code": "4900",
+    "Description": "Abortusklinieken, beheerstichtingen verpleeghuizen"
+  },
+  {
+    "Code": "5000",
+    "Description": "Laboratoria"
+  },
+  {
+    "Code": "5100",
+    "Description": "Klinisch-genetisch centra"
+  },
+  {
+    "Code": "5200",
+    "Description": "Eurotransplant"
+  },
+  {
+    "Code": "5300",
+    "Description": "Diverse samenwerkingsverbanden, niet nader gespecificeerd."
+  },
+  {
+    "Code": "5301",
+    "Description": "Diverse samenwerkingsverbanden, DM type 2"
+  },
+  {
+    "Code": "5302",
+    "Description": "Diverse samenwerkingsverbanden, CVR"
+  },
+  {
+    "Code": "5303",
+    "Description": "Diverse samenwerkingsverbanden, COPD"
+  },
+  {
+    "Code": "5310",
+    "Description": "Diverse samenwerkingsverbanden, DM type 2 en CVR"
+  },
+  {
+    "Code": "5311",
+    "Description": "Diverse samenwerkingsverbanden, DM type 2, CVR en COPD"
+  },
+  {
+    "Code": "5312",
+    "Description": "Diverse samenwerkingsverbanden, DM type 2 en COPD"
+  },
+  {
+    "Code": "5313",
+    "Description": "Diverse samenwerkingsverbanden, CVR en COPD"
+  },
+  {
+    "Code": "5314",
+    "Description": "Integrale geboortezorg"
+  },
+  {
+    "Code": "5316",
+    "Description": "Samenwerkingsverband GLI"
+  },
+  {
+    "Code": "5400",
+    "Description": "GGZ Instellingen (PUK/PAAZ)"
+  },
+  {
+    "Code": "5600",
+    "Description": "Consultatiebureaus voor alcohol en drugs"
+  },
+  {
+    "Code": "5700",
+    "Description": "Physician Assistant"
+  },
+  {
+    "Code": "5800",
+    "Description": "Centrale posten ambulancediensten (CPA's)"
+  },
+  {
+    "Code": "6000",
+    "Description": "Instellingen voor dagverpleging voor ouderen"
+  },
+  {
+    "Code": "6100",
+    "Description": "Beheerstichtingen dagverblijven"
+  },
+  {
+    "Code": "6500",
+    "Description": "Gezinsvervangende tehuizen"
+  },
+  {
+    "Code": "6600",
+    "Description": "Koepels en beheerstichtingen WLZ"
+  },
+  {
+    "Code": "6701",
+    "Description": "Regionetwerk Casemanagement Dementie"
+  },
+  {
+    "Code": "7000",
+    "Description": "Kinderdagverblijven"
+  },
+  {
+    "Code": "7200",
+    "Description": "Regionale instellingen beschermd wonen (RIBW)"
+  },
+  {
+    "Code": "7300",
+    "Description": "WLZ-gecombineerd"
+  },
+  {
+    "Code": "7400",
+    "Description": "ARBO-diensten"
+  },
+  {
+    "Code": "7500",
+    "Description": "Thuiszorg, kruiswerk en gezinsverzorging"
+  },
+  {
+    "Code": "7600",
+    "Description": "Hulpmiddelen leverancier, niet nader gespecificeerd"
+  },
+  {
+    "Code": "7601",
+    "Description": "Leveranciers hulpmiddelen, ledemaatprothesen"
+  },
+  {
+    "Code": "7602",
+    "Description": "Leveranciers hulpmiddelen, mammaprothesen"
+  },
+  {
+    "Code": "7603",
+    "Description": "Leveranciers hulpmiddelen, oogprothesen"
+  },
+  {
+    "Code": "7604",
+    "Description": "Leveranciers hulpmiddelen, prothetische voorzieningen voor onder- en bovenkaak"
+  },
+  {
+    "Code": "7605",
+    "Description": "Leveranciers hulpmiddelen, gelaatsprothesen"
+  },
+  {
+    "Code": "7606",
+    "Description": "Leveranciers hulpmiddelen, corsetten"
+  },
+  {
+    "Code": "7607",
+    "Description": "Leveranciers hulpmiddelen, orthopedisch schoeisel"
+  },
+  {
+    "Code": "7608",
+    "Description": "Leveranciers hulpmiddelen, overige orthesen"
+  },
+  {
+    "Code": "7609",
+    "Description": "Leveranciers hulpmiddelen, verbandschoenen"
+  },
+  {
+    "Code": "7611",
+    "Description": "Leveranciers hulpmiddelen, brillenglazen"
+  },
+  {
+    "Code": "7612",
+    "Description": "Leveranciers hulpmiddelen, contactlenzen"
+  },
+  {
+    "Code": "7613",
+    "Description": "Leveranciers hulpmiddelen, bijzondere gezichtshulpmiddelen"
+  },
+  {
+    "Code": "7614",
+    "Description": "Leveranciers hulpmiddelen, bijzondere gezichtshulpmiddelen algemeen"
+  },
+  {
+    "Code": "7615",
+    "Description": "Leveranciers hulpmiddelen, bijzondere gezichtshulpmiddelen maatwerk"
+  },
+  {
+    "Code": "7616",
+    "Description": "Leveranciers hulpmiddelen, hoortoestellen"
+  },
+  {
+    "Code": "7617",
+    "Description": "Leveranciers hulpmiddelen, extern hoortoestel in combinatie met implantaat (BAHA)"
+  },
+  {
+    "Code": "7618",
+    "Description": "Leveranciers hulpmiddelen, maskeerder ter behandeling van oorsuizen (Tinnetusmaskeerder)"
+  },
+  {
+    "Code": "7619",
+    "Description": "Leveranciers hulpmiddelen, gehoorhulpmiddelen (inclusief maskeerder)"
+  },
+  {
+    "Code": "7620",
+    "Description": "Leveranciers hulpmiddelen, solo apparatuur"
+  },
+  {
+    "Code": "7621",
+    "Description": "Leveranciers hulpmiddelen, incontinentie-absorptiemateriaal"
+  },
+  {
+    "Code": "7622",
+    "Description": "Leveranciers hulpmiddelen, overige verzorgingsmiddelen"
+  },
+  {
+    "Code": "7623",
+    "Description": "Leveranciers hulpmiddelen, draagbare uitwendige infuuspomp"
+  },
+  {
+    "Code": "7624",
+    "Description": "Leveranciers hulpmiddelen, incontinentie afvoerend materiaal"
+  },
+  {
+    "Code": "7625",
+    "Description": "Leveranciers hulpmiddelen, stoma materialen"
+  },
+  {
+    "Code": "7626",
+    "Description": "Leveranciers hulpmiddelen, slijmuitzuigapparatuur"
+  },
+  {
+    "Code": "7627",
+    "Description": "Leveranciers hulpmiddelen, confectie orthesen"
+  },
+  {
+    "Code": "7628",
+    "Description": "Leveranciers hulpmiddelen, maatwerk orthesen"
+  },
+  {
+    "Code": "7629",
+    "Description": "Leveranciers hulpmiddelen, tracheacanule en stemprothesen"
+  },
+  {
+    "Code": "7630",
+    "Description": "Leveranciers hulpmiddelen, steunzolen"
+  },
+  {
+    "Code": "7631",
+    "Description": "Leveranciers hulpmiddelen, loophulpmiddelen"
+  },
+  {
+    "Code": "7632",
+    "Description": "Leveranciers hulpmiddelen, eenvoudige hulpmiddelen voor mobiliteit van personen"
+  },
+  {
+    "Code": "7633",
+    "Description": "Leveranciers hulpmiddelen, overige hulpmiddelen voor mobiliteit van personen"
+  },
+  {
+    "Code": "7634",
+    "Description": "Leveranciers hulpmiddelen, blindegeleidehonden"
+  },
+  {
+    "Code": "7635",
+    "Description": "Leveranciers hulpmiddelen, hulphonden"
+  },
+  {
+    "Code": "7636",
+    "Description": "Leveranciers hulpmiddelen, pruiken"
+  },
+  {
+    "Code": "7637",
+    "Description": "Leveranciers hulpmiddelen, arm-, hand-, vingerfunctievervullers (robotarm)"
+  },
+  {
+    "Code": "7638",
+    "Description": "Leveranciers hulpmiddelen, anaalspoelapparatuur"
+  },
+  {
+    "Code": "7639",
+    "Description": "Leveranciers hulpmiddelen, plaswekker"
+  },
+  {
+    "Code": "7640",
+    "Description": "Leveranciers hulpmiddelen, bewakingsmonitor voor baby"
+  },
+  {
+    "Code": "7641",
+    "Description": "Leveranciers hulpmiddelen, elastische kousen"
+  },
+  {
+    "Code": "7642",
+    "Description": "Leveranciers hulpmiddelen, allergeenvrije hoezen"
+  },
+  {
+    "Code": "7643",
+    "Description": "Leveranciers hulpmiddelen, verbandmiddelen"
+  },
+  {
+    "Code": "7644",
+    "Description": "Leveranciers hulpmiddelen, UV-B lichttherapie"
+  },
+  {
+    "Code": "7645",
+    "Description": "Leveranciers hulpmiddelen, allergeenvrije schoenen"
+  },
+  {
+    "Code": "7646",
+    "Description": "Leveranciers hulpmiddelen, anti-conceptionele hulpmiddelen"
+  },
+  {
+    "Code": "7647",
+    "Description": "Leveranciers hulpmiddelen, kappen ter bescherming van de schedel"
+  },
+  {
+    "Code": "7649",
+    "Description": "Leveranciers hulpmiddelen, thuisdialyse apparatuur"
+  },
+  {
+    "Code": "7650",
+    "Description": "Leveranciers hulpmiddelen, zelfmeetapparatuur voor bloedstollingstijden"
+  },
+  {
+    "Code": "7651",
+    "Description": "Leveranciers hulpmiddelen, injectiespuiten"
+  },
+  {
+    "Code": "7656",
+    "Description": "Leveranciers hulpmiddelen, insuline-infuuspompen"
+  },
+  {
+    "Code": "7657",
+    "Description": "Leveranciers hulpmiddelen, overige hulpmiddelen bij diabetes"
+  },
+  {
+    "Code": "7661",
+    "Description": "Leveranciers hulpmiddelen, zuurstofapparaten en -concentrators"
+  },
+  {
+    "Code": "7662",
+    "Description": "Leveranciers hulpmiddelen, apparatuur voor verzekerden met ademhalingsstoornissen (CPAP)"
+  },
+  {
+    "Code": "7663",
+    "Description": "Leveranciers hulpmiddelen, apparatuur voor positieve uitademingsdruk"
+  },
+  {
+    "Code": "7666",
+    "Description": "Leveranciers hulpmiddelen, longvibrators"
+  },
+  {
+    "Code": "7671",
+    "Description": "Leveranciers hulpmiddelen, vernevelaars"
+  },
+  {
+    "Code": "7676",
+    "Description": "Leveranciers hulpmiddelen, beeldschermloep"
+  },
+  {
+    "Code": "7677",
+    "Description": "Leveranciers hulpmiddelen, tactiel leesapparatuur"
+  },
+  {
+    "Code": "7681",
+    "Description": "Leveranciers hulpmiddelen, elektrastimulator"
+  },
+  {
+    "Code": "7682",
+    "Description": "Leveranciers hulpmiddelen, botgroei-stimulators"
+  },
+  {
+    "Code": "7685",
+    "Description": "Leveranciers hulpmiddelen, hulpmiddelen voor het toedienen van voeding"
+  },
+  {
+    "Code": "7686",
+    "Description": "Leveranciers hulpmiddelen, dieetpreparaten"
+  },
+  {
+    "Code": "7687",
+    "Description": "Leveranciers hulpmiddelen, voeding"
+  },
+  {
+    "Code": "7688",
+    "Description": "Leveranciers hulpmiddelen, eetapparaten"
+  },
+  {
+    "Code": "7689",
+    "Description": "Leveranciers hulpmiddelen, hulpmiddelen voor communicatie voor lichamelijk gehandicapten"
+  },
+  {
+    "Code": "7690",
+    "Description": "Leveranciers hulpmiddelen, inrichtingselementen van woningen"
+  },
+  {
+    "Code": "7691",
+    "Description": "Leveranciers hulpmiddelen, inrichtingselementen van woningen"
+  },
+  {
+    "Code": "7692",
+    "Description": "Leveranciers hulpmiddelen, hulpmiddelen voor communiatie persoonlijke alarmering"
+  },
+  {
+    "Code": "7693",
+    "Description": "Leveranciers hulpmiddelen, hulpmiddelen voor communiatie-, wek- en waarschuwing"
+  },
+  {
+    "Code": "7694",
+    "Description": "Leveranciers hulpmiddelen, hulpmiddelen voor communiatie bij revalidatie"
+  },
+  {
+    "Code": "7695",
+    "Description": "Leveranciers hulpmiddelen, hulpmiddelen voor communicatie, informatie en signalering"
+  },
+  {
+    "Code": "7696",
+    "Description": "Leveranciers hulpmiddelen, fax-apparatuur voor auditief gehandicapten"
+  },
+  {
+    "Code": "7697",
+    "Description": "Leveranciers hulpmiddelen, hulpmiddelen voor communicatie grootlettersystemen"
+  },
+  {
+    "Code": "7698",
+    "Description": "Leveranciers hulpmiddelen, hulpmiddelen voor communicatie-, opname- en voorleesapparatuur"
+  },
+  {
+    "Code": "7699",
+    "Description": "Leveranciers hulpmiddelen, hulpmiddelen voor communicatie-, telefoons en telefoneerhulpmiddelen"
+  },
+  {
+    "Code": "7800",
+    "Description": "Sociaal pedagogische diensten"
+  },
+  {
+    "Code": "7900",
+    "Description": "RIAGG's"
+  },
+  {
+    "Code": "8000",
+    "Description": "Niet erkende verpleeginrichtingen"
+  },
+  {
+    "Code": "8100",
+    "Description": "Niet erkende zwakzinnigeninrichtingen"
+  },
+  {
+    "Code": "8200",
+    "Description": "Bejaardenoorden"
+  },
+  {
+    "Code": "8300",
+    "Description": "Overige niet erkende instellingen"
+  },
+  {
+    "Code": "8400",
+    "Description": "Overige artsen, niet nader gespecificeerd"
+  },
+  {
+    "Code": "8401",
+    "Description": "Arts, chiropractie"
+  },
+  {
+    "Code": "8402",
+    "Description": "Arts, orthomanuele geneeskunde"
+  },
+  {
+    "Code": "8403",
+    "Description": "Arts, acupunctuur"
+  },
+  {
+    "Code": "8404",
+    "Description": "Arts, irisscopie"
+  },
+  {
+    "Code": "8405",
+    "Description": "Arts, homeopathie"
+  },
+  {
+    "Code": "8406",
+    "Description": "Arts, natuurgeneeskunde"
+  },
+  {
+    "Code": "8407",
+    "Description": "Overige artsen, anthroposofische geneeskunde"
+  },
+  {
+    "Code": "8408",
+    "Description": "Overige artsen, moermantherapie"
+  },
+  {
+    "Code": "8409",
+    "Description": "Arts, enzymtherapie"
+  },
+  {
+    "Code": "8410",
+    "Description": "Arts, manuele geneeskunde"
+  },
+  {
+    "Code": "8411",
+    "Description": "Arts, haptotherapie"
+  },
+  {
+    "Code": "8412",
+    "Description": "Arts, osteopathie"
+  },
+  {
+    "Code": "8413",
+    "Description": "Overige artsen, flebologie/proctologie"
+  },
+  {
+    "Code": "8414",
+    "Description": "Overige artsen, orthomoleculaire geneeskunde"
+  },
+  {
+    "Code": "8415",
+    "Description": "Overige artsen, neurale therapie"
+  },
+  {
+    "Code": "8416",
+    "Description": "Overige artsen, sportgeneeskunde"
+  },
+  {
+    "Code": "8417",
+    "Description": "Overige artsen, SEH-arts"
+  },
+  {
+    "Code": "8418",
+    "Description": "Overige artsen, specialist ouderengeneeskunde"
+  },
+  {
+    "Code": "8419",
+    "Description": "Overige artsen, schoolartsen"
+  },
+  {
+    "Code": "8420",
+    "Description": "Overige artsen, consultatiebureau-artsen"
+  },
+  {
+    "Code": "8421",
+    "Description": "Overige artsen, SCEN-arts"
+  },
+  {
+    "Code": "8422",
+    "Description": "Overige artsen, orthopedische geneeskunde"
+  },
+  {
+    "Code": "8423",
+    "Description": "Overige artsen, GGD artsen (TBC artsen)"
+  },
+  {
+    "Code": "8424",
+    "Description": "Overige artsen, verslavingsartsen"
+  },
+  {
+    "Code": "8425",
+    "Description": "Overige artsen, basisarts"
+  },
+  {
+    "Code": "8426",
+    "Description": "Overige artsen, arts voor verstandelijk gehandicapten"
+  },
+  {
+    "Code": "8427",
+    "Description": "Overige artsen, arts palliatieve geneeskunde"
+  },
+  {
+    "Code": "8428",
+    "Description": "Overige artsen, jeugdarts"
+  },
+  {
+    "Code": "8429",
+    "Description": "Overige artsen, Klinisch Fysicus audioloog"
+  },
+  {
+    "Code": "8430",
+    "Description": "Arts maatschappij en gezondheid / Infectieziektebestrijding"
+  },
+  {
+    "Code": "8431",
+    "Description": "Medisch seksuoloog"
+  },
+  {
+    "Code": "8500",
+    "Description": "Taxivervoerders"
+  },
+  {
+    "Code": "8600",
+    "Description": "Instellingen voor maatschappelijke dienstverlening"
+  },
+  {
+    "Code": "8700",
+    "Description": "Mondhygienisten"
+  },
+  {
+    "Code": "8800",
+    "Description": "Ergotherapeuten"
+  },
+  {
+    "Code": "8801",
+    "Description": "Ergotherapie, direct toegankelijk / 1e lijn"
+  },
+  {
+    "Code": "8810",
+    "Description": "Ergotherapeuten, ergotherapie, direct toegankelijk"
+  },
+  {
+    "Code": "8900",
+    "Description": "Schoonheidsspecialisten, niet nader gespecificeerd"
+  },
+  {
+    "Code": "8901",
+    "Description": "Schoonheidsspecialisten, acne"
+  },
+  {
+    "Code": "8902",
+    "Description": "Schoonheidsspecialisten, camouflage"
+  },
+  {
+    "Code": "8903",
+    "Description": "Schoonheidsspecialisten, elektrisch epileren"
+  },
+  {
+    "Code": "8904",
+    "Description": "Schoonheidsspecialist(e), algemeen (geen specificatie), ANBOS geregistreerd"
+  },
+  {
+    "Code": "8905",
+    "Description": "Schoonheidsspecialist(e), acne, ANBOS geregistreerd"
+  },
+  {
+    "Code": "8906",
+    "Description": "Schoonheidsspecialist(e), camouflage, ANBOS geregistreerd"
+  },
+  {
+    "Code": "8907",
+    "Description": "Schoonheidsspecialist(e), elektrisch ontharen, ANBOS geregistreerd"
+  },
+  {
+    "Code": "8908",
+    "Description": "Schoonheidsspecialist(e), acne en camouflage, ANBOS geregistreerd"
+  },
+  {
+    "Code": "8909",
+    "Description": "Schoonheidsspecialist(e), acne en elektrisch epileren, ANBOS geregistreerd"
+  },
+  {
+    "Code": "8910",
+    "Description": "Schoonheidsspecialist(e), camouflage en elektrisch epileren, ANBOS geregistreerd"
+  },
+  {
+    "Code": "8911",
+    "Description": "Schoonheidsspecialist(e), acne, camouflage en elektrisch epileren, ANBOS geregistreerd"
+  },
+  {
+    "Code": "8912",
+    "Description": "Schoonheidsspecialist(e), niet ANBOS geregistreerd"
+  },
+  {
+    "Code": "8913",
+    "Description": "Schoonheidsspecialist(e), ontharingstechnieken, ANBOS geregistreerd"
+  },
+  {
+    "Code": "8914",
+    "Description": "Schoonheidsspecialist(e), ontharingstechnieken en acne, ANBOS geregistreerd"
+  },
+  {
+    "Code": "8915",
+    "Description": "Schoonheidsspecialist(e), ontharingstechnieken en camouflage, ANBOS geregistreerd"
+  },
+  {
+    "Code": "8916",
+    "Description": "Schoonheidsspecialist(e), ontharingstechnieken, acne en camouflage, ANBOS geregistreerd"
+  },
+  {
+    "Code": "8919",
+    "Description": "Schoonheidsspecialist(e), elektrisch epileren en ontharingstechnieken, ANBOS geregistreerd"
+  },
+  {
+    "Code": "8920",
+    "Description": "Schoonheidsspecialist(e), Acne, camouflage en ontharingstechnieken, ANBOS geregistreerd"
+  },
+  {
+    "Code": "8921",
+    "Description": "Schoonheidsspecialist(e), acne, elektrisch epileren en ontharingstechnieken, ANBOS geregistreerd"
+  },
+  {
+    "Code": "8922",
+    "Description": "Schoonheidsspecialist(e), camouflage, elektrisch epileren en ontharingstechnieken, ANBOS geregistreerd"
+  },
+  {
+    "Code": "8923",
+    "Description": "Schoonheidsspecialist(e), acne, camouflage, elektrisch epileren en ontharingstechnieken, ANBOS geregistreerd"
+  },
+  {
+    "Code": "9000",
+    "Description": "Overige therapeuten en Complementair en Aanvullende zorg"
+  },
+  {
+    "Code": "9001",
+    "Description": "Chiropractie"
+  },
+  {
+    "Code": "9002",
+    "Description": "Orthomanuele geneeskunde"
+  },
+  {
+    "Code": "9003",
+    "Description": "Acupunctuur"
+  },
+  {
+    "Code": "9004",
+    "Description": "Irisscopie"
+  },
+  {
+    "Code": "9005",
+    "Description": "Homeopathie"
+  },
+  {
+    "Code": "9006",
+    "Description": "Natuurgeneeskunde"
+  },
+  {
+    "Code": "9007",
+    "Description": "Antroposofische geneeskunde"
+  },
+  {
+    "Code": "9008",
+    "Description": "Moerman therapie"
+  },
+  {
+    "Code": "9009",
+    "Description": "Enzymtherapie"
+  },
+  {
+    "Code": "9010",
+    "Description": "Manuele geneeskunde"
+  },
+  {
+    "Code": "9011",
+    "Description": "Haptotherapie"
+  },
+  {
+    "Code": "9012",
+    "Description": "Osteopathie"
+  },
+  {
+    "Code": "9013",
+    "Description": "Huidtherapie"
+  },
+  {
+    "Code": "9014",
+    "Description": "Kunstzinnige therapie"
+  },
+  {
+    "Code": "9015",
+    "Description": "Podologie"
+  },
+  {
+    "Code": "9016",
+    "Description": "Orthomoleculaire geneeskunde"
+  },
+  {
+    "Code": "9017",
+    "Description": "Shiatsu therapie"
+  },
+  {
+    "Code": "9018",
+    "Description": "Echoscopie"
+  },
+  {
+    "Code": "9020",
+    "Description": "Seksuologen, Lid NVVS"
+  },
+  {
+    "Code": "9021",
+    "Description": "Overigen"
+  },
+  {
+    "Code": "9022",
+    "Description": "Cranio sacraal therapie"
+  },
+  {
+    "Code": "9023",
+    "Description": "Adem- en ontspanningstherapie methode van Dixhoorn"
+  },
+  {
+    "Code": "9024",
+    "Description": "Kindertherapie VvvK"
+  },
+  {
+    "Code": "9025",
+    "Description": "Vaktherapie"
+  },
+  {
+    "Code": "9026",
+    "Description": "Echoscopie NT"
+  },
+  {
+    "Code": "9027",
+    "Description": "Echoscopie SEO"
+  },
+  {
+    "Code": "9028",
+    "Description": "Echoscopie uitwendig"
+  },
+  {
+    "Code": "9029",
+    "Description": "Gewichtsconsulent"
+  },
+  {
+    "Code": "9030",
+    "Description": "Lactatiedeskundige"
+  },
+  {
+    "Code": "9031",
+    "Description": "Huidtherapie, direct toegankelijk"
+  },
+  {
+    "Code": "9032",
+    "Description": "Reflexzonetherapeut"
+  },
+  {
+    "Code": "9033",
+    "Description": "Doula"
+  },
+  {
+    "Code": "9034",
+    "Description": "Yogadocenten"
+  },
+  {
+    "Code": "9035",
+    "Description": "Sportmasseur"
+  },
+  {
+    "Code": "9036",
+    "Description": "Preventieve voetzorg"
+  },
+  {
+    "Code": "9037",
+    "Description": "Psychosociaal zorgverlener"
+  },
+  {
+    "Code": "9038",
+    "Description": "Leefstijlcoach"
+  },
+  {
+    "Code": "9100",
+    "Description": "Verpleegkundigen, niet nader gespecificeerd"
+  },
+  {
+    "Code": "9101",
+    "Description": "Gespecialiseerd verpleegkundige, diabetes"
+  },
+  {
+    "Code": "9102",
+    "Description": "Gespecialiseerd verpleegkundige, incontinentie"
+  },
+  {
+    "Code": "9103",
+    "Description": "Gespecialiseerd verpleegkundige, wijk"
+  },
+  {
+    "Code": "9104",
+    "Description": "Gespecialiseerd verpleegkundige, wond"
+  },
+  {
+    "Code": "9105",
+    "Description": "Gespecialiseerd verpleegkundige, stoma"
+  },
+  {
+    "Code": "9106",
+    "Description": "Gespecialiseerd verpleegkundige, long"
+  },
+  {
+    "Code": "9107",
+    "Description": "Gespecialiseerd verpleegkundige, oncologie"
+  },
+  {
+    "Code": "9108",
+    "Description": "Gespecialiseerd verpleegkundige, transfer"
+  },
+  {
+    "Code": "9109",
+    "Description": "Verpleegkundigen niveau 4"
+  },
+  {
+    "Code": "9110",
+    "Description": "Verpleegkundigen niveau 5"
+  },
+  {
+    "Code": "9111",
+    "Description": "Verzorgenden"
+  },
+  {
+    "Code": "9112",
+    "Description": "Verpleegkundigen niveau 4 PGB"
+  },
+  {
+    "Code": "9113",
+    "Description": "Verpleegkundigen niveau 5 PGB"
+  },
+  {
+    "Code": "9114",
+    "Description": "Verpleegkundigen niveau 4 en Verpleegkundigen niveau 4 PGB"
+  },
+  {
+    "Code": "9115",
+    "Description": "Verpleegkundigen niveau 5 en Verpleegkundigen niveau 5 PGB"
+  },
+  {
+    "Code": "9130",
+    "Description": "Verpleegkundig specialist, preventieve zorg bij somatische aandoeningen"
+  },
+  {
+    "Code": "9131",
+    "Description": "Verpleegkundig specialist, acute zorg bij somatische aandoeningen"
+  },
+  {
+    "Code": "9132",
+    "Description": "Verpleegkundig specialist, intensieve zorg bij somatische aandoeningen"
+  },
+  {
+    "Code": "9133",
+    "Description": "Verpleegkundig specialist, chronische zorg bij somatische aandoeningen"
+  },
+  {
+    "Code": "9134",
+    "Description": "Verpleegkundig specialist, geestelijke gezondheidszorg"
+  },
+  {
+    "Code": "9140",
+    "Description": "Verpleegkundig specialist, preventieve zorg bij somatische aandoeningen (9100 + 9130)"
+  },
+  {
+    "Code": "9141",
+    "Description": "Verpleegkundig specialist, acute zorg bij somatische aandoeningen (9100 + 9131)"
+  },
+  {
+    "Code": "9142",
+    "Description": "Verpleegkundig specialist, intensieve zorg bij somatische aandoeningen (9100 + 9132)"
+  },
+  {
+    "Code": "9143",
+    "Description": "Verpleegkundig specialist, chronische zorg bij somatische aandoeningen (9100 + 9133)"
+  },
+  {
+    "Code": "9144",
+    "Description": "Verpleegkundig specialist, geestelijke gezondheidszorg (9100 + 9134)"
+  },
+  {
+    "Code": "9150",
+    "Description": "Gespecialiseerd verpleegkundige, diabetes (9100 + 9101)"
+  },
+  {
+    "Code": "9151",
+    "Description": "Gespecialiseerd verpleegkundige, incontinentie (9100 + 9102)"
+  },
+  {
+    "Code": "9152",
+    "Description": "Gespecialiseerd verpleegkundige, wijk (9100 + 9103)"
+  },
+  {
+    "Code": "9153",
+    "Description": "Gespecialiseerd verpleegkundige, wond (9100 + 9104)"
+  },
+  {
+    "Code": "9154",
+    "Description": "Gespecialiseerd verpleegkundige, stoma (9100 + 9105)"
+  },
+  {
+    "Code": "9155",
+    "Description": "Gespecialiseerd verpleegkundige, long (9100 + 9106)"
+  },
+  {
+    "Code": "9156",
+    "Description": "Gespecialiseerd verpleegkundige, oncologie (9100 + 9107)"
+  },
+  {
+    "Code": "9157",
+    "Description": "Gespecialiseerd verpleegkundige, transfer (9100 + 9108)"
+  },
+  {
+    "Code": "9180",
+    "Description": "Verzorgende (ZZP)"
+  },
+  {
+    "Code": "9181",
+    "Description": "Verpleegkundige (ZZP)"
+  },
+  {
+    "Code": "9190",
+    "Description": "Administratieve eenheid (AE)"
+  },
+  {
+    "Code": "9200",
+    "Description": "Ziekenhuisvervangende thuiszorg (financiering 2e compartiment)"
+  },
+  {
+    "Code": "9300",
+    "Description": "Tandtechnici/tandprothetici, niet nader gespecificeerd"
+  },
+  {
+    "Code": "9301",
+    "Description": "Tandprotheticus"
+  },
+  {
+    "Code": "9302",
+    "Description": "Tandtechnicus"
+  },
+  {
+    "Code": "9400",
+    "Description": "Psychologische zorgverleners, niet nader gespecificeerd"
+  },
+  {
+    "Code": "9401",
+    "Description": "Psychologische zorgverleners, GZ-psychologie met eerstelijnskwalificatie"
+  },
+  {
+    "Code": "9402",
+    "Description": "Psychologische zorgverleners, psychotherapie"
+  },
+  {
+    "Code": "9403",
+    "Description": "Psychologische zorgverleners, sexuologie"
+  },
+  {
+    "Code": "9404",
+    "Description": "Psychologische zorgverleners, k&j-psychologie"
+  },
+  {
+    "Code": "9405",
+    "Description": "Psychologische zorgverleners, klinische psychologie"
+  },
+  {
+    "Code": "9406",
+    "Description": "Psychologische zorgverleners, GZ-psychologie"
+  },
+  {
+    "Code": "9407",
+    "Description": "Psychologische zorgverleners, GZ-psychologie, psychotherapie"
+  },
+  {
+    "Code": "9408",
+    "Description": "Psychologische zorgveleners, GZ-psychologie met eerstelijnskwalificatie, psychotherapie"
+  },
+  {
+    "Code": "9409",
+    "Description": "Psychologische zorgverleners, GZ-psychologie met eerstelijnskwalificatie, kinder- en jeugdpsychologie en/of NVO Orthopedagogie-Generalist"
+  },
+  {
+    "Code": "9410",
+    "Description": "Psychologische zorgverleners, psychotherapie, kinder- en jeugdpsychologie en/of NVO Orthopedagogie-Generalist"
+  },
+  {
+    "Code": "9411",
+    "Description": "Psychologische zorgverleners, GZ-psychologie, psychotherapie, kinder- en jeugdpsychologie en/of NVO Orthopedagogie-Generalist"
+  },
+  {
+    "Code": "9412",
+    "Description": "Psycho. zorgverl., GZ-psychologie met eerstelijnskwal., psychotherapie, kinder- en jeugdpsychologie en/of NVO  Orthopedagogie-Generalist"
+  },
+  {
+    "Code": "9413",
+    "Description": "Psychologische zorgverleners, klinische psychologie, kinder- en jeugdpsychologie en/of NVO Orthopedagogie-Generalist"
+  },
+  {
+    "Code": "9414",
+    "Description": "Psychologische zorgverleners, klinische psychologie met eerstelijnskwalificatie"
+  },
+  {
+    "Code": "9415",
+    "Description": "Psycho. zorgverl., klinisch psychologie met eerstelijnskwalificatie, kinder- en jeugdpsychologie en/of NVO Orthopedagogie-Generalist"
+  },
+  {
+    "Code": "9416",
+    "Description": "Psychologische zorgverleners, psycholoog NIP/ master-psycholoog SJK"
+  },
+  {
+    "Code": "9417",
+    "Description": "Psychologische zorgverleners, orthopedagoog (generalist, specialist)"
+  },
+  {
+    "Code": "9418",
+    "Description": "Psychologische zorgverleners, klinische neuropsychologie"
+  },
+  {
+    "Code": "9419",
+    "Description": "Psychologische zorgverleners, orthopedagogen (overig)"
+  },
+  {
+    "Code": "9420",
+    "Description": "Psychologische zorgverleners, orthopedagogen (basis)"
+  },
+  {
+    "Code": "9421",
+    "Description": "Psychologische zorgverleners, therapeut nap"
+  },
+  {
+    "Code": "9422",
+    "Description": "Psychologische zorgverleners, therapeut nvpa"
+  },
+  {
+    "Code": "9423",
+    "Description": "Psychologische zorgverleners, kinder en jeugdpsycholoog nip"
+  },
+  {
+    "Code": "9424",
+    "Description": "Psychologische zorgverleners, klinische psychologie en psychotherapie"
+  },
+  {
+    "Code": "9425",
+    "Description": "Psychologische zorgverleners, klinische psychologie, 1e lijn en psychotherapie"
+  },
+  {
+    "Code": "9426",
+    "Description": "Psychologische zorgverleners, klinische psychologie, 1e lijn, psychotherapie, K&J psychologie en/of orthopedagoog"
+  },
+  {
+    "Code": "9427",
+    "Description": "Psychologische zorgverleners, klinische psychologie, K&J psychologie en psychotherapie"
+  },
+  {
+    "Code": "9430",
+    "Description": "Psychologische zorgverleners, klinische neuropsychologie en 1e lijn"
+  },
+  {
+    "Code": "9431",
+    "Description": "Psychologische zorgverleners, klinische neuropsychologie en K&J psychologie en/of orthopedagoog"
+  },
+  {
+    "Code": "9432",
+    "Description": "Psychologische zorgverleners, klinische neuropsychologie en klinische psychologie"
+  },
+  {
+    "Code": "9433",
+    "Description": "Psychologische zorgverleners, klinische neuropsychologie, 1e lijn en K&J psychologie en/of orthopedagoog"
+  },
+  {
+    "Code": "9434",
+    "Description": "Psychologische zorgverleners, klinische neuropsychologie, 1e lijn en klinische psychologie"
+  },
+  {
+    "Code": "9435",
+    "Description": "Psychologische zorgverleners, klinische neuropsychologie, 1e lijn, klinische psychologie en K&J psychologie en/of orthopedagoog"
+  },
+  {
+    "Code": "9436",
+    "Description": "Psychologische zorgverleners, klinische neuropsychologie en psychotherapie"
+  },
+  {
+    "Code": "9437",
+    "Description": "Psychologische zorgverleners, klinische neuropsychologie, 1e lijn  en psychotherapie"
+  },
+  {
+    "Code": "9438",
+    "Description": "Psychologische zorgverleners, klinische neuropsychologie, psychotherapie en K&J psychologie en/of orthopedagoog"
+  },
+  {
+    "Code": "9439",
+    "Description": "Psychologische zorgverleners, klinische neuropsychologie, klinische psychologie en psychotherapie"
+  },
+  {
+    "Code": "9440",
+    "Description": "Psychologische zorgverleners, klinische neuropsychologie, 1e lijn, psychotherapie en K&J psychologie en/of orthopedagoog"
+  },
+  {
+    "Code": "9441",
+    "Description": "Psychologische zorgverleners, klinische neuropsychologie, 1e lijn, klinische psychologie en psychotherapie"
+  },
+  {
+    "Code": "9442",
+    "Description": "Psychologische zorgverleners, klinische neuropsychologie, 1e lijn, klinische psychologie, psychotherapie, K&J psychologie en/of orthopedag."
+  },
+  {
+    "Code": "9443",
+    "Description": "Psychologische zorgverleners, klinische neuropsychologie, klinische psychologie, K&J psychologie en/of orthopedagoog."
+  },
+  {
+    "Code": "9444",
+    "Description": "Psychologische zorgverleners, klinische neuropsychologie, klinische psychologie, psychotherapie, K&J psychologie en/of orthopedagoog."
+  },
+  {
+    "Code": "9445",
+    "Description": "Psychologische zorgverleners, klinisch psychologie, gz-psychologie, psychotherapie"
+  },
+  {
+    "Code": "9446",
+    "Description": "Psychologische zorgverleners, klinisch psychologie, gz-psychologie, 1e lijn, psychotherapie"
+  },
+  {
+    "Code": "9447",
+    "Description": "Psychologische zorgverleners, klinisch psychologie, gz-psychologie, 1e lijn, psychotherapie, K&J psycholoog"
+  },
+  {
+    "Code": "9448",
+    "Description": "Psychologische zorgverleners, klinisch psychologie, gz-psychologie, psychotherapie, K&J psycholoog"
+  },
+  {
+    "Code": "9449",
+    "Description": "Psychologische zorgverleners, gz-psychologie 1e lijn, K&J psycho e/o orthopedagoog, psychotherapeut"
+  },
+  {
+    "Code": "9450",
+    "Description": "Psychologische zorgverleners, psycholoog NIP, gz psychologie"
+  },
+  {
+    "Code": "9451",
+    "Description": "Psychologische zorgverleners, psycholoog NIP, psychotherapeut"
+  },
+  {
+    "Code": "9452",
+    "Description": "Psychologische zorgverleners, kinder- en jeugdpsycholoog NIP, gz psychologie"
+  },
+  {
+    "Code": "9453",
+    "Description": "Psychologische zorgverleners, kinder- en jeugdpsycholoog NIP, psychotherapie"
+  },
+  {
+    "Code": "9454",
+    "Description": "Psychologische zorgverleners, psycholoog NIP, gz psychologie 1e lijn"
+  },
+  {
+    "Code": "9455",
+    "Description": "Psychologische zorgverleners, GZ-psycholoog, orthopedagoog (generalist, specialist)"
+  },
+  {
+    "Code": "9456",
+    "Description": "Psychologische zorgverleners, K&J-psycholoog, GZ-psycholoog, orthopedagoog (generalist, specialist)"
+  },
+  {
+    "Code": "9457",
+    "Description": "Psychologische zorgverleners, kinder- en jeugdpsycholoog NIP, GZ-psychologie, 1e lijn"
+  },
+  {
+    "Code": "9458",
+    "Description": "Psychologische zorgverleners, psycholoog NIP, orthopedagoog (generalist, specialist)"
+  },
+  {
+    "Code": "9459",
+    "Description": "Psychologische zorgverleners, psycholoog NIP, therapeut NVPA"
+  },
+  {
+    "Code": "9460",
+    "Description": "Psychologische zorgverleners, GZ-psycholoog, kinder- en jeugdpsycholoog NIP, orthopedagoog (generalist, specialist)"
+  },
+  {
+    "Code": "9461",
+    "Description": "Psychologische zorgverleners, klinisch psycholoog, kinder- en jeugdpsycholoog NIP"
+  },
+  {
+    "Code": "9462",
+    "Description": "Psychologische zorgverleners, psycholoog Arbeid en Gezondheid NIP"
+  },
+  {
+    "Code": "9463",
+    "Description": "Psychologische zorgverleners, master pedagoog"
+  },
+  {
+    "Code": "9464",
+    "Description": "Psychologische zorgverleners, jeugd- en gezinsprofessional"
+  },
+  {
+    "Code": "9465",
+    "Description": "Psychologische zorgverleners, kinder- en jeugdpsycholoog"
+  },
+  {
+    "Code": "9466",
+    "Description": "Psychologische zorgverleners, postmaster orthopedagoog"
+  },
+  {
+    "Code": "9467",
+    "Description": "Psychologische zorgverleners, GZ-psychologie 1e lijn, master pedagoog"
+  },
+  {
+    "Code": "9468",
+    "Description": "Psychologische zorgverleners, GZ-psychologie 1e lijn, jeugdzorgwerker"
+  },
+  {
+    "Code": "9469",
+    "Description": "Psychologische zorgverleners, kinder- en jeugdpsycholoog, postmaster orthopedagoog"
+  },
+  {
+    "Code": "9470",
+    "Description": "Psychologische zorgverleners, GZ-psycholoog 1e lijn, kinder- en jeugdpsycholoog, postmaster orthopedagoog"
+  },
+  {
+    "Code": "9500",
+    "Description": "Orthopedagogen"
+  },
+  {
+    "Code": "9600",
+    "Description": "Pedicuren"
+  },
+  {
+    "Code": "9601",
+    "Description": "Pedicure"
+  },
+  {
+    "Code": "9602",
+    "Description": "Pedicure, specialisatie reumatische voet"
+  },
+  {
+    "Code": "9603",
+    "Description": "Pedicure, specialisatie diabetische voet"
+  },
+  {
+    "Code": "9604",
+    "Description": "Pedicure, specialisatie reumatische voet + diabetische voet"
+  },
+  {
+    "Code": "9605",
+    "Description": "Pedicure, specialisatie medische pedicure"
+  },
+  {
+    "Code": "9606",
+    "Description": "Pedicure,  pedicure in de zorg"
+  },
+  {
+    "Code": "9607",
+    "Description": "Pedicure,  registerpedicure"
+  },
+  {
+    "Code": "9608",
+    "Description": "Pedicure,  paramedisch chiropodist"
+  },
+  {
+    "Code": "9609",
+    "Description": "Pedicure, specialisatie Risicovoet"
+  },
+  {
+    "Code": "9800",
+    "Description": "Declaranten"
+  },
+  {
+    "Code": "9801",
+    "Description": "Servicebureau"
+  },
+  {
+    "Code": "9802",
+    "Description": "Aanbieder van maatschappelijke ondersteuning"
+  },
+  {
+    "Code": "9803",
+    "Description": "Zorgverzekeraar"
+  },
+  {
+    "Code": "9804",
+    "Description": "Aanbieder PGB WLZ"
+  },
+  {
+    "Code": "9900",
+    "Description": "Overigen"
+  },
+  {
+    "Code": "9901",
+    "Description": "Verpleeghuisartsen"
+  },
+  {
+    "Code": "9902",
+    "Description": "Bedrijfsarts"
+  },
+  {
+    "Code": "9903",
+    "Description": "Schoolarts"
+  },
+  {
+    "Code": "9904",
+    "Description": "Sportarts"
+  }
+]

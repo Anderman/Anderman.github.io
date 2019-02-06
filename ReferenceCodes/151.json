@@ -1,0 +1,22 @@
+[
+  {
+    "Code": "B",
+    "Description": "Basisverzekering"
+  },
+  {
+    "Code": "C",
+    "Description": "Hoofdverzekering"
+  },
+  {
+    "Code": "D",
+    "Description": "AWBZ"
+  },
+  {
+    "Code": "E",
+    "Description": "Tand"
+  },
+  {
+    "Code": "F",
+    "Description": "Aanvullend & Tand"
+  }
+]

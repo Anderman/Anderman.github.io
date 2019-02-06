@@ -1,0 +1,74 @@
+[
+  {
+    "Code": "02",
+    "Description": "Reden voor afsluiting bij behandelaar/ om inhoudelijke redenen"
+  },
+  {
+    "Code": "03",
+    "Description": "In onderling overleg beëindigd zorgtraject/ patiënt uitbehandeld"
+  },
+  {
+    "Code": "05",
+    "Description": "Afsluiting na alleen pré-intake/intake/diagnostiek/crisisopvang"
+  },
+  {
+    "Code": "09",
+    "Description": "Afsluiten vanwege openen vervolg-DBC"
+  },
+  {
+    "Code": "10",
+    "Description": "Afsluiten vanwege overgang naar andere bekostiging"
+  },
+  {
+    "Code": "11",
+    "Description": "Behandeltraject afgerond."
+  },
+  {
+    "Code": "12",
+    "Description": "Vermoeden van DSM-stoornis niet bevestigd."
+  },
+  {
+    "Code": "13",
+    "Description": "Patiëntprofiel te zwaar voor patiëntprofiel basis ggz."
+  },
+  {
+    "Code": "14",
+    "Description": "No show door patient."
+  },
+  {
+    "Code": "15",
+    "Description": "Overlijden van de patiënt."
+  },
+  {
+    "Code": "16",
+    "Description": "Na 365 dagen."
+  },
+  {
+    "Code": "17",
+    "Description": "Overig."
+  },
+  {
+    "Code": "18",
+    "Description": "Overgang naar andere bekostiging."
+  },
+  {
+    "Code": "19",
+    "Description": "Afsluiten vanwege overgang naar ZZP-systematiek."
+  },
+  {
+    "Code": "20",
+    "Description": "Afsluiten vanwege overgang Jeugd-GGZ"
+  },
+  {
+    "Code": "21",
+    "Description": "Voortijdige beëindiging behandeling op initiatief van patiënt en/of behandelaar."
+  },
+  {
+    "Code": "40",
+    "Description": "Afsluiten vanwege beëindiging JW321 berichtenverkeer."
+  },
+  {
+    "Code": "50",
+    "Description": "Afsluiten vanwege beëindiging DBC-systematiek jeugd-ggz."
+  }
+]

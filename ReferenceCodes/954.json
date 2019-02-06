@@ -1,0 +1,4766 @@
+[
+  {
+    "Code": "0002",
+    "Description": "Kenmerk record ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0003",
+    "Description": "Reserve ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0010",
+    "Description": "Code externe-integratiebericht ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0011",
+    "Description": "Versienummer berichtstandaard ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0013",
+    "Description": "Code servicebureau ontbreekt, is onbekend of onjuist."
+  },
+  {
+    "Code": "0014",
+    "Description": "Zorgverlenerscode ontbreekt, is onbekend of onjuist (voorlooprecord)."
+  },
+  {
+    "Code": "0016",
+    "Description": "Praktijkcode ontbreekt, is onbekend of onjuist (voorlooprecord)."
+  },
+  {
+    "Code": "0017",
+    "Description": "Instellingscode, ontbreekt, is onbekend of onjuist (voorlooprecord)."
+  },
+  {
+    "Code": "0018",
+    "Description": "UZOVI-nummer ontbreekt of is onjuist (voorlooprecord)."
+  },
+  {
+    "Code": "0020",
+    "Description": "Begindatum declaratieperiode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0021",
+    "Description": "Einddatum declaratieperiode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0025",
+    "Description": "Dagtekening factuur ontbreekt of is niet bestaand."
+  },
+  {
+    "Code": "0030",
+    "Description": "Factuurnummer declarant ontbreekt, is onjuist of is niet uniek (nummer is reeds gebruikt in een voorgaande factuur)."
+  },
+  {
+    "Code": "0031",
+    "Description": "Valutacode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0035",
+    "Description": "Versieaanduiding informatiesysteem softwareleverancier ontbreek of is onjuist."
+  },
+  {
+    "Code": "0150",
+    "Description": "Totaal declaratiebedrag ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0151",
+    "Description": "Aantal verzekerdenrecords ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0153",
+    "Description": "Aantal commentaarrecords ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0156",
+    "Description": "Totaal aantal detailrecords ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0157",
+    "Description": "Aantal debiteurrecords ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0158",
+    "Description": "Aantal prestatierecords ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0162",
+    "Description": "Aantal opnamerecords ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0200",
+    "Description": "Geen opmerking bij dit recordtype."
+  },
+  {
+    "Code": "0208",
+    "Description": "Sluitrecord ontbreekt."
+  },
+  {
+    "Code": "0300",
+    "Description": "Verzekerdennummer (inschrijvingsnummer, relatienummer) is onbekend (bij deze UZOVI-code)."
+  },
+  {
+    "Code": "0302",
+    "Description": "Combinatie verzekerdennummer en achternaam verzekerde is onjuist."
+  },
+  {
+    "Code": "0307",
+    "Description": "Combinatie verzekerdennummer en geboortedatum verzekerde is onjuist."
+  },
+  {
+    "Code": "0310",
+    "Description": "Voorletters ontbreken of zijn onjuist (verzekerde)."
+  },
+  {
+    "Code": "0312",
+    "Description": "Naam verzekerde (01) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0316",
+    "Description": "Code land verzekerde ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0317",
+    "Description": "Naamcode/naamgebruik (01) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0320",
+    "Description": "Cliënt is niet verzekerd."
+  },
+  {
+    "Code": "0328",
+    "Description": "Cliënt is niet verzekerd wegens overlijden."
+  },
+  {
+    "Code": "0350",
+    "Description": "Geboortedatum ontbreekt of is onjuist (debiteur)."
+  },
+  {
+    "Code": "0351",
+    "Description": "Code geslacht ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0397",
+    "Description": "Naamcode/naamgebruik (03) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0406",
+    "Description": "Huisnummer (huisadres) ontbreekt of is onjuist (verzekerde)."
+  },
+  {
+    "Code": "0408",
+    "Description": "Postcode ontbreekt of onjuist."
+  },
+  {
+    "Code": "0409",
+    "Description": "Straatnaam ontbreekt."
+  },
+  {
+    "Code": "0410",
+    "Description": "Woonplaats ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0423",
+    "Description": "UZOVI-nummer ontbreekt of is onjuist (detailrecord)."
+  },
+  {
+    "Code": "0431",
+    "Description": "Postcode buitenland ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0435",
+    "Description": "Burgerservicenummer (BSN) verzekerde ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0438",
+    "Description": "Burgerservicenummer (BSN) geïndiceerde cliënt ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0506",
+    "Description": "Cliënt is slechts tijdens gedeelte van behandelperiode verzekerd."
+  },
+  {
+    "Code": "0523",
+    "Description": "Indicatie ongeval ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0527",
+    "Description": "Datum afgifte medisch voorschrift ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0540",
+    "Description": "Aanduiding diagnosecodelijst ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0545",
+    "Description": "Reden einde zorg ontbreekt of onjuist."
+  },
+  {
+    "Code": "0550",
+    "Description": "Machtigingsnummer / meldingsnummer zorgverzekeraar ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0551",
+    "Description": "Er is geen machtiging afgegeven."
+  },
+  {
+    "Code": "0552",
+    "Description": "Machtiging is vervallen."
+  },
+  {
+    "Code": "0553",
+    "Description": "Gedeclareerde prestatie valt buiten de gemachtigde periode."
+  },
+  {
+    "Code": "0554",
+    "Description": "Gedeclareerde prestatie is anders dan afgegeven machtiging."
+  },
+  {
+    "Code": "0559",
+    "Description": "Zorgverlenerscode behandelaar/uitvoerder heeft geen overeenkomst met declarerende praktijk of instelling."
+  },
+  {
+    "Code": "0562",
+    "Description": "Zorgverlener is niet erkend of bevoegd tot uitvoering van opgegeven prestatie."
+  },
+  {
+    "Code": "0563",
+    "Description": "Afwijkende instellingscode prestatie is onjuist."
+  },
+  {
+    "Code": "0566",
+    "Description": "Zorgverlenerscode vorige zorgverlener ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0581",
+    "Description": "Aanduiding prestatiecodelijst ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0582",
+    "Description": "Prestatiecode (of artikel [AP] GPH-/DBC-declaratiecode) ontbreekt of is onjuist (niet bestaande code)."
+  },
+  {
+    "Code": "0584",
+    "Description": "Maximum aantal prestaties / maximum tijd is overschreden."
+  },
+  {
+    "Code": "0586",
+    "Description": "Declaratie is te laat ingediend."
+  },
+  {
+    "Code": "0587",
+    "Description": "Prestatie / declaratie is reeds gedeclareerd en/of vergoed of is al eerder vergoed aan een ander."
+  },
+  {
+    "Code": "0589",
+    "Description": "Maximum te claimen bedrag is reeds gedeclareerd."
+  },
+  {
+    "Code": "0600",
+    "Description": "Nummer vrijwaringsbewijs eigen bijdrage ontbreekt of onjuist."
+  },
+  {
+    "Code": "0601",
+    "Description": "Bedrag ontvangen eigen bijdrage is onjuist."
+  },
+  {
+    "Code": "0609",
+    "Description": "Indicatie BTW-tarief is onjuist."
+  },
+  {
+    "Code": "0610",
+    "Description": "Declaratie/factuurbedrag ontbreekt  of is onjuist."
+  },
+  {
+    "Code": "0611",
+    "Description": "Tarief prestatie ontbreekt of is niet in overeenstemming met landelijke of contractafspraken."
+  },
+  {
+    "Code": "0613",
+    "Description": "Prestatie is niet (volledig) declarabel volgens de verzekeringsvoorwaarden."
+  },
+  {
+    "Code": "0630",
+    "Description": "Debiteurnummer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0631",
+    "Description": "Indicatie debet/credit ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0633",
+    "Description": "Datum prestatie voldoet niet aan termijn eerdere prestatie."
+  },
+  {
+    "Code": "0634",
+    "Description": "Prestatie voldoet niet in combinatie met eerdere prestatie."
+  },
+  {
+    "Code": "0635",
+    "Description": "Prestatie voldoet niet in combinatie met eerdere prestatie tijdens opname."
+  },
+  {
+    "Code": "0638",
+    "Description": "Aantal uitgevoerde prestaties of hoeveelheid afgeleverd ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0643",
+    "Description": "Tijdseenheid zorgperiode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0651",
+    "Description": "Referentienummer voorgaande gerelateerde prestatie verblijf ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0653",
+    "Description": "Zorgverlenersspecificatie vorige zorgverlener ontbreekt of onjuist."
+  },
+  {
+    "Code": "0698",
+    "Description": "Prestatie mag niet gedeclareerd worden volgens wettelijke declaratiebepalingen (NZa)."
+  },
+  {
+    "Code": "0704",
+    "Description": "Voorletters ontbreken of zijn onjuist (debiteur)."
+  },
+  {
+    "Code": "0706",
+    "Description": "Naam debiteur (01) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0708",
+    "Description": "Huisnummer (huisadres) ontbreekt of is onjuist (debiteur)."
+  },
+  {
+    "Code": "0711",
+    "Description": "Bankrekeningnummer debiteur ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0754",
+    "Description": "Regelnummer vrije tekst ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0755",
+    "Description": "Vrije tekst ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0801",
+    "Description": "Identificatie detailrecord ontbreekt of is onjuist."
+  },
+  {
+    "Code": "0804",
+    "Description": "Lengte record is onjuist."
+  },
+  {
+    "Code": "0836",
+    "Description": "Huisnummertoevoeging (huisadres) verzekerde ontbreekt of is onjuist."
+  },
+  {
+    "Code": "1000",
+    "Description": "Code indicatieorgaan ontbreekt of is onjuist."
+  },
+  {
+    "Code": "1060",
+    "Description": "Cliëntnummer indicatieorgaan ontbreekt of is onjuist."
+  },
+  {
+    "Code": "1061",
+    "Description": "Indicatie-aanvraagnummer indicatieorgaan ontbreekt of is onjuist."
+  },
+  {
+    "Code": "1062",
+    "Description": "Indicatiebesluitnummer indicatieorgaan ontbreekt of is onjuist."
+  },
+  {
+    "Code": "1113",
+    "Description": "Functiecode / zorgzwaartepakketcode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "1160",
+    "Description": "Straatnaam bestemming ontbreekt of onjuist."
+  },
+  {
+    "Code": "1161",
+    "Description": "Woonplaatsnaam bestemming ontbreekt of is onjuist."
+  },
+  {
+    "Code": "1163",
+    "Description": "Huisnummertoevoeging bestemming ontbreekt of onjuist."
+  },
+  {
+    "Code": "1500",
+    "Description": "Verzekerdenregistratie bij zorgverlener ontbreekt of is onjuist."
+  },
+  {
+    "Code": "1501",
+    "Description": "Receptnummer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "1502",
+    "Description": "Volgnummer van receptvoorschrift ontbreekt of is onjuist."
+  },
+  {
+    "Code": "1503",
+    "Description": "Aanduiding specificatie hulpmiddel is onjuist."
+  },
+  {
+    "Code": "1504",
+    "Description": "Specificatie hulpmiddel is onjuist."
+  },
+  {
+    "Code": "1505",
+    "Description": "Indicatie soort receptuur ontbreekt of is onjuist."
+  },
+  {
+    "Code": "1506",
+    "Description": "Indicatie WTG is onjuist."
+  },
+  {
+    "Code": "1508",
+    "Description": "Voorgeschreven dosering (bekend) is onjuist."
+  },
+  {
+    "Code": "1509",
+    "Description": "Afleveringseenheid ontbreekt of is onjuist."
+  },
+  {
+    "Code": "1510",
+    "Description": "Gemiddelde dagdosering is onjuist."
+  },
+  {
+    "Code": "1511",
+    "Description": "Hoeveelheid afgeleverd middel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "1512",
+    "Description": "Deelafleveringscode is onjuist."
+  },
+  {
+    "Code": "1514",
+    "Description": "Indicatie vrijwaringsbewijs is onjuist."
+  },
+  {
+    "Code": "1530",
+    "Description": "Toedieningsvorm ontbreekt of is onjuist."
+  },
+  {
+    "Code": "1531",
+    "Description": "Toelichting declaratiepost middel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "1532",
+    "Description": "Lokale code valt niet binnen de afgesproken vrije reeks Z-index."
+  },
+  {
+    "Code": "2700",
+    "Description": "Geen korting hulpmiddel berekend."
+  },
+  {
+    "Code": "2701",
+    "Description": "Datum aflevering voorgaand hulpmiddel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "2705",
+    "Description": "Aanvullende generieke productcode hulpmiddelen (A-GPH) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "2708",
+    "Description": "Merknaam hulpmiddel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "2709",
+    "Description": "Type hulpmiddel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "2710",
+    "Description": "Indicatie samengesteld middel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "2711",
+    "Description": "Afleveringseenheid hulpmiddel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "2712",
+    "Description": "Indicatie positie hulpmiddel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "2713",
+    "Description": "Soort kosten hulpmiddel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "3100",
+    "Description": "Verwijsdiagnose paramedische hulp ontbreekt of is onjuist."
+  },
+  {
+    "Code": "3102",
+    "Description": "Code soort indicatie paramedische hulp ontbreekt of is onjuist."
+  },
+  {
+    "Code": "3903",
+    "Description": "Indicatie boven/onder tandheelkunde ontbreekt of is onjuist."
+  },
+  {
+    "Code": "3904",
+    "Description": "Gebitselementcode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "3905",
+    "Description": "Vlakcode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "4791",
+    "Description": "Postcode bestemming ontbreekt of onjuist."
+  },
+  {
+    "Code": "5100",
+    "Description": "Code bestemming ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5101",
+    "Description": "Indicatie begeleiding vervoer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5102",
+    "Description": "Ritnummer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5103",
+    "Description": "Nummer vervoersmiddel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5104",
+    "Description": "Code indicatie gecombineerde rit ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5105",
+    "Description": "Zorgverlenerscode vervoerder ontbreekt of onjuist."
+  },
+  {
+    "Code": "5107",
+    "Description": "Vertrektijd vervoer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5108",
+    "Description": "Straatnaam herkomst ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5109",
+    "Description": "Huisnummer herkomst ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5110",
+    "Description": "Huisnummertoevoeging herkomst ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5111",
+    "Description": "Postcode herkomst ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5112",
+    "Description": "Postcode herkomst buitenland ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5113",
+    "Description": "Woonplaatsnaam herkomst ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5114",
+    "Description": "Code land herkomst ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5115",
+    "Description": "Postcode bestemming ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5116",
+    "Description": "Postcode bestemming buitenland ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5117",
+    "Description": "Code land bestemming ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5603",
+    "Description": "Nota niet in overeenstemming met GMSB."
+  },
+  {
+    "Code": "5655",
+    "Description": "Volgnummer DBC-declaratie is niet uniek."
+  },
+  {
+    "Code": "5700",
+    "Description": "Zorgverlenerscode opnemend specialist ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5701",
+    "Description": "Zorgverlenersspecificatie opnemend specialist ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5702",
+    "Description": "Code reden ontslag (bestemming) ziekenhuis ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5703",
+    "Description": "DBC-prestatiecode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5750",
+    "Description": "Soort behandeling ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5754",
+    "Description": "Aantal prestaties paramedische hulp heeft volume overschreden."
+  },
+  {
+    "Code": "5755",
+    "Description": "DBC-poortspecialisme is onbekend of onjuist."
+  },
+  {
+    "Code": "5760",
+    "Description": "Zorgverlenerscode behandelaar/uitvoerder is onbekend of onjuist."
+  },
+  {
+    "Code": "5800",
+    "Description": "Soort prestatie/tarief ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5803",
+    "Description": "Verrekenpercentage/factor ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5805",
+    "Description": "Afwijkend aantal componenten."
+  },
+  {
+    "Code": "5850",
+    "Description": "Soort toeslag ontbreekt of is onjuist."
+  },
+  {
+    "Code": "5851",
+    "Description": "Toeslag percentage onbreekt of is onjuist."
+  },
+  {
+    "Code": "5852",
+    "Description": "Bedrag toeslag ontbreekt of is onjuist."
+  },
+  {
+    "Code": "6000",
+    "Description": "Datum partus (bevallingsdatum) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "6001",
+    "Description": "Indicatie overname verloskundige zorg ontbreekt of is onjuist."
+  },
+  {
+    "Code": "6002",
+    "Description": "Indicatie 'medium risk' verloskundige zorg ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8001",
+    "Description": "Declaratie is volledig toegewezen."
+  },
+  {
+    "Code": "8002",
+    "Description": "Record is niet beoordeeld (wegens afkeuring boven- of ondergeschikt[e] record[s])."
+  },
+  {
+    "Code": "8003",
+    "Description": "Declaratieperiode is niet aansluitend of niet volgens afspraak."
+  },
+  {
+    "Code": "8004",
+    "Description": "Combinatie BSN en geboortedatum verzekerde is onjuist."
+  },
+  {
+    "Code": "8005",
+    "Description": "Combinatie BSN en naam verzekerde is onjuist."
+  },
+  {
+    "Code": "8006",
+    "Description": "Er is geen toestemming verleend aan servicebureau om prestatie / declaratie door te sturen."
+  },
+  {
+    "Code": "8007",
+    "Description": "(Begin-/eind)datum prestatie ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8008",
+    "Description": "Opgegeven prestatie mag niet uitgevoerd worden bij verzekerde."
+  },
+  {
+    "Code": "8009",
+    "Description": "Diagnosecode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8010",
+    "Description": "Prestatie mag volgens de contractvoorwaarden met de zorgverzekeraar niet verricht worden door behandelaar/uitvoerder."
+  },
+  {
+    "Code": "8011",
+    "Description": "Zorgverlenerscode behandelaar/uitvoerder of specialisme behandelaar/uitvoerder ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8013",
+    "Description": "Opgegeven prestatie op verzoek van deze voorschrijver/verwijzer is niet declarabel."
+  },
+  {
+    "Code": "8014",
+    "Description": "Zorgverlenerscode voorschrijver/verwijzer of specialisme voorschrijver/verwijzer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8016",
+    "Description": "BTW-percentage declaratiebedrag is onjuist."
+  },
+  {
+    "Code": "8017",
+    "Description": "Van deze creditering is geen debitering bekend."
+  },
+  {
+    "Code": "8018",
+    "Description": "Zorgverzekeraar heeft tarief in dit retourbericht gecorrigeerd."
+  },
+  {
+    "Code": "8019",
+    "Description": "Overschrijding/overlapping DBC-periode."
+  },
+  {
+    "Code": "8020",
+    "Description": "Prestatie valt binnen de looptijd van een andere gerelateerde prestatie."
+  },
+  {
+    "Code": "8021",
+    "Description": "Referentienummer dit prestatie- verblijfrecord ontbreekt of is niet uniek (reeds aangeleverd)."
+  },
+  {
+    "Code": "8022",
+    "Description": "Er is geen contract met aangeduide declarant."
+  },
+  {
+    "Code": "8023",
+    "Description": "Er is bij zorgverzekeraar geen relatie bekend tussen servicebureau en zorgaanbieder."
+  },
+  {
+    "Code": "8024",
+    "Description": "Factuurdatum ligt te ver in het verleden (niet conform gemaakte afspraken)."
+  },
+  {
+    "Code": "8026",
+    "Description": "Volgorde recordtypen is niet correct."
+  },
+  {
+    "Code": "8027",
+    "Description": "Subversienummer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8028",
+    "Description": "Soort bericht ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8029",
+    "Description": "Identificatiecode betaling aan ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8030",
+    "Description": "Indicatie cliënt overleden ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8031",
+    "Description": "Doorsturen toegestaan ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8032",
+    "Description": "Berekend bedrag ontbreekt of voldoet niet aan format."
+  },
+  {
+    "Code": "8033",
+    "Description": "Declaratiebedrag ontbreekt of voldoet niet aan format."
+  },
+  {
+    "Code": "8034",
+    "Description": "Instellingscode herkomst ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8035",
+    "Description": "Ontslagdatum ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8036",
+    "Description": "Volgnummer indicatie cliënt ontbreekt of onjuist."
+  },
+  {
+    "Code": "8037",
+    "Description": "Aantal omvang geïndiceerd product ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8038",
+    "Description": "Zorgverlenerscode indicatie ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8039",
+    "Description": "Datum afgifte indicatiebesluit ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8041",
+    "Description": "Prestatiedatum / datum aflevering is onjuist."
+  },
+  {
+    "Code": "8042",
+    "Description": "Prestatiedatum / datum aflevering valt na factuurdatum of na einddatum declaratieperiode."
+  },
+  {
+    "Code": "8043",
+    "Description": "Artikelcode middel onjuist."
+  },
+  {
+    "Code": "8044",
+    "Description": "WTG-bedrag is onjuist."
+  },
+  {
+    "Code": "8045",
+    "Description": "Receptnummer/volgnummer is niet uniek binnen 1 maand."
+  },
+  {
+    "Code": "8046",
+    "Description": "Volgorde onderdelen en totaal record magistrale bereiding zijn onjuist."
+  },
+  {
+    "Code": "8047",
+    "Description": "Geen commentaarrecord bij lokaal artikelnummer."
+  },
+  {
+    "Code": "8048",
+    "Description": "Eenheid prestatie ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8049",
+    "Description": "Aantal prestatie-eenheden ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8050",
+    "Description": "Indicatie soort prestatierecord ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8051",
+    "Description": "Indicatie bijzondere tandheelkunde ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8052",
+    "Description": "Soort bijzondere tandheelkunde ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8053",
+    "Description": "Bedrag vermindering bijzondere tandheelkunde ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8054",
+    "Description": "Aantal declaratie/factuur records/regels ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8055",
+    "Description": "Aantal toeslagrecords ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8056",
+    "Description": "Aantal indicatierecords ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8057",
+    "Description": "Artikelcode hulpmiddel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8058",
+    "Description": "Combinatie paramedische diagnosecode en code soort indicatie paramedische hulp is onjuist."
+  },
+  {
+    "Code": "8059",
+    "Description": "Afwijkend berekend bedrag wordt toegezegd."
+  },
+  {
+    "Code": "8060",
+    "Description": "Er is geen contract met de aangeduide declarant voor de opgegeven prestatie."
+  },
+  {
+    "Code": "8061",
+    "Description": "De zorgverzekeraar ondersteunt het ontvangen van het declaratiebestand via VECOZO niet."
+  },
+  {
+    "Code": "8062",
+    "Description": "Debetregel en identieke creditregel in hetzelfde bestand is niet toegestaan."
+  },
+  {
+    "Code": "8063",
+    "Description": "Berekend bedrag mag niet lager zijn dan gedeclareerd bedrag."
+  },
+  {
+    "Code": "8064",
+    "Description": "Indicaties debet/credit mogen (indien gevuld) niet verschillend zijn binnen één record inclusief onderliggende records."
+  },
+  {
+    "Code": "8065",
+    "Description": "Toeslag is gedeclareerd zonder bijbehorende prestatie."
+  },
+  {
+    "Code": "8066",
+    "Description": "Geen relatie bekend tussen zorgverlener in voorlooprecord en praktijk in voorlooprecord."
+  },
+  {
+    "Code": "8067",
+    "Description": "Declaratie is reeds eerder ingediend."
+  },
+  {
+    "Code": "8068",
+    "Description": "De instelling beschikt niet over de vereiste WBMV-erkenning."
+  },
+  {
+    "Code": "8069",
+    "Description": "Ontvangen eigen bijdrage is groter dan verschil Berekend bedrag en Declaratiebedrag."
+  },
+  {
+    "Code": "8070",
+    "Description": "De zorgaanbieder dient de declaratie in buiten het servicebureau om."
+  },
+  {
+    "Code": "8071",
+    "Description": "Relatie tussen DBC-prestatiecode en DBC-declaratiecode is onjuist."
+  },
+  {
+    "Code": "8072",
+    "Description": "Prestatie is afgewezen; voor meer informatie, neem contact op met de zorgverzekeraar."
+  },
+  {
+    "Code": "8073",
+    "Description": "Declaratie is volledig afgewezen."
+  },
+  {
+    "Code": "8074",
+    "Description": "Declaratie is niet in behandeling genomen; voor meer informatie, neem contact op met de zorgverzekeraar."
+  },
+  {
+    "Code": "8075",
+    "Description": "Recordtype 03 (Debiteurrecord) niet toegestaan bij bestandsuitwisseling naar zorgverzekeraar."
+  },
+  {
+    "Code": "8076",
+    "Description": "Soort inhouding ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8077",
+    "Description": "Bedrag inhouding ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8078",
+    "Description": "De combinatie van de prestatiecode (GPH), de A-GPH en soort kosten hulpmiddel is onjuist."
+  },
+  {
+    "Code": "8079",
+    "Description": "Verwijsdatum ontbreekt of is onjuist bij ingevulde verwijzerscode."
+  },
+  {
+    "Code": "8080",
+    "Description": "Soort inhouding ontbreekt of is onjuist bij ingevuld bedrag inhouding."
+  },
+  {
+    "Code": "8081",
+    "Description": "Eenheid rit/prestatie ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8082",
+    "Description": "Aantal (rit)eenheden ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8083",
+    "Description": "Huisnummer bestemming ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8084",
+    "Description": "Debetregel is al eerder gecrediteerd."
+  },
+  {
+    "Code": "8085",
+    "Description": "Praktijkcode ontbreekt of is onjuist (prestatierecord)."
+  },
+  {
+    "Code": "8086",
+    "Description": "Prestatiecode voor totaalrecord apotheekbereiding  ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8087",
+    "Description": "WMG-tariefcode modulaire tariefstructuur farmaceutische hulp ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8088",
+    "Description": "Receptnummer/volgnummer is niet uniek binnen kalenderjaar."
+  },
+  {
+    "Code": "8089",
+    "Description": "Indicatie WMG ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8090",
+    "Description": "WMG-tariefcodebedrag (excl. BTW) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8091",
+    "Description": "Bedrag berekende eigen bijdrage ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8092",
+    "Description": "Indicatie GVS-bijdrage opgenomen in declaratiebedrag ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8093",
+    "Description": "Vergoedingsbedrag middelen (excl. WMG, GVS, BTW; incl. aftrek clawback) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8094",
+    "Description": "BTW-bedrag op detailniveau ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8095",
+    "Description": "CR/LF zonder voorafgaand record of record zonder aansluitend CR/LF is niet toegestaan."
+  },
+  {
+    "Code": "8096",
+    "Description": "Prestatie- en/of tariefrecord is als goed beoordeeld, maar afgewezen omdat het hele bestand is afgekeurd."
+  },
+  {
+    "Code": "8097",
+    "Description": "Bestand is afgekeurd, omdat volgens afspraak alleen volledig goedgekeurde bestanden toegekend worden."
+  },
+  {
+    "Code": "8098",
+    "Description": "De combinatie van de prestatiecode (GPH), de A-GPH, indicatie positie hulpmiddel en soort kosten hulpmiddel is onjuist."
+  },
+  {
+    "Code": "8099",
+    "Description": "Voorafgaand prestatierecord \"Honorarium en alle overige kosten buiten materiaalkosten en techniekkosten\" ontbreekt."
+  },
+  {
+    "Code": "8100",
+    "Description": "Het declaratiebedrag correspondeert niet met de andere bedragvelden in het prestatierecord."
+  },
+  {
+    "Code": "8101",
+    "Description": "Verzekerdennummer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8102",
+    "Description": "Prestatievolgnummer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8103",
+    "Description": "Datum opname ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8104",
+    "Description": "Tariefvolgnummer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8105",
+    "Description": "Budget voor behandeling is overschreden."
+  },
+  {
+    "Code": "8106",
+    "Description": "Indicatiebesluitnummer Ministerie van Justitie ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8107",
+    "Description": "Plaatsingsbesluitnummer Ministerie van Justitie ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8108",
+    "Description": "Startdatum strafrechtelijke titel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8109",
+    "Description": "Einddatum strafrechtelijke titel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8110",
+    "Description": "Behandelperiode valt niet (volledig) binnen periode strafrechtelijke titel."
+  },
+  {
+    "Code": "8111",
+    "Description": "Zorgtrajectnummer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8112",
+    "Description": "Berekend bedrag behandeling/overige kosten ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8113",
+    "Description": "Totaal berekend bedrag verblijf ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8114",
+    "Description": "Verblijf is niet contractueel afgesproken."
+  },
+  {
+    "Code": "8115",
+    "Description": "Budget voor verblijf is overschreden."
+  },
+  {
+    "Code": "8116",
+    "Description": "Begindatum verblijf ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8117",
+    "Description": "Begindatum verblijf valt niet binnen behandelperiode."
+  },
+  {
+    "Code": "8118",
+    "Description": "Verblijfperiode valt niet (volledig) binnen de behandelperiode."
+  },
+  {
+    "Code": "8119",
+    "Description": "Declaratiecode verblijf ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8120",
+    "Description": "Code verblijfsoort ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8121",
+    "Description": "Aantal verblijfrecords ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8122",
+    "Description": "Tarief DBC-verblijf ontbreekt of onjuist."
+  },
+  {
+    "Code": "8123",
+    "Description": "Zorgproductcode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8124",
+    "Description": "Zorgtrajectnummer en/of Subtrajectnummer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8125",
+    "Description": "Afsluitreden zorgtraject/subtraject ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8126",
+    "Description": "Verwijzend zorgtrajectnummer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8127",
+    "Description": "Relatie tussen combinatie 'zorgtypecode, zorgvraagcode en diagnose' enerzijds en DBC-declaratiecode anderzijds is onjuist."
+  },
+  {
+    "Code": "8128",
+    "Description": "Eén of meer zorgproduct-indicaties ontbreken of zijn onjuist."
+  },
+  {
+    "Code": "8129",
+    "Description": "Instellingscode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8130",
+    "Description": "Hashcode met 'public key' bepaald uit Hashtotaal ZV (zorgverzekeraar) is niet gelijk aan de berekende hashcode."
+  },
+  {
+    "Code": "8131",
+    "Description": "Hashversie ZV (zorgverzekeraar), certificaatversie hash, Grouperversie en/of tabelsetversie Grouper ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8132",
+    "Description": "Zorgactiviteitnummer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8133",
+    "Description": "Zorgpadcode epilesie ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8134",
+    "Description": "Indicatie tweede operatie zelfde aandoening ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8135",
+    "Description": "Begindatum en/of einddatum zorgtraject ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8136",
+    "Description": "Grouperidentificatie ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8137",
+    "Description": "Toeslagvolgnummer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8138",
+    "Description": "Afwijkende instellingscode prestatie niet vullen."
+  },
+  {
+    "Code": "8139",
+    "Description": "ZI-artikelnummer komt niet voor in de taxe van de maand van aflevering."
+  },
+  {
+    "Code": "8140",
+    "Description": "ZI-artikelnummer is meer dan een half jaar vervallen."
+  },
+  {
+    "Code": "8141",
+    "Description": "Ten onrechte EAV-verpakking gedeclareerd."
+  },
+  {
+    "Code": "8142",
+    "Description": "Magistrale bereiding zonder bestanddelen gedeclareerd."
+  },
+  {
+    "Code": "8143",
+    "Description": "Middel is op last van de overheid uit de handel genomen."
+  },
+  {
+    "Code": "8144",
+    "Description": "Geen rationele farmacotherapie."
+  },
+  {
+    "Code": "8145",
+    "Description": "Artikelen ten onrechte in een magistraal gedeclareerd."
+  },
+  {
+    "Code": "8146",
+    "Description": "Indicatie gvs-bijdrage opgenomen in declaratiebedrag is onjuist; GVS bijbetaling wordt niet vergoed."
+  },
+  {
+    "Code": "8147",
+    "Description": "Magistrale bereiding wordt niet vergoed vanwege 1 of meer afgekeurde onderdelen."
+  },
+  {
+    "Code": "8148",
+    "Description": "Afkeuring bij inhoudelijke controle."
+  },
+  {
+    "Code": "8150",
+    "Description": "Prestatierecord hoort niet bij voorliggend verzekerderecord."
+  },
+  {
+    "Code": "8151",
+    "Description": "Geboortedatum verzekerde ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8153",
+    "Description": "Naamcode/naamgebruik (02) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8165",
+    "Description": "De combinatie van bericht, versienr en subversienr is onjuist."
+  },
+  {
+    "Code": "8166",
+    "Description": "Code informatiesysteem softwareleverancier+versienummer informatiesysteem softwareleverancier moeten beide gevuld zijn of niet gevuld zijn."
+  },
+  {
+    "Code": "8167",
+    "Description": "Zorgverlenerscode moet gevuld zijn indien praktijkcode gevuld is."
+  },
+  {
+    "Code": "8168",
+    "Description": "Zorgverlenerscode mag niet gevuld zijn indien instellingscode gevuld is."
+  },
+  {
+    "Code": "8169",
+    "Description": "Praktijkcode mag niet gevuld zijn indien instellingscode gevuld is."
+  },
+  {
+    "Code": "8170",
+    "Description": "Praktijkcode en zorgverlenerscode moeten gevuld zijn indien instellingscode leeg is."
+  },
+  {
+    "Code": "8171",
+    "Description": "Code servicebureau moet gevuld zijn indien identificatiecode betaling aan gelijk is aan 1."
+  },
+  {
+    "Code": "8172",
+    "Description": "Zorgverlenerscode moet gevuld zijn indien identificatiecode betaling aan gelijk is aan 2."
+  },
+  {
+    "Code": "8173",
+    "Description": "Praktijkcode moet gevuld zijn indien identificatiecode betaling aan gelijk is aan 3."
+  },
+  {
+    "Code": "8174",
+    "Description": "Instellingscode moet gevuld zijn indien identificatiebetaling aan gelijk is aan 4."
+  },
+  {
+    "Code": "8175",
+    "Description": "Einddatum declaratieperiode moet groter zijn dan of gelijk zijn aan de begindatum declaratieperiode."
+  },
+  {
+    "Code": "8176",
+    "Description": "Prestatiedatum moet kleiner zijn dan of gelijk zijn aan factuurdatum."
+  },
+  {
+    "Code": "8177",
+    "Description": "Begindatum prestatie moet kleiner zijn dan of gelijk zijn aan factuurdatum."
+  },
+  {
+    "Code": "8178",
+    "Description": "Einddatum prestatie moet kleiner zijn dan of gelijk zijn aan factuurdatum."
+  },
+  {
+    "Code": "8179",
+    "Description": "Doorsturen toegestaan moet 1 zijn indien UZOVI-nummer van zorgverzekeraar gevuld is."
+  },
+  {
+    "Code": "8181",
+    "Description": "Naam verzekerde (02) moet gevuld zijn indien naamcode/naamgebruik (02) gevuld is."
+  },
+  {
+    "Code": "8182",
+    "Description": "Postcode buitenland mag niet gevuld zijn indien postcode Nederland gevuld is."
+  },
+  {
+    "Code": "8183",
+    "Description": "Postcode Nederland mag niet gevuld zijn indien postcode buitenland gevuld is."
+  },
+  {
+    "Code": "8184",
+    "Description": "Code land verzekerde moet gevuld zijn indien postcode buitenland gevuld is."
+  },
+  {
+    "Code": "8185",
+    "Description": "Postcode buitenland mag niet gevuld zijn indien code land is Nederland en andersom."
+  },
+  {
+    "Code": "8186",
+    "Description": "Postcode Nederland mag niet gevuld zijn indien code land is buitenland en andersom."
+  },
+  {
+    "Code": "8187",
+    "Description": "De prestatie hoort niet bij deze verzekerde."
+  },
+  {
+    "Code": "8188",
+    "Description": "Einddatum prestatie moet groter zijn dan of gelijk zijn aan begindatum prestatie."
+  },
+  {
+    "Code": "8192",
+    "Description": "Referentienummer van dit prestatierecord is niet uniek binnen het bericht."
+  },
+  {
+    "Code": "8193",
+    "Description": "Referentienummer voorgaande gerelateerd prestatierecord moet gevuld zijn in geval van creditregel."
+  },
+  {
+    "Code": "8194",
+    "Description": "Indicatie debet/credit moet de waarde D hebben indien het totaal declaratiebedrag met \"nullen\" gevuld is."
+  },
+  {
+    "Code": "8195",
+    "Description": "Waarde code indicatieorgaan verschilt in prestatiegegevens van die in verzekerdengegevens."
+  },
+  {
+    "Code": "8196",
+    "Description": "Waarde cliëntnummer indicatieorgaan verschilt in prestatiegegevens van die in verzekerdengegevens."
+  },
+  {
+    "Code": "8197",
+    "Description": "Waarde UZOVI-nummer is gelijk in verzekerdengegevens aan die in voorlooprecord."
+  },
+  {
+    "Code": "8198",
+    "Description": "Het bestand kan niet worden doorgestuurd. De zorgverzekeraar is niet aangesloten op het electronisch declaratieportaal van VECOZO."
+  },
+  {
+    "Code": "8199",
+    "Description": "Voorlooprecord komt ten onrechte meerdere keren voor."
+  },
+  {
+    "Code": "8200",
+    "Description": "Sluitrecord komt ten onrechte meerdere keren voor."
+  },
+  {
+    "Code": "8201",
+    "Description": "Code informatiesysteem ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8202",
+    "Description": "Patiënt(identificatie)nummer is onjuist."
+  },
+  {
+    "Code": "8206",
+    "Description": "BTW-identificatienummer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8207",
+    "Description": "Referentienummer dit prestatierecord moet uniek zijn binnen het bestand."
+  },
+  {
+    "Code": "8208",
+    "Description": "Functiedeel activiteitcode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8209",
+    "Description": "Activiteitdeel activiteitcode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8210",
+    "Description": "Code indicatieorgaan moet gevuld zijn als Burgerservicenummer (BSN) verzekerde niet bekend is."
+  },
+  {
+    "Code": "8211",
+    "Description": "Cliëntnummer indicatieorgaan moet gevuld zijn als Burgerservicenummer (BSN) verzekerde niet bekend is."
+  },
+  {
+    "Code": "8212",
+    "Description": "Zorgzwaartepakketcode moet gevuld zijn als functiecode leeg is."
+  },
+  {
+    "Code": "8213",
+    "Description": "Functiecode moet gevuld zijn als zorgzwaartepakketcode leeg is."
+  },
+  {
+    "Code": "8214",
+    "Description": "Begindatum declaratieperiode en einddatum declaratieperiode komen niet overeen met de afgesproken declaratieperiode."
+  },
+  {
+    "Code": "8215",
+    "Description": "Waarde Berekend bedrag is ongelijk aan waarde Aantal uitgevoerde prestaties maal Tarief prestatie (incl. BTW)."
+  },
+  {
+    "Code": "8216",
+    "Description": "De gedeclareerde periode heeft een overlap met een reeds eerder gedeclareerde niet gecrediteerde debetregel."
+  },
+  {
+    "Code": "8217",
+    "Description": "Combinatie cliëntnummer indicatieorgaan en geboortedatum verzekerde is onjuist."
+  },
+  {
+    "Code": "8218",
+    "Description": "Vervolg DBC is niet toegestaan binnen een jaar na consult DBC."
+  },
+  {
+    "Code": "8219",
+    "Description": "Relatie tussen Zorgproductcode en DBC-declaratiecode bestaat niet."
+  },
+  {
+    "Code": "8220",
+    "Description": "Maximum aantal prestaties is overschreden."
+  },
+  {
+    "Code": "8221",
+    "Description": "Maximale behandelperiode is overschreden."
+  },
+  {
+    "Code": "8222",
+    "Description": "Begindatum prestatie ligt voor toegestane datum."
+  },
+  {
+    "Code": "8223",
+    "Description": "Naam verzekerde (02) mag niet gevuld zijn indien naamcode/naamgebruik (02) gelijk is aan 0."
+  },
+  {
+    "Code": "8224",
+    "Description": "Toeslag mag niet in combinatie met andere toeslag worden gedeclareerd."
+  },
+  {
+    "Code": "8225",
+    "Description": "Het aantal gedeclareerde prestaties overschrijdt de omvang van de toegewezen zorg."
+  },
+  {
+    "Code": "8226",
+    "Description": "De gedeclareerde prestatie komt niet overeen met de afspraken met de AWBZ verzekeraar."
+  },
+  {
+    "Code": "8227",
+    "Description": "Identificatie commentaarecord heeft geen bijbehorende identificatie detailrecord in dit bestand."
+  },
+  {
+    "Code": "8228",
+    "Description": "Voorvoegsel verzekerde (01) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8229",
+    "Description": "De indicatie hoort niet bij deze prestatie."
+  },
+  {
+    "Code": "8230",
+    "Description": "Datum afgifte indicatiebesluit moet kleiner zijn dan of gelijk zijn aan factuurdatum."
+  },
+  {
+    "Code": "8231",
+    "Description": "Datum partus (bevallingsdatum) moet kleiner zijn dan of gelijk zijn aan factuurdatum."
+  },
+  {
+    "Code": "8232",
+    "Description": "Soort bijzondere tandheelkunde moet gevuld zijn indien sprake is van bijzondere tandheelkunde."
+  },
+  {
+    "Code": "8233",
+    "Description": "Diagnosecode bijzondere tandheelkunde moet gevuld zijn indien aangegeven is dat sprake is van een diagnosecode bijzondere tandheelkunde."
+  },
+  {
+    "Code": "8234",
+    "Description": "Code (zelf)verwijzer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8235",
+    "Description": "Soort zorgvraag ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8236",
+    "Description": "Aanduiding prestatiecodelijst (01) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8237",
+    "Description": "Aanduiding prestatiecodelijst (02) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8238",
+    "Description": "Referentienummer dit tariefrecord ontbreekt of is niet uniek (reeds aangeleverd)."
+  },
+  {
+    "Code": "8239",
+    "Description": "Aantal tariefrecords ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8240",
+    "Description": "Zorgtypecode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8241",
+    "Description": "Soort zorgvraag ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8242",
+    "Description": "Zorgvraagcode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8243",
+    "Description": "Soort diagnose ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8244",
+    "Description": "Indicatie aanspraak zorgverzekeringswet ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8245",
+    "Description": "Toelichting prestatie ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8246",
+    "Description": "Acceptatie termijnoverschrijding ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8247",
+    "Description": "Indicatie machtiging ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8248",
+    "Description": "Indicatie producttyperende oranje verrichting in het profiel  ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8249",
+    "Description": "Hashtotaal ZV ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8250",
+    "Description": "Hashversie ZV ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8251",
+    "Description": "Certificaatversie hash ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8252",
+    "Description": "Grouperversie ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8253",
+    "Description": "Tabelsetversie grouper ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8254",
+    "Description": "Grouperwerkomgeving  ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8255",
+    "Description": "Zorgactiviteitcode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8256",
+    "Description": "Referentienummer voorgaande gerelateerde  tariefrecord ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8257",
+    "Description": "Het tariefrecord hoort niet bij dit prestatierecord."
+  },
+  {
+    "Code": "8258",
+    "Description": "Referentienummer dit tariefrecord moet uniek zijn binnen het bestand."
+  },
+  {
+    "Code": "8259",
+    "Description": "Referentienummer voorgaande gerelateerd tariefrecord moet gevuld zijn in geval van creditregel."
+  },
+  {
+    "Code": "8260",
+    "Description": "De vulling van afgesproken velden bij het declareren van een DBC-zorgproduct is niet correct."
+  },
+  {
+    "Code": "8261",
+    "Description": "Zorgactiviteitnummer moet gevuld zijn als zorgactiviteitcode gevuld is."
+  },
+  {
+    "Code": "8262",
+    "Description": "Niet alle velden voor poliklinische paramedische hulp zijn gevuld."
+  },
+  {
+    "Code": "8263",
+    "Description": "Als Hashtotaal gevuld is moeten ook andere relevante velden gevuld zijn."
+  },
+  {
+    "Code": "8264",
+    "Description": "De berekende Hashcode moet gelijk zijn aan de Hashcode die van het Hashtotaal afgeleid is."
+  },
+  {
+    "Code": "8265",
+    "Description": "Einddatum zorgtraject moet groter zijn dan of gelijk zijn aan  begindatum zorgtraject."
+  },
+  {
+    "Code": "8266",
+    "Description": "Aanduiding prestatiecodelijst ((01)/(02)) moet leeg zijn als zorgproductcode gevuld is."
+  },
+  {
+    "Code": "8267",
+    "Description": "Zorgverlenersspecificatie behandelaar/uitvoerder moet gevuld zijn als zorgproductcode gevuld is en soort prestatie honorarium betreft."
+  },
+  {
+    "Code": "8268",
+    "Description": "Indien zorgactiviteitcode gevuld is, moeten zorgtrajectnr.,  begindatum zorgtraject, subtrajectnr. en zorgactiviteitnummer ook gevuld zijn."
+  },
+  {
+    "Code": "8269",
+    "Description": "Referentienummer voorgaande gerelateerde prestatierecord moet uniek zijn binnen het bestand."
+  },
+  {
+    "Code": "8270",
+    "Description": "Bedrag toeslag mag niet gevuld zijn, indien aanduiding prestatiecodelijst gelijk is aan 016."
+  },
+  {
+    "Code": "8271",
+    "Description": "Huisnummer herkomst moet gevuld zijn, indien huisnummer toevoeging herkomst gevuld is."
+  },
+  {
+    "Code": "8272",
+    "Description": "Postcode herkomst buitenland mag niet gevuld zijn, indien postcode herkomst gevuld is."
+  },
+  {
+    "Code": "8273",
+    "Description": "Straatnaam herkomst, woonplaatsnaam herkomst en code land herkomst moeten gevuld zijn en postcode herkomst mag niet gevuld zijn, ->"
+  },
+  {
+    "Code": "8274",
+    "Description": "Huisnummer bestemming moet gevuld zijn, indien huisnummer toevoeging bestemming gevuld is."
+  },
+  {
+    "Code": "8275",
+    "Description": "Postcode bestemming buitenland mag niet gevuld zijn, indien postcode bestemming  gevuld is."
+  },
+  {
+    "Code": "8276",
+    "Description": "Straatnaam bestemming, woonplaatsnaam bestemming en code land bestemming moeten gevuld zijn en postcode bestemming mag niet gevuld zijn, ->"
+  },
+  {
+    "Code": "8277",
+    "Description": "Aantal (rit)eenheden moet gelijk zijn aan 0001, indien eenheid rit/prestatie gelijk is aan 4."
+  },
+  {
+    "Code": "8278",
+    "Description": "Aantal (rit)eenheden moet groter zijn dan 0000, indien eenheid rit/prestatie gelijk is aan 0 of 1."
+  },
+  {
+    "Code": "8279",
+    "Description": "Tarief prestatie (incl. BTW) moet gevuld zijn, indien eenheid rit/prestatie gelijk is aan 1 of 4."
+  },
+  {
+    "Code": "8280",
+    "Description": "Berekend bedrag moet gelijk zijn aan aantal (rit)eenheden x tarief prestatie, indien eenheid rit/prestatie gelijk is aan 1 of 4."
+  },
+  {
+    "Code": "8281",
+    "Description": "Combinatie BSN en verzekerdennummer is niet uniek."
+  },
+  {
+    "Code": "8282",
+    "Description": "Voorvoegsel verzekerde (02) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8283",
+    "Description": "Naam verzekerde (02) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8284",
+    "Description": "Zorgverlenerscode voorschrijver/verwijzer en/of Specialisme voorschrijver/verwijzer niet juist ingevuld in relatie met Code (zelf)verwijzer"
+  },
+  {
+    "Code": "8285",
+    "Description": "Zorgverlenerscode en praktijkcode mogen niet gevuld zijn, indien instellingscode met waarde 17, 37 of 53 op eerste twee posities gevuld is."
+  },
+  {
+    "Code": "8286",
+    "Description": "Zorgverlenerscode moet gevuld zijn, indien instellingscode en praktijkcode beide niet gevuld zijn."
+  },
+  {
+    "Code": "8287",
+    "Description": "Gedeclareerde zorgperiode valt buiten de zorgleveringsperiode op basis van MAZ en MEZ."
+  },
+  {
+    "Code": "8288",
+    "Description": "Gedeclareerde zorgperiode betreft een afgesloten declaratiejaar."
+  },
+  {
+    "Code": "8289",
+    "Description": "Verzekerde heeft geen geldig indicatiebesluit voor gedeclareerde zorgperiode."
+  },
+  {
+    "Code": "8290",
+    "Description": "Er is geen (correcte) melding aanvangzorg (MAZ) aanwezig."
+  },
+  {
+    "Code": "8291",
+    "Description": "Maximum aantal prestaties per dag bereikt."
+  },
+  {
+    "Code": "8292",
+    "Description": "Maximum aantal prestaties per kalendermaand bereikt."
+  },
+  {
+    "Code": "8293",
+    "Description": "Maximum aantal prestaties per kalenderjaar bereikt."
+  },
+  {
+    "Code": "8294",
+    "Description": "Totale tijd ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8295",
+    "Description": "Indirecte tijd ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8296",
+    "Description": "Bedrag ontvangen eigen bijdrage ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8297",
+    "Description": "Soort prestatie/tarief ontbreekt of is onjuist in relatie met de DBC prestatiecode."
+  },
+  {
+    "Code": "8298",
+    "Description": "Aanduiding prestatiecodelijst (02) mag niet gelijk zijn aan aanduiding prestatiecodelijst (01)."
+  },
+  {
+    "Code": "8299",
+    "Description": "Declaratiebedrag ontbreekt of is onjuist in relatie met soort prestatie/tarief."
+  },
+  {
+    "Code": "8300",
+    "Description": "DBC prestatiecode ontbreekt of is onjuist in relatie met soort prestatie/tarief."
+  },
+  {
+    "Code": "8301",
+    "Description": "Poortspecialisme ontbreekt of is onjuist in relatie met soort prestatie/tarief."
+  },
+  {
+    "Code": "8302",
+    "Description": "Begindatum prestatie moet gelijk zijn aan begindatum deelprestatie in relatie met soort prestatie/tarief."
+  },
+  {
+    "Code": "8303",
+    "Description": "Einddatum prestatie moet gelijk zijn aan einddatum deelprestatie in relatie met soort prestatie/tarief."
+  },
+  {
+    "Code": "8304",
+    "Description": "Zorgverlenersspecificatie behandelaar/uitvoerder (subberoepgroep) ontbreekt of is onjuist in relatie met soort prestatie/tarief."
+  },
+  {
+    "Code": "8305",
+    "Description": "Declaratiecode moet gelijk zijn aan declaratiecode deelprestatie in relatie met soort prestatie/tarief."
+  },
+  {
+    "Code": "8306",
+    "Description": "DBC prestatiecode en/of zorgtrajectnummer ontbreekt in relatie met soort prestatie/tarief."
+  },
+  {
+    "Code": "8307",
+    "Description": "Declaratiecode mag niet gelijk zijn aan declaratiecode deelprestatie in relatie met soort prestatie/tarief."
+  },
+  {
+    "Code": "8308",
+    "Description": "Aantal uitgevoerde prestaties is niet gelijk aan aantal dagen in periode begindatum deelprestratie t/m einddatum deelprestatie."
+  },
+  {
+    "Code": "8309",
+    "Description": "Begindatum deelprestatie moet gelijk zijn aan of groter zijn dan begindatum prestatie."
+  },
+  {
+    "Code": "8310",
+    "Description": "Einddatum deelprestatie moet gelijk zijn aan of groter zijn dan begindatum deelprestatie."
+  },
+  {
+    "Code": "8311",
+    "Description": "Referentienummer voorgaande gerelateerde tariefrecord moet uniek zijn binnen het bestand."
+  },
+  {
+    "Code": "8314",
+    "Description": "Eén of meer recordtypen zijn niet toegestaan"
+  },
+  {
+    "Code": "8315",
+    "Description": "A-GPH-1 Aanvullende generieke productcode hulpmiddelen 2 ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8316",
+    "Description": "A-GPH-2 Aanvullende generieke productcode hulpmiddelen 2 ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8317",
+    "Description": "Indicatie medisch voorschrift ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8318",
+    "Description": "Hoeveelheid afgeleverd in stuks ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8319",
+    "Description": "Declaratiebedrag basisverzekering ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8320",
+    "Description": "Declaratiebedrag aanvullende verzekering ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8321",
+    "Description": "Artikelcode hulpmiddel ontbreekt in relatie tot aanduiding prestatiecodelijst."
+  },
+  {
+    "Code": "8322",
+    "Description": "Artikelcode hulpmiddel mag niet gevuld zijn in relatie tot aanduiding prestatiecodelijst."
+  },
+  {
+    "Code": "8323",
+    "Description": "Hoeveelheid afgeleverd in stuks ontbreekt in relatie tot afleveringseenheid."
+  },
+  {
+    "Code": "8324",
+    "Description": "Begindatum prestatie en einddatum prestatie moeten aan elkaar gelijk zijn bij een artikel in eigendom."
+  },
+  {
+    "Code": "8325",
+    "Description": "Prestatie is niet toegestaan zonder voorgaande prestatie."
+  },
+  {
+    "Code": "8326",
+    "Description": "Declaratiecode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8327",
+    "Description": "Declaratiecode deelprestatie ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8328",
+    "Description": "Datum peilmoment ontbreekt of is niet bestaand."
+  },
+  {
+    "Code": "8329",
+    "Description": "Dagtekening aanmaak OHW+-bericht ontbreekt of is niet bestaand."
+  },
+  {
+    "Code": "8330",
+    "Description": "Referentienummer dit OHW+-bestand ontbreekt of is niet uniek."
+  },
+  {
+    "Code": "8331",
+    "Description": "Declaratiewaarde ontbreekt of voldoet niet aan format."
+  },
+  {
+    "Code": "8332",
+    "Description": "Totaal declaratiewaarden ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8333",
+    "Description": "Datum peilmoment moet kleiner zijn dan of gelijk zijn aan Dagtekening aanmaak OHW+-bericht."
+  },
+  {
+    "Code": "8334",
+    "Description": "Begindatum prestatie moet kleiner zijn dan of gelijk zijn aan Dagtekening aanmaak OHW+-bericht."
+  },
+  {
+    "Code": "8335",
+    "Description": "Aanleverjaar ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8336",
+    "Description": "Tijdseenheid aanleverperiode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8337",
+    "Description": "Volgnummer aanleverperiode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8338",
+    "Description": "Referentienummer dit schadebestand ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8339",
+    "Description": "Referentienummer voorgaande gerelateerde schadebestand ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8340",
+    "Description": "Vergoed bedrag AWBZ onbreekt of is onjuist."
+  },
+  {
+    "Code": "8341",
+    "Description": "Soort aanlevering ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8342",
+    "Description": "Referentienummer prestatierecord zorgverzekeraar ontbreekt of onjuist."
+  },
+  {
+    "Code": "8343",
+    "Description": "Referentienummer voorgaande gerelateerde prestatierecord ZV ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8344",
+    "Description": "Totaal vergoed bedrag AWBZ ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8345",
+    "Description": "Begindatum prestatie moet kleiner zijn dan of gelijk zijn aan dagtekening aanmaak."
+  },
+  {
+    "Code": "8346",
+    "Description": "Einddatum prestatie moet kleiner zijn dan of gelijk zijn aan dagtekening aanmaak."
+  },
+  {
+    "Code": "8347",
+    "Description": "Referentienummer prestatierecord zorgverzekeraar moet uniek zijn binnen het bestand."
+  },
+  {
+    "Code": "8348",
+    "Description": "Vervangen prestatieregel in hetzelfde bestand is niet toegestaan."
+  },
+  {
+    "Code": "8349",
+    "Description": "Referentienummer voorgaande gerelateerde prestatierecord ZV moet uniek zijn binnen het bestand."
+  },
+  {
+    "Code": "8350",
+    "Description": "Totaal vergoed bedrag AWBZ ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8351",
+    "Description": "Begindatum prestatie moet kleiner zijn dan of gelijk zijn aan Datum peilmoment."
+  },
+  {
+    "Code": "8352",
+    "Description": "Functiecode of zorgzwaartepakketcode moet gevuld zijn als indicatiebesluitnummer indicatieorgaan is gevuld."
+  },
+  {
+    "Code": "8353",
+    "Description": "Dagtekening aanmaak ontbreekt of is niet bestaand."
+  },
+  {
+    "Code": "8354",
+    "Description": "Begindatum verwerkingsperiode zorgverzekeraar ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8355",
+    "Description": "Einddatum verwerkingsperiode zorgverzekeraar  ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8356",
+    "Description": "Bron-id declaratieverwerkingssysteem ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8357",
+    "Description": "UZOVI-nummer volmacht ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8358",
+    "Description": "Soort declaratie ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8359",
+    "Description": "Verwerkingsdatum zorgverzekeraar ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8360",
+    "Description": "Identificatie prestatierecord ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8361",
+    "Description": "Vergoed bedrag Basisverzekering ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8362",
+    "Description": "Vergoed bedrag aanvullendeverzekering ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8363",
+    "Description": "Totaal  berekend bedrag zorgverzekeraar ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8364",
+    "Description": "Totaal vergoed bedrag zorgverzekeraar ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8365",
+    "Description": "Totaal vergoed bedrag aanvullende verzekeringontbreekt of is onjuist"
+  },
+  {
+    "Code": "8366",
+    "Description": "Identificatie gerelateerd debet prestatierecord  ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8367",
+    "Description": "UZOVI-nummer risicodrager ontbreekt of is onjuist (detailrecord)"
+  },
+  {
+    "Code": "8368",
+    "Description": "Identificatie gerelateerd debet prestatierecord  moet uniek zijn in het bestand."
+  },
+  {
+    "Code": "8369",
+    "Description": "De verwerkingsdatum zorgverzekeraar in de verschillende records komen niet overeen."
+  },
+  {
+    "Code": "8370",
+    "Description": "Verwerkingsdatum zorgverzekeraar => Begindatum verwerkingsperiode zorgverzekeraar en =< Einddatum verwerkingsperiode zorgverzekeraar."
+  },
+  {
+    "Code": "8371",
+    "Description": "Dagtekening aanmaak moet groter zijn dan Einddatum verwerkingsperiode zorgverzekeraar."
+  },
+  {
+    "Code": "8372",
+    "Description": "Begindatum verwerkingsperiode zorgverzekeraar moet gelijk zijn aan of kleiner zijn dan einddatum verwerkingsperiode zorgverzekeraar."
+  },
+  {
+    "Code": "8373",
+    "Description": "Begindatum prestatie moet gelijk zijn aan of kleiner zijn dan einddatum verwerkingsperiode zorgverzekeraar"
+  },
+  {
+    "Code": "8374",
+    "Description": "Jaartal Begindatum verwerkingsper. zorgverzekeraar en Einddatum verwerkingsper. zorgverzekeraar >= versiejaar standaard en <= systeemdatum"
+  },
+  {
+    "Code": "8375",
+    "Description": "De bestandsnaam voldoet niet aan de afspraak."
+  },
+  {
+    "Code": "8376",
+    "Description": "Verzekerdenrecord is niet uniek in bestand."
+  },
+  {
+    "Code": "8377",
+    "Description": "Identificatie Prestatierecord moet uniek in het bestand zijn"
+  },
+  {
+    "Code": "8378",
+    "Description": "Combinatie identificaties van verzekerde, zorgverzekeraar, prestatie,  prestatiedatum moet uniek in bestand zijn."
+  },
+  {
+    "Code": "8379",
+    "Description": "Bron-id declaratieverwerkingssysteem moet voorkomen in landelijke codelijst."
+  },
+  {
+    "Code": "8380",
+    "Description": "UZOVI-nummer indiener ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8381",
+    "Description": "Deze prestatie mag niet gedeclareerd worden, doordat een andere hiermee samenhangende prestatie niet eerder gedeclareerd is."
+  },
+  {
+    "Code": "8382",
+    "Description": "Begindatum declaratieperiode ligt voor toegestane datum."
+  },
+  {
+    "Code": "8383",
+    "Description": "Functiecode mag niet gevuld zijn als indicatiebesluitnummer indicatieorgaan leeg is."
+  },
+  {
+    "Code": "8384",
+    "Description": "Zorgzwaartepakketcode mag niet gevuld zijn als indicatiebesluitnummer indicatieorgaan leeg is."
+  },
+  {
+    "Code": "8385",
+    "Description": "Als DBC met zorgtype Second Opinion dan moet de behandelgroep behoren tot Indirecte tijd of Diagnostiek."
+  },
+  {
+    "Code": "8386",
+    "Description": "Als DBC met zorgtype Second Opinion dan mag niet meer dan 250 minuten directe tijd gedeclareerd worden."
+  },
+  {
+    "Code": "8387",
+    "Description": "Bedrag eigen risico ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8388",
+    "Description": "Indicatie bedrag eigen risico bekend ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8389",
+    "Description": "Code land prestatie ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8390",
+    "Description": "Totaal vergoed bedrag basisverzekering ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8391",
+    "Description": "Totaal bedrag eigen risico ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8392",
+    "Description": "Verwerkingsdatum zorgverzekeraar moet groter zijn dan of gelijk zijn aan begindatum verwerkingsperiode zorgverzekeraar."
+  },
+  {
+    "Code": "8393",
+    "Description": "Verwerkingsdatum zorgverzekeraar moet gelijk zijn aan of kleiner zijn dan einddatum verwerkingsperiode zorgverzekeraar."
+  },
+  {
+    "Code": "8394",
+    "Description": "Einddatum prestatie moet gelijk zijn aan of kleiner zijn dan einddatum verwerkingsperiode zorgverzekeraar."
+  },
+  {
+    "Code": "8395",
+    "Description": "Specialisme behandelaar/uitvoerder moet gevuld zijn als Zorgverlenerscode behandelaar/uitvoerder leeg is."
+  },
+  {
+    "Code": "8396",
+    "Description": "Zorgverlenerscode behandelaar/uitvoerder moet gevuld zijn als Specialisme behandelaar/uitvoerder leeg is."
+  },
+  {
+    "Code": "8397",
+    "Description": "Indicatie debet/credit moet de waarde C hebben indien identificatie gerelateerd debet prestatierecord gevuld is."
+  },
+  {
+    "Code": "8398",
+    "Description": "Indicatie debet/credit moet de waarde D hebben indien identificatie gerelateerd debet prestatierecord niet gevuld is."
+  },
+  {
+    "Code": "8399",
+    "Description": "Indicatie debet/credit moet de waarde D hebben indien totaal vergoed bedrag basisverzekering niet gevuld is."
+  },
+  {
+    "Code": "8400",
+    "Description": "Indicatie debet/credit moet de waarde D hebben indien totaal vergoed bedrag aanvullende verzekering niet gevuld is."
+  },
+  {
+    "Code": "8401",
+    "Description": "Indicatie debet/credit moet de waarde D hebben indien totaal bedrag eigen risico niet gevuld is."
+  },
+  {
+    "Code": "8402",
+    "Description": "Indicatie-aanvraagnummer indicatieorgaan mag niet gevuld zijn als indicatiebesluitnummer indicatieorgaan leeg is."
+  },
+  {
+    "Code": "8403",
+    "Description": "Code indicatieorgaan mag niet gevuld zijn als indicatiebesluitnummer indicatieorgaan leeg is."
+  },
+  {
+    "Code": "8404",
+    "Description": "Cliëntnummer indicatieorgaan moet gevuld zijn als indicatiebesluitnummer indicatieorgaan gevuld is."
+  },
+  {
+    "Code": "8405",
+    "Description": "Cliëntnummer indicatieorgaan mag niet gevuld zijn als indicatiebesluitnummer indicatieorgaan leeg is."
+  },
+  {
+    "Code": "8406",
+    "Description": "Cliënt heeft geen indicatie voor vervoer."
+  },
+  {
+    "Code": "8407",
+    "Description": "Gedeclareerde prestatie mag niet uitgevoerd worden bij verzekerde op basis van leeftijd."
+  },
+  {
+    "Code": "8408",
+    "Description": "Deze prestatie voldoet niet in combinatie met een eerdere prestatie bij dezelfde behandelaar/uitvoerder."
+  },
+  {
+    "Code": "8409",
+    "Description": "Deze prestatie voldoet niet in combinatie met een eerdere prestatie bij een andere behandelaar/uitvoerder."
+  },
+  {
+    "Code": "8410",
+    "Description": "Gedeclareerd bedrag is niet hoger dan drempelbedrag."
+  },
+  {
+    "Code": "8411",
+    "Description": "Jaartal begin- en einddatum prestatie moet gelijk zijn aan jaartal begin- en einddatum declaratieperiode."
+  },
+  {
+    "Code": "8412",
+    "Description": "UZOVI-en verzekerdennr moeten gevuld zijn, indien BSN verzekerde negens bevat en code indicatieorgaan en cliëntnr indicatieorgaan leeg zijn."
+  },
+  {
+    "Code": "8413",
+    "Description": "Combinatie BSN, cliëntnummer indicatieorgaan, code indicatieorgaan en geboortedatum verzekerde is onjuist."
+  },
+  {
+    "Code": "8414",
+    "Description": "Begindatum deelprestatie moet gelijk zijn aan einddatum deelprestatie in relatie met soort prestatie/tarief."
+  },
+  {
+    "Code": "8415",
+    "Description": "Dit document is niet voor ons (de zorgverzekeraar) bestemd."
+  },
+  {
+    "Code": "8416",
+    "Description": "Elementen van identificatie ontbreken of zijn onbekend (naam, voornaam, geboortedatum, PIN)."
+  },
+  {
+    "Code": "8417",
+    "Description": "Het document waaraan het recht wordt ontleend ontbreekt of is onbekend."
+  },
+  {
+    "Code": "8418",
+    "Description": "Tijdvak van verstrekkingen is niet gedekt door tijdvak van recht."
+  },
+  {
+    "Code": "8419",
+    "Description": "Document dat de rechten aantoont is niet bevestigd."
+  },
+  {
+    "Code": "8420",
+    "Description": "De persoon is overleden voor het einde van de declaratieperiode."
+  },
+  {
+    "Code": "8421",
+    "Description": "(Start-/eind)datum forensische zorg titel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8422",
+    "Description": "Zorgcontractnummer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8423",
+    "Description": "Zorgverlenersspecificatie (specialisme) behandelaar/uitvoerder moet gevuld zijn als zorgproductcode gevuld is"
+  },
+  {
+    "Code": "8424",
+    "Description": "Zorgverlenerscode vorige zorgverlener of specialisme vorige zorgverlener ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8425",
+    "Description": "Einddatum prestatie ligt na toegestane datum."
+  },
+  {
+    "Code": "8426",
+    "Description": "Begindatum prestatie ligt na toegestane datum."
+  },
+  {
+    "Code": "8427",
+    "Description": "Declaratieperiode is ten onrechte langer dan lengte kalendermaand."
+  },
+  {
+    "Code": "8428",
+    "Description": "Voor deze creditpost is bij de voorgaande declaratie geen debetpost bekend."
+  },
+  {
+    "Code": "8429",
+    "Description": "EVBG valt niet in een verblijfsperiode."
+  },
+  {
+    "Code": "8430",
+    "Description": "De DB(B)C-hoofdgroep sluit niet aan bij die in het plaatsingsbesluit."
+  },
+  {
+    "Code": "8431",
+    "Description": "Afkeuring op basis van status plaatsingsbesluit."
+  },
+  {
+    "Code": "8432",
+    "Description": "Beveiligingsniveau verblijf is hoger dan beveiligingsniveau verblijf op het plaatsingsbesluit."
+  },
+  {
+    "Code": "8433",
+    "Description": "Het NHC bedrag komt niet overeen met het bedrag in het contract."
+  },
+  {
+    "Code": "8434",
+    "Description": "Identificatiecode indiener ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8435",
+    "Description": "AGB-code indiener ontbreekt, is onbekend of onjuist"
+  },
+  {
+    "Code": "8436",
+    "Description": "Verzekerde is onbekend of onjuist"
+  },
+  {
+    "Code": "8437",
+    "Description": "Identificatiecode indiener is onjuist in relatie tot AGB-code indiener."
+  },
+  {
+    "Code": "8438",
+    "Description": "Het bestand kan niet worden doorgestuurd. De zorgaanbieder is niet aangesloten op het electronisch declaratieportaal van VECOZO."
+  },
+  {
+    "Code": "8439",
+    "Description": "Zorgaanbieder ondersteunt ontvangen van retourbestand via VECOZO volgens gebruikte standaard (soort EI-standaard of (sub)versienr.) niet."
+  },
+  {
+    "Code": "8440",
+    "Description": "Referentienummer zorgverzekeraar ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8441",
+    "Description": "Dagtekening retourbericht ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8442",
+    "Description": "Retourcode (01) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8443",
+    "Description": "Berekend bedrag zorgverzekeraar ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8444",
+    "Description": "Toegekend bedrag ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8445",
+    "Description": "Aantal verzekerdenrecords retour ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8446",
+    "Description": "Aantal debiteurrecords retour ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8447",
+    "Description": "Aantal prestatierecords retour ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8448",
+    "Description": "Aantal commentaarrecords retour ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8449",
+    "Description": "Totaal aantal detailrecords retour ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8450",
+    "Description": "Totaal ingediend declaratiebedrag ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8451",
+    "Description": "Totaal toegekend bedrag ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8452",
+    "Description": "Retourcode (02) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8453",
+    "Description": "Retourcode (03) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8454",
+    "Description": "Dagtekening retourbericht moet groter zijn dan of gelijk zijn aan factuurdatum."
+  },
+  {
+    "Code": "8455",
+    "Description": "Indicatie debet/credit moet de waarde D hebben, indien het totaal ingediend declaratiebedrag niet gevuld is."
+  },
+  {
+    "Code": "8456",
+    "Description": "Indicatie debet/credit moet de waarde D hebben indien het totaal toegekend bedrag niet gevuld is."
+  },
+  {
+    "Code": "8457",
+    "Description": "Prestatiecode (02) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8458",
+    "Description": "Indicatie ZvW/AWBZ ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8459",
+    "Description": "Soort waarde (hulpmiddel) (01) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8460",
+    "Description": "Soort waarde (hulpmiddel) (02) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8461",
+    "Description": "Soort waarde (hulpmiddel) (03) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8462",
+    "Description": "Teken (01) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8463",
+    "Description": "Teken (02) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8464",
+    "Description": "Teken (03) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8465",
+    "Description": "Waarde (hulpmiddel) (01) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8466",
+    "Description": "Waarde (hulpmiddel) (02) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8467",
+    "Description": "Waarde (hulpmiddel) (03) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8468",
+    "Description": "Indicatie informatierecord ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8469",
+    "Description": "Hulpmiddelinformatie ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8470",
+    "Description": "Aanduiding prestatiecodelijst (01) en (02) moeten identiek gevuld zijn."
+  },
+  {
+    "Code": "8471",
+    "Description": "Prestatiecode (01) en (02) moeten op eerste zes posities gelijk gevuld zijn."
+  },
+  {
+    "Code": "8472",
+    "Description": "Instellingscode mag niet gevuld zijn indien zorgverlenerscode gevuld is."
+  },
+  {
+    "Code": "8473",
+    "Description": "Teken en waarde hulpmiddel (01, 02 of 03) moeten gevuld zijn indien soort waarde hulpmiddel (01, 02 of 03) is gevuld."
+  },
+  {
+    "Code": "8474",
+    "Description": "Specialisme behandelaar/uitvoerder moet gevuld zijn indien Zorgverzekeringswet (BV en/of AV)."
+  },
+  {
+    "Code": "8475",
+    "Description": "Specialisme behandelaar/uitvoerder mag niet gevuld zijn indien AWBZ."
+  },
+  {
+    "Code": "8476",
+    "Description": "Bedragvelden moeten leeg zijn in informatierecord."
+  },
+  {
+    "Code": "8477",
+    "Description": "Combinatie A-GPH-1, A-GPH-2 en soort kosten hulpmiddel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8478",
+    "Description": "Jaartal begindatum verwerkingsperiode zorgverzekeraar en einddatum verwerkingsperiode zorgverzekeraar >= 2014 en <= systeemdatum VECOZO."
+  },
+  {
+    "Code": "8479",
+    "Description": "UZOVI-nummer risicodrager moet gevuld zijn indien UZOVI-nummer volmacht gevuld is."
+  },
+  {
+    "Code": "8480",
+    "Description": "Indicatie bedrag eigen risico bekend moet gevuld zijn indien bedrag eigen risico niet is gevuld."
+  },
+  {
+    "Code": "8481",
+    "Description": "Indicatie bedrag eigen risico bekend mag niet gevuld zijn indien bedrag eigen risico is gevuld."
+  },
+  {
+    "Code": "8482",
+    "Description": "Vergoed bedrag AWBZ (incl. BTW) moet gevuld zijn indien AWBZ."
+  },
+  {
+    "Code": "8483",
+    "Description": "Indicatie debet/credit moet de waarde D hebben indien totaal vergoed bedrag AWBZ niet gevuld is."
+  },
+  {
+    "Code": "8572",
+    "Description": "Anonieme deelprestaties anders dan behandeling zijn niet toegestaan."
+  },
+  {
+    "Code": "8573",
+    "Description": "Behandelgroep crisis is verplicht."
+  },
+  {
+    "Code": "8574",
+    "Description": "Behandelgroep indirecte tijd is niet toegestaan."
+  },
+  {
+    "Code": "8575",
+    "Description": "Beschikbaarheidscomponent crisis is verplicht."
+  },
+  {
+    "Code": "8576",
+    "Description": "Bij anonieme DBC dient zowel de declaratie- als prestatiecode anoniem te zijn."
+  },
+  {
+    "Code": "8577",
+    "Description": "Bij beschikbaarheidscomponent crisis is zorgtype crisisinterventie verplicht."
+  },
+  {
+    "Code": "8578",
+    "Description": "De combinatie van zorgtype crisisinterventie en behandelgroep crisis is verplicht."
+  },
+  {
+    "Code": "8579",
+    "Description": "Een DBC met behandelgroep indirecte tijd mag niet binnen 1 jaar na voorgaande DBC vallen."
+  },
+  {
+    "Code": "8580",
+    "Description": "Deelprestatie behandeling is verplicht."
+  },
+  {
+    "Code": "8581",
+    "Description": "Deelprestatie verblijf met overnachting is niet toegestaan."
+  },
+  {
+    "Code": "8582",
+    "Description": "Deelprestatie verblijf met overnachting is verplicht."
+  },
+  {
+    "Code": "8583",
+    "Description": "Deelprestatie verblijf is niet toegestaan."
+  },
+  {
+    "Code": "8584",
+    "Description": "Deelprestatie verblijf zonder overnachting is niet toegestaan."
+  },
+  {
+    "Code": "8585",
+    "Description": "Er is geen voorgaande DBC gevonden waar de vervolg DBC op aan kan sluiten."
+  },
+  {
+    "Code": "8586",
+    "Description": "Langdurig periodieke controle (bij overname) door zelfde instelling is niet toegestaan."
+  },
+  {
+    "Code": "8587",
+    "Description": "Het maximum aantal parallelle DBC's is overschreden."
+  },
+  {
+    "Code": "8588",
+    "Description": "Een vervolg DBC is niet toegestaan binnen 1 jaar vanaf begindatum voorgaande DBC."
+  },
+  {
+    "Code": "8589",
+    "Description": "Een vervolg DBC is niet toegestaan zonder voorgaande DBC met zelfde diagnose en zorgtraject."
+  },
+  {
+    "Code": "8590",
+    "Description": "Een voortgezette crisisinterventie mag alleen aansluitend en met zelfde diagnose en zorgtype."
+  },
+  {
+    "Code": "8591",
+    "Description": "Het zorgtype second opinion is niet toegestaan naast een paralelle DBC."
+  },
+  {
+    "Code": "8592",
+    "Description": "Zorgverlenerscode voorschrijver/verwijzer heeft geen overeenkomst met de verwijzende praktijk of instelling."
+  },
+  {
+    "Code": "8593",
+    "Description": "Instellingscode voorschrijver/verwijzer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8594",
+    "Description": "Indicatie debet/credit moet de waarde C hebben indien Identificatie gerelateerd debet prestatierecord gevuld is en andersom."
+  },
+  {
+    "Code": "8595",
+    "Description": "Bij methadonverstrekking is een overlappende verblijfsdag niet toegestaan."
+  },
+  {
+    "Code": "8596",
+    "Description": "Geboortedatum verzekerde verschilt in prestatiegegevens van die in verzekerdengegevens"
+  },
+  {
+    "Code": "8597",
+    "Description": "Aantal tariefrecords retour ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8598",
+    "Description": "Tijdstip prestatie ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8599",
+    "Description": "Prestatiekoppelnummer ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8600",
+    "Description": "WMG-systematiek prijs middelen ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8601",
+    "Description": "Bedrag berekende GVS-bijdrage ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8602",
+    "Description": "Declaratiebedrag excl GVS-bijdrage en excl. BTW ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8603",
+    "Description": "Indicatie GVS-bijdrage berekend door door ZV ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8604",
+    "Description": "Berekende GVS-bijdrage zorgverzekeraar ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8605",
+    "Description": "Indicatie BTW berekend door zorgverzekeraar ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8606",
+    "Description": "BTW-percentage zorgverzekeraar ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8607",
+    "Description": "Indicatie duur geneesmiddel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8608",
+    "Description": "Indicatie GVS-bijdrage verrekend in toegekend bedrag ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8609",
+    "Description": "Toegekend BTW bedrag ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8610",
+    "Description": "Indicatie GVS-bijdrage verrekend in toegekend bedrag ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8611",
+    "Description": "Einddatum deelprestatie moet gelijk zijn aan of kleiner zijn dan einddatum prestatie."
+  },
+  {
+    "Code": "8612",
+    "Description": "Declaratie mutatiedag(en) sluit niet aan op een opname."
+  },
+  {
+    "Code": "8613",
+    "Description": "Het aantal gedeclareerde prestaties komt niet overeen met de aangeleverde periode."
+  },
+  {
+    "Code": "8614",
+    "Description": "Er is geen meerzorg machtiging afgegeven voor de gedeclareerde periode of tarief."
+  },
+  {
+    "Code": "8615",
+    "Description": "Een prestatie op deze functie is reeds gedeclareerd door een andere zorgaanbieder voor de gedeclareerde periode."
+  },
+  {
+    "Code": "8616",
+    "Description": "Verwijsdatum ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8617",
+    "Description": "Instellingscode of praktijkcode voorschrijver/verwijzer ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8618",
+    "Description": "Aanduiding diagnosecodelijst (01) ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8619",
+    "Description": "Aanduiding diagnosecodelijst (02) ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8620",
+    "Description": "Code herdeclaratie ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8621",
+    "Description": "(Begin-/eind)datum zorgactiviteit ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8622",
+    "Description": "Code soort declaratie-informatie ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8623",
+    "Description": "Afwijkende instellingscode zorgactiviteit ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8624",
+    "Description": "Referentienummer dit zorgactiviteitrecord ontbreekt of is niet uniek (reeds aangeleverd)"
+  },
+  {
+    "Code": "8625",
+    "Description": "Referentienummer dit zorgactiviteitrecord moet uniek zijn binnen het bestand."
+  },
+  {
+    "Code": "8626",
+    "Description": "Referentienummer voorgaande gerelateerde zorgactiviteitrecord ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8627",
+    "Description": "Referentienummer voorgaande gerelateerd zorgactiviteitrecord moet gevuld zijn in geval van creditregel"
+  },
+  {
+    "Code": "8628",
+    "Description": "Aantal zorgactiviteitrecords ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8629",
+    "Description": "Aantal zorgactiviteitrecords retour ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8630",
+    "Description": "Primaire medische diagnose (ICD-10) ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8631",
+    "Description": "Datum geboorte verzekerde in het prestatierecord moet gelijk zijn aan datum geboorte verzekerde in het verzekerdenrecord"
+  },
+  {
+    "Code": "8632",
+    "Description": "Zorgverlenerscode, Specialisme en/of Instellingscode/praktijkcode voorschrijver/verwijzer niet juist in relatie met Code (zelf)verwijzer"
+  },
+  {
+    "Code": "8633",
+    "Description": "Het zorgactiviteitrecord hoort niet bij dit prestatierecord"
+  },
+  {
+    "Code": "8634",
+    "Description": "Afwijkende instellingscode zorgactiviteit moet afwijken van de declarerende instelling"
+  },
+  {
+    "Code": "8635",
+    "Description": "Zorgverlenerscode behandelaar/uitvoerder heeft geen overeenkomst met afwijkende instellingscode zorgactiviteit"
+  },
+  {
+    "Code": "8636",
+    "Description": "Er is geen contract met de declarant op datum prestatie voor de gedeclareerde combinatie prestatie met diagnosecode"
+  },
+  {
+    "Code": "8637",
+    "Description": "Er is geen contract met de declarant op datum prestatie voor de combinatie prestatie, diagnosecode en code soort indicatie paramedische hulp"
+  },
+  {
+    "Code": "8638",
+    "Description": "Er is geen contract met de declarant op datum prestatie voor de gedeclareerde combinatie prestatie en code soort indicatie paramedische hulp"
+  },
+  {
+    "Code": "8639",
+    "Description": "Combinatie diagnosecode paramedische hulp en prestatie is niet toegestaan"
+  },
+  {
+    "Code": "8640",
+    "Description": "Combinatie code soort indicatie (CSI), diagnosecode paramedische hulp en prestatie is niet toegestaan"
+  },
+  {
+    "Code": "8641",
+    "Description": "Aantal indicatierecords retour ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8642",
+    "Description": "Zorgverlenerscode voorschrijver/verwijzer en Instellingscode of praktijkcode voorschrijver/verwijzer mogen niet beide tegelijk gevuld  zijn."
+  },
+  {
+    "Code": "8643",
+    "Description": "Begindatum zorgactiviteit moet groter zijn dan of gelijk zijn aan Begindatum prestatie"
+  },
+  {
+    "Code": "8644",
+    "Description": "Begindatum zorgactiviteit moet kleiner zijn dan of gelijk zijn aan Einddatum prestatie"
+  },
+  {
+    "Code": "8645",
+    "Description": "Zorgactiviteitnummer moet uniek zijn binnen het bestand"
+  },
+  {
+    "Code": "8646",
+    "Description": "De begindatum prestatie valt in een andere maand dan de einddatum prestatie."
+  },
+  {
+    "Code": "8647",
+    "Description": "Declaratie niet volledig vergoed conform afwijkend contracttarief agv polis verzekerde. Het verschil kan niet in rekening worden gebracht."
+  },
+  {
+    "Code": "8648",
+    "Description": "Voor deze prestatie i.c.m. de polis van verzekerde is er geen contract met de declarant."
+  },
+  {
+    "Code": "8649",
+    "Description": "Zorgverlenerscode regie/hoofdbehandelaar ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8650",
+    "Description": "Beroep regie/hoofdbehandelaar ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8651",
+    "Description": "Diagnose hoofdgroep ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8652",
+    "Description": "Tijdseenheid zorgactiviteit ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8653",
+    "Description": "Aantal tijdseenheden zorgactiviteit ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8654",
+    "Description": "Tijdseenheid tijdsbesteding ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8655",
+    "Description": "Aantal tijdseenheden totaal ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8656",
+    "Description": "Aantal tijdseenheden direct ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8657",
+    "Description": "Aantal tijdseenheden indirect ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8658",
+    "Description": "Afwijkende instellingscode/praktijkcode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8659",
+    "Description": "Soort behandelaar ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8660",
+    "Description": "Beroep medebehandelaar ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8661",
+    "Description": "(Begin-/eind)datum tijdsbesteding ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8662",
+    "Description": "Referentienummer dit tijdsbestedingrecord ontbreekt of is niet uniek (reeds aangeleverd)."
+  },
+  {
+    "Code": "8663",
+    "Description": "Aantal tijdsbestedingrecords ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8664",
+    "Description": "ROM J/N ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8665",
+    "Description": "Prestatierecord is niet uniek in bestand."
+  },
+  {
+    "Code": "8666",
+    "Description": "Beroep regie/hoofdbehandelaar ontbreekt in relatie met zorgverlenerscode regie/hoofbehandelaar."
+  },
+  {
+    "Code": "8667",
+    "Description": "Tariefrecord is niet uniek in bestand."
+  },
+  {
+    "Code": "8668",
+    "Description": "Zorgverlenerscode regie/hoofdbehandelaar ontbreekt  in relatie met soort prestatie/tarief."
+  },
+  {
+    "Code": "8669",
+    "Description": "Prestatiecode te verwachten ontbreekt of is onjuist in relatie met soort prestatie/tarief."
+  },
+  {
+    "Code": "8670",
+    "Description": "ROM J/N is onjuist in relatie met soort prestatie/tarief."
+  },
+  {
+    "Code": "8671",
+    "Description": "Afsluitreden ontbreekt in relatie met soort prestatie/tarief."
+  },
+  {
+    "Code": "8672",
+    "Description": "Zorgactiviteitrecord is niet uniek in bestand."
+  },
+  {
+    "Code": "8673",
+    "Description": "Het zorgactiviteitrecord ontbreekt of mag niet voorkomen bij deze prestatie."
+  },
+  {
+    "Code": "8674",
+    "Description": "Einddatum zorgactiviteit  moet kleiner zijn dan of gelijk zijn aan Einddatum prestatie."
+  },
+  {
+    "Code": "8675",
+    "Description": "Afwijkende praktijkcode zorgactiviteit moet afwijken van de declarerende praktijk."
+  },
+  {
+    "Code": "8676",
+    "Description": "Het tijdsbestedingrecord hoort niet bij dit prestatierecord."
+  },
+  {
+    "Code": "8677",
+    "Description": "Tijdsbestedingrecord is niet uniek in bestand."
+  },
+  {
+    "Code": "8678",
+    "Description": "Het tijdsbestedingrecord ontbreekt of mag niet voorkomen bij deze prestatie."
+  },
+  {
+    "Code": "8679",
+    "Description": "Begindatum tijdsbesteding moet groter zijn dan of gelijk zijn aan Begindatum prestatie."
+  },
+  {
+    "Code": "8680",
+    "Description": "Einddatum tijdsbesteding moet kleiner zijn dan of gelijk zijn aan Einddatum prestatie."
+  },
+  {
+    "Code": "8681",
+    "Description": "Een van beide, aantal tijdseenheden direct of indirect, moet gevuld zijn."
+  },
+  {
+    "Code": "8682",
+    "Description": "Referentienummer dit tijdsbestedingrecord moet uniek zijn binnen het bestand."
+  },
+  {
+    "Code": "8683",
+    "Description": "Referentienummer voorgaande gerelateerd tijdsbestedingrecord moet gevuld zijn in geval van creditregel."
+  },
+  {
+    "Code": "8684",
+    "Description": "Afleveringseenheid moet leeg zijn als Aanduiding prestatiecodelijst (01) waarde 058 of 060 heeft."
+  },
+  {
+    "Code": "8685",
+    "Description": "Gemiddelde dagdosering moet leeg zijn als aanduiding prestatiecodelijst (01) waarde 058 of 060 heeft."
+  },
+  {
+    "Code": "8686",
+    "Description": "Zorgverlenerscode behandelaar/uitvoerder moet gevuld zijn als soort declaratie waarde 01 heeft."
+  },
+  {
+    "Code": "8687",
+    "Description": "Specialisme behandelaar/uitvoerder moet leeg zijn, als soort declaratie waarde 01 heeft."
+  },
+  {
+    "Code": "8688",
+    "Description": "Aanduiding prestatiecodelijst (02) moet leeg zijn als als aanduiding prestatiecodelijst (01) waarde 058 of 060 heeft."
+  },
+  {
+    "Code": "8689",
+    "Description": "Indicatie soort receptuur moet waarde 3 hebben als als aanduiding prestatiecodelijst (01) waarde 058 of 060 heeft."
+  },
+  {
+    "Code": "8690",
+    "Description": "WMG-systematiek prijs middelen moet gevuld zijn als aanduiding prestatiecodelijst (01) waarde 001, 059, 990 of 999 heeft."
+  },
+  {
+    "Code": "8691",
+    "Description": "WMG-systematiek prijs middelen moet waarde 9 hebben als aanduiding prestatiecodelijst (01) waarde 051, 058 of 060 heeft."
+  },
+  {
+    "Code": "8692",
+    "Description": "Voorgeschreven codering (bekend) moet leeg zijn als soort declaratie waarde 01 en indicatie soort receptuur waarde 1 of 2 heeft."
+  },
+  {
+    "Code": "8693",
+    "Description": "Voorgeschreven codering (bekend) mag niet gevuld zijn als aanduiding prestatiecodelijst (01) waarde 058 of 060 heeft."
+  },
+  {
+    "Code": "8694",
+    "Description": "Indicatie bedrag eigen risico bekend moet gevuld zijn als bedrag eigen risico niet gevuld is."
+  },
+  {
+    "Code": "8695",
+    "Description": "Indicatie bedrag eigen risico bekend mag niet gevuld zijn als bedrag eigen risico gevuld is."
+  },
+  {
+    "Code": "8696",
+    "Description": "DBC Prestatiecode niet toegestaan bij zorgtypecode"
+  },
+  {
+    "Code": "8697",
+    "Description": "Teveel of niet unieke tariefrecords bij zorgproduct"
+  },
+  {
+    "Code": "8698",
+    "Description": "Begindatum prestatie ligt voor of na toegestane datum."
+  },
+  {
+    "Code": "8699",
+    "Description": "Woonplaatsdeel postcode herkomst en Postcode bestemming moeten gevuld zijn indien code land herkomst en code land bestemming is Nederland of"
+  },
+  {
+    "Code": "8700",
+    "Description": "Creditering onjuist, niet alle bijbehorende prestatierecords gecrediteerd"
+  },
+  {
+    "Code": "8701",
+    "Description": "Prestatie is eerder voor verzekerde door deze praktijk gedeclareerd"
+  },
+  {
+    "Code": "8702",
+    "Description": "Prestatie is eerder voor verzekerde door andere praktijk gedeclareerd"
+  },
+  {
+    "Code": "8703",
+    "Description": "Voorschrijver niet contractueel bevoegd tot voorschrijven"
+  },
+  {
+    "Code": "8704",
+    "Description": "Voorschrijver niet wettelijk bevoegd tot voorschrijven"
+  },
+  {
+    "Code": "8705",
+    "Description": "Receptnummer niet uniek"
+  },
+  {
+    "Code": "8706",
+    "Description": "Duur geneesmiddel mag uitsluitend door ziekenhuis gedeclareerd worden"
+  },
+  {
+    "Code": "8707",
+    "Description": "Dit hulpmiddel met LH standaard declareren"
+  },
+  {
+    "Code": "8708",
+    "Description": "Indicatie duur geneesmiddel onjuist gevuld"
+  },
+  {
+    "Code": "8709",
+    "Description": "Niet preferent middel zonder medische of logistieke noodzaak"
+  },
+  {
+    "Code": "8710",
+    "Description": "Prestatie binnen abonnement niet eerder dan abonnement declareren"
+  },
+  {
+    "Code": "8711",
+    "Description": "Prestatie als informatierecord declareren"
+  },
+  {
+    "Code": "8712",
+    "Description": "Prestatie niet als informatierecord declareren"
+  },
+  {
+    "Code": "8713",
+    "Description": "Prestatie mag niet eerder gebruikt  prestatiekoppelnummer hebben"
+  },
+  {
+    "Code": "8714",
+    "Description": "Prestatie valt niet onder basisverzekering (geen verstrekking)"
+  },
+  {
+    "Code": "8715",
+    "Description": "Prestatie voldoet niet aan vergoedingsbeleid verzekeraar binnen regelgeving"
+  },
+  {
+    "Code": "8716",
+    "Description": "Prestatiekoppelnummer verwijst niet naar een middel"
+  },
+  {
+    "Code": "8717",
+    "Description": "Tijdstip prestatie ten onrechte als niet relevant gevuld"
+  },
+  {
+    "Code": "8718",
+    "Description": "Toelichting declaratiepost middel in relatie tot prestatie onjuist"
+  },
+  {
+    "Code": "8719",
+    "Description": "Waarde WMG-systematiek prijs middelen onjuist bij deze prestatie"
+  },
+  {
+    "Code": "8720",
+    "Description": "Eén of meer grondstoffen gedeclareerde magistraal wijken af"
+  },
+  {
+    "Code": "8721",
+    "Description": "Hoeveelheid basisbestanddeel magistraal onjuist"
+  },
+  {
+    "Code": "8722",
+    "Description": "Te hoge berekening magistraal"
+  },
+  {
+    "Code": "8723",
+    "Description": "Verpakking/hulpmateriaal in magistraal ten onrechte meegedeclareerd"
+  },
+  {
+    "Code": "8724",
+    "Description": "Eén of meer componenten meer gedeclareerd dan voorgeschreven"
+  },
+  {
+    "Code": "8725",
+    "Description": "Arts en/of  patiëntgegevens/indicatie achteraf op ZN formulier  ingevuld"
+  },
+  {
+    "Code": "8726",
+    "Description": "Apotheekgedeelte achteraf op ZN formulier  ingevuld"
+  },
+  {
+    "Code": "8727",
+    "Description": "ZN formulier niet aanwezig, achteraf opgevraagd bij arts"
+  },
+  {
+    "Code": "8728",
+    "Description": "ZN formulier niet door medisch specialist ondertekend"
+  },
+  {
+    "Code": "8729",
+    "Description": "Bij recept ontbreekt artsenverklaring/ZN formulier"
+  },
+  {
+    "Code": "8730",
+    "Description": "Onjuist ZN formulier gebruikt"
+  },
+  {
+    "Code": "8731",
+    "Description": "Machtiging (volgens ZN formulier) verlopen"
+  },
+  {
+    "Code": "8732",
+    "Description": "Op ZN formulier ontbreken de apotheekgegevens"
+  },
+  {
+    "Code": "8733",
+    "Description": "Op ZN formulier ontbreken de arts en/of patiëntgegevens/indicatie"
+  },
+  {
+    "Code": "8734",
+    "Description": "Artikel/aantal door apotheek aan recept toegevoegd"
+  },
+  {
+    "Code": "8735",
+    "Description": "Artikel niet vergoed, code B2 ontbreekt op recept"
+  },
+  {
+    "Code": "8736",
+    "Description": "Bij toegezonden documentatie ontbreekt gevraagd recept"
+  },
+  {
+    "Code": "8737",
+    "Description": "Datum op recept is later dan afleverdatum"
+  },
+  {
+    "Code": "8738",
+    "Description": "Declaratie onjuist, prestatie  reeds gecrediteerd / gecorrigeerd"
+  },
+  {
+    "Code": "8739",
+    "Description": "Verstrekking ten onrechte als magistrale bereiding gedeclareerd"
+  },
+  {
+    "Code": "8740",
+    "Description": "Er is voor dit artikel een (anders geprijsd) ZI-nummer"
+  },
+  {
+    "Code": "8741",
+    "Description": "Artikel wijkt af van artikel op het recept"
+  },
+  {
+    "Code": "8742",
+    "Description": "Onjuiste prestatiecode ter handstelling gedeclareerd"
+  },
+  {
+    "Code": "8743",
+    "Description": "Gedeclareerd patiëntprofiel wijkt af van intakeformulier/geleverd materiaal"
+  },
+  {
+    "Code": "8744",
+    "Description": "Gedeclareerde hoeveelheid groter dan afgeleverde hoeveelheid"
+  },
+  {
+    "Code": "8745",
+    "Description": "Gedeclareerde hoeveelheid groter dan voorgeschreven hoeveelheid"
+  },
+  {
+    "Code": "8746",
+    "Description": "Gedeclareerde hoeveelheid onjuist door foutief hanteren verpakkingseenheid"
+  },
+  {
+    "Code": "8747",
+    "Description": "Geen respons op verzoek recept toe te zenden"
+  },
+  {
+    "Code": "8748",
+    "Description": "Getekend autorisatieoverzicht ontbreekt"
+  },
+  {
+    "Code": "8749",
+    "Description": "Handtekening (fiattering) voorschrijver ontbreekt op (bij) recept"
+  },
+  {
+    "Code": "8750",
+    "Description": "Handtekening ontbrak, achteraf alsnog getekend door de voorschrijver"
+  },
+  {
+    "Code": "8751",
+    "Description": "Op origineel recept middel ontbreekt vermelding voor herhaling (vaker verstrekken)"
+  },
+  {
+    "Code": "8752",
+    "Description": "Hoeveelheid groter dan toegestaan, artikel moet via ziekenhuis"
+  },
+  {
+    "Code": "8753",
+    "Description": "Hoeveelheid ontbreekt op het (originele) recept"
+  },
+  {
+    "Code": "8754",
+    "Description": "Inkoop te hoog doorberekend"
+  },
+  {
+    "Code": "8755",
+    "Description": "Intake-formulier/geleverd materiaal ontbreekt bij patiëntprofiel"
+  },
+  {
+    "Code": "8756",
+    "Description": "Juist artikel, verkeerde sterkte/grootte"
+  },
+  {
+    "Code": "8757",
+    "Description": "Niet afgeleverd, ten onrechte gedeclareerd"
+  },
+  {
+    "Code": "8758",
+    "Description": "Onrechtmatig recept, gegevens arts ontbreken"
+  },
+  {
+    "Code": "8759",
+    "Description": "Onrechtmatig recept, gegevens patiënt ontbreken"
+  },
+  {
+    "Code": "8760",
+    "Description": "Ontvangen autorisatieoverzicht niet van deze aflevering"
+  },
+  {
+    "Code": "8761",
+    "Description": "Oorspronkelijke gegevens recept door apotheek gewijzigd"
+  },
+  {
+    "Code": "8762",
+    "Description": "Op zelfde recept nogmaals geleverd na breuk/verlies"
+  },
+  {
+    "Code": "8763",
+    "Description": "Opgevraagde herhaling niet ontvangen bij oorspronkelijke recept"
+  },
+  {
+    "Code": "8764",
+    "Description": "Origineel ontbreekt bij herhaling, aanwezig in andere apotheek"
+  },
+  {
+    "Code": "8765",
+    "Description": "Overschrijding prescriptieregeling, declaratiebedrag correct"
+  },
+  {
+    "Code": "8766",
+    "Description": "Overschrijding prescriptieregeling, geen toestemming verzekeraar"
+  },
+  {
+    "Code": "8767",
+    "Description": "Prijsinformatie/factuur ontbreekt"
+  },
+  {
+    "Code": "8768",
+    "Description": "Recept niet aanwezig / traceerbaar in apotheek"
+  },
+  {
+    "Code": "8769",
+    "Description": "Recept niet aanwezig, achteraf alsnog opgevraagd bij arts"
+  },
+  {
+    "Code": "8770",
+    "Description": "Sterkte ontbreekt op (originele) recept"
+  },
+  {
+    "Code": "8771",
+    "Description": "Ten onrechte als weeklevering(en) gedeclareerd"
+  },
+  {
+    "Code": "8772",
+    "Description": "Toegezonden document is geen (door arts voorgeschreven) recept"
+  },
+  {
+    "Code": "8773",
+    "Description": "Toegezonden recept onleesbaar"
+  },
+  {
+    "Code": "8774",
+    "Description": "Totaal bestanddelen komt niet overeen met voorschrift/sluitrecord"
+  },
+  {
+    "Code": "8775",
+    "Description": "Totaal van de deelverstrekkingen groter dan voorgeschreven"
+  },
+  {
+    "Code": "8776",
+    "Description": "Verkeerd recept toegezonden"
+  },
+  {
+    "Code": "8777",
+    "Description": "Verstrekking betreft herhaling; herhaalde hoeveelheid is teveel"
+  },
+  {
+    "Code": "8778",
+    "Description": "Via deze voorschrijver wordt betreffend artikel niet vergoed"
+  },
+  {
+    "Code": "8779",
+    "Description": "Voorgeschreven/geleverd artikel mag niet gedeclareerd worden"
+  },
+  {
+    "Code": "8780",
+    "Description": "Wegens afwezigheid arts afgeleverd zonder recept"
+  },
+  {
+    "Code": "8781",
+    "Description": "Prestatie deze datum met andere versie declaratiestandaard declareren"
+  },
+  {
+    "Code": "8782",
+    "Description": "Combinatie receptnummer, receptnummervolgnummer en indicatie debet/credit niet uniek in bestand"
+  },
+  {
+    "Code": "8783",
+    "Description": "WMG-systematiek prijs middelen niet correct bij vermeldde prestatiecodelijst"
+  },
+  {
+    "Code": "8784",
+    "Description": "WMG-systematiek prijs middelen niet correct bij vermelde prestatiecodelijst."
+  },
+  {
+    "Code": "8785",
+    "Description": "Commentaarrecord na gebruik lokale/bilaterale prestatiecode ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8786",
+    "Description": "Afleveringseenheid niet correct in combinatie met vermelde prestatiecodelijst"
+  },
+  {
+    "Code": "8787",
+    "Description": "Indicatie soort receptuur niet correct in combinatie met vermelde prestatiecodelijst"
+  },
+  {
+    "Code": "8788",
+    "Description": "Bedrag berekende GVS-bijdrage niet correct in combinatie met Indicatie GVS-bijdrage opgenomen in declaratiebedrag"
+  },
+  {
+    "Code": "8789",
+    "Description": "Voorgeschreven dosering (bekend) mag niet ingevuld voor dienstverlening"
+  },
+  {
+    "Code": "8790",
+    "Description": "Declaratiebedrag mag niet gevuld voor bestanddelen apotheekbereidingen"
+  },
+  {
+    "Code": "8791",
+    "Description": "Verzekerde moet ouder dan 7 jaar zijn bij openen DBC met diagnosehoofdgroep 017."
+  },
+  {
+    "Code": "8792",
+    "Description": "Verzekerde mag niet ouder dan 12 jaar zijn bij openen initiële DBC met diagnosehoofdgroep 017."
+  },
+  {
+    "Code": "8793",
+    "Description": "Alleen combinatie BK, BM of BI met BC tegelijkertijd declareren."
+  },
+  {
+    "Code": "8794",
+    "Description": "OVP consult en/of OVP/OZP consult en/of OVP/OZP verblijf niet ten laste basisverzekering."
+  },
+  {
+    "Code": "8795",
+    "Description": "Zorgvraagzwaarte is met ongeldige waarde gevuld."
+  },
+  {
+    "Code": "8796",
+    "Description": "Directe tijd voor DBC moet groter zijn dan nul minuten."
+  },
+  {
+    "Code": "8797",
+    "Description": "Vervolg DBC met zorgtype 201, 202 of 203 moet openingsdatum één dag na sluitingsdatum voorgaande DBC hebben."
+  },
+  {
+    "Code": "8798",
+    "Description": "Maximaal één initiele DBC per AGB per zorgtraject mag binnen 365 dagen volgen op voorgaande DBC."
+  },
+  {
+    "Code": "8799",
+    "Description": "Startdatum initiele DBC moet 365 dagen na sluitingsdatum voorgaande DBC per zorgtraject liggen."
+  },
+  {
+    "Code": "8800",
+    "Description": "Na DBC zorgtype 106 kan bij een vervolg alleen een vervolg DBC met eenzelfde zorgtrajectnummer volgen."
+  },
+  {
+    "Code": "8801",
+    "Description": "Vervolg DBC per AGB en hoofddiagnose moet binnen 365 dagen na voorgaande DBC vallen."
+  },
+  {
+    "Code": "8802",
+    "Description": "Crisis-DBC zorgtype 301 of 302 mag maximaal 28 dagen duren."
+  },
+  {
+    "Code": "8803",
+    "Description": "Crisis-DBC zorgtype 301 mag geen verblijfsdagen hebben."
+  },
+  {
+    "Code": "8804",
+    "Description": "Reguliere en vervolg DBC mag maximaal 365 dagen duren."
+  },
+  {
+    "Code": "8805",
+    "Description": "Einddatum DBC moet kleiner zijn dan of gelijk zijn aan datum overlijden cliënt."
+  },
+  {
+    "Code": "8806",
+    "Description": "Directe tijd regie/hoofdbehandelaar bij initiële DBC moet groter zijn dan nul minuten."
+  },
+  {
+    "Code": "8807",
+    "Description": "Prestatiecode moet waarde BK, BM, BI, BC, transitie, OVP consult of OVP verblijf hebben als aanduiding prestatiecodelijst waarde 063 heeft."
+  },
+  {
+    "Code": "8808",
+    "Description": "Begin- en einddatum deelprestatie verblijf moeten binnen begin- en einddatum DBC vallen."
+  },
+  {
+    "Code": "8809",
+    "Description": "Maximaal één deelprestatie verblijf per dag declareren."
+  },
+  {
+    "Code": "8810",
+    "Description": "Indicatiebesluit mag niet gevuld zijn als het geen AWBZ-declaratie betreft."
+  },
+  {
+    "Code": "8811",
+    "Description": "Huisnummer en postcode bestemming verplicht vullen bij zittend ziekenvervoer."
+  },
+  {
+    "Code": "8812",
+    "Description": "Code Wmo-aanbieder moet gevuld zijn als identificatiebetaling aan gelijk is aan 2."
+  },
+  {
+    "Code": "8813",
+    "Description": "Combinatie prestatiecodelijst, receptnummer, receptnummervolgnummer en indicatie d/c niet uniek in bestand voor totaalrecord magistraal."
+  },
+  {
+    "Code": "8814",
+    "Description": "Aanduiding prestatiecodelijst niet juist bij indicatie soort receptuur met waarde voor totaalrecord apotheekbereiding."
+  },
+  {
+    "Code": "8815",
+    "Description": "Zorgverlenerscode behandelaar/uitvoerder en zorgverlenersspecificatie/specialisme behandelaar/uitv. verplicht, ontbreken of zijn onjuist."
+  },
+  {
+    "Code": "8816",
+    "Description": "Bij een prestatierecord hoort één tariefrecord voor te komen."
+  },
+  {
+    "Code": "8817",
+    "Description": "Prestatiecodelijst 016 is niet toegestaan."
+  },
+  {
+    "Code": "8818",
+    "Description": "Totaal bestede tijd voldoet niet aan het maximaal aantal minuten."
+  },
+  {
+    "Code": "8819",
+    "Description": "Maximum overig verlof is overschreden."
+  },
+  {
+    "Code": "8820",
+    "Description": "Maximum aantal dagen onderbreking is overschreden."
+  },
+  {
+    "Code": "8821",
+    "Description": "ZZP prestatie moet binnen 31 dagen volgen op einde voorgaande DBC."
+  },
+  {
+    "Code": "8822",
+    "Description": "Maximum aantal verblijfsdagen is overschreden."
+  },
+  {
+    "Code": "8823",
+    "Description": "Crisis-DBC moet na 28 dagen volgen op voorgaande crisis-DBC."
+  },
+  {
+    "Code": "8824",
+    "Description": "Één beschikbaarheid-component per crisis-DBC moet geregistreerd worden."
+  },
+  {
+    "Code": "8825",
+    "Description": "ZZP of DBC prestatie mag niet tegelijk met andere GGZ prestatie gedeclareerd worden."
+  },
+  {
+    "Code": "8826",
+    "Description": "ZZP of DBC prestatie mag niet tegelijk met andere OVP/OZP prestatie gedeclareerd worden."
+  },
+  {
+    "Code": "8827",
+    "Description": "De gedeclareerde prestatie heeft een overlap met een verblijf in een instelling."
+  },
+  {
+    "Code": "8828",
+    "Description": "De gedeclareerde prestatie heeft een overlap met een indicatie verblijf binnen de Wlz."
+  },
+  {
+    "Code": "8829",
+    "Description": "Combinatie prestatiecode met indicatie achterstandswijk van postcode verzekerde onjuist."
+  },
+  {
+    "Code": "8830",
+    "Description": "Aanduiding prestatiecodelijst moet leeg zijn."
+  },
+  {
+    "Code": "8831",
+    "Description": "Geen privacy verklaring aanwezig"
+  },
+  {
+    "Code": "8832",
+    "Description": "Referentienummer voorgaande gerelateerde tijdsbestedingrecord ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8833",
+    "Description": "Aantal andere prestatierecords horend bij prestatierecord met prestatiecodelijst 060 (WMG-tariefcode) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8834",
+    "Description": "Prestatie terhandstelling gedeclareerd bij buiten WMG middel"
+  },
+  {
+    "Code": "8835",
+    "Description": "Prestatie terhandstelling gedeclareerd zonder WMG geneesmiddel"
+  },
+  {
+    "Code": "8836",
+    "Description": "Begeleidingsgesprek nieuw geneesmiddel (BNG) gedeclareerd zonder een prestatie terhandstelling eerste uitgifte (EU)"
+  },
+  {
+    "Code": "8837",
+    "Description": "Contract staat niet toe dat  binnen prestatiekoppelnummer meerdere prestaties uit dezelfde prestatiecodelijst worden gedeclareerd"
+  },
+  {
+    "Code": "8838",
+    "Description": "Meer dan 1 prestatie ter handstelling gedeclareerd binnen een prestatiekoppelnummer."
+  },
+  {
+    "Code": "8839",
+    "Description": "Verschillende BSN's binnen een prestatiekoppelnummer"
+  },
+  {
+    "Code": "8840",
+    "Description": "Lokale code is onjuist"
+  },
+  {
+    "Code": "8841",
+    "Description": "Prestatiecode voor hulpmiddelenzorg is onjuist"
+  },
+  {
+    "Code": "8842",
+    "Description": "WMG-tariefcode is onjuist"
+  },
+  {
+    "Code": "8843",
+    "Description": "Prestatiecode voor ZSPC/abonnementen is onjuist"
+  },
+  {
+    "Code": "8844",
+    "Description": "Prestaties vallen niet onder het abonnement"
+  },
+  {
+    "Code": "8845",
+    "Description": "Combinatie Bron-id declaratieverwerkingssysteem en UZOVI-nummer moet voorkomen in landelijke codelijst."
+  },
+  {
+    "Code": "8846",
+    "Description": "Startdatum chronisch traject onbekend"
+  },
+  {
+    "Code": "8847",
+    "Description": "Begindatum declaratieperiode moet kleiner zijn dan of gelijk zijn aan systeemdatum VECOZO."
+  },
+  {
+    "Code": "8848",
+    "Description": "Dagtekening factuur moet kleiner zijn dan of gelijk zijn aan systeemdatum VECOZO."
+  },
+  {
+    "Code": "8849",
+    "Description": "Dagtekening retourbericht moet kleiner zijn dan of gelijk zijn aan systeemdatum VECOZO."
+  },
+  {
+    "Code": "8850",
+    "Description": "NHC-code ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8851",
+    "Description": "Forensische zorgtitel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8852",
+    "Description": "Bedrag NHC ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8853",
+    "Description": "Bedrag inventaris ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8854",
+    "Description": "Beveiligingsniveau dagbesteding is niet gelijk aan het beveiligingsniveau verblijf."
+  },
+  {
+    "Code": "8855",
+    "Description": "Aantal tijdseenheden totaal is niet gelijk aan het aantal tijdseenheden direct en indirect opgeteld."
+  },
+  {
+    "Code": "8856",
+    "Description": "Combinatie plaatsingsbesluit en zorgtitel is onbekend."
+  },
+  {
+    "Code": "8857",
+    "Description": "Er is geen contract met aangeduide declarant voor het opgegegeven zorgcontractnummer."
+  },
+  {
+    "Code": "8858",
+    "Description": "Zorgaanbieder heeft geen plaatsingsbesluit voor cliënt."
+  },
+  {
+    "Code": "8859",
+    "Description": "Combinatie plaatsingsbesluit en strafrechtketennummer is onbekend."
+  },
+  {
+    "Code": "8860",
+    "Description": "NHC-bedrag is ongelijk het aantal prestaties maal het NHC-tarief."
+  },
+  {
+    "Code": "8861",
+    "Description": "NIC-bedrag is ongelijk het aantal prestaties maal het NIC-tarief."
+  },
+  {
+    "Code": "8863",
+    "Description": "De begindatum prestatie valt in een ander jaar dan de begindatum declaratie."
+  },
+  {
+    "Code": "8864",
+    "Description": "Einddatum prestatie moet kleiner zijn dan of gelijk zijn aan einddatum forensische zorgtitel."
+  },
+  {
+    "Code": "8865",
+    "Description": "Berekend bedrag moet gelijk zijn aan gedeclareerd bedrag."
+  },
+  {
+    "Code": "8866",
+    "Description": "Prestatie is niet in de juiste financieringsstroom gedeclareerd."
+  },
+  {
+    "Code": "8867",
+    "Description": "AGB-code praktijk/instelling ontbreekt, is onbekend of onjuist."
+  },
+  {
+    "Code": "8868",
+    "Description": "Zorgverlenerscode behandelaar/uitv. en/of zorgverlenersspecificatie behandelaar/uitv. bij de zorgactiviteitcode ontbreken of zijn onjuist."
+  },
+  {
+    "Code": "8869",
+    "Description": "Indicatie privacyverklaring ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8870",
+    "Description": "Code soort duur geneesmiddel ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8871",
+    "Description": "Zorgaanbieder komt meerdere malen voor in het AGB-register."
+  },
+  {
+    "Code": "8872",
+    "Description": "De gedeclareerde prestatie verblijf heeft geen overlap met een prestatie behandeling."
+  },
+  {
+    "Code": "8873",
+    "Description": "De behandelaar komt niet voor in de DBC-beroepentabel."
+  },
+  {
+    "Code": "8874",
+    "Description": "De regie/hoofdbehandelaar in de gespecialiseerde GGZ is niet toegestaan."
+  },
+  {
+    "Code": "8875",
+    "Description": "De eerste DBC in het zorgtraject is geen initiële DBC."
+  },
+  {
+    "Code": "8876",
+    "Description": "Er mag maximaal één initiele DBC per zorgtraject gedeclareerd worden."
+  },
+  {
+    "Code": "8877",
+    "Description": "De diagnose van een initiële DBC is anders dan de diagnose van een reeds lopende DBC waarvoor de patiënt in behandeling is."
+  },
+  {
+    "Code": "8878",
+    "Description": "Startdatum initiele DBC moet 365 dagen na sluitingsdatum voorgaande DBC per verzekerde liggen."
+  },
+  {
+    "Code": "8879",
+    "Description": "Startdatum vervolg-DBC moet binnen 365 dagen na voorgaande DBC van hetzelfde zorgtraject liggen."
+  },
+  {
+    "Code": "8880",
+    "Description": "Na DBC zorgtype 106 kan bij een vervolg alleen een vervolg DBC met zorgtype 201, 202 of 203 met eenzelfde zorgtrajectnummer volgen."
+  },
+  {
+    "Code": "8881",
+    "Description": "De dagbesteding mag niet geregistreerd worden in combinatie met direct patiëntgebonden behandelactiviteiten."
+  },
+  {
+    "Code": "8882",
+    "Description": "De dagbesteding mag niet geregistreerd worden in combinatie met verblijf zonder overnachting."
+  },
+  {
+    "Code": "8883",
+    "Description": "Crisis-DBC mag maximaal 28 dagen duren."
+  },
+  {
+    "Code": "8884",
+    "Description": "Verzekerde heeft meerdere crisis-DBC bij dezelfde instelling."
+  },
+  {
+    "Code": "8885",
+    "Description": "ZZP GGZ prestatie mag niet tegelijk met andere ZZP GGZ prestatie gedeclareerd worden."
+  },
+  {
+    "Code": "8886",
+    "Description": "Basis GGZ prestatie mag niet tegelijk met andere Basis GGZ prestatie gedeclareerd worden."
+  },
+  {
+    "Code": "8887",
+    "Description": "Het aantal toeslagen ZZP is groter dan het aantal verblijfdagen ZZP."
+  },
+  {
+    "Code": "8888",
+    "Description": "De regie/hoofdbehandelaar heeft geen KNMG-kwalificatie."
+  },
+  {
+    "Code": "8889",
+    "Description": "De regie/hoofdbehandelaar in de generalistische Basis-GGZ is niet toegestaan."
+  },
+  {
+    "Code": "8890",
+    "Description": "Directe tijd regie/hoofdbehandelaar bij Basis GGZ moet groter zijn dan nul minuten."
+  },
+  {
+    "Code": "8891",
+    "Description": "Zorgtrajectnummer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8892",
+    "Description": "Declaratiebedrag excl. BTW ontbreekt of is onjuist"
+  },
+  {
+    "Code": "8893",
+    "Description": "Niet alle velden van het indicatierecord zijn gevuld."
+  },
+  {
+    "Code": "8894",
+    "Description": "Dagtekening aanmaak voldoet niet aan de afspraak."
+  },
+  {
+    "Code": "8895",
+    "Description": "Specialisme voorschrijver/verwijzer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8896",
+    "Description": "Waarde Zorgverlenerscode behandelaar/uitvoerder moet gelijk zijn aan waarde instellingscode voorlooprecord."
+  },
+  {
+    "Code": "8897",
+    "Description": "Volgnummer indicatie cliënt moet gevuld zijn."
+  },
+  {
+    "Code": "8898",
+    "Description": "Volgnummer indicatie cliënt mag niet gevuld zijn."
+  },
+  {
+    "Code": "8899",
+    "Description": "Aantal omvang geïndiceerd product moet gevuld zijn."
+  },
+  {
+    "Code": "8900",
+    "Description": "Aantal omvang geïndiceerd product mag niet gevuld zijn."
+  },
+  {
+    "Code": "8901",
+    "Description": "Tijdseenheid zorgperiode moet gevuld zijn."
+  },
+  {
+    "Code": "8902",
+    "Description": "Tijdseenheid zorgperiode mag niet gevuld zijn."
+  },
+  {
+    "Code": "8903",
+    "Description": "Zorgverlenerscode indicatie moet gevuld zijn."
+  },
+  {
+    "Code": "8904",
+    "Description": "Zorgverlenerscode indicatie mag niet gevuld zijn."
+  },
+  {
+    "Code": "8905",
+    "Description": "Datum afgifte indicatiebesluit moet gevuld zijn."
+  },
+  {
+    "Code": "8906",
+    "Description": "Datum afgifte indicatiebesluit mag niet gevuld zijn."
+  },
+  {
+    "Code": "8907",
+    "Description": "Startdatum vervolg-DBC met zorgtype 201, 202 of 203 moet één dag na sluitingsdatum voorgaande DBC van 365 dagen liggen."
+  },
+  {
+    "Code": "8908",
+    "Description": "Heropenen DBC moet binnen 35 dagen na voorgaande DBC van hetzelfde zorgtraject liggen."
+  },
+  {
+    "Code": "8909",
+    "Description": "Crisis-DBC met opname mag niet na één dag na een crisis-DBC met 28 dagen opname geopend worden."
+  },
+  {
+    "Code": "8910",
+    "Description": "Beroep medebehandelaar mag geen tijd registreren voor de DBC-prestatie."
+  },
+  {
+    "Code": "8911",
+    "Description": "De prestatie is niet in overeenstemming met de afsluitreden."
+  },
+  {
+    "Code": "8912",
+    "Description": "Er is geen toestemming gegeven voor de gedeclareerde zorg."
+  },
+  {
+    "Code": "8913",
+    "Description": "Maximum aantal prestaties per kalenderdag binnen de decalaratieperiode is overschreden."
+  },
+  {
+    "Code": "8914",
+    "Description": "Datum afgifte indicatiebesluit moet kleiner zijn dan of gelijk zijn aan dagtekening aanmaak."
+  },
+  {
+    "Code": "8915",
+    "Description": "Datum partus (bevallingsdatum) moet kleiner zijn dan of gelijk zijn aan dagtekening aanmaak."
+  },
+  {
+    "Code": "8916",
+    "Description": "Soort bijzondere tandheelkunde of fronttandvervanging ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8917",
+    "Description": "Samenloopbericht is gewijzigd doorgezonden naar zorgverzekeraar."
+  },
+  {
+    "Code": "8918",
+    "Description": "Verzender moet voorkomen en ontvanger mag niet voorkomen."
+  },
+  {
+    "Code": "8919",
+    "Description": "Ontvanger moet voorkomen en verzender mag niet voorkomen."
+  },
+  {
+    "Code": "8920",
+    "Description": "Aanmaakdatum moet kleiner zijn dan of gelijk zijn aan de huidige datum."
+  },
+  {
+    "Code": "8921",
+    "Description": "Aanleverjaar moet het huidige of voorgaande jaar zijn."
+  },
+  {
+    "Code": "8922",
+    "Description": "Zorgverzekeraar cliënt moet gelijk zijn aan ontvanger bericht."
+  },
+  {
+    "Code": "8923",
+    "Description": "Einddatum ZZP indicatie moet groter zijn dan of gelijk zijn aan begindatum ZZP indicatie."
+  },
+  {
+    "Code": "8924",
+    "Description": "Periode ZZP indicatie en aanleverjaar moeten elkaar gedeeltelijk overlappen."
+  },
+  {
+    "Code": "8925",
+    "Description": "Einddatum zorg moet groter zijn dan of gelijk zijn aan begindatum zorg."
+  },
+  {
+    "Code": "8926",
+    "Description": "Begindatum zorg moet groter zijn dan of gelijk zijn aan begindatum ZZP Indicatie."
+  },
+  {
+    "Code": "8927",
+    "Description": "Einddatum zorg moet kleiner zijn dan of gelijk zijn aan einddatum ZZP Indicatie."
+  },
+  {
+    "Code": "8928",
+    "Description": "Zorgverzekeraar (UZOVI-nummer) van cliënt is toegevoegd."
+  },
+  {
+    "Code": "8929",
+    "Description": "Zorgverzekeraar (UZOVI-nummer) van cliënt is gecorrigeerd."
+  },
+  {
+    "Code": "8930",
+    "Description": "Zorgkantoor komt niet voor in aanleverlijst VECOZO."
+  },
+  {
+    "Code": "8931",
+    "Description": "Er is geen zorgverzekeraar (UZOVI-nummer) bij de cliënt gevonden."
+  },
+  {
+    "Code": "8932",
+    "Description": "Cliënt is bij meerdere zorgverzekeraars tegelijk verzekerd."
+  },
+  {
+    "Code": "8933",
+    "Description": "Samenloopbericht is ongewijzigd doorgezonden naar zorgverzekeraar."
+  },
+  {
+    "Code": "8934",
+    "Description": "Bij een zorgverzekering prestatie is dit soort prestatierecord niet toegestaan."
+  },
+  {
+    "Code": "8935",
+    "Description": "Aanleverjaar moet het huidige jaar zijn."
+  },
+  {
+    "Code": "8936",
+    "Description": "Maximaal één begeleidingsgesprek voor dezelfde werkzame stof en toedieningsvorm binnen 12 maanden per verzekerde toegestaan."
+  },
+  {
+    "Code": "8937",
+    "Description": "Aanspraak ZvW ontbreekt of is niet bekend"
+  },
+  {
+    "Code": "8938",
+    "Description": "Ontbrekende verzender mag niet voorkomen."
+  },
+  {
+    "Code": "8939",
+    "Description": "Verzender komt niet voor in aanleverlijst VECOZO."
+  },
+  {
+    "Code": "8940",
+    "Description": "Aanmaakdatum moet groter zijn dan of gelijk zijn aan peildatum."
+  },
+  {
+    "Code": "8941",
+    "Description": "Zorgkantoor moet identiek zijn aan verzender"
+  },
+  {
+    "Code": "8942",
+    "Description": "Begindatum indicatie moet kleiner zijn dan of gelijk zijn aan peildatum."
+  },
+  {
+    "Code": "8943",
+    "Description": "Einddatum indicatie moet groter zijn dan of gelijk zijn aan begindatum indicatie."
+  },
+  {
+    "Code": "8944",
+    "Description": "Einddatum indicatie moet groter zijn dan of gelijk zijn aan peildatum."
+  },
+  {
+    "Code": "8947",
+    "Description": "Begindatum ZZP ïndicatie moet groter zijn dan of gelijk zijn aan begindatum indicatie."
+  },
+  {
+    "Code": "8948",
+    "Description": "Begindatum ZZP indicatie moet kleiner zijn dan of gelijk zijn aan peildatum."
+  },
+  {
+    "Code": "8949",
+    "Description": "Einddatum ZZP indicatie moet kleiner zijn dan of gelijk zijn aan einddatum indicatie."
+  },
+  {
+    "Code": "8950",
+    "Description": "Einddatum ZZP indicatie moet groter zijn dan of gelijk zijn aan peildatum."
+  },
+  {
+    "Code": "8951",
+    "Description": "Einddatum indicatie moet afwezig zijn als einddatum ZZP indicatie afwezig is."
+  },
+  {
+    "Code": "8952",
+    "Description": "Begindatum geïndiceerde functie moet groter zijn dan of gelijk zijn aan begindatum indicatie."
+  },
+  {
+    "Code": "8953",
+    "Description": "Begindatum geïndiceerde functie moet kleiner zijn dan of gelijk zijn aan peildatum."
+  },
+  {
+    "Code": "8954",
+    "Description": "Einddatum geïndiceerde functie moet groter zijn dan of gelijk zijn aan begindatum geïndiceerde functie."
+  },
+  {
+    "Code": "8955",
+    "Description": "Einddatum geïndiceerde functie moet kleiner zijn dan of gelijk zijn aan einddatum indicatie."
+  },
+  {
+    "Code": "8956",
+    "Description": "Einddatum geïndiceerde functie moet groter zijn dan of gelijk zijn aan peildatum."
+  },
+  {
+    "Code": "8957",
+    "Description": "Einddatum indicatie moet afwezig zijn als einddatum geïndiceerde functie afwezig is."
+  },
+  {
+    "Code": "8958",
+    "Description": "UZOVI-nummer zorgkantoor ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8959",
+    "Description": "Indicatiebericht is ongewijzigd doorgezonden naar Vektis."
+  },
+  {
+    "Code": "8960",
+    "Description": "Machtiging mag niet gevuld zijn in relatie tot dit soort prestatierecord."
+  },
+  {
+    "Code": "8961",
+    "Description": "Tarief, berekend bedrag en declaratiebedrag zijn verplicht gevuld in relatie tot dit soort prestatierecord."
+  },
+  {
+    "Code": "8962",
+    "Description": "Tarief, berekend bedrag en declaratiebedrag mogen niet gevuld zijn in relatie tot dit soort prestatierecord."
+  },
+  {
+    "Code": "8963",
+    "Description": "DBC duurt langer dan het maximale aantal toegestane dagen."
+  },
+  {
+    "Code": "8964",
+    "Description": "Bij een zorgverzekering prestatie is dit soort bijzondere tandheelkunde niet toegestaan."
+  },
+  {
+    "Code": "8965",
+    "Description": "De toeslag voor tolk gebarentaal/communicatiespecialist is niet in combinatie met een DBC-behandeling gedeclareerd."
+  },
+  {
+    "Code": "8966",
+    "Description": "Soort bijzondere tandheelkunde voor Wlz onjuist gevuld."
+  },
+  {
+    "Code": "8967",
+    "Description": "Op datum prestatie is geen zorgtoewijzing voor een WLZ zorgaanbieder inclusief behandeling bekend voor deze cliënt."
+  },
+  {
+    "Code": "8968",
+    "Description": "Op datum prestatie is geen zorglevering voor verblijf inclusief behandeling bekend voor cliënt."
+  },
+  {
+    "Code": "8969",
+    "Description": "Datum prestatie valt buiten opnameperiode voor verblijf inclusief behandeling."
+  },
+  {
+    "Code": "8970",
+    "Description": "Behandeldatum ligt voor toegestane datum."
+  },
+  {
+    "Code": "8971",
+    "Description": "Informatierecord UPT-prestatie ontbreekt voor deze behandelurenprestatiecode."
+  },
+  {
+    "Code": "8972",
+    "Description": "Informatierecord UPT-prestatie is niet toegestaan in deze situatie."
+  },
+  {
+    "Code": "8973",
+    "Description": "Bijbehorend honorarium record is niet aanwezig."
+  },
+  {
+    "Code": "8974",
+    "Description": "Materiaal- en techniekkosten zijn niet toegestaan bij deze prestatiecode."
+  },
+  {
+    "Code": "8975",
+    "Description": "Reiskosten kunnen enkel in rekening worden gebracht in combinatie met  hiervoor benoemde prestatiecode."
+  },
+  {
+    "Code": "8976",
+    "Description": "Bij meer dan 3 declaraties kroon- en brugwerk binnen 12 maanden moet een machtiging afgegeven zijn door de zorgverzekeraar."
+  },
+  {
+    "Code": "8977",
+    "Description": "Deze prestatiecode mag niet worden gedeclareerd in de Wlz."
+  },
+  {
+    "Code": "8978",
+    "Description": "Deze prestatiecode mag niet in dit soort prestatierecord worden gedeclareerd."
+  },
+  {
+    "Code": "8979",
+    "Description": "Prestatiecode is verboden in combinatie met een eerder gedeclareerde prestatiecode."
+  },
+  {
+    "Code": "8980",
+    "Description": "Prestatiecode kan niet zonder bijbehorende hoofdprestatie worden gedeclareerd."
+  },
+  {
+    "Code": "8981",
+    "Description": "Prestatiecode narcose mag niet 2 keer binnen 12 maanden zonder machtiging worden gedeclareerd."
+  },
+  {
+    "Code": "8982",
+    "Description": "Machtigingsnummer ontbreekt voor bedrag boven machtigingsvrij bedrag."
+  },
+  {
+    "Code": "8983",
+    "Description": "Declaratie betreft geen Zvw-zorg"
+  },
+  {
+    "Code": "8984",
+    "Description": "Prestatie is reeds gedeclareerd door dezelfde zorgverlener."
+  },
+  {
+    "Code": "8985",
+    "Description": "Betaalopdracht is ongewijzigd geaccepteerd door het CAK."
+  },
+  {
+    "Code": "8986",
+    "Description": "Verzenddatum moet kleiner zijn dan of gelijk zijn aan huidige datum."
+  },
+  {
+    "Code": "8987",
+    "Description": "Som totaalbedrag ontbreekt of is onjuist.."
+  },
+  {
+    "Code": "8988",
+    "Description": "Het IBAN-nummer voeldoet niet aan de Modulo 97 proef/validatie."
+  },
+  {
+    "Code": "8989",
+    "Description": "Begindatum moet gelijk zijn aan of vroeger zijn dan de verzenddatum."
+  },
+  {
+    "Code": "8990",
+    "Description": "Einddatum moet gelijk zijn aan of later zijn dan de begindatum."
+  },
+  {
+    "Code": "8991",
+    "Description": "Totaalbedrag ontbreekt of is onjuist."
+  },
+  {
+    "Code": "8992",
+    "Description": "Weekterhandstelling farmaceutische hulp ZvW niet toegestaan wegens registratie opname in Wlz instelling voor behandeling en verblijf."
+  },
+  {
+    "Code": "8993",
+    "Description": "Reguliere magistrale bereiding heeft equivalent geregistreerd middel of voldoet aan bereidingsvoorwaarden bijzondere magistrale bereiding."
+  },
+  {
+    "Code": "8994",
+    "Description": "Prestatie terhandstelling onrechtmatig vaker dan één keer per receptregel."
+  },
+  {
+    "Code": "8995",
+    "Description": "Geneesmiddel ter voorkoming ziekte in kader reis mag niet gedeclareerd worden (ZvW)."
+  },
+  {
+    "Code": "8996",
+    "Description": "Geneesmiddellen bedoeld voor onderzoek mogen niet gedeclareerd worden."
+  },
+  {
+    "Code": "8997",
+    "Description": "Geneesmiddel mag bij een (nagenoeg) gelijkwaardig niet aangewezen geregistreerd geneesmiddel niet gedeclareerd worden."
+  },
+  {
+    "Code": "8998",
+    "Description": "Leverancier UR-geneesmiddel behoort niet tot de gerechtigde groepen als vermeld in de Geneesmiddelenwet."
+  },
+  {
+    "Code": "8999",
+    "Description": "Een apotheekhoudende mag de artsenijbereidkunst slechts in één apotheek uitoefenen."
+  },
+  {
+    "Code": "9000",
+    "Description": "Leiding apotheek niet ingeschreven in door het Staatstoezicht op de volksgezondheid ingestelde register van gevestigde apothekers."
+  },
+  {
+    "Code": "9001",
+    "Description": "Declaratie geneesmiddel volgens voorwaarden in Bijlage 2 van de Regeling zorgverzekering niet toegestaan."
+  },
+  {
+    "Code": "9002",
+    "Description": "Einddatum ZZP indicatie mag niet groter zijn dan de laatste dag van de aanleverperiode + 1 maand."
+  },
+  {
+    "Code": "9003",
+    "Description": "Einddatum zorg mag niet groter zijn dan de laatste dag van de aanleverperiode + 1 maand."
+  },
+  {
+    "Code": "9004",
+    "Description": "AGB-code zorgverlener / praktijk / instelling / servicebureau ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9005",
+    "Description": "Het parallel declareren van DBC's met dezelfde primaire diagnose / hoofddiagnose / zorgtrajectnummer is niet toegestaan."
+  },
+  {
+    "Code": "9006",
+    "Description": "Het declareren van een vervolg DBC na zorgtype 'Uitzondering parallelliteit tijdelijk verblijf' is niet toegestaan."
+  },
+  {
+    "Code": "9007",
+    "Description": "Het declareren van verblijf zonder overnachting in combinatie met verblijf met overnachting of een crisis-DBC is niet toegestaan."
+  },
+  {
+    "Code": "9008",
+    "Description": "Verblijf zonder overnachting wordt maximaal één keer per dag als deelprestatie binnen een DBC gedeclareerd."
+  },
+  {
+    "Code": "9009",
+    "Description": "Totale tijd en/of indirecte tijd ontbreekt in relatie met soort prestatie/tarief."
+  },
+  {
+    "Code": "9010",
+    "Description": "UZOVI-nummer CAK ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9011",
+    "Description": "Referentie levering ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9012",
+    "Description": "Name E125 document ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9013",
+    "Description": "Halfjaar nummer ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9014",
+    "Description": "Kostenjaar ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9015",
+    "Description": "Naam Nederlandse zorgverzekeraar (01) ontbreekt of is  onjuist."
+  },
+  {
+    "Code": "9016",
+    "Description": "Naam Nederlandse zorgverzekeraar (02) ontbreekt of is  onjuist."
+  },
+  {
+    "Code": "9017",
+    "Description": "Naam Nederlandse zorgverzekeraar (03) ontbreekt of is  onjuist."
+  },
+  {
+    "Code": "9018",
+    "Description": "Adres Nederlandse zorgverzekeraar (01) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9019",
+    "Description": "Adres Nederlandse zorgverzekeraar (02) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9020",
+    "Description": "Adres Nederlandse zorgverzekeraar (03) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9021",
+    "Description": "Landcode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9022",
+    "Description": "Situatie verzekerde ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9023",
+    "Description": "Voornamen verzekerde ontbreekt of is onjuist"
+  },
+  {
+    "Code": "9024",
+    "Description": "Identificatie verzekerde buitenlands orgaan ontbreekt of is onjuist"
+  },
+  {
+    "Code": "9025",
+    "Description": "Bewijs recht op uitkering ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9026",
+    "Description": "Datum afgifte formulier ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9027",
+    "Description": "Begindatum recht formulier ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9028",
+    "Description": "Einddatum recht formulier ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9029",
+    "Description": "Datum aanvraag medisch onderzoek ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9030",
+    "Description": "Declaratiebedrag medische hulp ontbreekt is onjuist."
+  },
+  {
+    "Code": "9031",
+    "Description": "Declaratiebedrag tandheelkundige hulp ontbreekt is onjuist."
+  },
+  {
+    "Code": "9032",
+    "Description": "Declaratiebedrag medicatie ontbreekt is onjuist"
+  },
+  {
+    "Code": "9033",
+    "Description": "Begindatum 1e ziekenhuisverpleging ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9034",
+    "Description": "Einddatum 1e ziekenhuisverpleging ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9035",
+    "Description": "Declaratiebedrag 1e ziekenhuisverpleging ontbreekt is onjuist."
+  },
+  {
+    "Code": "9036",
+    "Description": "Begindatum 2e ziekenhuisverpleging ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9037",
+    "Description": "Einddatum 2e ziekenhuisverpleging ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9038",
+    "Description": "Declaratiebedrag 2e ziekenhuisverpleging ontbreekt is onjuist."
+  },
+  {
+    "Code": "9039",
+    "Description": "Declaratiebedrag overige kosten (01) ontbreekt is onjuist."
+  },
+  {
+    "Code": "9040",
+    "Description": "Declaratiebedrag andere verstrekkingen (01) ontbreekt is onjuist."
+  },
+  {
+    "Code": "9041",
+    "Description": "Declaratiebedrag overige kosten (02) ontbreekt is onjuist."
+  },
+  {
+    "Code": "9042",
+    "Description": "Declaratiebedrag overige verstrekkingen (02) ontbreekt is onjuist."
+  },
+  {
+    "Code": "9043",
+    "Description": "Totaal declaratiebedrag overige verstrekkingen ontbreekt is onjuist."
+  },
+  {
+    "Code": "9044",
+    "Description": "Declaratiebedrag medische onderzoeken ontbreekt is onjuist."
+  },
+  {
+    "Code": "9045",
+    "Description": "Begindatum uitkeringen ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9046",
+    "Description": "Einddatum uitkeringen ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9047",
+    "Description": "Bedrag voor uitkeringen ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9048",
+    "Description": "Code buitenlands orgaan ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9049",
+    "Description": "Naam buitenlands orgaan (01) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9050",
+    "Description": "Naam buitenlands orgaan (02) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9051",
+    "Description": "Naam buitenlands orgaan (03) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9052",
+    "Description": "Adres buitenlands orgaan (01) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9053",
+    "Description": "Adres buitenlands orgaan (02) ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9054",
+    "Description": "Postcode buitenlands orgaan ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9055",
+    "Description": "Plaatsnaam buitenlands orgaan ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9056",
+    "Description": "Uitgiftedatum E125 ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9057",
+    "Description": "Referentie buitenland ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9058",
+    "Description": "Aard verstrekking ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9059",
+    "Description": "Afwijzingscode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9060",
+    "Description": "Nummer Europese Health Card ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9061",
+    "Description": "Declaratienummer CAK ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9062",
+    "Description": "Akkoord met betaling ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9063",
+    "Description": "Betwistingscode ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9064",
+    "Description": "Aantal E125 formulierrecords ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9065",
+    "Description": "Waarde UZOVI-nummer moet gelijk zijn aan waarde UZOVI-nummer voorlooprecord."
+  },
+  {
+    "Code": "9066",
+    "Description": "Begindatum recht formulier moet kleiner zijn dan of gelijk zijn aan factuurdatum."
+  },
+  {
+    "Code": "9067",
+    "Description": "Einddatum recht formulier moet kleiner zijn dan of gelijk zijn aan factuurdatum."
+  },
+  {
+    "Code": "9068",
+    "Description": "Einddatum recht formulier moet groter zijn dan of gelijk zijn aan begindatum recht formulier."
+  },
+  {
+    "Code": "9069",
+    "Description": "Datum aanvraag medisch onderzoek moet kleiner zijn dan of gelijk zijn aan factuurdatum."
+  },
+  {
+    "Code": "9070",
+    "Description": "Begindatum 1e ziekenhuisverpleging moet kleiner zijn dan of gelijk zijn aan factuurdatum."
+  },
+  {
+    "Code": "9071",
+    "Description": "Einddatum 1e ziekenhuisverpleging moet kleiner zijn dan of gelijk zijn aan factuurdatum."
+  },
+  {
+    "Code": "9072",
+    "Description": "Einddatum 1e ziekenhuisverpleging moet groter zijn dan of gelijk zijn aan begindatum 1e ziekenhuisverpleging."
+  },
+  {
+    "Code": "9073",
+    "Description": "Begindatum 2e ziekenhuisverpleging moet kleiner zijn dan of gelijk zijn aan factuurdatum."
+  },
+  {
+    "Code": "9074",
+    "Description": "Einddatum 2e ziekenhuisverpleging moet kleiner zijn dan of gelijk zijn aan factuurdatum."
+  },
+  {
+    "Code": "9075",
+    "Description": "Einddatum 2e ziekenhuisverpleging moet groter zijn dan of gelijk zijn aan begindatum 2e ziekenhuisverpleging."
+  },
+  {
+    "Code": "9076",
+    "Description": "Einddatum uitkeringen prestatie moet groter zijn dan of gelijk zijn aan begindatum uitkeringen."
+  },
+  {
+    "Code": "9077",
+    "Description": "Uitgiftedatum E125 moet kleiner zijn dan of gelijk zijn aan factuurdatum."
+  },
+  {
+    "Code": "9078",
+    "Description": "Totaal aantal (E125) formulierrecords ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9079",
+    "Description": "Betwistingscode mag niet gevuld zijn als akkoord met betaling."
+  },
+  {
+    "Code": "9080",
+    "Description": "Betwistingscode moet gevuld zijn als niet akkoord met betaling."
+  },
+  {
+    "Code": "9081",
+    "Description": "Verwerkingsperiode mag niet langer dan 31 dagen zijn."
+  },
+  {
+    "Code": "9082",
+    "Description": "Periode zorglevering moet binnen het aanleverjaar vallen."
+  },
+  {
+    "Code": "9083",
+    "Description": "IDEA prijscorrectie"
+  },
+  {
+    "Code": "9084",
+    "Description": "Maximaal aantal van dit Machtigingsnummer/meldingsnummer zorgverzekeraar is overschreden."
+  },
+  {
+    "Code": "9085",
+    "Description": "Code soort indicatie paramedische hulp niet toegestaan bij leeftijd verzekerde"
+  },
+  {
+    "Code": "9086",
+    "Description": "Diagnosecode niet toegestaan bij leeftijd verzekerde"
+  },
+  {
+    "Code": "9087",
+    "Description": "Behandeltraject paramedische hulp is niet gestart met een intake en onderzoek."
+  },
+  {
+    "Code": "9088",
+    "Description": "Nog niet alle vereiste behandelingen met code soort indicatie paramedische hulp 008 zijn gedeclareerd."
+  },
+  {
+    "Code": "9089",
+    "Description": "Gedeclareerde zorg valt onder de vergoeding vanuit de Zorgverzekeringswet, code soort indicatie paramedische hulp onjuist."
+  },
+  {
+    "Code": "9090",
+    "Description": "Gedeclareerde zorg valt onder chronische machtiging, code soort indicatie paramedische hulp onjuist."
+  },
+  {
+    "Code": "9091",
+    "Description": "Gedeclareerde zorg valt niet onder de vergoeding vanuit de Zorgverzekeringswet, code soort indicatie paramedische hulp onjuist."
+  },
+  {
+    "Code": "9092",
+    "Description": "Eén verboden combinatie van een zorgactiviteit naast een OZP/DBC/verrichting gevonden binnen dezelfde instelling."
+  },
+  {
+    "Code": "9093",
+    "Description": "Eén verboden combinatie van een zorgactiviteit naast een OZP/DBC/verrichting gevonden bij een andere instelling."
+  },
+  {
+    "Code": "9094",
+    "Description": "Eén verboden combinatie van een zorgactiviteit naast OZP/DBC/verrichting meerdere keren gevonden binnen zelfde en/of bij andere instelling."
+  },
+  {
+    "Code": "9095",
+    "Description": "Meerdere verboden combinaties van zorgactiviteit naast OZP/DBC/verrichting meerdere keren gevonden binnen zelfde en/of bij andere instelling"
+  },
+  {
+    "Code": "9096",
+    "Description": "Eén verboden combinatie van zorgactiviteiten gevonden binnen dezelfde instelling."
+  },
+  {
+    "Code": "9097",
+    "Description": "Eén verboden combinatie van zorgactiviteiten gevonden bij een andere instelling."
+  },
+  {
+    "Code": "9098",
+    "Description": "Eén verboden combinatie van zorgactiviteiten meerdere keren gevonden binnen dezelfde en/of bij een andere instelling."
+  },
+  {
+    "Code": "9099",
+    "Description": "Meerdere verboden combinaties van zorgactiviteiten één of meerdere keren gevonden binnen dezelfde en/of bij een andere instelling."
+  },
+  {
+    "Code": "9100",
+    "Description": "Eén verboden combinatie van een OZP/DBC/verrichting naast één zorgactiviteit één keer gevonden binnen dezelfde instelling."
+  },
+  {
+    "Code": "9101",
+    "Description": "Eén verboden combinatie van een OZP/DBC/verrichting naast één zorgactiviteit één keer gevonden bij een andere instelling."
+  },
+  {
+    "Code": "9102",
+    "Description": "Eén verboden combinatie OZP/DBC/verrichting naast een zorgactiviteit meerdere keren gevonden binnen zelfde en/of bij andere instelling."
+  },
+  {
+    "Code": "9103",
+    "Description": "Meerdere verboden combinaties OZP/DBC/verrichting naast zorgactiviteit meerdere keren gevonden binnen zelfde en/of andere instelling."
+  },
+  {
+    "Code": "9104",
+    "Description": "Zorgactiviteit voldoet niet omdat combinatie met andere verplichte zorgactiviteit binnen de DBC ontbreekt."
+  },
+  {
+    "Code": "9105",
+    "Description": "Voor hoofd-/ regiebehandelaar 1 ontbreekt het tijdsbestedingsrecord."
+  },
+  {
+    "Code": "9106",
+    "Description": "Voor hoofd-/ regiebehandelaar 2 ontbreekt het tijdsbestedingsrecord."
+  },
+  {
+    "Code": "9107",
+    "Description": "Totale directe tijd voor DBC/traject moet groter zijn dan nul minuten."
+  },
+  {
+    "Code": "9108",
+    "Description": "Directe tijd ontbreekt of is onjuist."
+  },
+  {
+    "Code": "9109",
+    "Description": "Twee verschillende hoofd-/regiebehandelaars niet mogelijk bij vrijgevestigde."
+  },
+  {
+    "Code": "9110",
+    "Description": "Twee hoofd-/regiebehandelaars niet toegestaan bij Basis GGZ."
+  },
+  {
+    "Code": "9111",
+    "Description": "Hoofd-/regiebehandelaar mag niet afwijken van de declarant bij vrijgevestigde."
+  },
+  {
+    "Code": "9112",
+    "Description": "Hoofd-/regiebehandelaar heeft niet het juiste specialisme."
+  },
+  {
+    "Code": "9113",
+    "Description": "Meer dan twee hoofdbehandelaars per prestatie is niet toegestaan."
+  },
+  {
+    "Code": "9114",
+    "Description": "Wachttijd voor de vergoeding van deze prestatie is nog niet verstreken."
+  },
+  {
+    "Code": "9115",
+    "Description": "Begindatum tijdsbesteding moet gelijk zijn aan begindatum prestatie."
+  },
+  {
+    "Code": "9116",
+    "Description": "Crisis-DBC binnen budget mag maximaal 3 dagen duren."
+  },
+  {
+    "Code": "9117",
+    "Description": "Crisis-DBC buiten budget mag maximaal 25 dagen duren."
+  },
+  {
+    "Code": "9118",
+    "Description": "Toeslag oorlogsgerelateerd psychotrauma heeft geen overlap met verblijfsprestatie D."
+  },
+  {
+    "Code": "9119",
+    "Description": "PINBuitenlandLandCode moet voorkomen als PINBuitenlandBSN voorkomt."
+  },
+  {
+    "Code": "9120",
+    "Description": "Geboorteplaats moet voorkomen als PINBSN en PINBuitenlandBSN niet voorkomen."
+  },
+  {
+    "Code": "9121",
+    "Description": "Geboorteland moet voorkomen als geboorteplaats voorkomt."
+  },
+  {
+    "Code": "9122",
+    "Description": "GeenRecht mag niet voorkomen als WelRecht voorkomt."
+  },
+  {
+    "Code": "9123",
+    "Description": "GeenRecht moet voorkomen als WelRecht niet voorkomt."
+  },
+  {
+    "Code": "9124",
+    "Description": "WelRecht mag niet voorkomen als GeenRecht voorkomt."
+  },
+  {
+    "Code": "9125",
+    "Description": "WelRecht moet voorkomen als GeenRecht niet voorkomt."
+  },
+  {
+    "Code": "9126",
+    "Description": "Einddatum moet voorkomen bij dit PeriodeType."
+  },
+  {
+    "Code": "9127",
+    "Description": "Einddatum mag niet voorkomen bij dit PeriodeType."
+  },
+  {
+    "Code": "9128",
+    "Description": "DatumRedenGeenRecht moet voorkomen bij deze waarde in CodeRedenGeenRecht."
+  },
+  {
+    "Code": "9129",
+    "Description": "LandCodeRedenGeenRecht moet voorkomen bij deze waarde in\n CodeRedenGeenRecht."
+  },
+  {
+    "Code": "9130",
+    "Description": "AndereRedenGeenRecht moet voorkomen bij deze waarde in CodeRedenGeenRecht."
+  },
+  {
+    "Code": "9131",
+    "Description": "OorspronkelijkeEinddatum moet voorkomen bij dit OorspronkelijkePeriodeType."
+  },
+  {
+    "Code": "9132",
+    "Description": "OorspronkelijkeEinddatum mag niet voorkomen bij dit OorspronkelijkePeriodeType."
+  },
+  {
+    "Code": "9133",
+    "Description": "OorspronkelijkeEinddatum moet gelijk zijn aan of later zijn dan OorspronkelijkeBegindatum."
+  },
+  {
+    "Code": "9134",
+    "Description": "DatumRedenEindeRecht moet voorkomen bij deze waarde in CodeRedenEindeRecht."
+  },
+  {
+    "Code": "9135",
+    "Description": "LandCodeRedenEindeRecht moet voorkomen bij deze waarde in CodeRedenEindeRecht."
+  },
+  {
+    "Code": "9136",
+    "Description": "AndereRedenEindeRecht moet voorkomen bij deze waarde in CodeRedenEindeRecht."
+  },
+  {
+    "Code": "9137",
+    "Description": "NieuweEinddatum moet voorkomen bij dit NieuwePeriodeType."
+  },
+  {
+    "Code": "9138",
+    "Description": "NieuweEinddatum mag niet voorkomen bij dit NieuwePeriodeType."
+  },
+  {
+    "Code": "9139",
+    "Description": "NieuweEinddatum moet gelijk zijn aan of later zijn dan NieuweBegindatum."
+  },
+  {
+    "Code": "9140",
+    "Description": "Er kan op basis van het referentienummer wel een debetregel gevonden worden, echter zijn deze kosten afgewezen."
+  },
+  {
+    "Code": "9141",
+    "Description": "Er kan op basis van het referentienummer wel een debetregel gevonden worden, echter komt de uitvoerder niet overeen."
+  },
+  {
+    "Code": "9142",
+    "Description": "Met het referentienummer kan wel een debetregel gevonden worden, echter komt praktijk-/instellingscode behandelaar/uitvoerder niet overeen."
+  },
+  {
+    "Code": "9143",
+    "Description": "De bijbehorende debetregel is nog in behandeling bij de zorgverzekeraar."
+  },
+  {
+    "Code": "9144",
+    "Description": "Verschil gedeclareerde en toegekende bedragen prestatierecords en sluitrecord niet gelijk aan elkaar."
+  }
+]

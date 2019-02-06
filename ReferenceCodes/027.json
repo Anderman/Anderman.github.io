@@ -1,0 +1,82 @@
+[
+  {
+    "Code": "001",
+    "Description": "Akkoord."
+  },
+  {
+    "Code": "002",
+    "Description": "Geen opmerking bij dit recordtype."
+  },
+  {
+    "Code": "003",
+    "Description": "Record is niet beoordeeld."
+  },
+  {
+    "Code": "010",
+    "Description": "Afwijking."
+  },
+  {
+    "Code": "011",
+    "Description": "Afwijking."
+  },
+  {
+    "Code": "018",
+    "Description": "Afwijking."
+  },
+  {
+    "Code": "019",
+    "Description": "Afwijking."
+  },
+  {
+    "Code": "090",
+    "Description": "Het record is verwerkt."
+  },
+  {
+    "Code": "910",
+    "Description": "Het record is niet verwerkt."
+  },
+  {
+    "Code": "980",
+    "Description": "De zorgaanbieder dient de declaratie in buiten het servicebureau om."
+  },
+  {
+    "Code": "981",
+    "Description": "Declaratie is volledig afgewezen"
+  },
+  {
+    "Code": "982",
+    "Description": "Declaratie is niet in behandeling genomen; voor meer informatie, neem contact op met de zorgverzekeraar"
+  },
+  {
+    "Code": "983",
+    "Description": "De zorgverzekeraar ondersteunt het ontvangen van het declaratiebestand via VECOZO volgens de gebruikte standaard niet"
+  },
+  {
+    "Code": "990",
+    "Description": "Het record is niet verwerkt."
+  },
+  {
+    "Code": "991",
+    "Description": "Niet verwerkt om technische redenen."
+  },
+  {
+    "Code": "992",
+    "Description": "Niet verwerkt om technische redenen."
+  },
+  {
+    "Code": "993",
+    "Description": "Niet verwerkt om technische redenen."
+  },
+  {
+    "Code": "994",
+    "Description": "Niet verwerkt om technische redenen."
+  },
+  {
+    "Code": "998",
+    "Description": "Niet verwerkt om technische redenen."
+  },
+  {
+    "Code": "999",
+    "Description": "Niet verwerkt om technische redenen."
+  }
+]

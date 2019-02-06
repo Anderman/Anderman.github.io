@@ -1,0 +1,118 @@
+[
+  {
+    "Code": "000002",
+    "Description": "Negatieve proefaanmeting"
+  },
+  {
+    "Code": "000003",
+    "Description": "Nazorg"
+  },
+  {
+    "Code": "000004",
+    "Description": "Huisbezoek"
+  },
+  {
+    "Code": "000005",
+    "Description": "Instructie"
+  },
+  {
+    "Code": "000006",
+    "Description": "Storingsdienst"
+  },
+  {
+    "Code": "000007",
+    "Description": "Dienstverlening bij reparatie van een hulpmiddel"
+  },
+  {
+    "Code": "010001",
+    "Description": "Maatwerk"
+  },
+  {
+    "Code": "010002",
+    "Description": "Confectie"
+  },
+  {
+    "Code": "011001",
+    "Description": "Eerste voorziening of eerste levering"
+  },
+  {
+    "Code": "011002",
+    "Description": "Vervolgvoorziening of vervolglevering"
+  },
+  {
+    "Code": "011003",
+    "Description": "Reserve-exemplaar of reservepaar (wisselpaar)"
+  },
+  {
+    "Code": "011004",
+    "Description": "Tijdelijk proefexemplaar"
+  },
+  {
+    "Code": "011005",
+    "Description": "Interim"
+  },
+  {
+    "Code": "011101",
+    "Description": "Nieuw bruikleenartikel"
+  },
+  {
+    "Code": "011102",
+    "Description": "Herverstrekt bruikleenartikel"
+  },
+  {
+    "Code": "011201",
+    "Description": "Dagtarief"
+  },
+  {
+    "Code": "011202",
+    "Description": "Weektarief"
+  },
+  {
+    "Code": "011203",
+    "Description": "Maandtarief"
+  },
+  {
+    "Code": "011204",
+    "Description": "Arrangementtarief"
+  },
+  {
+    "Code": "011205",
+    "Description": "Jaartarief"
+  },
+  {
+    "Code": "012001",
+    "Description": "Dagtarief"
+  },
+  {
+    "Code": "012002",
+    "Description": "Korting bij levering van meer dan 1 hulpmiddel"
+  },
+  {
+    "Code": "012003",
+    "Description": "Reparatiekosten materialen/onderdelen"
+  },
+  {
+    "Code": "012004",
+    "Description": "Transportkosten of ophaalkosten"
+  },
+  {
+    "Code": "012005",
+    "Description": "Depotkosten (opslagkosten)"
+  },
+  {
+    "Code": "014001",
+    "Description": "Batterijen"
+  },
+  {
+    "Code": "014002",
+    "Description": "Oplaadbare accu- of batterij-apparatuur"
+  },
+  {
+    "Code": "014003",
+    "Description": "Elektriciteitskosten"
+  },
+  {
+    "Code": "016001",
+    "Description": "Afleveringseenheid wijkt af van de afleveringseenheid die in de artikeldatabase vermeld is"
+  }
+]

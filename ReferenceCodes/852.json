@@ -1,0 +1,118 @@
+[
+  {
+    "Code": "1000",
+    "Description": "Aangeboren dento-alveolaire en/of maxillofaciale aandoening"
+  },
+  {
+    "Code": "1100",
+    "Description": "Schisis"
+  },
+  {
+    "Code": "1200",
+    "Description": "Dysgnathie"
+  },
+  {
+    "Code": "1300",
+    "Description": "Dento-alveolaire aandoening ten gevolge van lichamelijke aandoening/ontwikkelingsstoornis"
+  },
+  {
+    "Code": "1400",
+    "Description": "Congenitale stoornis van de tandstructuur"
+  },
+  {
+    "Code": "1500",
+    "Description": "Congenitale stoornis van de tanddoorbraak"
+  },
+  {
+    "Code": "2000",
+    "Description": "Verworven dento-alveolaire en/of maxillofaciale aandoening"
+  },
+  {
+    "Code": "2100",
+    "Description": "Dento-alveolaire en/of maxillofaciale aandoening ten gevolge van oro/maxillo/faciaal trauma"
+  },
+  {
+    "Code": "2200",
+    "Description": "Dento-alveolaire en/of maxillofaciale aandoening ten gevolge van oro/maxillo/faciaal defect"
+  },
+  {
+    "Code": "2300",
+    "Description": "Dento-alveolaire en/of maxillofaciale aandoening ten gevolge van ernstige prothese problemtiek"
+  },
+  {
+    "Code": "2400",
+    "Description": "Omvangrijke glazuuraantasting van niet carieuze aard"
+  },
+  {
+    "Code": "3000",
+    "Description": "Dysfunctie van het kauworgaan"
+  },
+  {
+    "Code": "3100",
+    "Description": "Orofaciale pijn op basis van Tempora mandibulaire dysfunctie (TMD)"
+  },
+  {
+    "Code": "3110",
+    "Description": "Tendomyalgie"
+  },
+  {
+    "Code": "3120",
+    "Description": "Myogene bewegingsbeperking"
+  },
+  {
+    "Code": "3130",
+    "Description": "Artralgie"
+  },
+  {
+    "Code": "3140",
+    "Description": "Discusluxatie"
+  },
+  {
+    "Code": "3150",
+    "Description": "Residuale osteoartrose"
+  },
+  {
+    "Code": "3160",
+    "Description": "Adhesievorming/ankylosering"
+  },
+  {
+    "Code": "3200",
+    "Description": "Orofaciale pijn anders dan TMD"
+  },
+  {
+    "Code": "4000",
+    "Description": "Verstandelijke, psych(iatr)ische en/of lichamelijke niet-tandheelkundige handicap beperking)"
+  },
+  {
+    "Code": "4100",
+    "Description": "Verstandelijke en/of lichamelijke niet-tandheelkundige handicap (beperking)"
+  },
+  {
+    "Code": "4200",
+    "Description": "Psych(iatr)ische niet-tandheelkundige handicap (beperking)"
+  },
+  {
+    "Code": "4300",
+    "Description": "Meervoudige handicap"
+  },
+  {
+    "Code": "5000",
+    "Description": "Angst"
+  },
+  {
+    "Code": "5100",
+    "Description": "Specifiek angststoornis"
+  },
+  {
+    "Code": "5200",
+    "Description": "Non-specifieke angststoornis"
+  },
+  {
+    "Code": "6000",
+    "Description": "Medisch tandheelkundig gerelateerde aandoening"
+  },
+  {
+    "Code": "6100",
+    "Description": "Medisch gecompromitteerd"
+  }
+]

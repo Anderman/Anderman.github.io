@@ -1,0 +1,226 @@
+[
+  {
+    "Code": "191",
+    "Description": "9VV B"
+  },
+  {
+    "Code": "750",
+    "Description": "1VV"
+  },
+  {
+    "Code": "751",
+    "Description": "2VV"
+  },
+  {
+    "Code": "752",
+    "Description": "3VV"
+  },
+  {
+    "Code": "753",
+    "Description": "4VV"
+  },
+  {
+    "Code": "754",
+    "Description": "5VV"
+  },
+  {
+    "Code": "755",
+    "Description": "6VV"
+  },
+  {
+    "Code": "756",
+    "Description": "7VV"
+  },
+  {
+    "Code": "757",
+    "Description": "8VV"
+  },
+  {
+    "Code": "758",
+    "Description": "9VV"
+  },
+  {
+    "Code": "759",
+    "Description": "10VV"
+  },
+  {
+    "Code": "760",
+    "Description": "1GGZ C"
+  },
+  {
+    "Code": "762",
+    "Description": "2GGZ C"
+  },
+  {
+    "Code": "764",
+    "Description": "3GGZ C"
+  },
+  {
+    "Code": "766",
+    "Description": "4GGZ B"
+  },
+  {
+    "Code": "768",
+    "Description": "5GGZ B"
+  },
+  {
+    "Code": "770",
+    "Description": "6GGZ B"
+  },
+  {
+    "Code": "772",
+    "Description": "7GGZ B"
+  },
+  {
+    "Code": "780",
+    "Description": "1LVG"
+  },
+  {
+    "Code": "781",
+    "Description": "2LVG"
+  },
+  {
+    "Code": "782",
+    "Description": "3LVG"
+  },
+  {
+    "Code": "783",
+    "Description": "4LVG"
+  },
+  {
+    "Code": "784",
+    "Description": "5LVG"
+  },
+  {
+    "Code": "790",
+    "Description": "1SGLVG"
+  },
+  {
+    "Code": "800",
+    "Description": "1VG"
+  },
+  {
+    "Code": "802",
+    "Description": "2VG"
+  },
+  {
+    "Code": "804",
+    "Description": "3VG"
+  },
+  {
+    "Code": "806",
+    "Description": "4VG"
+  },
+  {
+    "Code": "808",
+    "Description": "5VG"
+  },
+  {
+    "Code": "810",
+    "Description": "6VG"
+  },
+  {
+    "Code": "812",
+    "Description": "7VG"
+  },
+  {
+    "Code": "814",
+    "Description": "8VG"
+  },
+  {
+    "Code": "820",
+    "Description": "1LG"
+  },
+  {
+    "Code": "822",
+    "Description": "2LG"
+  },
+  {
+    "Code": "824",
+    "Description": "3LG"
+  },
+  {
+    "Code": "826",
+    "Description": "4LG"
+  },
+  {
+    "Code": "828",
+    "Description": "5LG"
+  },
+  {
+    "Code": "830",
+    "Description": "6LG"
+  },
+  {
+    "Code": "832",
+    "Description": "7LG"
+  },
+  {
+    "Code": "840",
+    "Description": "1ZGvis"
+  },
+  {
+    "Code": "842",
+    "Description": "2ZGvis"
+  },
+  {
+    "Code": "844",
+    "Description": "3ZGvis"
+  },
+  {
+    "Code": "846",
+    "Description": "4ZGvis"
+  },
+  {
+    "Code": "848",
+    "Description": "5ZGvis"
+  },
+  {
+    "Code": "850",
+    "Description": "1ZGaud"
+  },
+  {
+    "Code": "852",
+    "Description": "2ZGaud"
+  },
+  {
+    "Code": "854",
+    "Description": "3ZGaud"
+  },
+  {
+    "Code": "856",
+    "Description": "4ZGaud"
+  },
+  {
+    "Code": "860",
+    "Description": "1GGZ B"
+  },
+  {
+    "Code": "862",
+    "Description": "2GGZ B"
+  },
+  {
+    "Code": "864",
+    "Description": "3GGZ B"
+  },
+  {
+    "Code": "866",
+    "Description": "4GGZ C"
+  },
+  {
+    "Code": "868",
+    "Description": "5GGZ C"
+  },
+  {
+    "Code": "870",
+    "Description": "6GGZ C"
+  },
+  {
+    "Code": "998",
+    "Description": "ZZPX"
+  },
+  {
+    "Code": "999",
+    "Description": "ZZPO"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "Code": "P",
+    "Description": "Productieomgeving"
+  },
+  {
+    "Code": "T",
+    "Description": "Testomgeving DBC-Onderhoud"
+  }
+]

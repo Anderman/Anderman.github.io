@@ -1,0 +1,106 @@
+[
+  {
+    "Code": "00000201",
+    "Description": "H02 icd-10: c00-c97: maligne neoplasmata"
+  },
+  {
+    "Code": "00000202",
+    "Description": "H02 icd-10: d00-d48: overige neoplasmata (in situ; benigne; met onzeker of onbekend gedrag)"
+  },
+  {
+    "Code": "00000500",
+    "Description": "H05 icd-10: f00-f99: psychische stoornissen en gedragsstoornissen"
+  },
+  {
+    "Code": "00000501",
+    "Description": "H05 icd-10: f00-f03: dementie"
+  },
+  {
+    "Code": "00000600",
+    "Description": "H06 icd-10: g00-g99: ziekten van het zenuwstelsel"
+  },
+  {
+    "Code": "00000601",
+    "Description": "H06 icd-10: g20: ziekte van parkinson"
+  },
+  {
+    "Code": "00000602",
+    "Description": "H06 icd-10: g35: multiple sclerose"
+  },
+  {
+    "Code": "00000700",
+    "Description": "H07 icd-10: h00-h59: ziekten van oog en adnexen"
+  },
+  {
+    "Code": "00000900",
+    "Description": "H09 icd-10: i00-i99: ziekten van hart en vaatstelsel"
+  },
+  {
+    "Code": "00000901",
+    "Description": "H09 icd-10: i60-i69: cerebrovasculaire ziekten"
+  },
+  {
+    "Code": "00001000",
+    "Description": "H10 icd-10: j00-j99: ziekten van  het ademhalingsstelsel"
+  },
+  {
+    "Code": "00001200",
+    "Description": "H12 icd-10: l00-l99: ziekten van huid en subcutis"
+  },
+  {
+    "Code": "00001300",
+    "Description": "H13 icd-10: m00-m99: ziekten van  botspierstelsel en bindweefsel"
+  },
+  {
+    "Code": "00001301",
+    "Description": "H13 icd-10: m00-m14: infectieuze artropathieen en imflammatoire polyartropathieen"
+  },
+  {
+    "Code": "00001302",
+    "Description": "H13 icd-10: m15-m19: artrose"
+  },
+  {
+    "Code": "00001700",
+    "Description": "H17 icd-10: q00-q99: congenitale afwijkingen, misvormingen en chromosoomafwijkingen"
+  },
+  {
+    "Code": "00001800",
+    "Description": "H18 icd-10: r00-r99: symptomen, afwijkende klinische bevindingen en laboratoriumuitslagen, niet elders geclassificeerd"
+  },
+  {
+    "Code": "00001801",
+    "Description": "H18 icd-10: r25-r29: symptomen betreffende zenuwstelsel en botspierstelsel"
+  },
+  {
+    "Code": "00001900",
+    "Description": "H19 icd-10: s00-t98: letsel, vergiftiging en bepaalde andere gevolgen van uitwendige oorzaken"
+  },
+  {
+    "Code": "00001901",
+    "Description": "H19 icd-10: s48: traumatische amputatie van schouder en bovenarm"
+  },
+  {
+    "Code": "00001902",
+    "Description": "H19 icd-10: s58: traumatische amputatie van onderarm"
+  },
+  {
+    "Code": "00001903",
+    "Description": "H19 icd-10: s68: traumatische amputatie van pols en hand"
+  },
+  {
+    "Code": "00001904",
+    "Description": "H19 icd-10: s78: traumatische amputatie van heup en bovenbeen"
+  },
+  {
+    "Code": "00001905",
+    "Description": "H19 icd-10: s88: traumatische amputatie van onderbeen"
+  },
+  {
+    "Code": "00001906",
+    "Description": "H19 icd-10: s98: traumatische amputatie van enkel en voet"
+  },
+  {
+    "Code": "00009900",
+    "Description": "Overige aandoeningen (niet afgeleid  van icd-10)"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Code": "02",
+    "Description": "Initiële declaratie na afwijzing door of creditering bij andere zorgverzekeraar"
+  },
+  {
+    "Code": "03",
+    "Description": "Opnieuw ingediende declaratie na afwijzing bij zelfde zorgverzekeraar"
+  },
+  {
+    "Code": "04",
+    "Description": "Herdeclaratie, aanpassing alleen informatieve record(s) bij zelfde zorgverzekeraar; voorafgaande creditpost in zelfde declaratiebestand."
+  },
+  {
+    "Code": "05",
+    "Description": "Herdeclaratie bij zelfde zorgverzekeraar."
+  }
+]

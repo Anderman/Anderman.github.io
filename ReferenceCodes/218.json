@@ -1,0 +1,86 @@
+[
+  {
+    "Code": "02",
+    "Description": "Kwartier"
+  },
+  {
+    "Code": "03",
+    "Description": "Half uur"
+  },
+  {
+    "Code": "04",
+    "Description": "Uur"
+  },
+  {
+    "Code": "06",
+    "Description": "Uren en minuten \"uuumm\""
+  },
+  {
+    "Code": "07",
+    "Description": "5 minuten"
+  },
+  {
+    "Code": "11",
+    "Description": "Overdag"
+  },
+  {
+    "Code": "12",
+    "Description": "Nacht"
+  },
+  {
+    "Code": "13",
+    "Description": "Halve dag"
+  },
+  {
+    "Code": "14",
+    "Description": "Etmaal (24 uur)"
+  },
+  {
+    "Code": "15",
+    "Description": "Dagdeel (3 uur)"
+  },
+  {
+    "Code": "16",
+    "Description": "Dagdeel (4 uur)"
+  },
+  {
+    "Code": "21",
+    "Description": "Week"
+  },
+  {
+    "Code": "24",
+    "Description": "4 weken"
+  },
+  {
+    "Code": "31",
+    "Description": "Maand"
+  },
+  {
+    "Code": "33",
+    "Description": "3 maanden"
+  },
+  {
+    "Code": "36",
+    "Description": "6 maanden"
+  },
+  {
+    "Code": "41",
+    "Description": "Jaar"
+  },
+  {
+    "Code": "49",
+    "Description": "Langer dan een jaar"
+  },
+  {
+    "Code": "81",
+    "Description": "Benodigde tijdsduur of tijdsonafhankelijk"
+  },
+  {
+    "Code": "82",
+    "Description": "Stuks"
+  },
+  {
+    "Code": "99",
+    "Description": "Onbekend"
+  }
+]

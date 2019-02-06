@@ -1,0 +1,326 @@
+[
+  {
+    "Code": "9912",
+    "Description": "AG.BI.mwd"
+  },
+  {
+    "Code": "9913",
+    "Description": "AG.BI.sph"
+  },
+  {
+    "Code": "9914",
+    "Description": "AG.SF.kjpsych"
+  },
+  {
+    "Code": "9915",
+    "Description": "AG.SF.overig"
+  },
+  {
+    "Code": "9916",
+    "Description": "AG.SF.vrstgeh"
+  },
+  {
+    "Code": "9917",
+    "Description": "MB.BG.basis"
+  },
+  {
+    "Code": "9918",
+    "Description": "MB.SF.AVG"
+  },
+  {
+    "Code": "9919",
+    "Description": "MB.SF.overig"
+  },
+  {
+    "Code": "9920",
+    "Description": "MB.SF.sger"
+  },
+  {
+    "Code": "9921",
+    "Description": "MB.SF.vslarts"
+  },
+  {
+    "Code": "9922",
+    "Description": "MB.SP.psych"
+  },
+  {
+    "Code": "9923",
+    "Description": "OV.BG.diet"
+  },
+  {
+    "Code": "9924",
+    "Description": "OV.BG.ergo"
+  },
+  {
+    "Code": "9925",
+    "Description": "OV.BG.fysio"
+  },
+  {
+    "Code": "9926",
+    "Description": "OV.BG.logo"
+  },
+  {
+    "Code": "9927",
+    "Description": "OV.SP.artsmg"
+  },
+  {
+    "Code": "9928",
+    "Description": "OV.SP.harts"
+  },
+  {
+    "Code": "9929",
+    "Description": "OV.SP.karts"
+  },
+  {
+    "Code": "9930",
+    "Description": "OV.SP.kger"
+  },
+  {
+    "Code": "9931",
+    "Description": "OV.SP.neur"
+  },
+  {
+    "Code": "9932",
+    "Description": "PB.BG.gzpsy"
+  },
+  {
+    "Code": "9933",
+    "Description": "PB.BI.gzkd"
+  },
+  {
+    "Code": "9934",
+    "Description": "PB.BI.ped"
+  },
+  {
+    "Code": "9935",
+    "Description": "PB.BI.psy"
+  },
+  {
+    "Code": "9936",
+    "Description": "PB.SF.gedrth"
+  },
+  {
+    "Code": "9937",
+    "Description": "PB.SF.kjth"
+  },
+  {
+    "Code": "9938",
+    "Description": "PB.SF.overig"
+  },
+  {
+    "Code": "9939",
+    "Description": "PB.SP.klinneurops"
+  },
+  {
+    "Code": "9940",
+    "Description": "PB.SP.klinps"
+  },
+  {
+    "Code": "9941",
+    "Description": "PT.BG.psth"
+  },
+  {
+    "Code": "9942",
+    "Description": "VB.BG.vrplk"
+  },
+  {
+    "Code": "9943",
+    "Description": "VB.SF.cpv"
+  },
+  {
+    "Code": "9944",
+    "Description": "VB.SF.fpv"
+  },
+  {
+    "Code": "9945",
+    "Description": "VB.SF.overig"
+  },
+  {
+    "Code": "9946",
+    "Description": "VB.SF.spv"
+  },
+  {
+    "Code": "9947",
+    "Description": "VB.SP.vrplsp"
+  },
+  {
+    "Code": "9948",
+    "Description": "VK.BG.vakth"
+  },
+  {
+    "Code": "9949",
+    "Description": "VK.BI.ct"
+  },
+  {
+    "Code": "9950",
+    "Description": "VK.BI.pmt"
+  },
+  {
+    "Code": "9951",
+    "Description": "VK.SF.overig"
+  },
+  {
+    "Code": "9952",
+    "Description": "VK.SF.vakth"
+  },
+  {
+    "Code": "9953",
+    "Description": "MB.SP.oud"
+  },
+  {
+    "Code": "9954",
+    "Description": "OV.KJ.psych"
+  },
+  {
+    "Code": "9955",
+    "Description": "OV.OR.gen"
+  },
+  {
+    "Code": "9956",
+    "Description": "MB.SP.kger"
+  },
+  {
+    "Code": "9957",
+    "Description": "AG.BI.ev.hbo"
+  },
+  {
+    "Code": "9958",
+    "Description": "AG.BI.ev.mbo"
+  },
+  {
+    "Code": "9959",
+    "Description": "AG.BI.hped"
+  },
+  {
+    "Code": "9960",
+    "Description": "AG.AO.actb"
+  },
+  {
+    "Code": "9961",
+    "Description": "AG.AO.amb"
+  },
+  {
+    "Code": "9962",
+    "Description": "AG.AO.cam"
+  },
+  {
+    "Code": "9963",
+    "Description": "AG.AO.couns"
+  },
+  {
+    "Code": "9964",
+    "Description": "AG.AO.ev"
+  },
+  {
+    "Code": "9965",
+    "Description": "AG.AO.gezbeg"
+  },
+  {
+    "Code": "9966",
+    "Description": "AG.AO.gezhlv"
+  },
+  {
+    "Code": "9967",
+    "Description": "AG.AO.grb"
+  },
+  {
+    "Code": "9968",
+    "Description": "AG.AO.gverz"
+  },
+  {
+    "Code": "9969",
+    "Description": "AG.AO.mreh"
+  },
+  {
+    "Code": "9970",
+    "Description": "AG.AO.spfz"
+  },
+  {
+    "Code": "9971",
+    "Description": "AG.AO.trjb"
+  },
+  {
+    "Code": "9972",
+    "Description": "AG.BI.mwdz"
+  },
+  {
+    "Code": "9973",
+    "Description": "AG.OB.overig"
+  },
+  {
+    "Code": "9974",
+    "Description": "MB.OB.overig"
+  },
+  {
+    "Code": "9975",
+    "Description": "OV.AO.spl"
+  },
+  {
+    "Code": "9976",
+    "Description": "OV.AO.spt"
+  },
+  {
+    "Code": "9977",
+    "Description": "OV.OB.overig"
+  },
+  {
+    "Code": "9978",
+    "Description": "PB.AO.geza"
+  },
+  {
+    "Code": "9979",
+    "Description": "PB.AO.pdw"
+  },
+  {
+    "Code": "9980",
+    "Description": "PB.AO.prevm"
+  },
+  {
+    "Code": "9981",
+    "Description": "PB.AO.psa"
+  },
+  {
+    "Code": "9982",
+    "Description": "PB.AO.systh"
+  },
+  {
+    "Code": "9983",
+    "Description": "PB.AO.testa"
+  },
+  {
+    "Code": "9984",
+    "Description": "PB.OB.overig"
+  },
+  {
+    "Code": "9985",
+    "Description": "PT.OB.overig"
+  },
+  {
+    "Code": "9986",
+    "Description": "VB.AO.nupr"
+  },
+  {
+    "Code": "9987",
+    "Description": "VB.AO.verpl"
+  },
+  {
+    "Code": "9988",
+    "Description": "VB.AO.verz"
+  },
+  {
+    "Code": "9989",
+    "Description": "VB.AO.zass"
+  },
+  {
+    "Code": "9990",
+    "Description": "VB.OB.overig"
+  },
+  {
+    "Code": "9991",
+    "Description": "VK.BI.pmtz"
+  },
+  {
+    "Code": "9992",
+    "Description": "VK.OB.overig"
+  }
+]

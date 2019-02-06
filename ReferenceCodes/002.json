@@ -1,0 +1,1546 @@
+[
+  {
+    "Code": "020",
+    "Description": "Aanvraag verlenging"
+  },
+  {
+    "Code": "030",
+    "Description": "Reactie melding"
+  },
+  {
+    "Code": "040",
+    "Description": "Afgifte verlenging"
+  },
+  {
+    "Code": "050",
+    "Description": "Bericht ontslagdiagnose"
+  },
+  {
+    "Code": "060",
+    "Description": "Bericht van ontslag"
+  },
+  {
+    "Code": "070",
+    "Description": "Bericht van opneming"
+  },
+  {
+    "Code": "080",
+    "Description": "Vrij bericht"
+  },
+  {
+    "Code": "090",
+    "Description": "Wijziging tariefklasse"
+  },
+  {
+    "Code": "100",
+    "Description": "Wijziging verzekering"
+  },
+  {
+    "Code": "101",
+    "Description": "Declaraties medisch specialistische hulp & ziekenhuiszorg van ziekenhuis naar zorgverzekeraar"
+  },
+  {
+    "Code": "102",
+    "Description": "Retourinformatie declaraties medisch specialistische hulp & ziekenhuiszorg van zorgverzekeraar naar ziekenhuis"
+  },
+  {
+    "Code": "103",
+    "Description": "Declaraties medisch specialistische hulp van medisch specialist/ziekenhuis naar zorgverzekeraar"
+  },
+  {
+    "Code": "104",
+    "Description": "Retourinformatie declaraties medisch specialistische hulp van zorgverzekeraar naar medisch specialist/ziekenhuis"
+  },
+  {
+    "Code": "105",
+    "Description": "Declaraties tandheelkundige hulp van tandarts algemeen prakticus naar zorgverzekeraar"
+  },
+  {
+    "Code": "106",
+    "Description": "Declaratie farmaceutische hulp van apotheekhoudende naar zorgverzekeraar"
+  },
+  {
+    "Code": "107",
+    "Description": "Declaraties paramedische hulp van paramedicus naar zorgverzekeraar (met machtigingsgegevens)"
+  },
+  {
+    "Code": "108",
+    "Description": "Retourinformatie declaraties paramedische hulp van zorgverzekeraar naar paramedicus (met machtiging gegegevens)"
+  },
+  {
+    "Code": "109",
+    "Description": "Declaraties orthodontie van orthodontist naar zorgverzekeraar"
+  },
+  {
+    "Code": "110",
+    "Description": "Declaraties hulpmiddelen van leverancier hulpmiddelen naar zorgverzekeraar"
+  },
+  {
+    "Code": "111",
+    "Description": "Retourinformatie declaraties hulpmiddelen van zorgverzekeraar naar leverancier hulpmiddelen"
+  },
+  {
+    "Code": "112",
+    "Description": "Declaraties huisartsenhulp van huisarts/gezondheidscentrum naar zorgverzekeraar"
+  },
+  {
+    "Code": "113",
+    "Description": "Retourinformatie declaraties huisartsenhulp van zorgverzekeraar naar huisarts/gezondheidscentrum"
+  },
+  {
+    "Code": "114",
+    "Description": "Retourinformatie declaraties orthodontie van zorgverzekeraar naar orthodontist"
+  },
+  {
+    "Code": "115",
+    "Description": "Declaraties paramedische hulp van paramedicus naar zorgverzekeraar (met voorafgaande geautomatiseerde toestemming/machtiging)"
+  },
+  {
+    "Code": "116",
+    "Description": "Retourinformatie declaraties paramedische hulp van zorgverzekeraar naar paramedicus (met voorafgaande geautomatiseerde toestemming)"
+  },
+  {
+    "Code": "117",
+    "Description": "Declaraties vervoer (ambulance en taxi) van vervoerder naar zorgverzekeraar"
+  },
+  {
+    "Code": "118",
+    "Description": "Retourinformatie declaraties vervoer (ambulance en taxi) van zorgverzekeraar naar vervoerder"
+  },
+  {
+    "Code": "119",
+    "Description": "Retourinformatie declaraties tandheelkundige hulp van zorgverzekeraar naar tandarts algemeen prakticus"
+  },
+  {
+    "Code": "120",
+    "Description": "Factuurbericht hulpmiddelen van apotheekhoudende naar zorgverzekeraar m.b.t. de standaard e.i. factuurbericht farmaceutische hulp"
+  },
+  {
+    "Code": "121",
+    "Description": "Factuurbericht verpleging en verzorging (V&V)"
+  },
+  {
+    "Code": "122",
+    "Description": "EDI-factuurproces verpleging en verzorging (V&V; Vektis)"
+  },
+  {
+    "Code": "123",
+    "Description": "Factuurbericht farmaceutische hulp"
+  },
+  {
+    "Code": "124",
+    "Description": "Factuurbericht huisartsenhulp"
+  },
+  {
+    "Code": "125",
+    "Description": "Factuurbericht ziekenhuishulp"
+  },
+  {
+    "Code": "126",
+    "Description": "Factuurbericht specialistische hulp"
+  },
+  {
+    "Code": "127",
+    "Description": "Factuurbericht ziekenhuishulp/specialistische hulp"
+  },
+  {
+    "Code": "128",
+    "Description": "Retour factuurbericht farmaceutische hulp"
+  },
+  {
+    "Code": "129",
+    "Description": "Retour factuurbericht huisartsenhulp"
+  },
+  {
+    "Code": "130",
+    "Description": "Retour factuurbericht ziekenhuishulp/specialistische hulp"
+  },
+  {
+    "Code": "131",
+    "Description": "Retour factuurbericht specialistische hulp"
+  },
+  {
+    "Code": "132",
+    "Description": "Retour factuurbericht ziekenhuishulp"
+  },
+  {
+    "Code": "133",
+    "Description": "Declaraties kraamzorg van kraamcentrum naar zorgverzekeraar"
+  },
+  {
+    "Code": "134",
+    "Description": "Retourinformatie declaraties kraamzorg van zorgverzekeraar naar kraamcentrum"
+  },
+  {
+    "Code": "135",
+    "Description": "Factuurbericht laboratoria"
+  },
+  {
+    "Code": "136",
+    "Description": "Retour factuurbericht laboratoria"
+  },
+  {
+    "Code": "137",
+    "Description": "Factuurbericht GGZ"
+  },
+  {
+    "Code": "138",
+    "Description": "Retour factuurbericht GGZ"
+  },
+  {
+    "Code": "139",
+    "Description": "Creditfactuur GGZ-factuur"
+  },
+  {
+    "Code": "140",
+    "Description": "Retourbericht creditfactuur GGZ"
+  },
+  {
+    "Code": "141",
+    "Description": "Declaratiebericht verloskunde"
+  },
+  {
+    "Code": "142",
+    "Description": "Retour declaratiebericht verloskunde"
+  },
+  {
+    "Code": "143",
+    "Description": "Retourinformatie declaratie farmaceutische hulp van zorgverzekeraar naar apotheekhoudende"
+  },
+  {
+    "Code": "144",
+    "Description": "Retour factuurbericht hulpmiddelen van zorgverzekeraar naar apotheekhoudende m.b.v. de standaard e.i. retour factuurbericht farm. hulp"
+  },
+  {
+    "Code": "145",
+    "Description": "Declaraties tandprothetische hulp"
+  },
+  {
+    "Code": "146",
+    "Description": "Retourinformatie declaraties tandprothetische hulp"
+  },
+  {
+    "Code": "147",
+    "Description": "Declaraties thuiszorg 2e/3e compartiment van thuiszorginstelling naar zorgverzekeraar"
+  },
+  {
+    "Code": "148",
+    "Description": "Retourinformatie declaraties thuiszorg 2e/3e compartiment van zorgverzekeraar naar thuiszorginstelling"
+  },
+  {
+    "Code": "149",
+    "Description": "Vervallen"
+  },
+  {
+    "Code": "150",
+    "Description": "Declaraties kraamzorg van thuiszorginstelling/kraamcentrum naar zorgverzekeraar"
+  },
+  {
+    "Code": "151",
+    "Description": "Retourinformatie declaraties kraamzorg van zorgverzekeraar naar thuiszorginstelling/kraamcentrum"
+  },
+  {
+    "Code": "152",
+    "Description": "Declaraties thuiszorg 1e compartiment (AWBZ) van thuiszorginstelling naar verbindingskantoor (incl. produktiegegevens)"
+  },
+  {
+    "Code": "153",
+    "Description": "Retourinformatie declaraties thuiszorg 1e compartiment (AWBZ) van verbindingskantoor naar thuiszorginstelling (incl. productiegegevens)"
+  },
+  {
+    "Code": "154",
+    "Description": "Declaraties thuiszorg 2e/3e compartiment + kraamzorg van thuiszorginstelling naar zorgverzekeraar"
+  },
+  {
+    "Code": "155",
+    "Description": "Retourinformatie declaraties thuiszorg 2e/3e compartiment + kraamzorg van zorgverzekeraar naar thuiszorginstelling"
+  },
+  {
+    "Code": "156",
+    "Description": "Declaraties alléén ziekenhuiszorg van ziekenhuis naar zorgverzekeraar"
+  },
+  {
+    "Code": "157",
+    "Description": "Retourinformatie declaraties alléén ziekenhuiszorg van zorgverzekeraar naar ziekenhuis"
+  },
+  {
+    "Code": "158",
+    "Description": "Opgave productie GGZ"
+  },
+  {
+    "Code": "159",
+    "Description": "Retourinformatie opgave productie GGZ"
+  },
+  {
+    "Code": "160",
+    "Description": "Opgave productie paaz"
+  },
+  {
+    "Code": "161",
+    "Description": "Retourinformatie opgave productie paaz"
+  },
+  {
+    "Code": "162",
+    "Description": "0pgave productie paaz incl. honorarium"
+  },
+  {
+    "Code": "163",
+    "Description": "Retourinformatie 0pgave productie paaz incl. honorarium"
+  },
+  {
+    "Code": "164",
+    "Description": "0pgave productie V&V"
+  },
+  {
+    "Code": "165",
+    "Description": "Retourinformatie opgave productie V&V"
+  },
+  {
+    "Code": "168",
+    "Description": "Declaraties hulpmiddelen AWBZ"
+  },
+  {
+    "Code": "169",
+    "Description": "Retourinformatie Declaraties hulpmiddelen AWBZ"
+  },
+  {
+    "Code": "170",
+    "Description": "Declaraties tandheelkundige hulp AWBZ"
+  },
+  {
+    "Code": "171",
+    "Description": "Retourinformatie declaraties tandheelkundige hulp AWBZ"
+  },
+  {
+    "Code": "174",
+    "Description": "Declaraties vrijgevestigde psychotherapeuten en psychiaters"
+  },
+  {
+    "Code": "175",
+    "Description": "Retourinformatie declaraties vrijgevestigde psychotherapeuten en psychiaters"
+  },
+  {
+    "Code": "176",
+    "Description": "Declaratie mondzorg van zorgverleners mondzorg naar zorgverzekeraar"
+  },
+  {
+    "Code": "177",
+    "Description": "Retourinformatie declaratie mondzorg van zorgverzekeraar naar zorgverlener mondzorg."
+  },
+  {
+    "Code": "178",
+    "Description": "Onderlinge verrekening zorgkosten"
+  },
+  {
+    "Code": "179",
+    "Description": "Declaratie zorg eerstelijnspsychologen"
+  },
+  {
+    "Code": "180",
+    "Description": "Retourinformatie declaratie zorg eerstelijnspsychologen"
+  },
+  {
+    "Code": "181",
+    "Description": "Declaratie DBC-zorg GGZ"
+  },
+  {
+    "Code": "182",
+    "Description": "Retourinformatie declaratie DBC-zorg GGZ"
+  },
+  {
+    "Code": "183",
+    "Description": "Declaratie forensische GGZ"
+  },
+  {
+    "Code": "184",
+    "Description": "Retourinformatie declaratie forensische GGZ"
+  },
+  {
+    "Code": "185",
+    "Description": "Declaratie zorg overige sectoren"
+  },
+  {
+    "Code": "186",
+    "Description": "Retourinformatie declaratie zorg overige sectoren"
+  },
+  {
+    "Code": "187",
+    "Description": "Declaratie Wlz/AWBZ-zorg"
+  },
+  {
+    "Code": "188",
+    "Description": "Retourinformatie declaratie Wlz/AWBZ-zorg"
+  },
+  {
+    "Code": "189",
+    "Description": "Onderhanden werk+ Ziekenhuiszorg/DBC"
+  },
+  {
+    "Code": "190",
+    "Description": "Retourinformatie Onderhanden werk+ Ziekenhuiszorg/DBC"
+  },
+  {
+    "Code": "191",
+    "Description": "(E)125 formulieren"
+  },
+  {
+    "Code": "192",
+    "Description": "Retourinformatie (E)125 formulieren"
+  },
+  {
+    "Code": "193",
+    "Description": "Declaratie farmaceutische hulp en/of hulpmiddelen"
+  },
+  {
+    "Code": "194",
+    "Description": "Retourinformatie declaratie farmaceutische hulp en/of hulpmiddelen"
+  },
+  {
+    "Code": "195",
+    "Description": "Declaratie basis en gespecialiseerde GGZ"
+  },
+  {
+    "Code": "196",
+    "Description": "Retourinformatie declaratie basis en gespecialiseerde GGZ"
+  },
+  {
+    "Code": "197",
+    "Description": "Declaratie dure geneesmiddelen"
+  },
+  {
+    "Code": "198",
+    "Description": "Retourinformatie declaratie dure geneesmiddelen"
+  },
+  {
+    "Code": "201",
+    "Description": "Overzicht verzekerdengegevens van zorgverzekeraar naar zorgverlener"
+  },
+  {
+    "Code": "202",
+    "Description": "Verzekeringsverklaring-werkgever van werkgever naar zorgverzekeraar"
+  },
+  {
+    "Code": "203",
+    "Description": "Retourinformatie verzekeringsverklaring-werkgever van zorgverzekeraar naar werkgever"
+  },
+  {
+    "Code": "204",
+    "Description": "Verzekeringsgegevens"
+  },
+  {
+    "Code": "205",
+    "Description": "Vrij bericht"
+  },
+  {
+    "Code": "206",
+    "Description": "Melding in/uitschrijving bejaarden bij ziekenfonds aan uitkeringsorgaan, van zorgverzekeraar naar SVB"
+  },
+  {
+    "Code": "207",
+    "Description": "Retourinformatie melding in/uitschrijving bejaarden bij ziekenfonds aan uitkeringsorgaan/SVB, van SVB naar zorgverzekeraar"
+  },
+  {
+    "Code": "210",
+    "Description": "Controle op verzekering (globaal)"
+  },
+  {
+    "Code": "211",
+    "Description": "Retourbericht controle op verzekering (globaal)"
+  },
+  {
+    "Code": "212",
+    "Description": "Opgave op naam ingeschrevenen (globaal)"
+  },
+  {
+    "Code": "213",
+    "Description": "Gegevens bewoners verzorgingshuizen (eenmalig)"
+  },
+  {
+    "Code": "214",
+    "Description": "Opgelegde eigen bijdrage AWBZ"
+  },
+  {
+    "Code": "215",
+    "Description": "Retourinformatie opgelegde eigen bijdrage AWBZ"
+  },
+  {
+    "Code": "216",
+    "Description": "In te houden eigen bijdrage AWBZ"
+  },
+  {
+    "Code": "217",
+    "Description": "Verwerkingsresultaat broninhouding eigen bijdrage AWBZ"
+  },
+  {
+    "Code": "218",
+    "Description": "Terugmelden broninhouding eigen bijdrage AWBZ"
+  },
+  {
+    "Code": "219",
+    "Description": "Retourinformatie terugmelden broninhouding eigen bijdrage AWBZ"
+  },
+  {
+    "Code": "220",
+    "Description": "65+ ziekenfondsverzekerden"
+  },
+  {
+    "Code": "221",
+    "Description": "(retour) 65+ ziekenfondsverzekerden"
+  },
+  {
+    "Code": "222",
+    "Description": "Afstemming verzekerde-/verzekeringsgegevens van zorgverlener naar zorgverzekeraar"
+  },
+  {
+    "Code": "223",
+    "Description": "Retourinformatie afstemming verzekerde-/verzekeringsgegevens van zorgverzekeraar naar zorgverlener"
+  },
+  {
+    "Code": "224",
+    "Description": "Stopzetten eigen bijdrage AWBZ"
+  },
+  {
+    "Code": "225",
+    "Description": "Retourinformatie stopzetten eigen bijdrage AWBZ"
+  },
+  {
+    "Code": "226",
+    "Description": "Terugmelden stopzetten eigen bijdrage AWBZ"
+  },
+  {
+    "Code": "227",
+    "Description": "Retourinformatie terugmelden stopzetten eigen bijdrage AWBZ"
+  },
+  {
+    "Code": "228",
+    "Description": "Opgelegde/stopgezette eigen bijdrage AWBZ"
+  },
+  {
+    "Code": "229",
+    "Description": "Retourinformatie opgelegde/stopgezette eigen bijdrage AWBZ"
+  },
+  {
+    "Code": "230",
+    "Description": "Melden broninhouding/stopzetten eigen bijdrage AWBZ"
+  },
+  {
+    "Code": "231",
+    "Description": "Retourinformatie melden broninhouding/stopzetten eigen bijdrage AWBZ"
+  },
+  {
+    "Code": "232",
+    "Description": "Nieuwe verzekerden van zorgverzekeraar naar centrale unit van zorgpasgroep"
+  },
+  {
+    "Code": "233",
+    "Description": "Zorgpas-status-mutatie (vervangen/blokkeren)"
+  },
+  {
+    "Code": "234",
+    "Description": "Intramurale eigen bijdrage AWBZ"
+  },
+  {
+    "Code": "235",
+    "Description": "Reactie intramurale eigen bijdrage AWBZ"
+  },
+  {
+    "Code": "236",
+    "Description": "Opvragen belastbaar inkomen AWBZ"
+  },
+  {
+    "Code": "237",
+    "Description": "Retourinformatie opvragen belastbaar inkomen AWBZ"
+  },
+  {
+    "Code": "238",
+    "Description": "Reactie opvragen belastbaar inkomen AWBZ"
+  },
+  {
+    "Code": "239",
+    "Description": "Retourbericht reactie opvragen belastbaar inkomen AWBZ"
+  },
+  {
+    "Code": "240",
+    "Description": "Aanvraag controle op verzekering"
+  },
+  {
+    "Code": "241",
+    "Description": "Reactie controle op verzekering"
+  },
+  {
+    "Code": "242",
+    "Description": "Aanlevering Verzekerden Gegevens (AVG)"
+  },
+  {
+    "Code": "243",
+    "Description": "Zorgverzekeringsgegevens RBVZ"
+  },
+  {
+    "Code": "244",
+    "Description": "Premieachterstandgegevens RBVZ"
+  },
+  {
+    "Code": "245",
+    "Description": "Retourinformatie aanlevering Verzekerden Gegevens (AVG)"
+  },
+  {
+    "Code": "246",
+    "Description": "Dossieroverdracht AWBZ-zorg"
+  },
+  {
+    "Code": "247",
+    "Description": "Aanlevering Verzekerden Gegevens (AVG) t.b.v. Informatie en Onderzoek"
+  },
+  {
+    "Code": "248",
+    "Description": "Verzekerde inschrijving op naam huisarts"
+  },
+  {
+    "Code": "249",
+    "Description": "Aanlevering Zorgvraagzwaarte Indicatoren (ZVZ-I) t.b.v. Informatie en Onderzoek"
+  },
+  {
+    "Code": "250",
+    "Description": "Declaratie mondzorg van zorgverleners mondzorg naar zorgkantoor"
+  },
+  {
+    "Code": "251",
+    "Description": "Retourinformatie declaratie mondzorg van zorgkantoor naar zorgverlener mondzorg."
+  },
+  {
+    "Code": "252",
+    "Description": "Informatie over inschrijving - woonplaats (S073)"
+  },
+  {
+    "Code": "253",
+    "Description": "Retourinformatie informatie over inschrijving - woonplaats"
+  },
+  {
+    "Code": "254",
+    "Description": "Document, dat recht aantoont - woonplaats (S072)"
+  },
+  {
+    "Code": "255",
+    "Description": "Retourinformatie document dat recht aantoont - woonplaats"
+  },
+  {
+    "Code": "256",
+    "Description": "Verzoek om document, dat recht aantoont - woonplaats (S071)"
+  },
+  {
+    "Code": "257",
+    "Description": "Retourinformatie verzoek om document, dat recht aantoont - woonplaats"
+  },
+  {
+    "Code": "258",
+    "Description": "Intrekking document, dat recht aantoont (S016)"
+  },
+  {
+    "Code": "259",
+    "Description": "Retourinformatie intrekking document, dat recht aantoont"
+  },
+  {
+    "Code": "260",
+    "Description": "Antwoord op intrekking document, dat recht aantoont (S017)"
+  },
+  {
+    "Code": "261",
+    "Description": "Retourinformatie antwoord op intrekking document, dat recht aantoont"
+  },
+  {
+    "Code": "262",
+    "Description": "Intrekking inschrijving (S018)"
+  },
+  {
+    "Code": "263",
+    "Description": "Retourinformatie intrekking inschrijving"
+  },
+  {
+    "Code": "264",
+    "Description": "Antwoord op intrekking inschrijving (S019)"
+  },
+  {
+    "Code": "265",
+    "Description": "Retourinformatie antwoord op intrekking inschrijving"
+  },
+  {
+    "Code": "266",
+    "Description": "Informatie over inschrijving - woonplaats (S073)"
+  },
+  {
+    "Code": "267",
+    "Description": "Retourinformatie informatie over inschrijving - woonplaats"
+  },
+  {
+    "Code": "268",
+    "Description": "Document, dat recht aantoont - woonplaats (S072)"
+  },
+  {
+    "Code": "269",
+    "Description": "Retourinformatie document, dat recht aantoont - woonplaats"
+  },
+  {
+    "Code": "270",
+    "Description": "Verzoek om document, dat recht aantoont - woonplaats (S071)"
+  },
+  {
+    "Code": "271",
+    "Description": "Retourinformatie verzoek om document, dat recht aantoont - woonplaats"
+  },
+  {
+    "Code": "272",
+    "Description": "Intrekking document, dat recht aantoont (S016)"
+  },
+  {
+    "Code": "273",
+    "Description": "Retourinformatie intrekking document, dat recht aantoont"
+  },
+  {
+    "Code": "274",
+    "Description": "Antwoord op intrekking document, dat recht aantoont (S017)"
+  },
+  {
+    "Code": "275",
+    "Description": "Retourinformatie antwoord op intrekking document, dat recht aantoont"
+  },
+  {
+    "Code": "276",
+    "Description": "Intrekking inschrijving (S018)"
+  },
+  {
+    "Code": "277",
+    "Description": "Retourinformatie intrekking inschrijving"
+  },
+  {
+    "Code": "278",
+    "Description": "Antwoord op intrekking inschrijving (S019)"
+  },
+  {
+    "Code": "279",
+    "Description": "Retourinformatie antwoord op intrekking inschrijving"
+  },
+  {
+    "Code": "280",
+    "Description": "Betwisting (S050)"
+  },
+  {
+    "Code": "281",
+    "Description": "Retourinformatie betwisting"
+  },
+  {
+    "Code": "282",
+    "Description": "Portable Document (PD_S1)"
+  },
+  {
+    "Code": "283",
+    "Description": "Retourinformatie Portable Document (PD_S1)"
+  },
+  {
+    "Code": "301",
+    "Description": "Vervallen"
+  },
+  {
+    "Code": "302",
+    "Description": "Vervallen"
+  },
+  {
+    "Code": "303",
+    "Description": "Vervallen"
+  },
+  {
+    "Code": "304",
+    "Description": "Vervallen"
+  },
+  {
+    "Code": "305",
+    "Description": "Toestemmingsaanvraag paramedische hulp van paramedicus naar zorgverzekeraar"
+  },
+  {
+    "Code": "306",
+    "Description": "Toestemming paramedische hulp van zorgverzekeraar naar paramedicus"
+  },
+  {
+    "Code": "307",
+    "Description": "Machtigingsaanvraag tandheelkundige hulp van tandarts algemeen prakticus of orthodontist naar zorgverzekeraar"
+  },
+  {
+    "Code": "308",
+    "Description": "Machtiging/afwijzing tandheelkundige hulp van zorgverzekeraar naar tandarts algemeen prakticus of orthodontist"
+  },
+  {
+    "Code": "310",
+    "Description": "Aanvraag machtigingen hulpmiddelen van leverancier hulpmiddelen naar  zorgverzekeraar"
+  },
+  {
+    "Code": "311",
+    "Description": "Machtigingen hulpmiddelen van zorgverzekeraar naar leverancier hulpmiddelen"
+  },
+  {
+    "Code": "321",
+    "Description": "Eerste melding zorg verpleging en verzorging V&V"
+  },
+  {
+    "Code": "322",
+    "Description": "Reactie eerste melding zorg V&V"
+  },
+  {
+    "Code": "323",
+    "Description": "Tweede melding zorg V&V"
+  },
+  {
+    "Code": "324",
+    "Description": "Reactie tweede melding zorg V&V"
+  },
+  {
+    "Code": "325",
+    "Description": "Melding verlenging zorg V&V"
+  },
+  {
+    "Code": "326",
+    "Description": "Reactie melding verlenging zorg V&V"
+  },
+  {
+    "Code": "327",
+    "Description": "Einde zorg V&V"
+  },
+  {
+    "Code": "328",
+    "Description": "Wijziging zorg V&V"
+  },
+  {
+    "Code": "329",
+    "Description": "Reactie wijziging zorg V&V"
+  },
+  {
+    "Code": "330",
+    "Description": "Melding opname GGZ"
+  },
+  {
+    "Code": "331",
+    "Description": "Acceptatie melding opname GGZ"
+  },
+  {
+    "Code": "332",
+    "Description": "Aanvraag medische gegevens (steekproef) GGZ"
+  },
+  {
+    "Code": "333",
+    "Description": "Opgave medische gegevens (steekproef) GGZ"
+  },
+  {
+    "Code": "334",
+    "Description": "Melding/aanvraag machtiging RIBW"
+  },
+  {
+    "Code": "335",
+    "Description": "Aanvraag machtiging opname GGZ"
+  },
+  {
+    "Code": "336",
+    "Description": "Afgifte machtiging opname GGZ"
+  },
+  {
+    "Code": "337",
+    "Description": "Beeindiging verstrekking GGZ"
+  },
+  {
+    "Code": "338",
+    "Description": "Reactie beeindigingsbericht GGZ"
+  },
+  {
+    "Code": "339",
+    "Description": "Wijziging opgave zorgaanbieder GGZ"
+  },
+  {
+    "Code": "340",
+    "Description": "Retourbericht wijziging opgave zorgaanbieder GGZ"
+  },
+  {
+    "Code": "341",
+    "Description": "Wijziging opgave zorgverzekeraar GGZ"
+  },
+  {
+    "Code": "342",
+    "Description": "Retourbericht wijziging opgave zorgverzekeraar GGZ"
+  },
+  {
+    "Code": "343",
+    "Description": "Melding/aanvraag machtiging GGZ"
+  },
+  {
+    "Code": "344",
+    "Description": "Reactie melding/afgifte machtiging GGZ"
+  },
+  {
+    "Code": "345",
+    "Description": "Beeindiging GGZ zorg"
+  },
+  {
+    "Code": "346",
+    "Description": "Indicatiestelling V&V"
+  },
+  {
+    "Code": "347",
+    "Description": "Retourinformatie indicatiestelling V&V"
+  },
+  {
+    "Code": "348",
+    "Description": "Melding aanvang V&V"
+  },
+  {
+    "Code": "349",
+    "Description": "Retourinformatie melding aanvang V&V"
+  },
+  {
+    "Code": "350",
+    "Description": "Beschikbaar zorgaanbod AWBZ"
+  },
+  {
+    "Code": "351",
+    "Description": "Retourinformatie beschikbaar zorgaanbod AWBZ"
+  },
+  {
+    "Code": "352",
+    "Description": "Zorgtoewijzing AWBZ-zorg"
+  },
+  {
+    "Code": "353",
+    "Description": "Retourinformatie zorgtoewijzing AWBZ"
+  },
+  {
+    "Code": "354",
+    "Description": "Melding aanvang AWBZ-zorg"
+  },
+  {
+    "Code": "355",
+    "Description": "Retourinformatie melding aanvang AWBZ-zorg"
+  },
+  {
+    "Code": "356",
+    "Description": "Reactie melding aanvang AWBZ-zorg"
+  },
+  {
+    "Code": "357",
+    "Description": "Retourinformatie Reactie melding aanvang AWBZ-zorg"
+  },
+  {
+    "Code": "358",
+    "Description": "Beeindiging/mutatie AWBZ-zorg"
+  },
+  {
+    "Code": "359",
+    "Description": "Retourinformatie beëindiging/mutatie AWBZ-zorg"
+  },
+  {
+    "Code": "360",
+    "Description": "Opgave productie AWBZ-zorg"
+  },
+  {
+    "Code": "361",
+    "Description": "Retourinformatie opgave productie AWBZ-zorg"
+  },
+  {
+    "Code": "362",
+    "Description": "Indicatiestelling V&V zorgkantoren"
+  },
+  {
+    "Code": "363",
+    "Description": "Retourinformatie indicatiestelling V&V zorgkantoren"
+  },
+  {
+    "Code": "364",
+    "Description": "Beschikbaar zorgaanbod V&V zorgkantoren (capaciteit)"
+  },
+  {
+    "Code": "365",
+    "Description": "Retourinformatie beschikbaar zorgaabod V&V zorgkantoren"
+  },
+  {
+    "Code": "366",
+    "Description": "Melding aanvang V&V zorgkantoren"
+  },
+  {
+    "Code": "367",
+    "Description": "Retourinformatie melding aanvang V&V zorgkantoren"
+  },
+  {
+    "Code": "368",
+    "Description": "Mutaties V&V zorgkantoren"
+  },
+  {
+    "Code": "369",
+    "Description": "Retourinformatie mutaties V&V zorgkantoren"
+  },
+  {
+    "Code": "370",
+    "Description": "AZR-DWARS V&V"
+  },
+  {
+    "Code": "371",
+    "Description": "Melding aanvang GH"
+  },
+  {
+    "Code": "372",
+    "Description": "Retourinformatie melding aanvang GH"
+  },
+  {
+    "Code": "373",
+    "Description": "Zorgtoewijzing/-plaatsing GH"
+  },
+  {
+    "Code": "374",
+    "Description": "Retourinformatie zorgtoewijzing/-plaatsing GH"
+  },
+  {
+    "Code": "375",
+    "Description": "Reactie melding/afgifte machtiging GH"
+  },
+  {
+    "Code": "376",
+    "Description": "Retourinformatie reactie melding/afgifte machtiging GH"
+  },
+  {
+    "Code": "377",
+    "Description": "Aanvraag machtiging tandheelkundige hulp AWBZ"
+  },
+  {
+    "Code": "378",
+    "Description": "Retourinformatie aanvraag machtiging tandheelkundige hulp AWBZ"
+  },
+  {
+    "Code": "379",
+    "Description": "Afgifte machtiging tandheelkundige hulp AWBZ"
+  },
+  {
+    "Code": "380",
+    "Description": "Retourinformatie afgifte machtiging tandheelkundige hulp AWBZ"
+  },
+  {
+    "Code": "387",
+    "Description": "Wachttijden GGZ"
+  },
+  {
+    "Code": "388",
+    "Description": "Indicatiebesluit AWBZ-zorg"
+  },
+  {
+    "Code": "389",
+    "Description": "Retourinformatie indicatiebesluit AWBZ-zorg"
+  },
+  {
+    "Code": "390",
+    "Description": "Retourinformatie wachttijden GGZ"
+  },
+  {
+    "Code": "391",
+    "Description": "Indicatiebesluit AWBZ-zorg ZK-ZK"
+  },
+  {
+    "Code": "392",
+    "Description": "Retourinformatie Indicatiebesluit AWBZ-zorg ZK-ZK"
+  },
+  {
+    "Code": "393",
+    "Description": "Melding aanvang AWBZ-zorg ZK-ZK"
+  },
+  {
+    "Code": "394",
+    "Description": "Retourinformatie melding aanvang AWBZ-zorg ZK-ZK"
+  },
+  {
+    "Code": "395",
+    "Description": "Beëindiging/mutatie AWBZ-zorg ZK-ZK"
+  },
+  {
+    "Code": "396",
+    "Description": "Retourinformatie beëindiging/mutatie AWBZ-zorg ZK-ZK"
+  },
+  {
+    "Code": "397",
+    "Description": "Zorgtoewijzing AWBZ ZK-ZK"
+  },
+  {
+    "Code": "398",
+    "Description": "Retourinformatie zorgtoewijzing AWBZ ZK-ZK"
+  },
+  {
+    "Code": "399",
+    "Description": "AIS AWBZ-zorg"
+  },
+  {
+    "Code": "400",
+    "Description": "Retourinformatie AIS AWBZ-zorg"
+  },
+  {
+    "Code": "401",
+    "Description": "Vervallen"
+  },
+  {
+    "Code": "402",
+    "Description": "AWBZ-aanlevering CVZ"
+  },
+  {
+    "Code": "403",
+    "Description": "Retourinformatie AWBZ-aanlevering CVZ"
+  },
+  {
+    "Code": "404",
+    "Description": "Landelijke aanlevering zorgregistratie AWBZ"
+  },
+  {
+    "Code": "405",
+    "Description": "Retourinformatie Landelijke aanlevering Zorgregistratie AWBZ"
+  },
+  {
+    "Code": "406",
+    "Description": "Melding aanvang AWBZ-zorg ZK-CAK"
+  },
+  {
+    "Code": "407",
+    "Description": "Retourinformatie melding aanvang AWBZ-zorg ZK-CAK"
+  },
+  {
+    "Code": "408",
+    "Description": "Overheveling dossiers intramurale eigen bijdrage AWBZ ZK-CAK"
+  },
+  {
+    "Code": "409",
+    "Description": "Retourinformatie overheveling dossiers intramurale eigen bijdrage AWBZ ZK-CAK"
+  },
+  {
+    "Code": "410",
+    "Description": "Beëindiging/mutatie AWBZ-zorg ZK-CAK"
+  },
+  {
+    "Code": "411",
+    "Description": "Retourinformatie beëindiging/mutatie AWBZ-zorg ZK-CAK"
+  },
+  {
+    "Code": "412",
+    "Description": "Aanvraag indicatiebesluit"
+  },
+  {
+    "Code": "413",
+    "Description": "Retourinformatie aanvraag indicatiebesluit"
+  },
+  {
+    "Code": "414",
+    "Description": "Wmo-Toewijzing"
+  },
+  {
+    "Code": "415",
+    "Description": "Wmo-Toewijzing-Retour"
+  },
+  {
+    "Code": "416",
+    "Description": "Wmo-Declaratie"
+  },
+  {
+    "Code": "417",
+    "Description": "Wmo-Declaratie-Retour"
+  },
+  {
+    "Code": "418",
+    "Description": "Start Wmo-ondersteuning"
+  },
+  {
+    "Code": "419",
+    "Description": "Start Wmo-ondersteuning retour"
+  },
+  {
+    "Code": "420",
+    "Description": "Stop Wmo-ondersteuning"
+  },
+  {
+    "Code": "421",
+    "Description": "Stop Wmo-ondersteuning retour"
+  },
+  {
+    "Code": "422",
+    "Description": "Wmo-Wachtlijst"
+  },
+  {
+    "Code": "423",
+    "Description": "Wmo-Wachtlijst-Retour"
+  },
+  {
+    "Code": "424",
+    "Description": "Wmo-Indicatie"
+  },
+  {
+    "Code": "425",
+    "Description": "Wmo-Indicatie-Retour"
+  },
+  {
+    "Code": "426",
+    "Description": "Wmo-AanvraagIndicatie"
+  },
+  {
+    "Code": "427",
+    "Description": "Wmo-AanvraagIndicatie-Retour"
+  },
+  {
+    "Code": "428",
+    "Description": "Declaratie wijkverpleging en eerstelijnsverblijf"
+  },
+  {
+    "Code": "429",
+    "Description": "Retourinformatie declaratie wijkverpleging en eerstelijnsverblijf"
+  },
+  {
+    "Code": "430",
+    "Description": "Declaratie zorg zintuiglijk gehandicapten"
+  },
+  {
+    "Code": "431",
+    "Description": "Retourinformatie declaratie zorg zintuiglijk gehandicapten"
+  },
+  {
+    "Code": "432",
+    "Description": "Declaratie Jeugdhulp"
+  },
+  {
+    "Code": "433",
+    "Description": "Declaratie Jeugdhulp retour"
+  },
+  {
+    "Code": "434",
+    "Description": "Declaratie Jeugd-GGZ"
+  },
+  {
+    "Code": "435",
+    "Description": "Declaratie Jeugd-GGZ retour"
+  },
+  {
+    "Code": "436",
+    "Description": "Toewijzing Jeugd"
+  },
+  {
+    "Code": "437",
+    "Description": "Toewijzing Jeugd retour"
+  },
+  {
+    "Code": "438",
+    "Description": "Start Jeugdhulp"
+  },
+  {
+    "Code": "439",
+    "Description": "Start Jeugdhulp retour"
+  },
+  {
+    "Code": "440",
+    "Description": "Stop Jeugdhulp"
+  },
+  {
+    "Code": "441",
+    "Description": "Stop Jeugdhulp retour"
+  },
+  {
+    "Code": "442",
+    "Description": "Declaratie ZZP en extramurale parameters forensische zorg"
+  },
+  {
+    "Code": "443",
+    "Description": "Retourinformatie declaratie ZZP en extramurale parameters forensische zorg"
+  },
+  {
+    "Code": "444",
+    "Description": "Verzoek om toewijzing Wmo-ondersteuning"
+  },
+  {
+    "Code": "445",
+    "Description": "Verzoek om toewijzing Wmo-ondersteuning Retour"
+  },
+  {
+    "Code": "446",
+    "Description": "Verzoek om toewijzing Jeugdhulp"
+  },
+  {
+    "Code": "447",
+    "Description": "Verzoek om toewijzing Jeugdhulp Retour"
+  },
+  {
+    "Code": "448",
+    "Description": "Factuur Wmo-ondersteuning"
+  },
+  {
+    "Code": "449",
+    "Description": "Factuur Wmo-ondersteuning retour"
+  },
+  {
+    "Code": "450",
+    "Description": "Factuur Jeugdhulp"
+  },
+  {
+    "Code": "451",
+    "Description": "Factuur Jeugdhulp retour"
+  },
+  {
+    "Code": "452",
+    "Description": "Fraudesignaal"
+  },
+  {
+    "Code": "453",
+    "Description": "Retour fraudesignaal"
+  },
+  {
+    "Code": "454",
+    "Description": "Aanvullend bericht Wmo-ondersteuning"
+  },
+  {
+    "Code": "455",
+    "Description": "Aanvullend bericht Wmo-ondersteuning retour"
+  },
+  {
+    "Code": "456",
+    "Description": "Aanvullend bericht Jeugdhulp"
+  },
+  {
+    "Code": "457",
+    "Description": "Aanvullend bericht Jeugdhulp retour"
+  },
+  {
+    "Code": "458",
+    "Description": "Toekenning Pgb Wmo"
+  },
+  {
+    "Code": "459",
+    "Description": "Toekenning Pgb Wmo retour"
+  },
+  {
+    "Code": "460",
+    "Description": "Toekenning Pgb Jw"
+  },
+  {
+    "Code": "461",
+    "Description": "Toekenning Pgb Jw retour"
+  },
+  {
+    "Code": "462",
+    "Description": "Toekenning Pgb Wlz"
+  },
+  {
+    "Code": "463",
+    "Description": "Toekenning Pgb Wlz retour"
+  },
+  {
+    "Code": "464",
+    "Description": "Budgetafsluiting Pgb Wmo"
+  },
+  {
+    "Code": "465",
+    "Description": "Budgetafsluiting Pgb Wmo retour"
+  },
+  {
+    "Code": "466",
+    "Description": "Budgetafsluiting Pgb Jw"
+  },
+  {
+    "Code": "467",
+    "Description": "Budgetafsluiting Pgb Jw retour"
+  },
+  {
+    "Code": "468",
+    "Description": "Budgetafsluiting Pgb Wlz"
+  },
+  {
+    "Code": "469",
+    "Description": "Budgetafsluiting Pgb Wlz retour"
+  },
+  {
+    "Code": "501",
+    "Description": "Frequentiegegevens medisch specialistische hulp van zorgverzekeraar naar Vektis"
+  },
+  {
+    "Code": "502",
+    "Description": "Retourinformatie frequentiegegevens medisch specialistische hulp van vektis naar zorgverzekeraar"
+  },
+  {
+    "Code": "503",
+    "Description": "Ontslagdiagnosekode medisch specialistische hulp van medisch specialist/ziekenhuis naar zorgverzekeraar"
+  },
+  {
+    "Code": "504",
+    "Description": "Retourinformatie ontslagdiagnosekode medisch specialistische hulp van zorgverzekeraar naar medisch specialist/ziekenhuis"
+  },
+  {
+    "Code": "505",
+    "Description": "Prescriptiegegevens fto (regionaal farmacotherapeutisch overleg) van zorgverzekeraar/fto-regio naar ZN/Vektis"
+  },
+  {
+    "Code": "506",
+    "Description": "Prescriptiegegevens fto (regionaal farmacotherapeutisch overleg) van ZN/Vektis naar zorgverzekeraar/fto-regio"
+  },
+  {
+    "Code": "507",
+    "Description": "Productiegegevens thuiszorg van thuiszorginstelling naar zorgverzekeraar"
+  },
+  {
+    "Code": "508",
+    "Description": "Aanlevering ELIS Huisartsenzorg"
+  },
+  {
+    "Code": "509",
+    "Description": "Aanlevering ELIS Paramedische zorg"
+  },
+  {
+    "Code": "510",
+    "Description": "Aanlevering ELIS Mondzorg"
+  },
+  {
+    "Code": "511",
+    "Description": "Aanlevering ELIS Eerstelijnspsychologische zorg"
+  },
+  {
+    "Code": "512",
+    "Description": "Aanlevering DBC GGZ"
+  },
+  {
+    "Code": "513",
+    "Description": "Aanlevering Farmacie Informatiesysteem"
+  },
+  {
+    "Code": "514",
+    "Description": "Aanlevering Detailinformatiesysteem Hulpmiddelen"
+  },
+  {
+    "Code": "515",
+    "Description": "Schadelast Wlz/AWBZ-zorg van zorgkantoren"
+  },
+  {
+    "Code": "516",
+    "Description": "Aanleverspecificaties schadelast informatie DBC/ziekenhuiszorg"
+  },
+  {
+    "Code": "517",
+    "Description": "Retourinformatie schadelast Wlz/AWBZ-zorg van zorgkantoren"
+  },
+  {
+    "Code": "518",
+    "Description": "Retourinformatie aanleverspecificaties schadelast informatie DBC/ziekenhuiszorg"
+  },
+  {
+    "Code": "519",
+    "Description": "Retourinformatie aanlevering DBC GGZ"
+  },
+  {
+    "Code": "520",
+    "Description": "Retourinformatie aanleverspecificaties schadelastinformatie Hulpmiddelen"
+  },
+  {
+    "Code": "521",
+    "Description": "Schadelast basis en gespecialiseerde GGZ"
+  },
+  {
+    "Code": "522",
+    "Description": "Retourinformatie schadelast basis en gespecialiseerde GGZ"
+  },
+  {
+    "Code": "523",
+    "Description": "Schadelast Wijkverpleging, Eerstelijnsverblijf en Zorg zintuiglijk gehandicapten van zorgverzekeraars"
+  },
+  {
+    "Code": "524",
+    "Description": "Retourinformatie schadelast Wijkverpleging, Eerstelijnsverblijf en Zorg zintuiglijk gehandicapten van zorgverzekeraars"
+  },
+  {
+    "Code": "525",
+    "Description": "Schadelast kraamzorg"
+  },
+  {
+    "Code": "526",
+    "Description": "Retourinformatie schadelast kraamzorg"
+  },
+  {
+    "Code": "527",
+    "Description": "Schadelast verloskundige hulp"
+  },
+  {
+    "Code": "528",
+    "Description": "Retourinformatie schadelast verloskundige hulp"
+  },
+  {
+    "Code": "529",
+    "Description": "Samenloop Wlz-Zvw van zorgkantoren"
+  },
+  {
+    "Code": "530",
+    "Description": "Samenloop Wlz-Zvw naar zorgverzekeraars"
+  },
+  {
+    "Code": "531",
+    "Description": "Aanleverspecificaties schadelast informatie dure geneesmiddelen"
+  },
+  {
+    "Code": "532",
+    "Description": "Retourinformatie aanleverspecificaties schadelast informatie dure geneesmiddelen"
+  },
+  {
+    "Code": "533",
+    "Description": "Retour samenloop Wlz-Zvw controle"
+  },
+  {
+    "Code": "534",
+    "Description": "Retour samenloop Wlz-Zvw verrijking"
+  },
+  {
+    "Code": "535",
+    "Description": "Indicatie Wlz"
+  },
+  {
+    "Code": "536",
+    "Description": "Retour Indicatie Wlz"
+  },
+  {
+    "Code": "537",
+    "Description": "Betaalopdracht mondzorg in de Wlz"
+  },
+  {
+    "Code": "538",
+    "Description": "Retourbericht betaalopdracht mondzorg in de Wlz"
+  },
+  {
+    "Code": "539",
+    "Description": "Clienten MPT (primair) CAK naar Vektis"
+  },
+  {
+    "Code": "540",
+    "Description": "Retour clienten MPT (primair) Vektis naar CAK"
+  },
+  {
+    "Code": "541",
+    "Description": "Aanleverspecificaties behandelindex fysiotherapie van zorgverzekeraar naar Vektis."
+  },
+  {
+    "Code": "601",
+    "Description": "Nieuwe AGB-gegevens van zorgverzekeraar naar Vektis"
+  },
+  {
+    "Code": "602",
+    "Description": "Retourinformatie nieuwe AGB-gegevens van Vektis naar zorgverzekeraar"
+  },
+  {
+    "Code": "603",
+    "Description": "AGB-wijzigingsgegevens van zorgverzekeraar naar Vektis"
+  },
+  {
+    "Code": "604",
+    "Description": "Retourinformatie AGB-wijzigingsgegevens van Vektis naar zorgverzekeraar"
+  },
+  {
+    "Code": "605",
+    "Description": "Afvoer AGB-gegevens van zorgverzekeraar naar Vektis"
+  },
+  {
+    "Code": "606",
+    "Description": "Retourinformatie afvoer AGB-gegevens van Vektis naar zorgverzekeraar"
+  },
+  {
+    "Code": "607",
+    "Description": "Referentiegegevens werkgevers"
+  },
+  {
+    "Code": "608",
+    "Description": "Mutaties referentiegegevens werkgevers"
+  }
+]

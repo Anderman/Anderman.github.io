@@ -1,0 +1,450 @@
+[
+  {
+    "Code": "1000",
+    "Description": "HOORSTOORNIS EN STOORNIS IN DE AUDITIEVE FUNCTIES"
+  },
+  {
+    "Code": "1100",
+    "Description": "Stoornis in de gehoorfunctie"
+  },
+  {
+    "Code": "1110",
+    "Description": "Geleidings-slechthorendheid"
+  },
+  {
+    "Code": "1120",
+    "Description": "Perceptie slechthorendheid"
+  },
+  {
+    "Code": "1130",
+    "Description": "Gemengde slechthorendheid"
+  },
+  {
+    "Code": "1140",
+    "Description": "Andere stoornis in de gehoorfuctie"
+  },
+  {
+    "Code": "1200",
+    "Description": "Stoornis in de geluidswaarneming (toonaudiometrie)"
+  },
+  {
+    "Code": "1210",
+    "Description": "Stoornis geluidswaarneming enkelzijdig"
+  },
+  {
+    "Code": "1220",
+    "Description": "Stoornis geluidswaarneming dubbelzijdig"
+  },
+  {
+    "Code": "1230",
+    "Description": "Stoornis geluidswaarneming asymmetrisch"
+  },
+  {
+    "Code": "1240",
+    "Description": "Andere stoornis in de geluidswaarneming"
+  },
+  {
+    "Code": "1300",
+    "Description": "Stoornis in het spraakverstaan (spraakaudiometrie)"
+  },
+  {
+    "Code": "1400",
+    "Description": "Stoornis in de auditieve functies"
+  },
+  {
+    "Code": "1410",
+    "Description": "Auditieve discriminatie"
+  },
+  {
+    "Code": "1420",
+    "Description": "Auditieve analyse"
+  },
+  {
+    "Code": "1430",
+    "Description": "Auditieve synthese"
+  },
+  {
+    "Code": "1440",
+    "Description": "Andere stoornis in de auditieve functies"
+  },
+  {
+    "Code": "1500",
+    "Description": "Stoornis in het waarnemen van (verschillen in) toonhoogte, luidheid, geluidsrichting, ritme, of ander waarnemingsstoornis"
+  },
+  {
+    "Code": "1510",
+    "Description": "Stoornis in het waarnemen van (verschillen in) toonhoogte"
+  },
+  {
+    "Code": "1520",
+    "Description": "Stoornis in het waarnemen van (verschillen in) luidheid"
+  },
+  {
+    "Code": "1530",
+    "Description": "Stoornis in het waarnemen van (verschillen in) geluidsrichting"
+  },
+  {
+    "Code": "1540",
+    "Description": "Stoornis in het waarnemen van (verschillen in) ritme"
+  },
+  {
+    "Code": "1550",
+    "Description": "Stoornis in het waarnemen van (verschillen in) een ander waarnemingsstoornis"
+  },
+  {
+    "Code": "1600",
+    "Description": "Andere hoorstoornis en stoornis in de auditieve functies"
+  },
+  {
+    "Code": "2000",
+    "Description": "STEMSTOORNIS"
+  },
+  {
+    "Code": "2100",
+    "Description": "Stoornis in de stemproductie"
+  },
+  {
+    "Code": "2110",
+    "Description": "Hyperkinetisch stemgebruik"
+  },
+  {
+    "Code": "2120",
+    "Description": "Hypokinetisch stemgebruik"
+  },
+  {
+    "Code": "2130",
+    "Description": "Dyskinetisch stemgebruik"
+  },
+  {
+    "Code": "2140",
+    "Description": "Andere stoornis in de stemproductie"
+  },
+  {
+    "Code": "2200",
+    "Description": "Stoornis in de stemkwaliteit"
+  },
+  {
+    "Code": "2210",
+    "Description": "Kwalitieit-stoornis"
+  },
+  {
+    "Code": "2220",
+    "Description": "Luidheid-stoornis"
+  },
+  {
+    "Code": "2230",
+    "Description": "Toonhoogte-stoornis"
+  },
+  {
+    "Code": "2240",
+    "Description": "Stemmodulatie-stoornis"
+  },
+  {
+    "Code": "2250",
+    "Description": "Resonantie-stoornis"
+  },
+  {
+    "Code": "2260",
+    "Description": "Andere stoornis in de stemkwaliteit"
+  },
+  {
+    "Code": "2300",
+    "Description": "Foutieve spreekademhaling"
+  },
+  {
+    "Code": "2400",
+    "Description": "Andere stemstoornis"
+  },
+  {
+    "Code": "3000",
+    "Description": "TAALSTOORNIS"
+  },
+  {
+    "Code": "3100",
+    "Description": "Taalontwikkelingsstoornis"
+  },
+  {
+    "Code": "3110",
+    "Description": "Taalontwikkelingsstoornis in de taalvorm (morfologie, fonologie, syntax)"
+  },
+  {
+    "Code": "3111",
+    "Description": "Taalontwikkelingsstoornis in de taalvorm: receptief"
+  },
+  {
+    "Code": "3112",
+    "Description": "Taalontwikkelingsstoornis in de taalvorm: productief"
+  },
+  {
+    "Code": "3120",
+    "Description": "Taalontwikkelingsstoornis in de taalinhoud (semantiek)"
+  },
+  {
+    "Code": "3121",
+    "Description": "Taalontwikkelingsstoornis in de taalinhoud: receptief"
+  },
+  {
+    "Code": "3122",
+    "Description": "Taalontwikkelingsstoornis in de taalinhoud: productief"
+  },
+  {
+    "Code": "3130",
+    "Description": "Taalontwikkelingsstoornis in het taalgebruik (pragmantiek)"
+  },
+  {
+    "Code": "3131",
+    "Description": "Taalontwikkelingsstoornis in het taalgebruik: receptief"
+  },
+  {
+    "Code": "3132",
+    "Description": "Taalontwikkelingsstoornis in het taalgebruik: productief"
+  },
+  {
+    "Code": "3140",
+    "Description": "Andere taalontwikkelingsstoornis"
+  },
+  {
+    "Code": "3200",
+    "Description": "Afasie"
+  },
+  {
+    "Code": "3210",
+    "Description": "Amnestische afasie"
+  },
+  {
+    "Code": "3220",
+    "Description": "Afasie van Wernicke"
+  },
+  {
+    "Code": "3230",
+    "Description": "Afasie van Broca"
+  },
+  {
+    "Code": "3240",
+    "Description": "Globale afasie"
+  },
+  {
+    "Code": "3250",
+    "Description": "Niet klassificeerbare afasie"
+  },
+  {
+    "Code": "3260",
+    "Description": "Andere afasievormen"
+  },
+  {
+    "Code": "3300",
+    "Description": "Andere taalstoornissen"
+  },
+  {
+    "Code": "4000",
+    "Description": "LEES- EN SCHRIJFSTOORNIS"
+  },
+  {
+    "Code": "4100",
+    "Description": "Stoornis in het lezen (dyslexie)"
+  },
+  {
+    "Code": "4200",
+    "Description": "Stoornis in het schrijven (dysorthografie)"
+  },
+  {
+    "Code": "4300",
+    "Description": "Andere leerproblemen"
+  },
+  {
+    "Code": "5000",
+    "Description": "ARTICULATIESTOORNIS"
+  },
+  {
+    "Code": "5100",
+    "Description": "Articulatiestoornis"
+  },
+  {
+    "Code": "5110",
+    "Description": "Fonetische articulatiestoornis"
+  },
+  {
+    "Code": "5120",
+    "Description": "Fonologische articulatiestoornis"
+  },
+  {
+    "Code": "5130",
+    "Description": "Algemene articulatiestoornis"
+  },
+  {
+    "Code": "5140",
+    "Description": "Andere articulatiestoornis"
+  },
+  {
+    "Code": "5200",
+    "Description": "Dysartrie"
+  },
+  {
+    "Code": "5210",
+    "Description": "Myogene dysartrie"
+  },
+  {
+    "Code": "5220",
+    "Description": "Bulbaire dysartrie"
+  },
+  {
+    "Code": "5230",
+    "Description": "Pseudo-bulbaire dysartrie"
+  },
+  {
+    "Code": "5240",
+    "Description": "Extrapiramidale dysartrie"
+  },
+  {
+    "Code": "5250",
+    "Description": "Cerebellaire dysartrie"
+  },
+  {
+    "Code": "5260",
+    "Description": "Dysartrie ten gevolge van perifere verlamming"
+  },
+  {
+    "Code": "5270",
+    "Description": "Dysartrie bij ALS"
+  },
+  {
+    "Code": "5280",
+    "Description": "Niet klassificeerbare dysartrie"
+  },
+  {
+    "Code": "5290",
+    "Description": "Andere dysartrie"
+  },
+  {
+    "Code": "5300",
+    "Description": "Andere articulatiestoornis"
+  },
+  {
+    "Code": "6000",
+    "Description": "NASALITEIT"
+  },
+  {
+    "Code": "6100",
+    "Description": "Hypernasaliteit (rhinolalia aperta)"
+  },
+  {
+    "Code": "6200",
+    "Description": "Hyponasaliteit (rhinolalia clausa)"
+  },
+  {
+    "Code": "6300",
+    "Description": "Andere nasaliteit"
+  },
+  {
+    "Code": "7000",
+    "Description": "STOORNIS IN DE VLOEIENDHEID EN HET RITME VAN SPREKEN"
+  },
+  {
+    "Code": "7100",
+    "Description": "Stotteren"
+  },
+  {
+    "Code": "7200",
+    "Description": "Broddelen"
+  },
+  {
+    "Code": "7300",
+    "Description": "Inadequaat spreektempo (te snel of te langzaam spreken)"
+  },
+  {
+    "Code": "7400",
+    "Description": "Andere stoornis in de vloeiendheid en het ritme van het spreken"
+  },
+  {
+    "Code": "8000",
+    "Description": "AFWIJKEND MONDGEDRAG/STOORNIS IN DE (SENSO-)MOTORIEK"
+  },
+  {
+    "Code": "8100",
+    "Description": "Afwijkend mondgedrag"
+  },
+  {
+    "Code": "8110",
+    "Description": "Afwijkend mondgedrag: Duim en vingerzuigen en ander zuiggedrag"
+  },
+  {
+    "Code": "8120",
+    "Description": "Afwijkend mondgedrag: Habitueel mondademen"
+  },
+  {
+    "Code": "8130",
+    "Description": "Afwijkend mondgedrag: Afwijkens slikken"
+  },
+  {
+    "Code": "8140",
+    "Description": "Afwijkend mondgedrag: Afwijkende tongligging in rust"
+  },
+  {
+    "Code": "8150",
+    "Description": "Ander afwijkend mondgedrag"
+  },
+  {
+    "Code": "8200",
+    "Description": "Slikstoornis"
+  },
+  {
+    "Code": "8300",
+    "Description": "Stoornis in de (senso-)motoriek"
+  },
+  {
+    "Code": "8310",
+    "Description": "Stoornis in de mondmotoriek"
+  },
+  {
+    "Code": "8320",
+    "Description": "Stoornis in de sensibiliteit in hoofd-halsgebied"
+  },
+  {
+    "Code": "8330",
+    "Description": "Afwijkende spiertonus in hoofd-halsgebied"
+  },
+  {
+    "Code": "8340",
+    "Description": "Afwijkende reflexen in hoofd-halsgebied"
+  },
+  {
+    "Code": "8350",
+    "Description": "Andere stoornis in de (senso-)motoriek"
+  },
+  {
+    "Code": "9000",
+    "Description": "OVERIGE STOORNISSEN"
+  },
+  {
+    "Code": "9100",
+    "Description": "Hyperventilatie"
+  },
+  {
+    "Code": "9200",
+    "Description": "Cognitieve en psychische stoornis"
+  },
+  {
+    "Code": "9210",
+    "Description": "Geheugenstoornis (inclusief auditief geheugen)"
+  },
+  {
+    "Code": "9220",
+    "Description": "Aandacht- en concentratiestoornis"
+  },
+  {
+    "Code": "9230",
+    "Description": "Apraxie/dyspraxie"
+  },
+  {
+    "Code": "9240",
+    "Description": "Andere cognitieve en psychische stoornis"
+  },
+  {
+    "Code": "9300",
+    "Description": "Stoornis in de lichaamshouding"
+  },
+  {
+    "Code": "9400",
+    "Description": "Andere stoornis (van belang bij logopedisch handelen)"
+  }
+]

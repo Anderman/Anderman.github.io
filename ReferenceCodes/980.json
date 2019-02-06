@@ -1,0 +1,14 @@
+[
+  {
+    "Code": "2",
+    "Description": "Nee is betaald door client"
+  },
+  {
+    "Code": "3",
+    "Description": "Nee, moet door andere partij worden gedeclareerd bij client"
+  },
+  {
+    "Code": "9",
+    "Description": "Nee, geen sprake van GVS bijdrage voor client"
+  }
+]

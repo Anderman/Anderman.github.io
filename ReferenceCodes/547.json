@@ -1,0 +1,46 @@
+[
+  {
+    "Code": "00000101",
+    "Description": "Persoonlijke verzorging"
+  },
+  {
+    "Code": "00000102",
+    "Description": "Functionele mobiliteit"
+  },
+  {
+    "Code": "00000103",
+    "Description": "Organisatie van het huishouden"
+  },
+  {
+    "Code": "00000200",
+    "Description": "Productiviteit"
+  },
+  {
+    "Code": "00000201",
+    "Description": "Betaald/onbetaald werk"
+  },
+  {
+    "Code": "00000202",
+    "Description": "Uitvoering van huishoudelijke activiteiten"
+  },
+  {
+    "Code": "00000203",
+    "Description": "Spel/school"
+  },
+  {
+    "Code": "00000300",
+    "Description": "Ontspanning"
+  },
+  {
+    "Code": "00000301",
+    "Description": "Passieve recreatie"
+  },
+  {
+    "Code": "00000302",
+    "Description": "Actieve recreatie"
+  },
+  {
+    "Code": "00000303",
+    "Description": "Sociale contacten"
+  }
+]

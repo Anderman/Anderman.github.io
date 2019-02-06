@@ -1,0 +1,34 @@
+[
+  {
+    "Code": "02",
+    "Description": "Zelfverwijzer niet-SEH"
+  },
+  {
+    "Code": "03",
+    "Description": "Verwezen patiënt SEH."
+  },
+  {
+    "Code": "04",
+    "Description": "Verwezen patiënt niet-SEH vanuit eerstelijn"
+  },
+  {
+    "Code": "05",
+    "Description": "Verwezen patiënt niet-SEH vanuit ander specialisme binnen dezelfde instelling"
+  },
+  {
+    "Code": "06",
+    "Description": "Verwezen patiënt niet-SEH vanuit andere instelling"
+  },
+  {
+    "Code": "07",
+    "Description": "Eigen patiënt"
+  },
+  {
+    "Code": "08",
+    "Description": "Verwezen patiënt niet-SEH vanuit eerstelijn, maar verwijzer heeft geen AGB-code"
+  },
+  {
+    "Code": "09",
+    "Description": "Patiënt welke gebruik maakt van directe toegang tot paramedische hulp"
+  }
+]

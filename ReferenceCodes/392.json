@@ -1,0 +1,110 @@
+[
+  {
+    "Code": "002",
+    "Description": "Lijst soort diagnose (cod111)"
+  },
+  {
+    "Code": "003",
+    "Description": "Diagnosecodelijst cvz (icd-9) (cod104 via COD149)"
+  },
+  {
+    "Code": "004",
+    "Description": "Aanvullende CVZ-code (ICD-9) (cod105)"
+  },
+  {
+    "Code": "005",
+    "Description": "Diagnose coderingssysteem paramedische hulp (DCSPH)."
+  },
+  {
+    "Code": "006",
+    "Description": "Hoofdtype diagnose behandeling combinatie (cod390)"
+  },
+  {
+    "Code": "007",
+    "Description": "Code diagnose behandeling combinatie (cod391)"
+  },
+  {
+    "Code": "009",
+    "Description": "Code medische diagnostiek en behandeling in de eerstelijns zorg (ICPC) (cod254-WHO)"
+  },
+  {
+    "Code": "010",
+    "Description": "Paramedische diagnosecodelijst oefentherapie César"
+  },
+  {
+    "Code": "011",
+    "Description": "Paramedische diagnosecodelijst oefentherapie Mensendieck"
+  },
+  {
+    "Code": "012",
+    "Description": "Paramedische diagnosecodelijst logopedie (COD823-NVLF)"
+  },
+  {
+    "Code": "013",
+    "Description": "Verwijsdiagnosecodelijst ergotherapie (cod546-Vekt)"
+  },
+  {
+    "Code": "014",
+    "Description": "Classificatie van ziekten (cvz/icd-10)"
+  },
+  {
+    "Code": "015",
+    "Description": "Verwijsdiagnosecodelijst logopedie"
+  },
+  {
+    "Code": "016",
+    "Description": "Paramedische diagnosecodelijst ergotherapie (cod547-Vekt)"
+  },
+  {
+    "Code": "017",
+    "Description": "Paramedische diagnosecodelijst fysiotherapie"
+  },
+  {
+    "Code": "018",
+    "Description": "Diagnostic and statistical manual of mental disorders III (DSM-III)"
+  },
+  {
+    "Code": "019",
+    "Description": "Diagnostic and statistical manual of mental disorders IV (DSM-IV)."
+  },
+  {
+    "Code": "020",
+    "Description": "Beperkingenlijst BIO (COD483)"
+  },
+  {
+    "Code": "021",
+    "Description": "Internationale classificatie van functioneren (ICF)"
+  },
+  {
+    "Code": "022",
+    "Description": "IQ"
+  },
+  {
+    "Code": "023",
+    "Description": "Visueel"
+  },
+  {
+    "Code": "024",
+    "Description": "Auditief"
+  },
+  {
+    "Code": "025",
+    "Description": "Verwijsdiagnosecodelijst dieetadvisering"
+  },
+  {
+    "Code": "026",
+    "Description": "Diagnosecodelijst bijzondere tandheelkunde"
+  },
+  {
+    "Code": "027",
+    "Description": "Diagnosecodelijst eerstelijnspsychologen (COD393-LVE)"
+  },
+  {
+    "Code": "028",
+    "Description": "DBC typeringslijst in kader van DOT"
+  },
+  {
+    "Code": "990",
+    "Description": "Regionaal/bilateraal geldende code"
+  }
+]

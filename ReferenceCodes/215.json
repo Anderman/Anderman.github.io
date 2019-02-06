@@ -1,0 +1,26 @@
+[
+  {
+    "Code": "02",
+    "Description": "Inkomensonafhankelijke eigen bijdrage"
+  },
+  {
+    "Code": "03",
+    "Description": "Inkomensafhankelijke eigen bijdrage"
+  },
+  {
+    "Code": "04",
+    "Description": "Korting/overgangs DBC"
+  },
+  {
+    "Code": "05",
+    "Description": "AWBZ bekostiging GGZ"
+  },
+  {
+    "Code": "06",
+    "Description": "Prestatievoorschot (PV)"
+  },
+  {
+    "Code": "99",
+    "Description": "(nog) onbekend of er sprake is van een eigen bijdrage"
+  }
+]

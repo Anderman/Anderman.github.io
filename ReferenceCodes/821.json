@@ -1,0 +1,102 @@
+[
+  {
+    "Code": "01",
+    "Description": "Eerste relatie / contactpersoon"
+  },
+  {
+    "Code": "02",
+    "Description": "Tweede relatie / contactpersoon"
+  },
+  {
+    "Code": "03",
+    "Description": "Curator (juridisch)"
+  },
+  {
+    "Code": "04",
+    "Description": "Financieel (gemachtigd)"
+  },
+  {
+    "Code": "05",
+    "Description": "Financieel (toetsing)"
+  },
+  {
+    "Code": "06",
+    "Description": "Leefeenheid"
+  },
+  {
+    "Code": "07",
+    "Description": "Hulpverlener"
+  },
+  {
+    "Code": "08",
+    "Description": "Specialist"
+  },
+  {
+    "Code": "09",
+    "Description": "Anders"
+  },
+  {
+    "Code": "10",
+    "Description": "Ouder"
+  },
+  {
+    "Code": "11",
+    "Description": "Voogd"
+  },
+  {
+    "Code": "12",
+    "Description": "Partner / echtgeno(o)t(e)"
+  },
+  {
+    "Code": "13",
+    "Description": "Pleegouder"
+  },
+  {
+    "Code": "14",
+    "Description": "Bewindvoerder"
+  },
+  {
+    "Code": "15",
+    "Description": "Mentor"
+  },
+  {
+    "Code": "16",
+    "Description": "Zoon / dochter"
+  },
+  {
+    "Code": "17",
+    "Description": "Familielid"
+  },
+  {
+    "Code": "18",
+    "Description": "Gezinslid"
+  },
+  {
+    "Code": "19",
+    "Description": "Buur"
+  },
+  {
+    "Code": "20",
+    "Description": "Vriend(in) / kennis"
+  },
+  {
+    "Code": "21",
+    "Description": "Cliëntondersteuner"
+  },
+  {
+    "Code": "22",
+    "Description": "Huisarts"
+  },
+  {
+    "Code": "23",
+    "Description": "Erven van"
+  },
+  {
+    "Code": "24",
+    "Description": "Werkgever"
+  },
+  {
+    "Code": "99",
+    "Description": "Niet van toepassing"
+  }
+]

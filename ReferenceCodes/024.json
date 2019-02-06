@@ -1,0 +1,22 @@
+[
+  {
+    "Code": "1",
+    "Description": "Klinische behandeling"
+  },
+  {
+    "Code": "2",
+    "Description": "Klinische medebehandeling"
+  },
+  {
+    "Code": "3",
+    "Description": "Poliklinische behandeling"
+  },
+  {
+    "Code": "4",
+    "Description": "Semi-muraal"
+  },
+  {
+    "Code": "5",
+    "Description": "Extra-muraal"
+  }
+]

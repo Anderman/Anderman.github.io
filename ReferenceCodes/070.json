@@ -1,0 +1,10 @@
+[
+  {
+    "Code": "2",
+    "Description": "Totaalrecord samengesteld middel; of totaalrecord van middel zonder bestanddelen maar wel met separate detailinformatierecords"
+  },
+  {
+    "Code": "3",
+    "Description": "Geen samengesteld middel en geen middel met separate detailinformatierecords"
+  }
+]

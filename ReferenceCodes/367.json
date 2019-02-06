@@ -1,0 +1,270 @@
+[
+  {
+    "Code": "005",
+    "Description": "Verpleegafdelingen ziekenhuizen (tariefklasse)"
+  },
+  {
+    "Code": "006",
+    "Description": "CTG-codelijst nevenverrichtingen"
+  },
+  {
+    "Code": "007",
+    "Description": "NZa-codelijst tarieven voor medisch specialisten (exclusief psychiaters)"
+  },
+  {
+    "Code": "008",
+    "Description": "Prestatiecodelijst huisartsenhulp (COD322-NZA)"
+  },
+  {
+    "Code": "009",
+    "Description": "Prestatiecodelijst thuiszorgprodukt (exclusief kraamzorg) (COD148-VEKT)"
+  },
+  {
+    "Code": "010",
+    "Description": "Prestatiecodelijst mondzorg (COD981-VEKT)"
+  },
+  {
+    "Code": "011",
+    "Description": "Prestatiecodelijst kraamzorg (COD267-NZA)"
+  },
+  {
+    "Code": "012",
+    "Description": "Prestatiecodelijst paramedische hulp (COD192-VEK2)"
+  },
+  {
+    "Code": "013",
+    "Description": "Hoofdsoort zorgverlening GGZ (COD408-ZN)"
+  },
+  {
+    "Code": "014",
+    "Description": "Soort zorgverlening GGZ"
+  },
+  {
+    "Code": "015",
+    "Description": "CTG codelijst tarieven voor tandartsspecialisten mondziekten en kaakchirurgie"
+  },
+  {
+    "Code": "016",
+    "Description": "NZa Tarieflijst instellingen"
+  },
+  {
+    "Code": "017",
+    "Description": "NZa codelijst intra- en semimurale zorg AWBZ (COD235-CTG)"
+  },
+  {
+    "Code": "018",
+    "Description": "NZa  tarievenlijst psychiatrie"
+  },
+  {
+    "Code": "019",
+    "Description": "GGZ nederland codelijst overige soorten zorg GGZ (COD414-GGZ)"
+  },
+  {
+    "Code": "020",
+    "Description": "BIO landelijke functiedefinities"
+  },
+  {
+    "Code": "021",
+    "Description": "Productenboek (2000) LVT"
+  },
+  {
+    "Code": "022",
+    "Description": "Arcares productenlijst"
+  },
+  {
+    "Code": "023",
+    "Description": "NVAB-artikelcodering voor hoortoestellen"
+  },
+  {
+    "Code": "024",
+    "Description": "Generieke productcode hulpmiddelen (GPH)"
+  },
+  {
+    "Code": "025",
+    "Description": "Aanvullende generieke productcode hulpmiddelen (A-GPH)"
+  },
+  {
+    "Code": "026",
+    "Description": "BIO landelijke voorzieningen (COD545)"
+  },
+  {
+    "Code": "027",
+    "Description": "Arcares dienstencatalogus"
+  },
+  {
+    "Code": "028",
+    "Description": "Zrs productcode"
+  },
+  {
+    "Code": "029",
+    "Description": "Verstrekkingencode"
+  },
+  {
+    "Code": "030",
+    "Description": "Code bekostigingscategorieen"
+  },
+  {
+    "Code": "031",
+    "Description": "BIO landelijke productdefinities"
+  },
+  {
+    "Code": "032",
+    "Description": "Prestatiecodelijst verloskundige hulp (COD702-Vekt)."
+  },
+  {
+    "Code": "033",
+    "Description": "Tarievenlijst orthodontie"
+  },
+  {
+    "Code": "034",
+    "Description": "Codelijst AWBZ functiecode, VWS (COD732-VEKT)"
+  },
+  {
+    "Code": "035",
+    "Description": "Codelijst AWBZ activiteitcode, VWS (COD743-VEKT)"
+  },
+  {
+    "Code": "036",
+    "Description": "Hulpmiddelen in BeverOnline"
+  },
+  {
+    "Code": "037",
+    "Description": "Codelijst AWBZ Zorgcode, NZA (COD806)"
+  },
+  {
+    "Code": "038",
+    "Description": "NZa tarievenlijst ambulancevervoer"
+  },
+  {
+    "Code": "039",
+    "Description": "Prestatiecodelijst zittend ziekenvervoer (COD155-VEKT)"
+  },
+  {
+    "Code": "040",
+    "Description": "Prestatiecodelijst psychotherapie (COD822-VEKT)"
+  },
+  {
+    "Code": "041",
+    "Description": "NZa codelijst tarieven DBC, trajecten en O(V)P"
+  },
+  {
+    "Code": "042",
+    "Description": "Prestatiecodelijst kraamzorg, aanvullende verzekering, Vektis"
+  },
+  {
+    "Code": "043",
+    "Description": "Prestatiecodelijst bijzondere tandheelkunde"
+  },
+  {
+    "Code": "044",
+    "Description": "Prestatiecodelijst mondhygiëne"
+  },
+  {
+    "Code": "045",
+    "Description": "Prestatiecodelijst tandprothetische hulp"
+  },
+  {
+    "Code": "046",
+    "Description": "Prestatiecodelijst jeugdtandverzorging (door instellingen)"
+  },
+  {
+    "Code": "047",
+    "Description": "Generieke Productcode Hulpmiddelen (GPH)"
+  },
+  {
+    "Code": "048",
+    "Description": "Prestatiecodelijst eerstelijnspsychologische hulp (COD388-NZA)"
+  },
+  {
+    "Code": "049",
+    "Description": "Prestatiecodelijst paramedische hulp voor vrijgevestigde paramedici (COD975-VEKT)"
+  },
+  {
+    "Code": "050",
+    "Description": "NZa codelijst tarieven GGZ-DBC's, GGZ-O(V)P's en GGZ-ZZP's"
+  },
+  {
+    "Code": "051",
+    "Description": "Zorgverzekeraar Specifieke Prestatiecode farmaceutische hulp (ZSPC)"
+  },
+  {
+    "Code": "052",
+    "Description": "NZa codelijst tarieven DB(B)C's FZ (forensische zorg)."
+  },
+  {
+    "Code": "053",
+    "Description": "DBC-Onderhoud codelijst verblijf DB(B)C FZ (forensische zorg)."
+  },
+  {
+    "Code": "054",
+    "Description": "Prestatiecodelijst zorg overige sectoren"
+  },
+  {
+    "Code": "055",
+    "Description": "Prestatiecodelijst Wlz/AWBZ"
+  },
+  {
+    "Code": "056",
+    "Description": "Prestatiecodelijst Ketenzorg integrale bekostiging"
+  },
+  {
+    "Code": "057",
+    "Description": "Zorgzwaartepakketcode (COD163-CIZ)"
+  },
+  {
+    "Code": "058",
+    "Description": "Prestatiecodelijst farmaceutische zorg"
+  },
+  {
+    "Code": "059",
+    "Description": "GTIN-code"
+  },
+  {
+    "Code": "060",
+    "Description": "WMG-tariefcode"
+  },
+  {
+    "Code": "061",
+    "Description": "NZa codelijst tarieven Overige producten FZ (forensische zorg)"
+  },
+  {
+    "Code": "062",
+    "Description": "CLIQ"
+  },
+  {
+    "Code": "063",
+    "Description": "NZa codelijst Basis GGZ"
+  },
+  {
+    "Code": "064",
+    "Description": "Prestatiecodelijst hulpmiddelenzorg"
+  },
+  {
+    "Code": "065",
+    "Description": "Prestatiecodelijst wijkverpleging"
+  },
+  {
+    "Code": "066",
+    "Description": "Prestatiecodelijst zorg zintuiglijk gehandicapten"
+  },
+  {
+    "Code": "067",
+    "Description": "NZa tarieflijst ZZP's en extramurale parameters FZ"
+  },
+  {
+    "Code": "068",
+    "Description": "Prestatiecodelijst eerstelijnsverblijf"
+  },
+  {
+    "Code": "069",
+    "Description": "Prestatiecodelijst integrale geboortezorg"
+  },
+  {
+    "Code": "990",
+    "Description": "Lokaal/regionaal/bilateraal geldende code"
+  },
+  {
+    "Code": "999",
+    "Description": "(Onderdeel van een) prestatie waarvoor geen code bestaat"
+  }
+]

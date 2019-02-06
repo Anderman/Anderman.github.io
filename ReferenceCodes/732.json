@@ -1,0 +1,42 @@
+[
+  {
+    "Code": "31",
+    "Description": "PV: Persoonlijke verzorging"
+  },
+  {
+    "Code": "41",
+    "Description": "VP: Verpleging"
+  },
+  {
+    "Code": "61",
+    "Description": "BHALG: Behandeling algemeen (buiten verblijf in AWBZ-instelling)"
+  },
+  {
+    "Code": "62",
+    "Description": "BHVBF: Behandeling met verblijf"
+  },
+  {
+    "Code": "63",
+    "Description": "BH-IND: Behandeling individueel"
+  },
+  {
+    "Code": "64",
+    "Description": "BH-GRP: Behandeling in groepsverband"
+  },
+  {
+    "Code": "71",
+    "Description": "VBTYD: Verblijf tijdelijk"
+  },
+  {
+    "Code": "81",
+    "Description": "BG-IND: Begeleiding individueel"
+  },
+  {
+    "Code": "82",
+    "Description": "BG-GRP: Begeleiding in groepsverband"
+  },
+  {
+    "Code": "91",
+    "Description": "ADL: ADL-assistentie"
+  }
+]
