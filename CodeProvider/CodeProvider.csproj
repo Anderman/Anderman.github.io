@@ -7,7 +7,8 @@
 
   <ItemGroup>
     <PackageReference Include="ExcelDataReader" Version="3.4.2" />
-    <PackageReference Include="System.Text.Encoding.CodePages" Version="4.5.0" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="2.2.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="4.5.1" />
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\..\..\Users\tkies\.nuget\packages\newtonsoft.json\9.0.1\lib\netstandard1.0\Newtonsoft.Json.dll</HintPath>
     </Reference>

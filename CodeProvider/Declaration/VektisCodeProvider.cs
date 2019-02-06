@@ -8,16 +8,15 @@ using CodeProvider.Infrastructure;
 
 namespace CodeProvider.Declaration
 {
-	public class DeclarationCodeProvider
+	public class VektisCodeProvider
 	{
-		private const string SubDirectory = "DeclarationCodes";
+		private const string SubDirectory = "ReferenceCodes";
 
 		public static void Convert(string httpLink, List<string> links)
 		{
 			Console.WriteLine($"Reading {httpLink}");
 
-			var code = Path.GetFileName(httpLink).Substring(0, 3);
-			if (code == "_-_") code = "DbcExp";
+			var code = Path.GetFileName(httpLink).Substring(3, 3);
 			var outfileName = code + ".json";
 			var outPath = FileHelper.GetOutputPath(SubDirectory, outfileName, links);
 
@@ -27,7 +26,7 @@ namespace CodeProvider.Declaration
 				var ms = stream.AsMemoryStream();
 				if (httpLink.EndsWith("zip"))
 					ms = Unzip(ms, code);
-				var contents = ExcelReader.GetCodes(ms, 1, 18, 0, 1);
+				var contents = ExcelReader.GetCodes(ms, 1, 17, 0, 1);
 				Console.WriteLine($"Export {outPath}");
 
 				File.WriteAllText(outPath, contents);
