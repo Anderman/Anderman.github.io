@@ -23,7 +23,7 @@ namespace CodeProvider.Declaration
 			ms.Seek(0, 0);
 			if (fileName.EndsWith("zip"))
 				ms = Unzip(ms, "");
-			var contents = CsvReader.GetCodes(ms, 4, 3);
+			var contents = CsvReader.GetCodes(ms, 4, 3, 9);
 			Console.WriteLine($"Export {outPath}");
 
 			File.WriteAllText(outPath, contents);
