@@ -1,5 +1,9 @@
 [
   {
+    "Code": "J",
+    "Description": "Patiënt was betrokken bij een ongeval"
+  },
+  {
     "Code": "N",
     "Description": "Patiënt was niet betrokken bij een ongeval"
   },

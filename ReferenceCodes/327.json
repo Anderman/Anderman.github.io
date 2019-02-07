@@ -1,5 +1,9 @@
 [
   {
+    "Code": "01",
+    "Description": "Zelfverwijzer SEH"
+  },
+  {
     "Code": "02",
     "Description": "Zelfverwijzer niet-SEH"
   },

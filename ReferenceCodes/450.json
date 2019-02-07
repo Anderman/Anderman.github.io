@@ -1,5 +1,9 @@
 [
   {
+    "Code": "01",
+    "Description": "Zelfzorgmiddel (onder de aanspraak vallende zelfzorgmiddelen) voor chronisch gebruik (\"cg\" op recept arts)"
+  },
+  {
     "Code": "02",
     "Description": "Aanspraak, niet preferent middel geleverd wegens logistieke noodzaak"
   },

@@ -1,5 +1,9 @@
 [
   {
+    "Code": "180001",
+    "Description": "Basis GGZ Kort (BK)"
+  },
+  {
     "Code": "180002",
     "Description": "Basis GGZ Middel (BM)"
   },

@@ -1,5 +1,9 @@
 [
   {
+    "Code": "0100",
+    "Description": "Huisartsen, niet nader gespecificeerd"
+  },
+  {
     "Code": "0101",
     "Description": "Huisartsen, niet apotheekhoudend"
   },

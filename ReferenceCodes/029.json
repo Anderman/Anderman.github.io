@@ -1,5 +1,9 @@
 [
   {
+    "Code": "01",
+    "Description": "Farmaceutische hulp"
+  },
+  {
     "Code": "02",
     "Description": "Tarief nevenverrichting/ kosten instelling"
   },

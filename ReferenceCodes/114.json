@@ -1,5 +1,9 @@
 [
   {
+    "Code": "1",
+    "Description": "Betreft bestanddeel van apotheekbereiding"
+  },
+  {
     "Code": "2",
     "Description": "Betreft totaalrecord (geheel) van apotheekbereiding"
   },

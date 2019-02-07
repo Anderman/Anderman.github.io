@@ -1,5 +1,9 @@
 [
   {
+    "Code": "1000",
+    "Description": "Individuele zitting reguliere fysiotherapie"
+  },
+  {
     "Code": "1001",
     "Description": "Individuele zitting reguliere fysiotherapie met toeslag voor behandeling aan huis"
   },

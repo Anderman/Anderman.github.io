@@ -1,5 +1,13 @@
 [
   {
+    "Code": "11000",
+    "Description": "Inschrijving verzekerden tot 65 jaar niet woonachtig in een opslagwijk"
+  },
+  {
+    "Code": "11100",
+    "Description": "Inschrijving verzekerden van 65 jaar tot 75 jaar niet woonachtig in een opslagwijk"
+  },
+  {
     "Code": "11101",
     "Description": "Inschrijving verzekerden vanaf 75 jaar niet woonachtig in een opslagwijk"
   },

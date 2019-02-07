@@ -1,5 +1,9 @@
 [
   {
+    "Code": "010",
+    "Description": "Melding"
+  },
+  {
     "Code": "020",
     "Description": "Aanvraag verlenging"
   },

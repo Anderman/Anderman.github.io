@@ -1,5 +1,9 @@
 [
   {
+    "Code": "001",
+    "Description": "Aandoening lijst met aandoeningen voor langdurige en intermitterende fysiotherapie, oefentherapie c/m (de 'lijst')"
+  },
+  {
     "Code": "002",
     "Description": "Tweede of vervolgaandoening die voor komt op de 'lijst'"
   },

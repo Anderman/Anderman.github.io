@@ -1,5 +1,9 @@
 [
   {
+    "Code": "00000100",
+    "Description": "Zelfverzorging"
+  },
+  {
     "Code": "00000101",
     "Description": "Persoonlijke verzorging"
   },

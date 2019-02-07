@@ -1,5 +1,9 @@
 [
   {
+    "Code": "001",
+    "Description": "Lijst code hoofd-, primaire -of nevendiagnose (cod110)"
+  },
+  {
     "Code": "002",
     "Description": "Lijst soort diagnose (cod111)"
   },

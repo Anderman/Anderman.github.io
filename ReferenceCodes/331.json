@@ -1,5 +1,9 @@
 [
   {
+    "Code": "01",
+    "Description": "Dag"
+  },
+  {
     "Code": "02",
     "Description": "Week"
   },

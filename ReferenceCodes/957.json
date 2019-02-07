@@ -1,5 +1,9 @@
 [
   {
+    "Code": "001",
+    "Description": "Waarde rubriek: ten onrechte niet gevuld"
+  },
+  {
     "Code": "002",
     "Description": "Waarde rubriek: ten onrechte ingevuld"
   },

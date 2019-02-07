@@ -1,5 +1,9 @@
 [
   {
+    "Code": "0001",
+    "Description": "Eerste consult"
+  },
+  {
     "Code": "1000",
     "Description": "Aangeboren dento-alveolaire en/of maxillofaciale aandoening"
   },

@@ -1,5 +1,9 @@
 [
   {
+    "Code": "01",
+    "Description": "Add-on duur geneesmiddel"
+  },
+  {
     "Code": "02",
     "Description": "Stollingsfactor"
   }

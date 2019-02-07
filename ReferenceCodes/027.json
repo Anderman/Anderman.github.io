@@ -1,5 +1,9 @@
 [
   {
+    "Code": "000",
+    "Description": "Akkoord/geen opmerkingen."
+  },
+  {
     "Code": "001",
     "Description": "Akkoord."
   },

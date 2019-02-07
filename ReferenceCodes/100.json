@@ -1,5 +1,9 @@
 [
   {
+    "Code": "01",
+    "Description": "Entree Traject"
+  },
+  {
     "Code": "02",
     "Description": "Diagnostiek bij volwassenen met epilepsie"
   },

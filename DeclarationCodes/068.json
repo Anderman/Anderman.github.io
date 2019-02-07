@@ -1,5 +1,9 @@
 [
   {
+    "Code": "1001",
+    "Description": "Eerstelijnsverblijf laag complex"
+  },
+  {
     "Code": "1002",
     "Description": "Eerstelijnsverblijf hoog complex"
   },

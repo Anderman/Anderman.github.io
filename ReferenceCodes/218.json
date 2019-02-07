@@ -1,5 +1,9 @@
 [
   {
+    "Code": "01",
+    "Description": "Minuut"
+  },
+  {
     "Code": "02",
     "Description": "Kwartier"
   },

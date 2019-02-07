@@ -1,5 +1,9 @@
 [
   {
+    "Code": "00",
+    "Description": "Niet van toepassing (patient is nog opgenomen)"
+  },
+  {
     "Code": "01",
     "Description": "Naar huis terug"
   },

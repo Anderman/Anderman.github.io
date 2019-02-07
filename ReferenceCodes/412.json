@@ -1,5 +1,9 @@
 [
   {
+    "Code": "01",
+    "Description": "ISO 9999: internationale classificatie van technnische hulpmiddelen voor gehandicapten (subset met enkele toevoegde codes)"
+  },
+  {
     "Code": "02",
     "Description": "Generieke productcode hulpmiddelen (nederlandse verfijnde/aangevulde versie van ISO 9999), per 2008 gebaseerd op CLIQ."
   }

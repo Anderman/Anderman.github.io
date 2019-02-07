@@ -1,5 +1,9 @@
 [
   {
+    "Code": "00",
+    "Description": "Geen titulatuur of titulatuur onbekend"
+  },
+  {
     "Code": "01",
     "Description": "Edelachtbare"
   },

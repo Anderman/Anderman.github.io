@@ -1,5 +1,9 @@
 [
   {
+    "Code": "J",
+    "Description": "Ja, er is sprake van begeleiding tijdens vervoer"
+  },
+  {
     "Code": "N",
     "Description": "Nee, er is geen sprake van begeleiding tijdens vervoer"
   },

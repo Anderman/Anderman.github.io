@@ -1,5 +1,9 @@
 [
   {
+    "Code": "0",
+    "Description": "DBC"
+  },
+  {
     "Code": "1",
     "Description": "Klinische behandeling"
   },

@@ -1,5 +1,9 @@
 [
   {
+    "Code": "01",
+    "Description": "Behandeling nog niet beëindigd"
+  },
+  {
     "Code": "02",
     "Description": "Cliënt uitbehandeld (behandeldoel bereikt)"
   },

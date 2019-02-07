@@ -1,5 +1,13 @@
 [
   {
+    "Code": "30000",
+    "Description": "Niet nagekomen afspraak"
+  },
+  {
+    "Code": "30001",
+    "Description": "Individueel eerstelijns psychologisch consult"
+  },
+  {
     "Code": "30002",
     "Description": "Individueel kort eerstelijns psychologisch consult"
   },

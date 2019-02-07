@@ -1,5 +1,9 @@
 [
   {
+    "Code": "0000",
+    "Description": "GEEN STOORNIS"
+  },
+  {
     "Code": "1000",
     "Description": "HOORSTOORNIS EN STOORNIS IN DE AUDITIEVE FUNCTIES"
   },

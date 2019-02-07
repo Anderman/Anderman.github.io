@@ -1,5 +1,13 @@
 [
   {
+    "Code": "C11",
+    "Description": "Periodieke controle"
+  },
+  {
+    "Code": "C13",
+    "Description": "Probleemgericht consult"
+  },
+  {
     "Code": "C22",
     "Description": "Aanvullende medische anamnese na (schriftelijke) routinevragen"
   },

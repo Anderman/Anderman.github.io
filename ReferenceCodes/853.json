@@ -1,5 +1,9 @@
 [
   {
+    "Code": "01",
+    "Description": "Honorarium en alle overige kosten buiten materiaalkosten, techniekkosten en laboratoriumkosten"
+  },
+  {
     "Code": "02",
     "Description": "Materiaalkosten, techniekkosten en laboratoriumkosten"
   },

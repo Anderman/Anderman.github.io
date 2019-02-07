@@ -1,5 +1,9 @@
 [
   {
+    "Code": "J",
+    "Description": "Ja, zorgverlener beschikt wel over de zorgverzekeraarsgegevens van de verzekerde"
+  },
+  {
     "Code": "N",
     "Description": "Nee, beschikt niet over de gegevens"
   }

@@ -1,5 +1,9 @@
 [
   {
+    "Code": "1",
+    "Description": "Doorsturen naar zorgverzekeraar is toegestaan"
+  },
+  {
     "Code": "2",
     "Description": "Op verzoek van verzekerde niet doorsturen naar zorgverzekeraar"
   },

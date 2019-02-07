@@ -1,5 +1,13 @@
 [
   {
+    "Code": "40001",
+    "Description": "Multidisciplinaire zorg DM type 2 personen ≥ 18 jaar"
+  },
+  {
+    "Code": "40002",
+    "Description": "Multidisciplinaire zorg DM type 2 personen ≥ 18 jaar niet Zvw"
+  },
+  {
     "Code": "40011",
     "Description": "Multidisciplinaire zorg CVR"
   },

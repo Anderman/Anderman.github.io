@@ -1,5 +1,9 @@
 [
   {
+    "Code": "01",
+    "Description": "Reden voor afsluiting bij patiënt/ niet bij behandelaar"
+  },
+  {
     "Code": "02",
     "Description": "Reden voor afsluiting bij behandelaar/ om inhoudelijke redenen"
   },

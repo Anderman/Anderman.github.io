@@ -1,5 +1,9 @@
 [
   {
+    "Code": "70000",
+    "Description": "Standaardterhandstelling - niet afleveren na overleg met arts/patiënt"
+  },
+  {
     "Code": "70001",
     "Description": "Instructie UR geneesmiddel gerelateerd hulpmiddel"
   },

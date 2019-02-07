@@ -1,5 +1,9 @@
 [
   {
+    "Code": "000010",
+    "Description": "Taxivervoer - Nierdialysepatienten"
+  },
+  {
     "Code": "000011",
     "Description": "Taxivervoer - Oncologische behandelingen met chemotherapie, immunotherapie of (vanaf 01-01-2018) radiotherapie"
   },

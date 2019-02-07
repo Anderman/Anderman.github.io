@@ -1,5 +1,9 @@
 [
   {
+    "Code": "0001",
+    "Description": "Bericht is afgekeurd om technische redenen."
+  },
+  {
     "Code": "0002",
     "Description": "Kenmerk record ontbreekt of is onjuist."
   },

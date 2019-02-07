@@ -1,5 +1,9 @@
 [
   {
+    "Code": "00",
+    "Description": "Niet van toepassing"
+  },
+  {
     "Code": "01",
     "Description": "Toeslag persoonlijk hoogleraarbehandeling"
   },

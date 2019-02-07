@@ -1,5 +1,9 @@
 [
   {
+    "Code": "001",
+    "Description": "Zi-nummer (artikelnummer van G-standaard)(Zi = Z-index)"
+  },
+  {
     "Code": "005",
     "Description": "Verpleegafdelingen ziekenhuizen (tariefklasse)"
   },

@@ -1,5 +1,9 @@
 [
   {
+    "Code": "01",
+    "Description": "Regie/hoofdbehandelaar"
+  },
+  {
     "Code": "02",
     "Description": "Medebehandelaar"
   }

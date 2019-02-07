@@ -1,5 +1,9 @@
 [
   {
+    "Code": "01",
+    "Description": "Initiële declaratie"
+  },
+  {
     "Code": "02",
     "Description": "Initiële declaratie na afwijzing door of creditering bij andere zorgverzekeraar"
   },

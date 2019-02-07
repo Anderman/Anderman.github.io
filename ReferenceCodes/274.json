@@ -1,5 +1,9 @@
 [
   {
+    "Code": "1",
+    "Description": "Geen herdeclaratie"
+  },
+  {
     "Code": "2",
     "Description": "Herdeclaratie prestatie"
   }

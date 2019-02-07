@@ -1,5 +1,9 @@
 [
   {
+    "Code": "1",
+    "Description": "Kilometer"
+  },
+  {
     "Code": "4",
     "Description": "Rit (besteld-spoed-CPA kosten)"
   }

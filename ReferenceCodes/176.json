@@ -1,5 +1,9 @@
 [
   {
+    "Code": "0",
+    "Description": "Niet van toepassing"
+  },
+  {
     "Code": "1",
     "Description": "Boven"
   },

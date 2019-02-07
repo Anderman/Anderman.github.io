@@ -1,5 +1,69 @@
 [
   {
+    "Code": "65001",
+    "Description": "RIVAS screening nieuwe patiënt met NIADM"
+  },
+  {
+    "Code": "65002",
+    "Description": "RIVAS screening nieuwe patiënt met NIADM thuis"
+  },
+  {
+    "Code": "65003",
+    "Description": "RIVAS instellen nieuwe patiënt op insuline"
+  },
+  {
+    "Code": "65004",
+    "Description": "Project Oogbus"
+  },
+  {
+    "Code": "65005",
+    "Description": "Geintegreerde wondzorg; Consultadvies 1e lijn + wondbehandeling"
+  },
+  {
+    "Code": "65006",
+    "Description": "Geintegreerde wondzorg; Consultadvies 1e lijn"
+  },
+  {
+    "Code": "65007",
+    "Description": "Geintegreerde wondzorg; Consultadvies na ontslag 2e lijn"
+  },
+  {
+    "Code": "65008",
+    "Description": "Geintegreerde wondzorg; VAC- therapie, exclusief verbandmaterialen"
+  },
+  {
+    "Code": "65009",
+    "Description": "Emcare"
+  },
+  {
+    "Code": "65010",
+    "Description": "Zygoma implantaten: CT-scan"
+  },
+  {
+    "Code": "65011",
+    "Description": "Zygoma implantaten: implantologie"
+  },
+  {
+    "Code": "65012",
+    "Description": "Hyperoxie training Diabetespatiënten: intake/nieuwe consulten sportarts"
+  },
+  {
+    "Code": "65013",
+    "Description": "Hyperoxie training Diabetespatiënten: controle consulten sportarts"
+  },
+  {
+    "Code": "65014",
+    "Description": "Hyperoxie training Diabetespatiënten: oxymetrietesten"
+  },
+  {
+    "Code": "65015",
+    "Description": "Behandeling van obesitas en metaboolsyndroom  Zorgverzekeringswet (ZvW) excl. chronische fysiotherapie"
+  },
+  {
+    "Code": "65016",
+    "Description": "Behandeling van obesitas en metaboolsyndroom  Zorgverzekeringswet (ZvW) incl. chronische fysiotherapie"
+  },
+  {
     "Code": "65017",
     "Description": "Behandeling van obesitas en metaboolsyndroom  Aanvullende verzekering (AV) : Dieetadvisering"
   },

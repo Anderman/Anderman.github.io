@@ -1,5 +1,9 @@
 [
   {
+    "Code": "A",
+    "Description": "Aanvullende verzekering"
+  },
+  {
     "Code": "B",
     "Description": "Basisverzekering"
   },

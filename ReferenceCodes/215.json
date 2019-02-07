@@ -1,5 +1,9 @@
 [
   {
+    "Code": "01",
+    "Description": "Geen inhouding"
+  },
+  {
     "Code": "02",
     "Description": "Inkomensonafhankelijke eigen bijdrage"
   },

@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.IO;
 using ExcelDataReader;
@@ -38,7 +39,12 @@ namespace CodeProvider.Infrastructure
 		public static void SelectRecordDefinitionFirstRow(IExcelDataReader reader, int rowNumber)
 		{
 			for (var i = 0; i < rowNumber; i++)
+			{
 				reader.Read();
+				var value = reader.GetValue(0)?.ToString().ToLower();
+				if(value==null)continue;
+				if (value=="waarde" || value=="code") return;
+			}
 		}
 	}
 }

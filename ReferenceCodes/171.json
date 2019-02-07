@@ -1,5 +1,9 @@
 [
   {
+    "Code": "J",
+    "Description": "Er is sprake van een gecombineerde rit."
+  },
+  {
     "Code": "N",
     "Description": "Er is geen sprake van een gecombineerde rit."
   },

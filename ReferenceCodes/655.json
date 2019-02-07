@@ -1,5 +1,9 @@
 [
   {
+    "Code": "D",
+    "Description": "Digitaal"
+  },
+  {
     "Code": "P",
     "Description": "Papier"
   }

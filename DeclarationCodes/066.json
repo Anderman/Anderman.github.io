@@ -1,5 +1,9 @@
 [
   {
+    "Code": "2000",
+    "Description": "Zorg in verband met een visuele beperking"
+  },
+  {
     "Code": "2001",
     "Description": "Zorg in verband met een auditieve beperking"
   },

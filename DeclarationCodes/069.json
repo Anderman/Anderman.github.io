@@ -1,5 +1,9 @@
 [
   {
+    "Code": "1000",
+    "Description": "Begeleiding eindigend voor 16 weken zwangerschap inclusief nazorg"
+  },
+  {
     "Code": "1001",
     "Description": "Geboortezorg prenataal"
   },

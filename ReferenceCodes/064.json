@@ -1,5 +1,9 @@
 [
   {
+    "Code": "J",
+    "Description": "Medisch voorschrift is afgegeven"
+  },
+  {
     "Code": "N",
     "Description": "Medisch voorschrift is niet afgegeven"
   }

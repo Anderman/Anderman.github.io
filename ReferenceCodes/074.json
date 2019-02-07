@@ -1,5 +1,9 @@
 [
   {
+    "Code": "1",
+    "Description": "ICD-10"
+  },
+  {
     "Code": "2",
     "Description": "DBC typeringslijst in kader van DOT"
   }

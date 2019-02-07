@@ -1,5 +1,9 @@
 [
   {
+    "Code": "1000",
+    "Description": "Persoonlijke verzorging"
+  },
+  {
     "Code": "1001",
     "Description": "Oproepbare verzorging"
   },

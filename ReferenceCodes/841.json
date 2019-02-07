@@ -1,5 +1,9 @@
 [
   {
+    "Code": "1",
+    "Description": "Cliënt is overleden"
+  },
+  {
     "Code": "2",
     "Description": "Cliënt is niet overleden"
   }

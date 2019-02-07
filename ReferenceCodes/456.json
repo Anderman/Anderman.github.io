@@ -1,5 +1,9 @@
 [
   {
+    "Code": "000001",
+    "Description": "Aanmeten hulpmiddel"
+  },
+  {
     "Code": "000002",
     "Description": "Negatieve proefaanmeting"
   },

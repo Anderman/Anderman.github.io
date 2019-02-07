@@ -1,5 +1,9 @@
 [
   {
+    "Code": "01",
+    "Description": "Servicebureau"
+  },
+  {
     "Code": "02",
     "Description": "Zorgverlener"
   },

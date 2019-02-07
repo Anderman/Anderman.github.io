@@ -1,5 +1,9 @@
 [
   {
+    "Code": "1",
+    "Description": "Bedrag eigen risico is bekend."
+  },
+  {
     "Code": "2",
     "Description": "Bedrag eigen risico is onbekend."
   }

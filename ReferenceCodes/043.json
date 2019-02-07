@@ -1,5 +1,9 @@
 [
   {
+    "Code": "C",
+    "Description": "Creditbedrag en aantal"
+  },
+  {
     "Code": "D",
     "Description": "Debetbedrag en aantal"
   }

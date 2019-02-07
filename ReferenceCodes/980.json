@@ -1,5 +1,9 @@
 [
   {
+    "Code": "1",
+    "Description": "Ja, wordt gedeclareerd in deze declaratie"
+  },
+  {
     "Code": "2",
     "Description": "Nee is betaald door client"
   },
