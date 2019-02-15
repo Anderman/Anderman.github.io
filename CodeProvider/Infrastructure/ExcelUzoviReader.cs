@@ -8,8 +8,8 @@ namespace CodeProvider.Infrastructure
 {
 	public static class ExcelUzoviReader
 	{
-		private static readonly int offset = 'O' - 'A';
-		const string SheetName = "Concern";
+		private const int Offset = 'O' - 'A';
+		private const string SheetName = "Concern";
 
 		public static string GetCodes(Stream stream)
 		{
@@ -24,8 +24,8 @@ namespace CodeProvider.Infrastructure
 					var uzoviCode = int.Parse(reader.GetString(0));
 					var name = reader.GetString(1);
 					for (var i = 0; i < concerns.Length; i++)
-						if (reader.GetString(i + offset) == "x")
-							concern = concerns[i];
+						if (reader.GetString(i + Offset) == "x")
+							concern = concerns[i].Replace("\n"," ").Trim();
 					uzoviCodes.Add(new UzoviRecord { Concern = concern, Description = name, Code = uzoviCode });
 				}
 			}
@@ -35,13 +35,13 @@ namespace CodeProvider.Infrastructure
 
 		private static string[] GetConcernNames(IExcelDataReader reader)
 		{
-			var concernNames = new string[reader.FieldCount - offset];
+			var concernNames = new string[reader.FieldCount - Offset];
 			reader.Read();
 			reader.Read();
-			for (var i = offset; i < reader.FieldCount; i++)
+			for (var i = Offset; i < reader.FieldCount; i++)
 			{
 				var name = reader.GetString(i);
-				concernNames[i - offset] = name;
+				concernNames[i - Offset] = name;
 			}
 
 			return concernNames;

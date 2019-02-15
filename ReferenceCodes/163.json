@@ -1,230 +1,230 @@
 [
   {
     "Code": "190",
-    "Description": "9VV A"
+    "Description": "Geriatrische revalidatiezorg"
   },
   {
     "Code": "191",
-    "Description": "9VV B"
+    "Description": "Herstelgerichte behandeling met verpleging en verzorging"
   },
   {
     "Code": "750",
-    "Description": "1VV"
+    "Description": "Beschut wonen met enige begeleiding"
   },
   {
     "Code": "751",
-    "Description": "2VV"
+    "Description": "Beschut wonen met begeleiding en verzorging"
   },
   {
     "Code": "752",
-    "Description": "3VV"
+    "Description": "Beschut wonen met begeleiding en intensieve verzorging"
   },
   {
     "Code": "753",
-    "Description": "4VV"
+    "Description": "Beschut wonen met intensieve begeleiding en uitgebreide verzorging"
   },
   {
     "Code": "754",
-    "Description": "5VV"
+    "Description": "Beschermd wonen met intensieve dementiezorg"
   },
   {
     "Code": "755",
-    "Description": "6VV"
+    "Description": "Beschermd wonen met intensieve verzorging en verpleging"
   },
   {
     "Code": "756",
-    "Description": "7VV"
+    "Description": "Beschermd wonen met zeer intensieve zorg, vanwege specifieke aandoeningen, met nadruk op begeleiding"
   },
   {
     "Code": "757",
-    "Description": "8VV"
+    "Description": "Beschermd wonen met zeer intensieve zorg, vanwege specifieke aandoeningen, met de nadruk op verzorging/verpleging"
   },
   {
     "Code": "758",
-    "Description": "9VV"
+    "Description": "Herstelgerichte behandeling met verpleging en verzorging"
   },
   {
     "Code": "759",
-    "Description": "10VV"
+    "Description": "Beschermd verblijf met intensieve palliatief-terminale zorg"
   },
   {
     "Code": "760",
-    "Description": "1GGZ C"
+    "Description": "Beschermd wonen met begeleiding"
   },
   {
     "Code": "762",
-    "Description": "2GGZ C"
+    "Description": "Gestructureerd beschermd wonen met uitgebreide begeleiding"
   },
   {
     "Code": "764",
-    "Description": "3GGZ C"
+    "Description": "Beschermd wonen met intensieve begeleiding"
   },
   {
     "Code": "766",
-    "Description": "4GGZ B"
+    "Description": "Voortgezet verblijf met intensieve begeleiding en verzorging"
   },
   {
     "Code": "768",
-    "Description": "5GGZ B"
+    "Description": "Voortgezet verblijf met intensieve begeleiding en gedragsregulering"
   },
   {
     "Code": "770",
-    "Description": "6GGZ B"
+    "Description": "Voortgezet verblijf met intensieve begeleiding en intensieve verpleging en verzorging"
   },
   {
     "Code": "772",
-    "Description": "7GGZ B"
+    "Description": "Beveiligd voortgezet verblijf vanwege extreme gedragsproblematiek met zeer intensieve begeleiding"
   },
   {
     "Code": "780",
-    "Description": "1LVG"
+    "Description": "Wonen met enige behandeling en begeleiding"
   },
   {
     "Code": "781",
-    "Description": "2LVG"
+    "Description": "Wonen met behandeling en begeleiding"
   },
   {
     "Code": "782",
-    "Description": "3LVG"
+    "Description": "Wonen met intensieve behandeling en begeleiding, kleine groep"
   },
   {
     "Code": "783",
-    "Description": "4LVG"
+    "Description": "Wonen met zeer intensieve behandeling en begeleiding"
   },
   {
     "Code": "784",
-    "Description": "5LVG"
+    "Description": "Besloten wonen met zeer intensieve behandeling en begeleiding"
   },
   {
     "Code": "790",
-    "Description": "1SGLVG"
+    "Description": "Behandeling in een SGLVG-behandelcentrum"
   },
   {
     "Code": "800",
-    "Description": "1VG"
+    "Description": "Wonen met enige begeleiding"
   },
   {
     "Code": "802",
-    "Description": "2VG"
+    "Description": "Wonen met begeleiding"
   },
   {
     "Code": "804",
-    "Description": "3VG"
+    "Description": "Wonen met begeleiding en verzorging"
   },
   {
     "Code": "806",
-    "Description": "4VG"
+    "Description": "Wonen met begeleiding en intensieve verzorging"
   },
   {
     "Code": "808",
-    "Description": "5VG"
+    "Description": "Wonen met begeleiding en zeer intensieve verzorging"
   },
   {
     "Code": "810",
-    "Description": "6VG"
+    "Description": "Wonen met intensieve begeleiding, verzorging en gedragsregulering"
   },
   {
     "Code": "812",
-    "Description": "7VG"
+    "Description": "(Besloten) wonen met zeer intensieve begeleiding, verzorging en gedragsregulering"
   },
   {
     "Code": "814",
-    "Description": "8VG"
+    "Description": "Wonen met begeleiding en volledige verzorging en verpleging"
   },
   {
     "Code": "820",
-    "Description": "1LG"
+    "Description": "Wonen met enige begeleiding en enige verzorging"
   },
   {
     "Code": "822",
-    "Description": "2LG"
+    "Description": "Wonen met begeleiding en enige verzorging"
   },
   {
     "Code": "824",
-    "Description": "3LG"
+    "Description": "Wonen met enige begeleiding en verzorging"
   },
   {
     "Code": "826",
-    "Description": "4LG"
+    "Description": "Wonen met begeleiding en verzorging"
   },
   {
     "Code": "828",
-    "Description": "5LG"
+    "Description": "Wonen met begeleiding en intensieve verzorging"
   },
   {
     "Code": "830",
-    "Description": "6LG"
+    "Description": "Wonen met intensieve begeleiding en intensieve verzorging"
   },
   {
     "Code": "832",
-    "Description": "7LG"
+    "Description": "Wonen met zeer intensieve begeleiding en zeer intensieve verzorging"
   },
   {
     "Code": "840",
-    "Description": "1ZGvis"
+    "Description": "Wonen met enige begeleiding en enige verzorging"
   },
   {
     "Code": "842",
-    "Description": "2ZGvis"
+    "Description": "Wonen met begeleiding en enige verzorging"
   },
   {
     "Code": "844",
-    "Description": "3ZGvis"
+    "Description": "Wonen met intensieve begeleiding en verzorging"
   },
   {
     "Code": "846",
-    "Description": "4ZGvis"
+    "Description": "Wonen met intensieve begeleiding en intensieve verzorging"
   },
   {
     "Code": "848",
-    "Description": "5ZGvis"
+    "Description": "Wonen met zeer intensieve begeleiding en zeer intensieve verzorging"
   },
   {
     "Code": "850",
-    "Description": "1ZGaud"
+    "Description": "Wonen met begeleiding en enige verzorging"
   },
   {
     "Code": "852",
-    "Description": "2ZGaud"
+    "Description": "Wonen met intensieve begeleiding en verzorging"
   },
   {
     "Code": "854",
-    "Description": "3ZGaud"
+    "Description": "Wonen met intensieve begeleiding en intensieve verzorging"
   },
   {
     "Code": "856",
-    "Description": "4ZGaud"
+    "Description": "Wonen met intensieve begeleiding en enige verzorging"
   },
   {
     "Code": "860",
-    "Description": "1GGZ B"
+    "Description": "Voortgezet verblijf met beleiding"
   },
   {
     "Code": "862",
-    "Description": "2GGZ B"
+    "Description": "Voortgezet verblijf met structuur en uitgebreide begeleiding"
   },
   {
     "Code": "864",
-    "Description": "3GGZ B"
+    "Description": "Voortgezet verblijf met intensieve begeleiding"
   },
   {
     "Code": "866",
-    "Description": "4GGZ C"
+    "Description": "Gestructureerd beschermd wonen met intensieve begeleiding en verzorging"
   },
   {
     "Code": "868",
-    "Description": "5GGZ C"
+    "Description": "Beschermd wonen met intensieve begeleiding en gedragsregulering"
   },
   {
     "Code": "870",
-    "Description": "6GGZ C"
+    "Description": "Beschermd wonen met intensieve begeleiding en intensieve verpleging en verzorging"
   },
   {
     "Code": "998",
-    "Description": "ZZPX"
+    "Description": "Onbepaald zorgzwaartepakket"
   },
   {
     "Code": "999",
-    "Description": "ZZPO"
+    "Description": "Partnerverblijf"
   }
 ]

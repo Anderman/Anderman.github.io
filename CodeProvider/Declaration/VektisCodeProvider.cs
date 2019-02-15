@@ -11,6 +11,7 @@ namespace CodeProvider.Declaration
 	public class VektisCodeProvider
 	{
 		private const string SubDirectory = "ReferenceCodes";
+		public static Dictionary<string, int> DescriptionColumns = new Dictionary<string, int>() { { "163", 2 } };
 
 		public static void Convert(string httpLink, List<string> links)
 		{
@@ -26,7 +27,9 @@ namespace CodeProvider.Declaration
 				var ms = stream.AsMemoryStream();
 				if (httpLink.EndsWith("zip"))
 					ms = Unzip(ms, code);
-				var contents = ExcelReader.GetCodes(ms, 1, 17, 0, 1);
+				if (!DescriptionColumns.TryGetValue(code, out var descriptionColumn))
+					descriptionColumn = 1;
+				var contents = ExcelReader.GetCodes(ms, 1, 17, 0, descriptionColumn);
 				Console.WriteLine($"Export {outPath}");
 
 				File.WriteAllText(outPath, contents);

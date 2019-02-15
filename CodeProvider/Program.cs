@@ -17,7 +17,7 @@ namespace CodeProvider
 	internal class Program
 	{
 		private const string Zh308 = "https://puc.overheid.nl/nza/werkenmetdbcs/"; // declarationCode for DBC
-		private const string Aw319 = "https://www.vektis.nl/streams/standaardisatie/standaarden/AW319-1.4";
+		private const string WlzRules14 = "https://www.vektis.nl/streams/standaardisatie/standaarden/AW319-1.4";
 		private const string UzoviRegister = "https://www.vektis.nl/streams/zorgverzekeraars-vinden";
 		private const string VektisCodes = "https://www.vektis.nl/streams/standaardisatie/codelijsten";
 
@@ -27,6 +27,7 @@ namespace CodeProvider
 
 			var indexLinks = new List<string>();
 			CreateDbcDeclarationCodes(indexLinks);
+			CreateUzoviRegisterCodes(indexLinks);
 			CreateDeclarationCodes(indexLinks);
 			CreateMunicipalityCodes(indexLinks);
 			CreateVektisCodes(indexLinks);
@@ -69,7 +70,7 @@ namespace CodeProvider
 
 		public static void CreateUzoviRegisterCodes(List<string> indexLinks)
 		{
-			var link = MyHttpClient.GetLinkByHRef(UzoviRegister, "UZOVI_register.xlsx", "");
+			var link = MyHttpClient.GetLinkByHRef(UzoviRegister, "UZOVI_register", "");
 			UzoviProvider.Convert(link, indexLinks);
 		}
 
@@ -85,7 +86,7 @@ namespace CodeProvider
 
 		public static void CreateWlzRules(List<string> indexLinks)
 		{
-			var httpLink = MyHttpClient.GetLinkByHRef(Aw319, "https://www.vektis.nl", "Koppeltabel");
+			var httpLink = MyHttpClient.GetLinkByHRef(WlzRules14, "https://www.vektis.nl", "Koppeltabel");
 			WlzCalculationRuleProvider.Convert(httpLink, indexLinks);
 			WlzLegitimationRuleProvider.Convert(httpLink, indexLinks);
 		}

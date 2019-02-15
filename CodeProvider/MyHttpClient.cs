@@ -64,7 +64,7 @@ namespace CodeProvider
 		{
 			var content = GetClient().GetStringAsync(link).Result;
 			var filteredATags = GetATags(content).Where(x => x.Contains(aContains, StringComparison.OrdinalIgnoreCase)).ToList();
-			var filteredLinks = filteredATags.Select(x => x.Split('"').FirstOrDefault(y => y.Contains(hRefContains))).Distinct().ToList();
+			var filteredLinks = filteredATags.Select(x => x.Split('"').FirstOrDefault(y => y.Contains(hRefContains))).Distinct().Where(x=>!string.IsNullOrWhiteSpace(x)).ToList();
 			//Console.WriteLine(string.Join('\n', filteredATags));
 			//Console.WriteLine(string.Join('\n', filteredLinks));
 			return filteredLinks;

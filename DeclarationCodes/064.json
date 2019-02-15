@@ -322,5 +322,25 @@
   {
     "Code": "10511",
     "Description": "Verhuiskosten"
+  },
+  {
+    "Code": "10512",
+    "Description": "Glucose monitoring: sensor flash glucose monitoring"
+  },
+  {
+    "Code": "10513",
+    "Description": "Glucose monitoring: reader flash glucose monitoring"
+  },
+  {
+    "Code": "10514",
+    "Description": "Dagprijs volwassenen bij pengebruik"
+  },
+  {
+    "Code": "10515",
+    "Description": "Dagprijs volwassenen bij pompgebruik"
+  },
+  {
+    "Code": "10516",
+    "Description": "Dagprijs kinderen pen- en pompgebruik"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "Code": 101,
     "Description": "N.V. Univé Zorg",
-    "Concern": ""
+    "Concern": "COOPERATIE VGZ"
   },
   {
     "Code": 104,
@@ -27,7 +27,7 @@
   {
     "Code": 403,
     "Description": "ASR Ziektekostenverzekeringen",
-    "Concern": "a.s.r.\n"
+    "Concern": "a.s.r."
   },
   {
     "Code": 408,
@@ -42,12 +42,12 @@
   {
     "Code": 699,
     "Description": "IZA Zorgverzekeraar NV",
-    "Concern": ""
+    "Concern": "COOPERATIE VGZ"
   },
   {
     "Code": 736,
     "Description": "NV Zorgverzekeraar UMC",
-    "Concern": ""
+    "Concern": "COOPERATIE VGZ"
   },
   {
     "Code": 3311,
@@ -67,7 +67,7 @@
   {
     "Code": 3328,
     "Description": "Aevitae (ASR Ziektekosten)",
-    "Concern": "a.s.r.\n"
+    "Concern": "a.s.r."
   },
   {
     "Code": 3329,
@@ -92,17 +92,12 @@
   {
     "Code": 3334,
     "Description": "IZA-VNG",
-    "Concern": ""
+    "Concern": "COOPERATIE VGZ"
   },
   {
     "Code": 3336,
     "Description": "Ditzo Zorgverzekering",
-    "Concern": "a.s.r.\n"
-  },
-  {
-    "Code": 3339,
-    "Description": "BeterDichterbij",
-    "Concern": "MULTIZORG VRZ"
+    "Concern": "a.s.r."
   },
   {
     "Code": 3340,
@@ -112,17 +107,22 @@
   {
     "Code": 3343,
     "Description": "ONVZ Ziektekostenverzekeraar",
-    "Concern": "VRZ\nzorg-inkoop"
+    "Concern": "VRZ zorg-inkoop"
   },
   {
     "Code": 3344,
     "Description": "inTwente Zorgverzekeraar",
-    "Concern": "DSW-STAD \nHOLLAND\n"
+    "Concern": "DSW-STAD  HOLLAND"
   },
   {
     "Code": 3346,
     "Description": "InsureToStudy",
     "Concern": "MULTIZORG VRZ"
+  },
+  {
+    "Code": 3347,
+    "Description": "Eno Zorgverzekeraar N.V.",
+    "Concern": "VRZ zorg-inkoop"
   },
   {
     "Code": 3349,
@@ -157,7 +157,7 @@
   {
     "Code": 3355,
     "Description": "Regeling Medische zorg Asielzoekers (RMA)",
-    "Concern": "DSW-STAD \nHOLLAND\n"
+    "Concern": "DSW-STAD  HOLLAND"
   },
   {
     "Code": 3356,
@@ -177,12 +177,12 @@
   {
     "Code": 3359,
     "Description": "EUCARE",
-    "Concern": ""
+    "Concern": "Caresq"
   },
   {
     "Code": 3360,
     "Description": "Aevitae (EUCARE)",
-    "Concern": ""
+    "Concern": "Caresq"
   },
   {
     "Code": 5501,
@@ -222,7 +222,7 @@
   {
     "Code": 5508,
     "Description": "Zorgkantoor Nijmegen",
-    "Concern": ""
+    "Concern": "COOPERATIE VGZ"
   },
   {
     "Code": 5509,
@@ -242,7 +242,7 @@
   {
     "Code": 5512,
     "Description": "Zorgkantoor Noord Holland Noord",
-    "Concern": ""
+    "Concern": "COOPERATIE VGZ"
   },
   {
     "Code": 5513,
@@ -262,12 +262,12 @@
   {
     "Code": 5516,
     "Description": "Zorgkantoor Amstelland en De Meerlanden",
-    "Concern": "VRZ\nzorg-inkoop"
+    "Concern": "VRZ zorg-inkoop"
   },
   {
     "Code": 5517,
     "Description": "Zorgkantoor Zuid-Holland Noord",
-    "Concern": "VRZ\nzorg-inkoop"
+    "Concern": "VRZ zorg-inkoop"
   },
   {
     "Code": 5518,
@@ -277,12 +277,12 @@
   {
     "Code": 5519,
     "Description": "Zorgkantoor Westland Schieland Delfland (WSD)",
-    "Concern": "DSW-STAD \nHOLLAND\n"
+    "Concern": "DSW-STAD  HOLLAND"
   },
   {
     "Code": 5520,
     "Description": "Zorgkantoor Midden-Holland",
-    "Concern": ""
+    "Concern": "COOPERATIE VGZ"
   },
   {
     "Code": 5521,
@@ -297,7 +297,7 @@
   {
     "Code": 5524,
     "Description": "Zorgkantoor Waardenland",
-    "Concern": ""
+    "Concern": "COOPERATIE VGZ"
   },
   {
     "Code": 5525,
@@ -312,12 +312,12 @@
   {
     "Code": 5527,
     "Description": "Zorgkantoor Midden-Brabant",
-    "Concern": ""
+    "Concern": "COOPERATIE VGZ"
   },
   {
     "Code": 5528,
     "Description": "Zorgkantoor Noordoost Brabant",
-    "Concern": ""
+    "Concern": "COOPERATIE VGZ"
   },
   {
     "Code": 5529,
@@ -327,7 +327,7 @@
   {
     "Code": 5530,
     "Description": "Zorgkantoor Noord- en Midden Limburg",
-    "Concern": ""
+    "Concern": "COOPERATIE VGZ"
   },
   {
     "Code": 5531,
@@ -337,22 +337,22 @@
   {
     "Code": 5532,
     "Description": "Zorgkantoor Midden-IJssel",
-    "Concern": "VRZ\nzorg-inkoop"
+    "Concern": "VRZ zorg-inkoop"
   },
   {
     "Code": 7029,
     "Description": "OWM DSW Zorgverzekeraar U.A.",
-    "Concern": "DSW-STAD \nHOLLAND\n"
+    "Concern": "DSW-STAD  HOLLAND"
   },
   {
     "Code": 7032,
     "Description": "Eno Zorgverzekeraar N.V.",
-    "Concern": "VRZ\nzorg-inkoop"
+    "Concern": "VRZ zorg-inkoop"
   },
   {
     "Code": 7037,
     "Description": "Stad Holland Zorgverzekeraar OWM U.A.",
-    "Concern": "DSW-STAD \nHOLLAND\n"
+    "Concern": "DSW-STAD  HOLLAND"
   },
   {
     "Code": 7053,
@@ -362,12 +362,12 @@
   {
     "Code": 7085,
     "Description": "OWM Zorgverzekeraar Zorg en Zekerheid UA",
-    "Concern": "VRZ\nzorg-inkoop"
+    "Concern": "VRZ zorg-inkoop"
   },
   {
     "Code": 7095,
     "Description": "VGZ Zorgverzekeraar N.V.",
-    "Concern": ""
+    "Concern": "COOPERATIE VGZ"
   },
   {
     "Code": 7119,
@@ -382,22 +382,7 @@
   {
     "Code": 8956,
     "Description": "Aevitae (VGZ)",
-    "Concern": ""
-  },
-  {
-    "Code": 8958,
-    "Description": "Aevitae (Avéro Achmea)",
-    "Concern": "ACHMEA"
-  },
-  {
-    "Code": 8959,
-    "Description": "Caresco BV (ASR Ziektekosten)",
-    "Concern": ""
-  },
-  {
-    "Code": 8960,
-    "Description": "Caresco BV (Avéro Achmea)",
-    "Concern": "ACHMEA"
+    "Concern": "COOPERATIE VGZ"
   },
   {
     "Code": 8971,
@@ -422,12 +407,12 @@
   {
     "Code": 9015,
     "Description": "VGZ voor de zorg N.V.",
-    "Concern": ""
+    "Concern": "COOPERATIE VGZ"
   },
   {
     "Code": 9018,
     "Description": "De Amersfoortse",
-    "Concern": "a.s.r.\n"
+    "Concern": "a.s.r."
   },
   {
     "Code": 9019,
