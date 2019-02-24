@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 using System.IO;
 using ExcelDataReader;
@@ -42,8 +41,8 @@ namespace CodeProvider.Infrastructure
 			{
 				reader.Read();
 				var value = reader.GetValue(0)?.ToString().ToLower();
-				if(value==null)continue;
-				if (value=="waarde" || value=="code") return;
+				if (value == null) continue;
+				if (value == "waarde" || value == "code") return;
 			}
 		}
 	}

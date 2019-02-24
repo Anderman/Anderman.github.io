@@ -9,6 +9,7 @@ using CodeProvider.Declaration;
 using CodeProvider.Infrastructure;
 using CodeProvider.Municipality;
 using CodeProvider.Wlz;
+using CodeProvider.Wmo;
 
 // ReSharper disable StringLiteralTypo
 
@@ -20,6 +21,8 @@ namespace CodeProvider
 		private const string WlzRules14 = "https://www.vektis.nl/streams/standaardisatie/standaarden/AW319-1.4";
 		private const string UzoviRegister = "https://www.vektis.nl/streams/zorgverzekeraars-vinden";
 		private const string VektisCodes = "https://www.vektis.nl/streams/standaardisatie/codelijsten";
+		private const string WmoCodes= "https://istandaarden.nl/ibieb/wmo021-productcodetabel-wmo";
+		private const string JwCodes= "https://istandaarden.nl/ibieb/jz21-productcodetabel-jeugdwet";
 
 		private static void Main(string[] args)
 		{
@@ -33,6 +36,8 @@ namespace CodeProvider
 			CreateVektisCodes(indexLinks);
 			CreateWlzRules(indexLinks);
 			CreateIndexHtml(indexLinks);
+			CreateWmoCodes(indexLinks);
+			CreateJwCodes(indexLinks);
 		}
 
 
@@ -58,6 +63,16 @@ namespace CodeProvider
 				DeclarationCodeProvider.Convert(httpLink, indexLinks);
 				CalculationCodeProvider.Convert(httpLink, indexLinks);
 			}
+		}
+
+		public static void CreateWmoCodes(List<string> indexLinks)
+		{
+				JwWmoCodeProvider.Convert(WmoCodes, indexLinks,"Wmo");
+		}
+
+		public static void CreateJwCodes(List<string> indexLinks)
+		{
+				JwWmoCodeProvider.Convert(JwCodes, indexLinks,"Jw");
 		}
 
 		public static void CreateMunicipalityCodes(List<string> indexLinks)

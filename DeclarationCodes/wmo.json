@@ -1,0 +1,1378 @@
+[
+  {
+    "Code": "01A00",
+    "Description": "Hulp bij het huishouden: outputgericht"
+  },
+  {
+    "Code": "01A01",
+    "Description": "HH 1: outputgericht"
+  },
+  {
+    "Code": "01A02",
+    "Description": "HH 2: outputgericht"
+  },
+  {
+    "Code": "01A03",
+    "Description": "HH 3: outputgericht"
+  },
+  {
+    "Code": "01A04",
+    "Description": "HH 1: inspanningsgericht"
+  },
+  {
+    "Code": "01A05",
+    "Description": "HH 2: inspanningsgericht"
+  },
+  {
+    "Code": "01A06",
+    "Description": "HH 3: inspanningsgericht"
+  },
+  {
+    "Code": "01A07",
+    "Description": "HH 1: outputgericht (licht)"
+  },
+  {
+    "Code": "01A08",
+    "Description": "HH 1: outputgericht (middel)"
+  },
+  {
+    "Code": "01A09",
+    "Description": "HH 1: outputgericht (middelzwaar)"
+  },
+  {
+    "Code": "01A10",
+    "Description": "HH 1: outputgericht (zwaar)"
+  },
+  {
+    "Code": "01A11",
+    "Description": "HH 1: outputgericht (extra zwaar)"
+  },
+  {
+    "Code": "01A12",
+    "Description": "HH 2: outputgericht (licht)"
+  },
+  {
+    "Code": "01A13",
+    "Description": "HH 2: outputgericht (middel)"
+  },
+  {
+    "Code": "01A14",
+    "Description": "HH 2: outputgericht (middelzwaar)"
+  },
+  {
+    "Code": "01A15",
+    "Description": "HH 2: outputgericht (zwaar)"
+  },
+  {
+    "Code": "01A16",
+    "Description": "HH 2: outputgericht (extra zwaar)"
+  },
+  {
+    "Code": "01A17",
+    "Description": "HH 3: outputgericht (licht)"
+  },
+  {
+    "Code": "01A18",
+    "Description": "HH 3: outputgericht (middel)"
+  },
+  {
+    "Code": "01A19",
+    "Description": "HH 3: outputgericht (middelzwaar)"
+  },
+  {
+    "Code": "01A20",
+    "Description": "HH 3: outputgericht (zwaar)"
+  },
+  {
+    "Code": "01A21",
+    "Description": "HH 3: outputgericht (extra zwaar)"
+  },
+  {
+    "Code": "01001",
+    "Description": "HH1 (huishoudelijke werkzaamheden)"
+  },
+  {
+    "Code": "01002",
+    "Description": "HH2 (organisatie van het huishouden)"
+  },
+  {
+    "Code": "02A01",
+    "Description": "Begeleiding regulier: outputgericht"
+  },
+  {
+    "Code": "02A02",
+    "Description": "Begeleiding specialistisch: outputgericht"
+  },
+  {
+    "Code": "02A03",
+    "Description": "Begeleiding regulier: inspanningsgericht"
+  },
+  {
+    "Code": "02A04",
+    "Description": "Begeleiding mantelzorg: inspanningsgericht"
+  },
+  {
+    "Code": "02A05",
+    "Description": "Begeleiding specialistisch: inspanningsgericht"
+  },
+  {
+    "Code": "02A06",
+    "Description": "Begeleiding regulier: outputgericht (licht)"
+  },
+  {
+    "Code": "02A07",
+    "Description": "Begeleiding regulier: outputgericht (middel)"
+  },
+  {
+    "Code": "02A08",
+    "Description": "Begeleiding regulier: outputgericht (middelzwaar)"
+  },
+  {
+    "Code": "02A09",
+    "Description": "Begeleiding regulier: outputgericht (zwaar)"
+  },
+  {
+    "Code": "02A10",
+    "Description": "Begeleiding regulier: outputgericht (extra zwaar)"
+  },
+  {
+    "Code": "02A11",
+    "Description": "Begeleiding specialistisch: outputgericht (licht)"
+  },
+  {
+    "Code": "02A12",
+    "Description": "Begeleiding specialistisch: outputgericht (middel)"
+  },
+  {
+    "Code": "02A13",
+    "Description": "Begeleiding specialistisch: outputgericht (middelzwaar)"
+  },
+  {
+    "Code": "02A14",
+    "Description": "Begeleiding specialistisch: outputgericht (zwaar)"
+  },
+  {
+    "Code": "02A15",
+    "Description": "Begeleiding specialistisch: outputgericht (extra zwaar)"
+  },
+  {
+    "Code": "02A16",
+    "Description": "Begeleiding regulier: inspanningsgericht (individueel)"
+  },
+  {
+    "Code": "02A17",
+    "Description": "Begeleiding regulier: inspanningsgericht (groep)"
+  },
+  {
+    "Code": "02A18",
+    "Description": "Begeleiding regulier: inspanningsgericht (op afstand)"
+  },
+  {
+    "Code": "02A19",
+    "Description": "Begeleiding specialistisch: inspanningsgericht (individueel)"
+  },
+  {
+    "Code": "02A20",
+    "Description": "Begeleiding specialistisch: inspanningsgericht (groep)"
+  },
+  {
+    "Code": "02A21",
+    "Description": "Begeleiding specialistisch: inspanningsgericht (op afstand)"
+  },
+  {
+    "Code": "02A22",
+    "Description": "Begeleiding laag tarief: inspanningsgericht"
+  },
+  {
+    "Code": "02A23",
+    "Description": "Begeleiding GGZ: outputgericht (licht)"
+  },
+  {
+    "Code": "02A24",
+    "Description": "Begeleiding GGZ: outputgericht (middel)"
+  },
+  {
+    "Code": "02A25",
+    "Description": "Begeleiding GGZ: outputgericht (zwaar)"
+  },
+  {
+    "Code": "02A26",
+    "Description": "Begeleiding GHZ: outputgericht (licht)"
+  },
+  {
+    "Code": "02A27",
+    "Description": "Begeleiding GHZ: outputgericht (middel)"
+  },
+  {
+    "Code": "02A28",
+    "Description": "Begeleiding GHZ: outputgericht (zwaar)"
+  },
+  {
+    "Code": "02A29",
+    "Description": "Begeleiding VV&T: outputgericht (licht)"
+  },
+  {
+    "Code": "02A30",
+    "Description": "Begeleiding VV&T: outputgericht (middel)"
+  },
+  {
+    "Code": "02A31",
+    "Description": "Begeleiding VV&T: outputgericht (zwaar)"
+  },
+  {
+    "Code": "02A32",
+    "Description": "Mantelzorg GGZ: outputgericht (licht)"
+  },
+  {
+    "Code": "02A33",
+    "Description": "Mantelzorg GGZ: outputgericht (middel)"
+  },
+  {
+    "Code": "02A34",
+    "Description": "Mantelzorg GGZ: outputgericht (zwaar)"
+  },
+  {
+    "Code": "02A35",
+    "Description": "Mantelzorg GHZ: outputgericht (licht)"
+  },
+  {
+    "Code": "02A36",
+    "Description": "Mantelzorg GHZ: outputgericht (middel)"
+  },
+  {
+    "Code": "02A37",
+    "Description": "Mantelzorg GHZ: outputgericht (zwaar)"
+  },
+  {
+    "Code": "02A38",
+    "Description": "Mantelzorg VV&T: outputgericht (licht)"
+  },
+  {
+    "Code": "02A39",
+    "Description": "Mantelzorg VV&T: outputgericht (middel)"
+  },
+  {
+    "Code": "02A40",
+    "Description": "Mantelzorg VV&T: outputgericht (zwaar)"
+  },
+  {
+    "Code": "02L01",
+    "Description": "Vroegdoven: Toeleiding (landelijke inkoop ZG)"
+  },
+  {
+    "Code": "02L02",
+    "Description": "Vroegdoven: Verlengde toeleiding (landelijke inkoop ZG)"
+  },
+  {
+    "Code": "02L03",
+    "Description": "Vroegdoven: Consultatie (landelijke inkoop ZG)"
+  },
+  {
+    "Code": "02L04",
+    "Description": "Vroegdoven: Dovenmaatschappelijkwerk(landelijke inkoop ZG)"
+  },
+  {
+    "Code": "02L05",
+    "Description": "Vroegdoven: Gespecialiseerde begeleiding (landelijke inkoop ZG)"
+  },
+  {
+    "Code": "02L06",
+    "Description": "Vroegdoven: Revaliderende begeleiding (landelijke inkoop ZG)"
+  },
+  {
+    "Code": "02L08",
+    "Description": "Doofblinden: Toeleiding (landelijke inkoop ZG)"
+  },
+  {
+    "Code": "02L09",
+    "Description": "Doofblinden: Verlengde toeleiding (landelijke inkoop ZG)"
+  },
+  {
+    "Code": "02L10",
+    "Description": "Doofblinden: Consultatie (landelijke inkoop ZG)"
+  },
+  {
+    "Code": "02L11",
+    "Description": "Doofblinden: Dovenmaatschappelijkwerk (landelijke inkoop ZG)"
+  },
+  {
+    "Code": "02L12",
+    "Description": "Doofblinden: Gespecialiseerde begeleiding (landelijke inkoop ZG)"
+  },
+  {
+    "Code": "02L13",
+    "Description": "Doofblinden: Begeleidersvoorziening (landelijke inkoop ZG)"
+  },
+  {
+    "Code": "02L15",
+    "Description": "Visueel: gespecialiseerde begeleiding (landelijke inkoop ZG)"
+  },
+  {
+    "Code": "02001",
+    "Description": "Aanbrengen van structuur c.q. voeren van regie"
+  },
+  {
+    "Code": "02002",
+    "Description": "Begeleiding bij beperkingen in de ontwikkeling"
+  },
+  {
+    "Code": "02003",
+    "Description": "Begeleiding bij fysieke beperkingen"
+  },
+  {
+    "Code": "02004",
+    "Description": "Begeleiding bij psychosociale beperkingen"
+  },
+  {
+    "Code": "02005",
+    "Description": "Begeleiding bij vervoer"
+  },
+  {
+    "Code": "02006",
+    "Description": "Begeleiding bij/naar het zelfstandig wonen"
+  },
+  {
+    "Code": "02007",
+    "Description": "Oefenen (onder begeleiding)"
+  },
+  {
+    "Code": "02008",
+    "Description": "Ondersteuning bij praktische handelingen/vaardigheden"
+  },
+  {
+    "Code": "02009",
+    "Description": "Sociale relaties en maatschappelijk leven"
+  },
+  {
+    "Code": "02010",
+    "Description": "Toezicht"
+  },
+  {
+    "Code": "02011",
+    "Description": "Toeleiding ZG"
+  },
+  {
+    "Code": "02012",
+    "Description": "Verlengde toeleiding ZG"
+  },
+  {
+    "Code": "02013",
+    "Description": "Consultatie ZG"
+  },
+  {
+    "Code": "02014",
+    "Description": "Beantwoording korte begeleidingsvragen ZG"
+  },
+  {
+    "Code": "02015",
+    "Description": "Gespecialiseerde begeleiding ZG"
+  },
+  {
+    "Code": "02016",
+    "Description": "Revaliderende begeleiding ZG"
+  },
+  {
+    "Code": "02017",
+    "Description": "Begeleidersvoorziening doofblinden"
+  },
+  {
+    "Code": "02018",
+    "Description": "Doventolk"
+  },
+  {
+    "Code": "03A01",
+    "Description": "Persoonlijke verzorging specialistisch: outputgericht"
+  },
+  {
+    "Code": "03A02",
+    "Description": "Persoonlijke verzorging regulier: outputgericht"
+  },
+  {
+    "Code": "03A03",
+    "Description": "Persoonlijke verzorging regulier: inspanningsgericht"
+  },
+  {
+    "Code": "03A04",
+    "Description": "Persoonlijke verzorging specialistisch: inspanningsgericht"
+  },
+  {
+    "Code": "03A05",
+    "Description": "Persoonlijke verzorging regulier: outputgericht (licht)"
+  },
+  {
+    "Code": "03A06",
+    "Description": "Persoonlijke verzorging regulier: outputgericht (middel)"
+  },
+  {
+    "Code": "03A07",
+    "Description": "Persoonlijke verzorging regulier: outputgericht (zwaar)"
+  },
+  {
+    "Code": "03A08",
+    "Description": "Persoonlijke verzorging specialistisch: outputgericht (licht)"
+  },
+  {
+    "Code": "03A09",
+    "Description": "Persoonlijke verzorging specialistisch: outputgericht (middel)"
+  },
+  {
+    "Code": "03A10",
+    "Description": "Persoonlijke verzorging specialistisch: outputgericht (zwaar)"
+  },
+  {
+    "Code": "03A11",
+    "Description": "Persoonlijke verzorging regulier: inspanningsgericht (individueel)"
+  },
+  {
+    "Code": "03A12",
+    "Description": "Persoonlijke verzorging regulier: inspanningsgericht (op afstand)"
+  },
+  {
+    "Code": "03A13",
+    "Description": "Persoonlijke verzorging specialistisch: inspanningsgericht (individueel)"
+  },
+  {
+    "Code": "03A14",
+    "Description": "Persoonlijke verzorging specialistisch: inspanningsgericht (op afstand)"
+  },
+  {
+    "Code": "03A15",
+    "Description": "Persoonlijke verzorging laag tarief: inspanningsgericht"
+  },
+  {
+    "Code": "04A00",
+    "Description": "Kortdurend verblijf: outputgericht"
+  },
+  {
+    "Code": "04A01",
+    "Description": "Kortdurend verblijf: inspanningsgericht"
+  },
+  {
+    "Code": "04A02",
+    "Description": "Kortdurend verblijf regulier: inspanningsgericht"
+  },
+  {
+    "Code": "04A03",
+    "Description": "Kortdurend verblijf deeltijdzorg: inspanningsgericht"
+  },
+  {
+    "Code": "04A04",
+    "Description": "Kortdurend verblijf: logeer/respijtzorg"
+  },
+  {
+    "Code": "04A05",
+    "Description": "Kortdurend verblijf: inspanningsgericht (licht)"
+  },
+  {
+    "Code": "04A06",
+    "Description": "Kortdurend verblijf: inspanningsgericht (middel)"
+  },
+  {
+    "Code": "04A07",
+    "Description": "Kortdurend verblijf: inspanningsgericht (middelzwaar)"
+  },
+  {
+    "Code": "04A08",
+    "Description": "Kortdurend verblijf: inspanningsgericht (zwaar)"
+  },
+  {
+    "Code": "04A09",
+    "Description": "Kortdurend verblijf: inspanningsgericht (extra zwaar)"
+  },
+  {
+    "Code": "04A10",
+    "Description": "Kortdurend verblijf specialistisch: inspanningsgericht"
+  },
+  {
+    "Code": "04001",
+    "Description": "Deeltijdverblijf"
+  },
+  {
+    "Code": "04002",
+    "Description": "Logeeropvang"
+  },
+  {
+    "Code": "05A01",
+    "Description": "Huurderving"
+  },
+  {
+    "Code": "05A02",
+    "Description": "Keuring woonvoorziening"
+  },
+  {
+    "Code": "05A03",
+    "Description": "Tijdelijke huisvesting"
+  },
+  {
+    "Code": "05A04",
+    "Description": "Verhuizing en inrichting"
+  },
+  {
+    "Code": "05A05",
+    "Description": "Vrijmaken woning"
+  },
+  {
+    "Code": "05A06",
+    "Description": "Boodschappendienst"
+  },
+  {
+    "Code": "05A07",
+    "Description": "Maaltijdvoorziening"
+  },
+  {
+    "Code": "05001",
+    "Description": "Huurderving"
+  },
+  {
+    "Code": "05002",
+    "Description": "Keuring woonvoorziening"
+  },
+  {
+    "Code": "05003",
+    "Description": "Tijdelijke huisvesting"
+  },
+  {
+    "Code": "05004",
+    "Description": "Verhuizing en inrichting"
+  },
+  {
+    "Code": "05005",
+    "Description": "Vrijmaken woning"
+  },
+  {
+    "Code": "06001",
+    "Description": "Boodschappendienst"
+  },
+  {
+    "Code": "06002",
+    "Description": "Maaltijdvoorziening"
+  },
+  {
+    "Code": "07A01",
+    "Description": "Dagbesteding regulier: outputgericht"
+  },
+  {
+    "Code": "07A02",
+    "Description": "Dagbesteding specialistisch: outputgericht"
+  },
+  {
+    "Code": "07A03",
+    "Description": "Dagbesteding regulier: inspanningsgericht"
+  },
+  {
+    "Code": "07A04",
+    "Description": "Dagbesteding specialistisch: inspanningsgericht"
+  },
+  {
+    "Code": "07A05",
+    "Description": "Dagbesteding regulier: outputgericht (licht)"
+  },
+  {
+    "Code": "07A06",
+    "Description": "Dagbesteding regulier: outputgericht (middel)"
+  },
+  {
+    "Code": "07A07",
+    "Description": "Dagbesteding regulier: outputgericht (zwaar)"
+  },
+  {
+    "Code": "07A08",
+    "Description": "Dagbesteding specialistisch: outputgericht (licht)"
+  },
+  {
+    "Code": "07A09",
+    "Description": "Dagbesteding specialistisch: outputgericht (middel)"
+  },
+  {
+    "Code": "07A10",
+    "Description": "Dagbesteding specialistisch: outputgericht (zwaar)"
+  },
+  {
+    "Code": "07A11",
+    "Description": "Dagbesteding regulier: inspanningsgericht (licht)"
+  },
+  {
+    "Code": "07A12",
+    "Description": "Dagbesteding regulier: inspanningsgericht (middel)"
+  },
+  {
+    "Code": "07A13",
+    "Description": "Dagbesteding regulier: inspanningsgericht (zwaar)"
+  },
+  {
+    "Code": "07A14",
+    "Description": "Dagbesteding specialistisch: inspanningsgericht (licht)"
+  },
+  {
+    "Code": "07A15",
+    "Description": "Dagbesteding specialistisch: inspanningsgericht (middel)"
+  },
+  {
+    "Code": "07A16",
+    "Description": "Dagbesteding specialistisch: inspanningsgericht (zwaar)"
+  },
+  {
+    "Code": "07L01",
+    "Description": "Vroegdoven: Dagactiviteit zintuiglijk gehandicapten (landelijke inkoop ZG)"
+  },
+  {
+    "Code": "07L02",
+    "Description": "Doofblinden: Dagactiviteit zintuiglijk gehandicapten (landelijke inkoop ZG)"
+  },
+  {
+    "Code": "07001",
+    "Description": "Dagopvang bij beperking in de ontwikkeling"
+  },
+  {
+    "Code": "07002",
+    "Description": "Dagopvang bij fysieke beperkingen"
+  },
+  {
+    "Code": "07003",
+    "Description": "Dagopvang bij psychosociale beperkingen"
+  },
+  {
+    "Code": "07004",
+    "Description": "Dagactiviteit zintuiglijk gehandicapten"
+  },
+  {
+    "Code": "08A01",
+    "Description": "Vervoer: outputgericht"
+  },
+  {
+    "Code": "08A02",
+    "Description": "Vervoer rolstoel: outputgericht"
+  },
+  {
+    "Code": "08A03",
+    "Description": "Vervoer regulier: inspanningsgericht"
+  },
+  {
+    "Code": "08A04",
+    "Description": "Vervoer rolstoel: inspanningsgericht"
+  },
+  {
+    "Code": "08A05",
+    "Description": "Vervoer: outputgericht (licht)"
+  },
+  {
+    "Code": "08A06",
+    "Description": "Vervoer: outputgericht (middel)"
+  },
+  {
+    "Code": "08A07",
+    "Description": "Vervoer: outputgericht (zwaar)"
+  },
+  {
+    "Code": "08A08",
+    "Description": "Vervoer rolstoel: outputgericht (licht)"
+  },
+  {
+    "Code": "08A09",
+    "Description": "Vervoer rolstoel: outputgericht (middel)"
+  },
+  {
+    "Code": "08A10",
+    "Description": "Vervoer rolstoel: outputgericht (zwaar)"
+  },
+  {
+    "Code": "08001",
+    "Description": "Collectieve vervoerdienst"
+  },
+  {
+    "Code": "08002",
+    "Description": "Collectieve vervoerdienst rolstoel"
+  },
+  {
+    "Code": "08003",
+    "Description": "Financiële tegemoetkoming vervoer"
+  },
+  {
+    "Code": "08004",
+    "Description": "Individueel rolstoelvervoer"
+  },
+  {
+    "Code": "08005",
+    "Description": "Individueel vervoer"
+  },
+  {
+    "Code": "08006",
+    "Description": "Rijles scootmobiel"
+  },
+  {
+    "Code": "08007",
+    "Description": "Vervoer naar dagopvang"
+  },
+  {
+    "Code": "10A00",
+    "Description": "Overige maatwerkarrangementen"
+  },
+  {
+    "Code": "10A01",
+    "Description": "Maatwerkarrangement ggz intramuraal"
+  },
+  {
+    "Code": "10A02",
+    "Description": "Maatwerkarrangement ggz extramuraal"
+  },
+  {
+    "Code": "10A03",
+    "Description": "Maatwerkarrangement zintuigelijk gehandicapten"
+  },
+  {
+    "Code": "10A04",
+    "Description": "Maatwerkarrangement verstandelijk gehandicapten"
+  },
+  {
+    "Code": "10A05",
+    "Description": "Maatwerkarrangement gehandicapten"
+  },
+  {
+    "Code": "10A06",
+    "Description": "Maatwerkarrangement ouderen"
+  },
+  {
+    "Code": "10A07",
+    "Description": "Maatwerkarrangement ggz intramuraal (licht)"
+  },
+  {
+    "Code": "10A08",
+    "Description": "Maatwerkarrangement ggz intramuraal (middel)"
+  },
+  {
+    "Code": "10A09",
+    "Description": "Maatwerkarrangement ggz intramuraal (middelzwaar)"
+  },
+  {
+    "Code": "10A10",
+    "Description": "Maatwerkarrangement ggz intramuraal (zwaar)"
+  },
+  {
+    "Code": "10A11",
+    "Description": "Maatwerkarrangement ggz intramuraal (extra zwaar)"
+  },
+  {
+    "Code": "10A12",
+    "Description": "Maatwerkarrangement ggz extramuraal (licht)"
+  },
+  {
+    "Code": "10A13",
+    "Description": "Maatwerkarrangement ggz extramuraal (middel)"
+  },
+  {
+    "Code": "10A14",
+    "Description": "Maatwerkarrangement ggz extramuraal (middelzwaar)"
+  },
+  {
+    "Code": "10A15",
+    "Description": "Maatwerkarrangement ggz extramuraal (zwaar)"
+  },
+  {
+    "Code": "10A16",
+    "Description": "Maatwerkarrangement ggz extramuraal (extra zwaar)"
+  },
+  {
+    "Code": "10A17",
+    "Description": "Maatwerkarrangement zintuigelijk gehandicapten (licht)"
+  },
+  {
+    "Code": "10A18",
+    "Description": "Maatwerkarrangement zintuigelijk gehandicapten (middel)"
+  },
+  {
+    "Code": "10A19",
+    "Description": "Maatwerkarrangement zintuigelijk gehandicapten (middelzwaar)"
+  },
+  {
+    "Code": "10A20",
+    "Description": "Maatwerkarrangement zintuigelijk gehandicapten (zwaar)"
+  },
+  {
+    "Code": "10A21",
+    "Description": "Maatwerkarrangement zintuigelijk gehandicapten (extra zwaar)"
+  },
+  {
+    "Code": "10A22",
+    "Description": "Maatwerkarrangement verstandelijk gehandicapten (licht)"
+  },
+  {
+    "Code": "10A23",
+    "Description": "Maatwerkarrangement verstandelijk gehandicapten (middel)"
+  },
+  {
+    "Code": "10A24",
+    "Description": "Maatwerkarrangement verstandelijk gehandicapten (middelzwaar)"
+  },
+  {
+    "Code": "10A25",
+    "Description": "Maatwerkarrangement verstandelijk gehandicapten (zwaar)"
+  },
+  {
+    "Code": "10A26",
+    "Description": "Maatwerkarrangement verstandelijk gehandicapten (extra zwaar)"
+  },
+  {
+    "Code": "10A27",
+    "Description": "Maatwerkarrangement gehandicapten (licht)"
+  },
+  {
+    "Code": "10A28",
+    "Description": "Maatwerkarrangement gehandicapten (middel)"
+  },
+  {
+    "Code": "10A29",
+    "Description": "Maatwerkarrangement gehandicapten (middelzwaar)"
+  },
+  {
+    "Code": "10A30",
+    "Description": "Maatwerkarrangement gehandicapten (zwaar)"
+  },
+  {
+    "Code": "10A31",
+    "Description": "Maatwerkarrangement gehandicapten (extra zwaar)"
+  },
+  {
+    "Code": "10A32",
+    "Description": "Maatwerkarrangement ouderen (licht)"
+  },
+  {
+    "Code": "10A33",
+    "Description": "Maatwerkarrangement ouderen (middel)"
+  },
+  {
+    "Code": "10A34",
+    "Description": "Maatwerkarrangement ouderen (middelzwaar)"
+  },
+  {
+    "Code": "10A35",
+    "Description": "Maatwerkarrangement ouderen (zwaar)"
+  },
+  {
+    "Code": "10A36",
+    "Description": "Maatwerkarrangement ouderen (extra zwaar)"
+  },
+  {
+    "Code": "10A37",
+    "Description": "Zelfstandig leven 1 (licht)"
+  },
+  {
+    "Code": "10A38",
+    "Description": "Zelfstandig leven 1 (middel)"
+  },
+  {
+    "Code": "10A39",
+    "Description": "Zelfstandig leven 1 (zwaar)"
+  },
+  {
+    "Code": "10A40",
+    "Description": "Zelfstandig leven 2 (licht)"
+  },
+  {
+    "Code": "10A41",
+    "Description": "Zelfstandig leven 2 (middel)"
+  },
+  {
+    "Code": "10A42",
+    "Description": "Zelfstandig leven 2 (zwaar)"
+  },
+  {
+    "Code": "10A43",
+    "Description": "Zelfstandig leven 3 (licht)"
+  },
+  {
+    "Code": "10A44",
+    "Description": "Zelfstandig leven 3 (middel)"
+  },
+  {
+    "Code": "10A45",
+    "Description": "Zelfstandig leven 3 (zwaar)"
+  },
+  {
+    "Code": "10A46",
+    "Description": "Maatschappelijke deelname 1 (licht)"
+  },
+  {
+    "Code": "10A47",
+    "Description": "Maatschappelijke deelname 1 (middel)"
+  },
+  {
+    "Code": "10A48",
+    "Description": "Maatschappelijke deelname 1 (zwaar)"
+  },
+  {
+    "Code": "10A49",
+    "Description": "Maatschappelijke deelname 2 (licht)"
+  },
+  {
+    "Code": "10A50",
+    "Description": "Maatschappelijke deelname 2 (middel)"
+  },
+  {
+    "Code": "10A51",
+    "Description": "Maatschappelijke deelname 2 (zwaar)"
+  },
+  {
+    "Code": "10A52",
+    "Description": "Maatschappelijke deelname 3 (licht)"
+  },
+  {
+    "Code": "10A53",
+    "Description": "Maatschappelijke deelname 3 (middel)"
+  },
+  {
+    "Code": "10A54",
+    "Description": "Maatschappelijke deelname 3 (zwaar)"
+  },
+  {
+    "Code": "10A55",
+    "Description": "Zelfstandig leven 1 (middelzwaar): outputgericht"
+  },
+  {
+    "Code": "10A56",
+    "Description": "Zelfstandig leven 1 (extra zwaar): outputgericht"
+  },
+  {
+    "Code": "10A57",
+    "Description": "Zelfstandig leven 2 (middelzwaar): outputgericht"
+  },
+  {
+    "Code": "10A58",
+    "Description": "Zelfstandig leven 2 (extra zwaar): outputgericht"
+  },
+  {
+    "Code": "10A59",
+    "Description": "Zelfstandig leven 3 (licht): outputgericht"
+  },
+  {
+    "Code": "10A60",
+    "Description": "Zelfstandig leven 3 (extra zwaar): outputgericht"
+  },
+  {
+    "Code": "10A61",
+    "Description": "Maatschappelijke deelname 1 (middelzwaar): outputgericht"
+  },
+  {
+    "Code": "10A62",
+    "Description": "Maatschappelijke deelname 1 (extra zwaar): outputgericht"
+  },
+  {
+    "Code": "10A63",
+    "Description": "Maatschappelijke deelname 2 (middelzwaar): outputgericht"
+  },
+  {
+    "Code": "10A64",
+    "Description": "Maatschappelijke deelname 2 (extra zwaar): outputgericht"
+  },
+  {
+    "Code": "10A65",
+    "Description": "Maatschappelijke deelname 3 (middelzwaar): outputgericht"
+  },
+  {
+    "Code": "10A66",
+    "Description": "Maatschappelijke deelname 3 (extra zwaar): outputgericht"
+  },
+  {
+    "Code": "11A01",
+    "Description": "Accessoires rolstoel"
+  },
+  {
+    "Code": "11A02",
+    "Description": "Elektrische rolstoel"
+  },
+  {
+    "Code": "11A03",
+    "Description": "Handmatig bewogen rolstoel"
+  },
+  {
+    "Code": "11A04",
+    "Description": "Individuele aanpassing rolstoel"
+  },
+  {
+    "Code": "11A05",
+    "Description": "Onderhoud en reparatie"
+  },
+  {
+    "Code": "11A06",
+    "Description": "Sport rolstoel"
+  },
+  {
+    "Code": "11A07",
+    "Description": "Werkstoelen"
+  },
+  {
+    "Code": "11001",
+    "Description": "Accessoires rolstoel"
+  },
+  {
+    "Code": "11002",
+    "Description": "Elektrische rolstoel"
+  },
+  {
+    "Code": "11003",
+    "Description": "Handmatig bewogen rolstoel"
+  },
+  {
+    "Code": "11004",
+    "Description": "Individuele aanpassing rolstoel"
+  },
+  {
+    "Code": "11005",
+    "Description": "Onderhoud en reparatie"
+  },
+  {
+    "Code": "11006",
+    "Description": "Sport rolstoel"
+  },
+  {
+    "Code": "11007",
+    "Description": "Werkstoelen"
+  },
+  {
+    "Code": "12A01",
+    "Description": "Aangepaste fietsen"
+  },
+  {
+    "Code": "12A02",
+    "Description": "Aanpassing vervoermiddel"
+  },
+  {
+    "Code": "12A03",
+    "Description": "Accessoires vervoersvoorziening"
+  },
+  {
+    "Code": "12A04",
+    "Description": "Ander verplaatsingsmiddel kinderen"
+  },
+  {
+    "Code": "12A05",
+    "Description": "Open elektrische buitenwagen (scootmobiel)"
+  },
+  {
+    "Code": "12A06",
+    "Description": "Gesloten buitenwagen"
+  },
+  {
+    "Code": "12A07",
+    "Description": "Ander verplaatsingsmiddel volwassenen"
+  },
+  {
+    "Code": "12A08",
+    "Description": "Bruikleenauto"
+  },
+  {
+    "Code": "12A09",
+    "Description": "Collectieve vervoervoorziening"
+  },
+  {
+    "Code": "12A10",
+    "Description": "Collectieve vervoervoorziening rolstoel"
+  },
+  {
+    "Code": "12A11",
+    "Description": "Driewielfietsen"
+  },
+  {
+    "Code": "12A12",
+    "Description": "Financiële tegemoetkoming vervoervoorziening"
+  },
+  {
+    "Code": "12A13",
+    "Description": "Onderhoud en reparatie"
+  },
+  {
+    "Code": "12A14",
+    "Description": "Verzekeringen"
+  },
+  {
+    "Code": "12001",
+    "Description": "Aangepaste fietsen"
+  },
+  {
+    "Code": "12002",
+    "Description": "Aanpassing vervoermiddel"
+  },
+  {
+    "Code": "12003",
+    "Description": "Accessoires vervoersvoorziening"
+  },
+  {
+    "Code": "12004",
+    "Description": "Ander verplaatsingsmiddel kinderen"
+  },
+  {
+    "Code": "12005",
+    "Description": "Open elektrische buitenwagen (scootmobiel)"
+  },
+  {
+    "Code": "12006",
+    "Description": "Gesloten buitenwagen"
+  },
+  {
+    "Code": "12007",
+    "Description": "Ander verplaatsingsmiddel volwassenen"
+  },
+  {
+    "Code": "12008",
+    "Description": "Bruikleenauto"
+  },
+  {
+    "Code": "12009",
+    "Description": "Collectieve vervoervoorziening"
+  },
+  {
+    "Code": "12010",
+    "Description": "Collectieve vervoervoorziening rolstoel"
+  },
+  {
+    "Code": "12011",
+    "Description": "Driewielfietsen"
+  },
+  {
+    "Code": "12012",
+    "Description": "Financiële tegemoetkoming vervoervoorziening"
+  },
+  {
+    "Code": "12013",
+    "Description": "Onderhoud en reparatie"
+  },
+  {
+    "Code": "12014",
+    "Description": "Verzekeringen"
+  },
+  {
+    "Code": "13A01",
+    "Description": "Financiële tegemoetkoming woningaanpassing"
+  },
+  {
+    "Code": "13A02",
+    "Description": "Onroerende woonvoorziening"
+  },
+  {
+    "Code": "13A03",
+    "Description": "Roerende woonvoorziening"
+  },
+  {
+    "Code": "13A04",
+    "Description": "Traplift/tillift"
+  },
+  {
+    "Code": "13A05",
+    "Description": "Verwijderen woonvoorziening"
+  },
+  {
+    "Code": "13A06",
+    "Description": "Onderhoud en reparatie"
+  },
+  {
+    "Code": "13001",
+    "Description": "Financiële tegemoetkoming woningaanpassing"
+  },
+  {
+    "Code": "13002",
+    "Description": "Onroerende woonvoorziening"
+  },
+  {
+    "Code": "13003",
+    "Description": "Roerende woonvoorziening"
+  },
+  {
+    "Code": "13004",
+    "Description": "Traplift/tillift"
+  },
+  {
+    "Code": "13005",
+    "Description": "Verwijderen woonvoorziening"
+  },
+  {
+    "Code": "13006",
+    "Description": "Onderhoud en reparatie"
+  },
+  {
+    "Code": "15A01",
+    "Description": "Beschermd wonen: outputgericht"
+  },
+  {
+    "Code": "15A02",
+    "Description": "Beschermd wonen: inspanningsgericht"
+  },
+  {
+    "Code": "15A03",
+    "Description": "Beschermd wonen: outputgericht (licht)"
+  },
+  {
+    "Code": "15A04",
+    "Description": "Beschermd wonen: outputgericht (middel)"
+  },
+  {
+    "Code": "15A05",
+    "Description": "Beschermd wonen: outputgericht (middelzwaar)"
+  },
+  {
+    "Code": "15A06",
+    "Description": "Beschermd wonen: outputgericht (zwaar)"
+  },
+  {
+    "Code": "15A07",
+    "Description": "Beschermd wonen: outputgericht (extra zwaar)"
+  },
+  {
+    "Code": "15A08",
+    "Description": "Beschermd wonen: inspanningsgericht (licht)"
+  },
+  {
+    "Code": "15A09",
+    "Description": "Beschermd wonen: inspanningsgericht (middel)"
+  },
+  {
+    "Code": "15A10",
+    "Description": "Beschermd wonen: inspanningsgericht (middelzwaar)"
+  },
+  {
+    "Code": "15A11",
+    "Description": "Beschermd wonen: inspanningsgericht (zwaar)"
+  },
+  {
+    "Code": "15A12",
+    "Description": "Beschermd wonen: inspanningsgericht (extra zwaar)"
+  },
+  {
+    "Code": "15A13",
+    "Description": "Per dag VPT 1GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "15A14",
+    "Description": "Per dag VPT 1GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "15A15",
+    "Description": "Per dag VPT 2GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "15A16",
+    "Description": "Per dag VPT 2GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "15A17",
+    "Description": "Per dag VPT 3GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "15A18",
+    "Description": "Per dag VPT 3GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "15A19",
+    "Description": "Per dag VPT 4GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "15A20",
+    "Description": "Per dag VPT 4GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "15A21",
+    "Description": "Per dag VPT 5GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "15A22",
+    "Description": "Per dag VPT 5GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "15A23",
+    "Description": "Per dag VPT 6GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "15A24",
+    "Description": "Per dag VPT 6GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "15A25",
+    "Description": "Per dag ZZP 1GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "15A26",
+    "Description": "Per dag ZZP 1GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "15A29",
+    "Description": "Per dag ZZP 2GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "15A30",
+    "Description": "Per dag ZZP 2GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "15A33",
+    "Description": "Per dag ZZP 3GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "15A34",
+    "Description": "Per dag ZZP 3GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "15A37",
+    "Description": "Per dag ZZP 4GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "15A38",
+    "Description": "Per dag ZZP 4GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "15A41",
+    "Description": "Per dag ZZP 5GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "15A42",
+    "Description": "Per dag ZZP 5GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "15A45",
+    "Description": "Per dag ZZP 6GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "15A46",
+    "Description": "Per dag ZZP 6GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "15A49",
+    "Description": "Beschermd wonen afwezigheidsdag: inspanningsgericht"
+  },
+  {
+    "Code": "16A01",
+    "Description": "Opvang: outputgericht"
+  },
+  {
+    "Code": "16A02",
+    "Description": "Opvang: inspanningsgericht"
+  },
+  {
+    "Code": "16A03",
+    "Description": "Opvang: outputgericht (licht)"
+  },
+  {
+    "Code": "16A04",
+    "Description": "Opvang: outputgericht (middel)"
+  },
+  {
+    "Code": "16A05",
+    "Description": "Opvang: outputgericht (zwaar)"
+  },
+  {
+    "Code": "16001",
+    "Description": "Dak- en thuislozen opvang"
+  },
+  {
+    "Code": "16002",
+    "Description": "Vrouwenopvang"
+  },
+  {
+    "Code": "17A00",
+    "Description": "Spoedopvang: outputgericht"
+  },
+  {
+    "Code": "17A01",
+    "Description": "Spoedopvang: inspanningsgericht"
+  },
+  {
+    "Code": "17001",
+    "Description": "Crisisopvang"
+  }
+]

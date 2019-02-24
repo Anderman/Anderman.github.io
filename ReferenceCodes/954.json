@@ -4766,5 +4766,9 @@
   {
     "Code": "9144",
     "Description": "Verschil gedeclareerde en toegekende bedragen prestatierecords en sluitrecord niet gelijk aan elkaar."
+  },
+  {
+    "Code": "9145",
+    "Description": "NieuweEinddatum moet gelijk zijn aan of later zijn dan OorspronkelijkeBegindatum."
   }
 ]

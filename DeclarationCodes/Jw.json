@@ -1,0 +1,3550 @@
+[
+  {
+    "Code": "40A00",
+    "Description": "Persoonlijke verzorging"
+  },
+  {
+    "Code": "40A01",
+    "Description": "Persoonlijke verzorging specialistisch: outputgericht"
+  },
+  {
+    "Code": "40A02",
+    "Description": "Persoonlijke verzorging regulier: outputgericht"
+  },
+  {
+    "Code": "40A03",
+    "Description": "Persoonlijke verzorging specialistisch: inspanningsgericht"
+  },
+  {
+    "Code": "40A04",
+    "Description": "Persoonlijke verzorging regulier: inspanningsgericht"
+  },
+  {
+    "Code": "40A05",
+    "Description": "Persoonlijke verzorging regulier: outputgericht (licht)"
+  },
+  {
+    "Code": "40A06",
+    "Description": "Persoonlijke verzorging regulier: outputgericht (middel)"
+  },
+  {
+    "Code": "40A07",
+    "Description": "Persoonlijke verzorging regulier: outputgericht (zwaar)"
+  },
+  {
+    "Code": "40A08",
+    "Description": "Persoonlijke verzorging specialistisch: outputgericht (licht)"
+  },
+  {
+    "Code": "40A09",
+    "Description": "Persoonlijke verzorging specialistisch: outputgericht (middel)"
+  },
+  {
+    "Code": "40A10",
+    "Description": "Persoonlijke verzorging specialistisch: outputgericht (zwaar)"
+  },
+  {
+    "Code": "40A11",
+    "Description": "Persoonlijke verzorging regulier: inspanningsgericht (individueel)"
+  },
+  {
+    "Code": "40A12",
+    "Description": "Persoonlijke verzorging regulier: inspanningsgericht (op afstand)"
+  },
+  {
+    "Code": "40A13",
+    "Description": "Persoonlijke verzorging specialistisch: inspanningsgericht (individueel)"
+  },
+  {
+    "Code": "40A14",
+    "Description": "Persoonlijke verzorging specialistisch: inspanningsgericht (op afstand)"
+  },
+  {
+    "Code": "40A15",
+    "Description": "Persoonlijke verzorging laag tarief: inspanningsgericht"
+  },
+  {
+    "Code": "41A00",
+    "Description": "Dagbehandeling"
+  },
+  {
+    "Code": "41A01",
+    "Description": "Dagbehandeling regulier: outputgericht"
+  },
+  {
+    "Code": "41A02",
+    "Description": "Dagbehandeling specialistisch: outputgericht"
+  },
+  {
+    "Code": "41A03",
+    "Description": "Dagbehandeling regulier: inspanningsgericht"
+  },
+  {
+    "Code": "41A04",
+    "Description": "Dagbehandeling specialistisch: inspanningsgericht"
+  },
+  {
+    "Code": "41A05",
+    "Description": "Dagbehandeling regulier: outputgericht (licht)"
+  },
+  {
+    "Code": "41A06",
+    "Description": "Dagbehandeling regulier: outputgericht (middel)"
+  },
+  {
+    "Code": "41A07",
+    "Description": "Dagbehandeling regulier: outputgericht (zwaar)"
+  },
+  {
+    "Code": "41A08",
+    "Description": "Dagbehandeling specialistisch: outputgericht (licht)"
+  },
+  {
+    "Code": "41A09",
+    "Description": "Dagbehandeling specialistisch: outputgericht (middel)"
+  },
+  {
+    "Code": "41A10",
+    "Description": "Dagbehandeling specialistisch: outputgericht (zwaar)"
+  },
+  {
+    "Code": "41A11",
+    "Description": "Dagbehandeling regulier: inspanningsgericht (licht)"
+  },
+  {
+    "Code": "41A12",
+    "Description": "Dagbehandeling regulier: inspanningsgericht (middel)"
+  },
+  {
+    "Code": "41A13",
+    "Description": "Dagbehandeling regulier: inspanningsgericht (zwaar)"
+  },
+  {
+    "Code": "41A14",
+    "Description": "Dagbehandeling specialistisch: inspanningsgericht (licht)"
+  },
+  {
+    "Code": "41A15",
+    "Description": "Dagbehandeling specialistisch: inspanningsgericht (middel)"
+  },
+  {
+    "Code": "41A16",
+    "Description": "Dagbehandeling specialistisch: inspanningsgericht (zwaar)"
+  },
+  {
+    "Code": "41A17",
+    "Description": "Dagbesteding: outputgericht"
+  },
+  {
+    "Code": "41A18",
+    "Description": "Dagbesteding: inspanningsgericht"
+  },
+  {
+    "Code": "41A19",
+    "Description": "Dagbesteding: outputgericht (licht)"
+  },
+  {
+    "Code": "41A20",
+    "Description": "Dagbesteding: outputgericht (middel)"
+  },
+  {
+    "Code": "41A21",
+    "Description": "Dagbesteding: outputgericht (zwaar)"
+  },
+  {
+    "Code": "41A22",
+    "Description": "Dagbesteding: inspanningsgericht (licht)"
+  },
+  {
+    "Code": "41A23",
+    "Description": "Dagbesteding: inspanningsgericht (middel)"
+  },
+  {
+    "Code": "41A24",
+    "Description": "Dagbesteding: inspanningsgericht (zwaar)"
+  },
+  {
+    "Code": "41B00",
+    "Description": "Dagbehandeling: outputgericht"
+  },
+  {
+    "Code": "41B01",
+    "Description": "Diagnostiek op eigen locatie aanbieder: outputgericht"
+  },
+  {
+    "Code": "41B02",
+    "Description": "Diagnostiek op locatie bij andere organisaties: outputgericht"
+  },
+  {
+    "Code": "41B03",
+    "Description": "Begeleiden op eigen locatie aanbieder: outputgericht"
+  },
+  {
+    "Code": "41B04",
+    "Description": "Begeleiden op locatie bij andere organisatie: outputgericht"
+  },
+  {
+    "Code": "41B05",
+    "Description": "Behandelen op eigen locatie aanbieder: outputgericht"
+  },
+  {
+    "Code": "41B06",
+    "Description": "Behandelen op locatie bij andere organisatie: outputgericht"
+  },
+  {
+    "Code": "42A00",
+    "Description": "Vervoerdiensten"
+  },
+  {
+    "Code": "42A01",
+    "Description": "Vervoer: outputgericht"
+  },
+  {
+    "Code": "42A02",
+    "Description": "Vervoer rolstoel: outputgericht"
+  },
+  {
+    "Code": "42A03",
+    "Description": "Vervoer: inspanningsgericht"
+  },
+  {
+    "Code": "42A04",
+    "Description": "Vervoer rolstoel: inspanningsgericht"
+  },
+  {
+    "Code": "42A05",
+    "Description": "Vervoer: outputgericht (licht)"
+  },
+  {
+    "Code": "42A06",
+    "Description": "Vervoer: outputgericht (middel)"
+  },
+  {
+    "Code": "42A07",
+    "Description": "Vervoer: outputgericht (zwaar)"
+  },
+  {
+    "Code": "42A08",
+    "Description": "Vervoer rolstoel: outputgericht (licht)"
+  },
+  {
+    "Code": "42A09",
+    "Description": "Vervoer rolstoel: outputgericht (middel)"
+  },
+  {
+    "Code": "42A10",
+    "Description": "Vervoer rolstoel: outputgericht (zwaar)"
+  },
+  {
+    "Code": "43A00",
+    "Description": "Jeugdhulp verblijf (incl. beh.)"
+  },
+  {
+    "Code": "43A01",
+    "Description": "Jeugdhulp verblijf: outputgericht"
+  },
+  {
+    "Code": "43A02",
+    "Description": "Deeltijdverblijf: outputgericht"
+  },
+  {
+    "Code": "43A03",
+    "Description": "Pleegzorg: outputgericht"
+  },
+  {
+    "Code": "43A04",
+    "Description": "Gezinshuis: outputgericht"
+  },
+  {
+    "Code": "43A05",
+    "Description": "Logeren: outputgericht"
+  },
+  {
+    "Code": "43A06",
+    "Description": "JeugdzorgPlus: outputgericht"
+  },
+  {
+    "Code": "43A07",
+    "Description": "Jeugdhulp verblijf: inspanningsgericht"
+  },
+  {
+    "Code": "43A08",
+    "Description": "Deeltijdverblijf: inspanningsgericht"
+  },
+  {
+    "Code": "43A09",
+    "Description": "Pleegzorg: inspanningsgericht"
+  },
+  {
+    "Code": "43A10",
+    "Description": "Gezinshuis: inspanningsgericht"
+  },
+  {
+    "Code": "43A11",
+    "Description": "Logeren: inspanningsgericht"
+  },
+  {
+    "Code": "43A12",
+    "Description": "JeugdzorgPlus: inspanningsgericht"
+  },
+  {
+    "Code": "43A13",
+    "Description": "JSLVG: inspanningsgericht"
+  },
+  {
+    "Code": "43A14",
+    "Description": "Observatie: inspanningsgericht"
+  },
+  {
+    "Code": "43A15",
+    "Description": "Jeugdhulp verblijf: outputgericht (licht)"
+  },
+  {
+    "Code": "43A16",
+    "Description": "Jeugdhulp verblijf: outputgericht (middel)"
+  },
+  {
+    "Code": "43A17",
+    "Description": "Jeugdhulp verblijf: outputgericht (middelzwaar)"
+  },
+  {
+    "Code": "43A18",
+    "Description": "Jeugdhulp verblijf: outputgericht (zwaar)"
+  },
+  {
+    "Code": "43A19",
+    "Description": "Jeugdhulp verblijf: outputgericht (extra zwaar)"
+  },
+  {
+    "Code": "43A20",
+    "Description": "Deeltijdverblijf: outputgericht (licht)"
+  },
+  {
+    "Code": "43A21",
+    "Description": "Deeltijdverblijf: outputgericht (middel)"
+  },
+  {
+    "Code": "43A22",
+    "Description": "Deeltijdverblijf: outputgericht (zwaar)"
+  },
+  {
+    "Code": "43A23",
+    "Description": "Pleegzorg: outputgericht (deeltijd)"
+  },
+  {
+    "Code": "43A24",
+    "Description": "Pleegzorg: outputgericht (voltijd)"
+  },
+  {
+    "Code": "43A25",
+    "Description": "Pleegzorg: outputgericht (vakantie)"
+  },
+  {
+    "Code": "43A26",
+    "Description": "Pleegzorg specialistisch: outputgericht (deeltijd)"
+  },
+  {
+    "Code": "43A27",
+    "Description": "Pleegzorg specialistisch: outputgericht (voltijd)"
+  },
+  {
+    "Code": "43A28",
+    "Description": "Pleegzorg specialistisch: outputgericht (vakantie)"
+  },
+  {
+    "Code": "43A29",
+    "Description": "Gezinshuis: outputgericht (licht)"
+  },
+  {
+    "Code": "43A30",
+    "Description": "Gezinshuis: outputgericht (middel)"
+  },
+  {
+    "Code": "43A31",
+    "Description": "Gezinshuis: outputgericht (zwaar)"
+  },
+  {
+    "Code": "43A32",
+    "Description": "Logeren: outputgericht (licht)"
+  },
+  {
+    "Code": "43A33",
+    "Description": "Logeren: outputgericht (middel)"
+  },
+  {
+    "Code": "43A34",
+    "Description": "Logeren: outputgericht (zwaar)"
+  },
+  {
+    "Code": "43A35",
+    "Description": "Jeugdhulp verblijf: inspanningsgericht (licht)"
+  },
+  {
+    "Code": "43A36",
+    "Description": "Jeugdhulp verblijf: inspanningsgericht (middel)"
+  },
+  {
+    "Code": "43A37",
+    "Description": "Jeugdhulp verblijf: inspanningsgericht (middelzwaar)"
+  },
+  {
+    "Code": "43A38",
+    "Description": "Jeugdhulp verblijf: inspanningsgericht (zwaar)"
+  },
+  {
+    "Code": "43A39",
+    "Description": "Jeugdhulp verblijf: inspanningsgericht (extra zwaar)"
+  },
+  {
+    "Code": "43A40",
+    "Description": "Deeltijdverblijf: inspanningsgericht (licht)"
+  },
+  {
+    "Code": "43A41",
+    "Description": "Deeltijdverblijf: inspanningsgericht (middel)"
+  },
+  {
+    "Code": "43A42",
+    "Description": "Deeltijdverblijf: inspanningsgericht (zwaar)"
+  },
+  {
+    "Code": "43A43",
+    "Description": "ZZP LVG: inspanningsgericht (licht)"
+  },
+  {
+    "Code": "43A44",
+    "Description": "ZZP LVG: inspanningsgericht (middel)"
+  },
+  {
+    "Code": "43A45",
+    "Description": "ZZP LVG: inspanningsgericht (middelzwaar)"
+  },
+  {
+    "Code": "43A46",
+    "Description": "ZZP LVG: inspanningsgericht (zwaar)"
+  },
+  {
+    "Code": "43A47",
+    "Description": "ZZP LVG: inspanningsgericht (extra zwaar)"
+  },
+  {
+    "Code": "43A48",
+    "Description": "Observatie: inspanningsgericht (licht)"
+  },
+  {
+    "Code": "43A49",
+    "Description": "Observatie: inspanningsgericht (middel)"
+  },
+  {
+    "Code": "43A50",
+    "Description": "Observatie: inspanningsgericht (zwaar)"
+  },
+  {
+    "Code": "43A51",
+    "Description": "Per dag ZZP 3VG incl.BH excl.DB"
+  },
+  {
+    "Code": "43A52",
+    "Description": "Per dag ZZP 3VG incl.BH incl.DB"
+  },
+  {
+    "Code": "43A53",
+    "Description": "Per dag ZZP 1LVG incl.BH incl.DB"
+  },
+  {
+    "Code": "43A54",
+    "Description": "Per dag ZZP 2LVG incl.BH incl.DB"
+  },
+  {
+    "Code": "43A55",
+    "Description": "Per dag ZZP 3LVG incl.BH incl.DB"
+  },
+  {
+    "Code": "43A56",
+    "Description": "Per dag ZZP 4LVG incl.BH incl.DB"
+  },
+  {
+    "Code": "43A57",
+    "Description": "Per dag ZZP 5LVG incl.BH incl.DB"
+  },
+  {
+    "Code": "43A58",
+    "Description": "NHC"
+  },
+  {
+    "Code": "43A59",
+    "Description": "NIC"
+  },
+  {
+    "Code": "43A60",
+    "Description": "Pleegzorg geestelijk gehandicapten: outputgericht"
+  },
+  {
+    "Code": "43A61",
+    "Description": "Pleegzorg lichamelijk gehandicapten: outputgericht"
+  },
+  {
+    "Code": "43A62",
+    "Description": "Pleegzorg: inspanningsgericht (weekend)"
+  },
+  {
+    "Code": "43A63",
+    "Description": "Pleegzorg: inspanningsgericht (jonger dan 12 jaar)"
+  },
+  {
+    "Code": "43A64",
+    "Description": "Jeugdzorg plus jonger dan 12 jaar: inspanningsgericht"
+  },
+  {
+    "Code": "43A65",
+    "Description": "Afwezigheidsdag: inspanningsgericht"
+  },
+  {
+    "Code": "43A66",
+    "Description": "Logeren specialistisch: inspanningsgericht"
+  },
+  {
+    "Code": "43B00",
+    "Description": "Pleegzorg: outputgericht"
+  },
+  {
+    "Code": "43B01",
+    "Description": "Gezinsgericht: outputgericht"
+  },
+  {
+    "Code": "43B02",
+    "Description": "Gesloten plaatsing: outputgericht"
+  },
+  {
+    "Code": "43B03",
+    "Description": "Verblijf anders: outputgericht"
+  },
+  {
+    "Code": "43B04",
+    "Description": "Diagnostiek verblijf anders fulltime: outputgericht"
+  },
+  {
+    "Code": "43B05",
+    "Description": "Diagnostiek verblijf anders hulpverlener parttime aanwezig: outputgericht"
+  },
+  {
+    "Code": "43B06",
+    "Description": "Diagnostiek verblijf anders cliënt parttime aanwezig: outputgericht"
+  },
+  {
+    "Code": "43B07",
+    "Description": "Diagnostiek verblijf anders driemilieuvoorziening: outputgericht"
+  },
+  {
+    "Code": "43B08",
+    "Description": "Behandelen met pleegzorg fulltime: outputgericht"
+  },
+  {
+    "Code": "43B09",
+    "Description": "Behandelen met pleegzorg parttime: outputgericht"
+  },
+  {
+    "Code": "43B10",
+    "Description": "Behandelen gezinsgericht fulltime: outputgericht"
+  },
+  {
+    "Code": "43B11",
+    "Description": "Behandelen gezinsgericht parttime: outputgericht"
+  },
+  {
+    "Code": "43B12",
+    "Description": "Gesloten plaatsing: hulp bij voorwaardelijke machtiging gesloten jeugdhulp en schorsing: outputgericht"
+  },
+  {
+    "Code": "43B13",
+    "Description": "Gesloten plaatsing: 24 uurs hulp onder machtiging gesloten jeugdhulp: outputgericht"
+  },
+  {
+    "Code": "43B14",
+    "Description": "Gesloten plaatsing: opname BOPZ: outputgericht"
+  },
+  {
+    "Code": "43B15",
+    "Description": "Gesloten plaatsing: traject Jeugdzorgplus: outputgericht"
+  },
+  {
+    "Code": "43B16",
+    "Description": "Behandelen verblijf anders fulltime: outputgericht"
+  },
+  {
+    "Code": "43B17",
+    "Description": "Behandelen verblijf anders hulpverlener parttime aanwezig: outputgericht"
+  },
+  {
+    "Code": "43B18",
+    "Description": "Behandelen verblijf anders cliënt parttime aanwezig: outputgericht"
+  },
+  {
+    "Code": "43B19",
+    "Description": "Behandelen verblijf anders driemilieuvoorziening: outputgericht"
+  },
+  {
+    "Code": "44A00",
+    "Description": "Jeugdhulp verblijf (excl. beh)"
+  },
+  {
+    "Code": "44A01",
+    "Description": "Jeugdhulp verblijf: outputgericht"
+  },
+  {
+    "Code": "44A02",
+    "Description": "Deeltijdverblijf: outputgericht"
+  },
+  {
+    "Code": "44A03",
+    "Description": "Pleegzorg: outputgericht"
+  },
+  {
+    "Code": "44A04",
+    "Description": "Gezinshuis: outputgericht"
+  },
+  {
+    "Code": "44A05",
+    "Description": "Logeren: outputgericht"
+  },
+  {
+    "Code": "44A06",
+    "Description": "Jeugdhulp verblijf: inspanningsgericht"
+  },
+  {
+    "Code": "44A07",
+    "Description": "Pleegzorg: inspanningsgericht"
+  },
+  {
+    "Code": "44A08",
+    "Description": "Gezinshuis: inspanningsgericht"
+  },
+  {
+    "Code": "44A09",
+    "Description": "Logeren: inspanningsgericht"
+  },
+  {
+    "Code": "44A10",
+    "Description": "Jeugdhulp verblijf: outputgericht (licht)"
+  },
+  {
+    "Code": "44A11",
+    "Description": "Jeugdhulp verblijf: outputgericht (middel)"
+  },
+  {
+    "Code": "44A12",
+    "Description": "Jeugdhulp verblijf: outputgericht (middelzwaar)"
+  },
+  {
+    "Code": "44A13",
+    "Description": "Jeugdhulp verblijf: outputgericht (zwaar)"
+  },
+  {
+    "Code": "44A14",
+    "Description": "Jeugdhulp verblijf: outputgericht (extra zwaar)"
+  },
+  {
+    "Code": "44A15",
+    "Description": "Deeltijdverblijf: outputgericht (licht)"
+  },
+  {
+    "Code": "44A16",
+    "Description": "Deeltijdverblijf: outputgericht (middel)"
+  },
+  {
+    "Code": "44A17",
+    "Description": "Deeltijdverblijf: outputgericht (zwaar)"
+  },
+  {
+    "Code": "44A18",
+    "Description": "Pleegzorg: outputgericht (deeltijd)"
+  },
+  {
+    "Code": "44A19",
+    "Description": "Pleegzorg: outputgericht (voltijd)"
+  },
+  {
+    "Code": "44A20",
+    "Description": "Pleegzorg: outputgericht (vakantie)"
+  },
+  {
+    "Code": "44A21",
+    "Description": "Gezinshuis: outputgericht (licht)"
+  },
+  {
+    "Code": "44A22",
+    "Description": "Gezinshuis: outputgericht (middel)"
+  },
+  {
+    "Code": "44A23",
+    "Description": "Gezinshuis: outputgericht (zwaar)"
+  },
+  {
+    "Code": "44A24",
+    "Description": "Logeren: outputgericht (licht)"
+  },
+  {
+    "Code": "44A25",
+    "Description": "Logeren: outputgericht (middel)"
+  },
+  {
+    "Code": "44A26",
+    "Description": "Logeren: outputgericht (zwaar)"
+  },
+  {
+    "Code": "44A27",
+    "Description": "Jeugdhulp verblijf: inspanningsgericht (licht)"
+  },
+  {
+    "Code": "44A28",
+    "Description": "Jeugdhulp verblijf: inspanningsgericht (middel)"
+  },
+  {
+    "Code": "44A29",
+    "Description": "Jeugdhulp verblijf: inspanningsgericht (middelzwaar)"
+  },
+  {
+    "Code": "44A30",
+    "Description": "Jeugdhulp verblijf: inspanningsgericht (zwaar)"
+  },
+  {
+    "Code": "44A31",
+    "Description": "Jeugdhulp verblijf: inspanningsgericht (extra zwaar)"
+  },
+  {
+    "Code": "44A32",
+    "Description": "Deeltijdverblijf: inspanningsgericht (licht)"
+  },
+  {
+    "Code": "44A33",
+    "Description": "Deeltijdverblijf: inspanningsgericht (middel)"
+  },
+  {
+    "Code": "44A34",
+    "Description": "Deeltijdverblijf: inspanningsgericht (zwaar)"
+  },
+  {
+    "Code": "44A35",
+    "Description": "Per dag ZZP 1VG excl. DB"
+  },
+  {
+    "Code": "44A36",
+    "Description": "Per dag ZZP 2VG excl. DB"
+  },
+  {
+    "Code": "44A37",
+    "Description": "Per dag ZZP 3VG excl.BH excl.DB"
+  },
+  {
+    "Code": "44A38",
+    "Description": "Per dag ZZP 1VG incl. DB"
+  },
+  {
+    "Code": "44A39",
+    "Description": "Per dag ZZP 2VG incl. DB"
+  },
+  {
+    "Code": "44A40",
+    "Description": "Per dag ZZP 3VG excl.BH incl.DB"
+  },
+  {
+    "Code": "44A41",
+    "Description": "Per dag ZZP V&V verblijf niet-geindiceerd"
+  },
+  {
+    "Code": "44A42",
+    "Description": "Per dag ZZP GGZ verblijfscomponent"
+  },
+  {
+    "Code": "44A43",
+    "Description": "Per dag ZZP VG&LG verblijfscomponent"
+  },
+  {
+    "Code": "44A44",
+    "Description": "Per dag ZZP ZG verblijfscomponent"
+  },
+  {
+    "Code": "44A45",
+    "Description": "Logeren specialistisch: inspanningsgericht"
+  },
+  {
+    "Code": "44A46",
+    "Description": "Afwezigheidsdag: inspanningsgericht"
+  },
+  {
+    "Code": "44A47",
+    "Description": "Per dag VPT 1GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "44A48",
+    "Description": "Per dag VPT 1GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "44A49",
+    "Description": "Per dag VPT 2GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "44A50",
+    "Description": "Per dag VPT 2GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "44A51",
+    "Description": "Per dag VPT 3GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "44A52",
+    "Description": "Per dag VPT 3GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "44A53",
+    "Description": "Per dag VPT 4GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "44A54",
+    "Description": "Per dag VPT 4GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "44A55",
+    "Description": "Per dag VPT 5GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "44A56",
+    "Description": "Per dag VPT 5GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "44A57",
+    "Description": "Per dag VPT 6GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "44A58",
+    "Description": "Per dag VPT 6GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "44A59",
+    "Description": "Per dag ZZP 1GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "44A60",
+    "Description": "Per dag ZZP 1GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "44A61",
+    "Description": "Per dag ZZP 2GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "44A62",
+    "Description": "Per dag ZZP 2GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "44A63",
+    "Description": "Per dag ZZP 3GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "44A64",
+    "Description": "Per dag ZZP 3GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "44A65",
+    "Description": "Per dag ZZP 4GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "44A66",
+    "Description": "Per dag ZZP 4GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "44A67",
+    "Description": "Per dag ZZP 5GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "44A68",
+    "Description": "Per dag ZZP 5GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "44A69",
+    "Description": "Per dag ZZP 6GGZ-C excl.BH excl.DB"
+  },
+  {
+    "Code": "44A70",
+    "Description": "Per dag ZZP 6GGZ-C excl.BH incl.DB"
+  },
+  {
+    "Code": "44B00",
+    "Description": "Pleegzorg: outputgericht"
+  },
+  {
+    "Code": "44B01",
+    "Description": "Gezinsgericht: outputgericht"
+  },
+  {
+    "Code": "44B02",
+    "Description": "Begeleiden pleegzorg fulltime: outputgericht"
+  },
+  {
+    "Code": "44B03",
+    "Description": "Begeleiden pleegzorg parttime: outputgericht"
+  },
+  {
+    "Code": "44B04",
+    "Description": "Begeleiden gezinsgericht fulltime: outputgericht"
+  },
+  {
+    "Code": "44B05",
+    "Description": "Begeleiden gezinsgericht parttime: outputgericht"
+  },
+  {
+    "Code": "45A00",
+    "Description": "Jeugdhulp ambulant"
+  },
+  {
+    "Code": "45A01",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht"
+  },
+  {
+    "Code": "45A02",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht"
+  },
+  {
+    "Code": "45A03",
+    "Description": "Diagnostiek: outputgericht"
+  },
+  {
+    "Code": "45A04",
+    "Description": "Jeugdhulp ambulant regulier: inspanningsgericht"
+  },
+  {
+    "Code": "45A05",
+    "Description": "Jeugdhulp ambulant specialistisch: inspanningsgericht"
+  },
+  {
+    "Code": "45A06",
+    "Description": "Jeugdhulp ambulant diagnostiek: inspanningsgericht"
+  },
+  {
+    "Code": "45A07",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (licht)"
+  },
+  {
+    "Code": "45A08",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (middel)"
+  },
+  {
+    "Code": "45A09",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (zwaar)"
+  },
+  {
+    "Code": "45A10",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (individueel)"
+  },
+  {
+    "Code": "45A11",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (groep)"
+  },
+  {
+    "Code": "45A12",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (gezin/systeem)"
+  },
+  {
+    "Code": "45A13",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (op locatie)"
+  },
+  {
+    "Code": "45A14",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (licht)"
+  },
+  {
+    "Code": "45A15",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (middel)"
+  },
+  {
+    "Code": "45A16",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (zwaar)"
+  },
+  {
+    "Code": "45A17",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (individueel)"
+  },
+  {
+    "Code": "45A18",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (groep)"
+  },
+  {
+    "Code": "45A19",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (gezin/systeem)"
+  },
+  {
+    "Code": "45A20",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (op locatie)"
+  },
+  {
+    "Code": "45A21",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (licht & individueel)"
+  },
+  {
+    "Code": "45A22",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (middel & individueel)"
+  },
+  {
+    "Code": "45A23",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (zwaar & individueel)"
+  },
+  {
+    "Code": "45A24",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (licht & groep)"
+  },
+  {
+    "Code": "45A25",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (middel & groep)"
+  },
+  {
+    "Code": "45A26",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (zwaar & groep)"
+  },
+  {
+    "Code": "45A27",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (licht & gezin/systeem)"
+  },
+  {
+    "Code": "45A28",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (middel & gezin/systeem)"
+  },
+  {
+    "Code": "45A29",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (zwaar & gezin/systeem)"
+  },
+  {
+    "Code": "45A30",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (licht & op locatie)"
+  },
+  {
+    "Code": "45A31",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (middel & op locatie)"
+  },
+  {
+    "Code": "45A32",
+    "Description": "Jeugdhulp ambulant regulier: outputgericht (zwaar & op locatie)"
+  },
+  {
+    "Code": "45A33",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (licht & individueel)"
+  },
+  {
+    "Code": "45A34",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (middel & individueel)"
+  },
+  {
+    "Code": "45A35",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (zwaar & individueel)"
+  },
+  {
+    "Code": "45A36",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (licht & groep)"
+  },
+  {
+    "Code": "45A37",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (middel & groep)"
+  },
+  {
+    "Code": "45A38",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (zwaar & groep)"
+  },
+  {
+    "Code": "45A39",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (licht & gezin/systeem)"
+  },
+  {
+    "Code": "45A40",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (middel & gezin/systeem)"
+  },
+  {
+    "Code": "45A41",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (zwaar & gezin/systeem)"
+  },
+  {
+    "Code": "45A42",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (licht & op locatie)"
+  },
+  {
+    "Code": "45A43",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (middel & op locatie)"
+  },
+  {
+    "Code": "45A44",
+    "Description": "Jeugdhulp ambulant specialistisch: outputgericht (zwaar & op locatie)"
+  },
+  {
+    "Code": "45A45",
+    "Description": "Jeugdhulp ambulant diagnostiek: outputgericht (licht)"
+  },
+  {
+    "Code": "45A46",
+    "Description": "Jeugdhulp ambulant diagnostiek: outputgericht (middel)"
+  },
+  {
+    "Code": "45A47",
+    "Description": "Jeugdhulp ambulant diagnostiek: outputgericht (zwaar)"
+  },
+  {
+    "Code": "45A48",
+    "Description": "Jeugdhulp ambulant regulier: inspanningsgericht (individueel)"
+  },
+  {
+    "Code": "45A49",
+    "Description": "Jeugdhulp ambulant regulier: inspanningsgericht (groep)"
+  },
+  {
+    "Code": "45A50",
+    "Description": "Jeugdhulp ambulant regulier: inspanningsgericht (op afstand)"
+  },
+  {
+    "Code": "45A51",
+    "Description": "Jeugdhulp ambulant regulier: inspanningsgericht (gezin/systeem)"
+  },
+  {
+    "Code": "45A52",
+    "Description": "Jeugdhulp ambulant regulier: inspanningsgericht (op locatie)"
+  },
+  {
+    "Code": "45A53",
+    "Description": "Jeugdhulp ambulant specialistisch: inspanningsgericht (individueel)"
+  },
+  {
+    "Code": "45A54",
+    "Description": "Jeugdhulp ambulant specialistisch: inspanningsgericht (groep)"
+  },
+  {
+    "Code": "45A55",
+    "Description": "Jeugdhulp ambulant specialistisch: inspanningsgericht (op afstand)"
+  },
+  {
+    "Code": "45A56",
+    "Description": "Jeugdhulp ambulant specialistisch: inspanningsgericht (gezin/systeem)"
+  },
+  {
+    "Code": "45A57",
+    "Description": "Jeugdhulp ambulant specialistisch: inspanningsgericht (op locatie)"
+  },
+  {
+    "Code": "45A58",
+    "Description": "Per dag Toeslag ZZP MFC"
+  },
+  {
+    "Code": "45A59",
+    "Description": "Per dag Toeslag ZZP Observatie"
+  },
+  {
+    "Code": "45A60",
+    "Description": "Per dag Toeslag ZZP woonzorg GHZ kind"
+  },
+  {
+    "Code": "45A61",
+    "Description": "Per dag Toeslag ZZP woonzorg GHZ jeugd"
+  },
+  {
+    "Code": "45A62",
+    "Description": "Per dagdeel Toeslag ZZP dagb."
+  },
+  {
+    "Code": "45A63",
+    "Description": "Jeugdhulp ambulant laag tarief: inspanningsgericht"
+  },
+  {
+    "Code": "45A64",
+    "Description": "Behandeling: outputgericht"
+  },
+  {
+    "Code": "45A65",
+    "Description": "Behandeling: inspanningsgericht"
+  },
+  {
+    "Code": "45A66",
+    "Description": "Behandeling: outputgericht (licht)"
+  },
+  {
+    "Code": "45A67",
+    "Description": "Behandeling: outputgericht (middel)"
+  },
+  {
+    "Code": "45A68",
+    "Description": "Behandeling: outputgericht (zwaar)"
+  },
+  {
+    "Code": "45A69",
+    "Description": "Behandeling: inspanningsgericht (op locatie)"
+  },
+  {
+    "Code": "45A70",
+    "Description": "Jeugdhulp ambulant laag tarief: inspanningsgericht (individueel)"
+  },
+  {
+    "Code": "45A71",
+    "Description": "Jeugdhulp ambulant laag tarief: inspanningsgericht (groep)"
+  },
+  {
+    "Code": "45A72",
+    "Description": "Jeugdhulp ambulant laag tarief: inspanningsgericht (op afstand)"
+  },
+  {
+    "Code": "45A73",
+    "Description": "Jeugdhulp ambulant laag tarief: inspanningsgericht (gezin/systeem)"
+  },
+  {
+    "Code": "45A74",
+    "Description": "Jeugdhulp ambulant laag tarief: inspanningsgericht (op locatie)"
+  },
+  {
+    "Code": "45A75",
+    "Description": "Jeugdhulp ambulant coördinatie"
+  },
+  {
+    "Code": "45B00",
+    "Description": "Ambulante Jeugdhulp: outputgericht"
+  },
+  {
+    "Code": "45B01",
+    "Description": "Diagnostiek in jeugd/wijkteam individu: outputgericht"
+  },
+  {
+    "Code": "45B02",
+    "Description": "Diagnostiek in jeugd/wijkteam gezin: outputgericht"
+  },
+  {
+    "Code": "45B03",
+    "Description": "Diagnostiek in jeugd/wijkteam groep: outputgericht"
+  },
+  {
+    "Code": "45B04",
+    "Description": "Diagnostiek ambulant op locatie aanbieder individu: outputgericht"
+  },
+  {
+    "Code": "45B05",
+    "Description": "Diagnostiek ambulant op locatie aanbieder gezin: outputgericht"
+  },
+  {
+    "Code": "45B06",
+    "Description": "Diagnostiek ambulant op locatie aanbieder groep: outputgericht"
+  },
+  {
+    "Code": "45B07",
+    "Description": "Diagnostiek in netwerk jeugdige individu: outputgericht"
+  },
+  {
+    "Code": "45B08",
+    "Description": "Diagnostiek in netwerk jeugdige gezin: outputgericht"
+  },
+  {
+    "Code": "45B09",
+    "Description": "Diagnostiek in netwerk jeugdige groep: outputgericht"
+  },
+  {
+    "Code": "45B10",
+    "Description": "Begeleiden in jeugd/wijkteam individu: outputgericht"
+  },
+  {
+    "Code": "45B11",
+    "Description": "Begeleiden in jeugd/wijkteam gezin: outputgericht"
+  },
+  {
+    "Code": "45B12",
+    "Description": "Begeleiden in jeugd/wijkteam groep: outputgericht"
+  },
+  {
+    "Code": "45B13",
+    "Description": "Begeleiden ambulant op locatie aanbieder individu: outputgericht"
+  },
+  {
+    "Code": "45B14",
+    "Description": "Begeleiden ambulant op locatie aanbieder gezin: outputgericht"
+  },
+  {
+    "Code": "45B15",
+    "Description": "Begeleiden ambulant op locatie aanbieder groep: outputgericht"
+  },
+  {
+    "Code": "45B16",
+    "Description": "Begeleiden in netwerk jeugdige individu: outputgericht"
+  },
+  {
+    "Code": "45B17",
+    "Description": "Begeleiden in netwerk jeugdige gezin: outputgericht"
+  },
+  {
+    "Code": "45B18",
+    "Description": "Begeleiden in netwerk jeugdige groep: outputgericht"
+  },
+  {
+    "Code": "45B19",
+    "Description": "Behandelen in jeugd/wijkteam individu: outputgericht"
+  },
+  {
+    "Code": "45B20",
+    "Description": "Behandelen in jeugd/wijkteam gezin: outputgericht"
+  },
+  {
+    "Code": "45B21",
+    "Description": "Behandelen in jeugd/wijkteam groep: outputgericht"
+  },
+  {
+    "Code": "45B22",
+    "Description": "Behandelen ambulant op locatie aanbieder individu: outputgericht"
+  },
+  {
+    "Code": "45B23",
+    "Description": "Behandelen ambulant op locatie aanbieder gezin: outputgericht"
+  },
+  {
+    "Code": "45B24",
+    "Description": "Behandelen ambulant op locatie aanbieder groep: outputgericht"
+  },
+  {
+    "Code": "45B25",
+    "Description": "Behandelen in netwerk jeugdige individu: outputgericht"
+  },
+  {
+    "Code": "45B26",
+    "Description": "Behandelen in netwerk jeugdige gezin: outputgericht"
+  },
+  {
+    "Code": "45B27",
+    "Description": "Behandelen in netwerk jeugdige groep: outputgericht"
+  },
+  {
+    "Code": "46A00",
+    "Description": "Jeugdhulp crisis: outputgericht"
+  },
+  {
+    "Code": "46A01",
+    "Description": "Jeugdhulp crisis ambulant: inspanningsgericht"
+  },
+  {
+    "Code": "46A02",
+    "Description": "Jeugdhulp crisis Gezinshuis: inspanningsgericht"
+  },
+  {
+    "Code": "46A03",
+    "Description": "Jeugdhulp crisis verblijf: inspanningsgericht"
+  },
+  {
+    "Code": "46A04",
+    "Description": "Jeugdhulp crisis verblijf (excl. beh.): inspanningsgericht"
+  },
+  {
+    "Code": "46A05",
+    "Description": "Jeugdhulp crisis pleegzorg: inspanningsgericht"
+  },
+  {
+    "Code": "46B00",
+    "Description": "Jeugdhulp crisis: outputgericht"
+  },
+  {
+    "Code": "46B01",
+    "Description": "Jeugdhulp crisis ambulant: outputgericht"
+  },
+  {
+    "Code": "46B02",
+    "Description": "Jeugdhulp crisis gezinshuis: outputgericht"
+  },
+  {
+    "Code": "46B03",
+    "Description": "Jeugdhulp crisis verblijf (incl. behandeling): outputgericht"
+  },
+  {
+    "Code": "46B04",
+    "Description": "Jeugdhulp crisis verblijf (excl. behandeling): outputgericht"
+  },
+  {
+    "Code": "46B05",
+    "Description": "Jeugdhulp crisis pleegzorg: outputgericht"
+  },
+  {
+    "Code": "47A00",
+    "Description": "Jeugdreclassering"
+  },
+  {
+    "Code": "47A01",
+    "Description": "Jeugdreclassering: outputgericht"
+  },
+  {
+    "Code": "47A02",
+    "Description": "Voorbereiding gedragsbeïnvloedende maatregel: outputgericht"
+  },
+  {
+    "Code": "47A03",
+    "Description": "Gedragsbeïnvloedende maatregel: outputgericht"
+  },
+  {
+    "Code": "47A04",
+    "Description": "ITB-Criem: outputgericht"
+  },
+  {
+    "Code": "47A05",
+    "Description": "ITB-Harde kern: outputgericht"
+  },
+  {
+    "Code": "47A06",
+    "Description": "Samenloop: outputgericht"
+  },
+  {
+    "Code": "47A07",
+    "Description": "STP training- en scholingsprogramma: outputgericht"
+  },
+  {
+    "Code": "47A08",
+    "Description": "Jeugdreclassering: outputgericht (licht)"
+  },
+  {
+    "Code": "47A09",
+    "Description": "Jeugdreclassering: outputgericht (middel)"
+  },
+  {
+    "Code": "47A10",
+    "Description": "Jeugdreclassering: outputgericht (zwaar)"
+  },
+  {
+    "Code": "47B00",
+    "Description": "Toezicht en begeleiding: outputgericht"
+  },
+  {
+    "Code": "47B01",
+    "Description": "Voorbereiding gedrag beïnvloedende maatregel: outputgericht"
+  },
+  {
+    "Code": "47B02",
+    "Description": "Gedrag beïnvloedende maatregel: outputgericht"
+  },
+  {
+    "Code": "47B03",
+    "Description": "Individuele trajectbegeleiding CRIEM: outputgericht"
+  },
+  {
+    "Code": "47B04",
+    "Description": "Individuele trajectbegeleiding Harde Kern: outputgericht"
+  },
+  {
+    "Code": "47B05",
+    "Description": "Samenloop: outputgericht"
+  },
+  {
+    "Code": "47B06",
+    "Description": "Scholings- en trainingsprogramma: outputgericht"
+  },
+  {
+    "Code": "48A00",
+    "Description": "Jeugdbescherming: outputgericht"
+  },
+  {
+    "Code": "48A01",
+    "Description": "Ondertoezichtstelling jaar 1: outputgericht"
+  },
+  {
+    "Code": "48A02",
+    "Description": "Ondertoezichtstelling jaar 2 en verder: outputgericht"
+  },
+  {
+    "Code": "48A03",
+    "Description": "Voogdij: outputgericht"
+  },
+  {
+    "Code": "48A04",
+    "Description": "Ondertoezichtstelling jaar 1: inspanningsgericht"
+  },
+  {
+    "Code": "48A05",
+    "Description": "Ondertoezichtstelling jaar 2 en verder: inspanningsgericht"
+  },
+  {
+    "Code": "48A06",
+    "Description": "Voogdij: inspanningsgericht"
+  },
+  {
+    "Code": "48B00",
+    "Description": "Ondertoezichtstelling jaar 1: outputgericht"
+  },
+  {
+    "Code": "48B01",
+    "Description": "Ondertoezichtstelling jaar 2 en verder: outputgericht"
+  },
+  {
+    "Code": "48B02",
+    "Description": "Voogdij: outputgericht"
+  },
+  {
+    "Code": "49A00",
+    "Description": "Activiteiten in het preventief justitieel kader"
+  },
+  {
+    "Code": "49A01",
+    "Description": "Activiteiten in het preventief justitieel kader: inspanningsgericht"
+  },
+  {
+    "Code": "49A02",
+    "Description": "Activiteiten in het preventief justitieel kader: outputgericht"
+  },
+  {
+    "Code": "49A03",
+    "Description": "Activiteiten in het preventief justitieel kader: outputgericht(licht)"
+  },
+  {
+    "Code": "49A04",
+    "Description": "Activiteiten in het preventief justitieel kader: outputgericht(middel)"
+  },
+  {
+    "Code": "49A05",
+    "Description": "Activiteiten in het preventief justitieel kader: outputgericht(zwaar)"
+  },
+  {
+    "Code": "49A06",
+    "Description": "Begeleiding toezicht: outputgericht"
+  },
+  {
+    "Code": "49B00",
+    "Description": "Activiteiten in het preventief kader: outputgericht"
+  },
+  {
+    "Code": "49B01",
+    "Description": "Advies/consult: outputgericht"
+  },
+  {
+    "Code": "49B02",
+    "Description": "Drang/casusregie: outputgericht"
+  },
+  {
+    "Code": "49B03",
+    "Description": "Crisisinterventie: outputgericht"
+  },
+  {
+    "Code": "49B04",
+    "Description": "Nazorg: outputgericht"
+  },
+  {
+    "Code": "49B05",
+    "Description": "Overig: Raadsmelding: outputgericht"
+  },
+  {
+    "Code": "49B06",
+    "Description": "Overig: Zorgmelding/SAVE-onderzoek: outputgericht"
+  },
+  {
+    "Code": "49B07",
+    "Description": "Overig: Begeleiding toeleiding gesloten jeugdzorg: outputgericht"
+  },
+  {
+    "Code": "50A00",
+    "Description": "Maatwerkarrangementen Jeugdwet: outputgericht"
+  },
+  {
+    "Code": "50A01",
+    "Description": "Zelfstandig leven"
+  },
+  {
+    "Code": "50A02",
+    "Description": "Maatschappelijke deelname"
+  },
+  {
+    "Code": "50A03",
+    "Description": "Zelfstandig leven 1 (licht): outputgericht"
+  },
+  {
+    "Code": "50A04",
+    "Description": "Zelfstandig leven 1 (middel): outputgericht"
+  },
+  {
+    "Code": "50A05",
+    "Description": "Zelfstandig leven 1 (middelzwaar): outputgericht"
+  },
+  {
+    "Code": "50A06",
+    "Description": "Zelfstandig leven 1 (zwaar): outputgericht"
+  },
+  {
+    "Code": "50A07",
+    "Description": "Zelfstandig leven 1 (extra zwaar): outputgericht"
+  },
+  {
+    "Code": "50A08",
+    "Description": "Maatschappelijke deelname 1 (licht): outputgericht"
+  },
+  {
+    "Code": "50A09",
+    "Description": "Maatschappelijke deelname 1 (middel): outputgericht"
+  },
+  {
+    "Code": "50A10",
+    "Description": "Maatschappelijke deelname 1 (middelzwaar): outputgericht"
+  },
+  {
+    "Code": "50A11",
+    "Description": "Maatschappelijke deelname 1 (zwaar): outputgericht"
+  },
+  {
+    "Code": "50A12",
+    "Description": "Maatschappelijke deelname 1 (extra zwaar): outputgericht"
+  },
+  {
+    "Code": "50A13",
+    "Description": "Zelfstandig leven 2 (licht): outputgericht"
+  },
+  {
+    "Code": "50A14",
+    "Description": "Zelfstandig leven 2 (middel): outputgericht"
+  },
+  {
+    "Code": "50A15",
+    "Description": "Zelfstandig leven 2 (middelzwaar): outputgericht"
+  },
+  {
+    "Code": "50A16",
+    "Description": "Zelfstandig leven 2 (zwaar): outputgericht"
+  },
+  {
+    "Code": "50A17",
+    "Description": "Zelfstandig leven 2 (extra zwaar): outputgericht"
+  },
+  {
+    "Code": "50A18",
+    "Description": "Zelfstandig leven 3 (licht): outputgericht"
+  },
+  {
+    "Code": "50A19",
+    "Description": "Zelfstandig leven 3 (middel): outputgericht"
+  },
+  {
+    "Code": "50A20",
+    "Description": "Zelfstandig leven 3 (middelzwaar): outputgericht"
+  },
+  {
+    "Code": "50A21",
+    "Description": "Zelfstandig leven 3 (zwaar): outputgericht"
+  },
+  {
+    "Code": "50A22",
+    "Description": "Zelfstandig leven 3 (extra zwaar): outputgericht"
+  },
+  {
+    "Code": "50A23",
+    "Description": "Maatschappelijke deelname 2 (licht): outputgericht"
+  },
+  {
+    "Code": "50A24",
+    "Description": "Maatschappelijke deelname 2 (middel): outputgericht"
+  },
+  {
+    "Code": "50A25",
+    "Description": "Maatschappelijke deelname 2 (middelzwaar): outputgericht"
+  },
+  {
+    "Code": "50A26",
+    "Description": "Maatschappelijke deelname 2 (zwaar): outputgericht"
+  },
+  {
+    "Code": "50A27",
+    "Description": "Maatschappelijke deelname 2 (extra zwaar): outputgericht"
+  },
+  {
+    "Code": "50A28",
+    "Description": "Maatschappelijke deelname 3 (licht): outputgericht"
+  },
+  {
+    "Code": "50A29",
+    "Description": "Maatschappelijke deelname 3 (middel): outputgericht"
+  },
+  {
+    "Code": "50A30",
+    "Description": "Maatschappelijke deelname 3 (middelzwaar): outputgericht"
+  },
+  {
+    "Code": "50A31",
+    "Description": "Maatschappelijke deelname 3 (zwaar): outputgericht"
+  },
+  {
+    "Code": "50A32",
+    "Description": "Maatschappelijke deelname 3 (extra zwaar): outputgericht"
+  },
+  {
+    "Code": "51A00",
+    "Description": "Kort"
+  },
+  {
+    "Code": "51A01",
+    "Description": "Middel"
+  },
+  {
+    "Code": "51A02",
+    "Description": "Chronisch"
+  },
+  {
+    "Code": "51A03",
+    "Description": "Intensief"
+  },
+  {
+    "Code": "51A04",
+    "Description": "Onvolledig behandeltraject"
+  },
+  {
+    "Code": "51A05",
+    "Description": "Umami"
+  },
+  {
+    "Code": "52048",
+    "Description": "Deelprestatie verblijf GGZ A (Lichte verzorgingsgraad)"
+  },
+  {
+    "Code": "52049",
+    "Description": "Deelprestatie verblijf GGZ B (Beperkte verzorgingsgraad)"
+  },
+  {
+    "Code": "52050",
+    "Description": "Deelprestatie verblijf GGZ C (Matige verzorgingsgraad)"
+  },
+  {
+    "Code": "52051",
+    "Description": "Deelprestatie verblijf GGZ D (Gemiddelde verzorgingsgraad)"
+  },
+  {
+    "Code": "52052",
+    "Description": "Deelprestatie verblijf GGZ E (Intensieve verzorgingsgraad)"
+  },
+  {
+    "Code": "52053",
+    "Description": "Deelprestatie verblijf GGZ F (Extra intensieve verzorgingsgraad)"
+  },
+  {
+    "Code": "52054",
+    "Description": "Deelprestatie verblijf GGZ G (Zeer intensieve verzorgingsgraad)"
+  },
+  {
+    "Code": "52060",
+    "Description": "Verrichting - Electroconvulsietherapie"
+  },
+  {
+    "Code": "52061",
+    "Description": "Verrichting - Ambulante methadon (medicijn, registratie per maand)"
+  },
+  {
+    "Code": "52062",
+    "Description": "Beschikbaarheidscomponent voor 24-uurs crisiszorg"
+  },
+  {
+    "Code": "52063",
+    "Description": "Verblijf zonder overnachting"
+  },
+  {
+    "Code": "52501",
+    "Description": "Crisis - vanaf 1 tot en met 99 minuten"
+  },
+  {
+    "Code": "52502",
+    "Description": "Crisis - vanaf 100 tot en met 199 minuten"
+  },
+  {
+    "Code": "52503",
+    "Description": "Crisis - vanaf 200 tot en met 399 minuten"
+  },
+  {
+    "Code": "52504",
+    "Description": "Crisis - vanaf 400 tot en met 799 minuten"
+  },
+  {
+    "Code": "52505",
+    "Description": "Crisis - vanaf 800 tot en met 1199 minuten"
+  },
+  {
+    "Code": "52506",
+    "Description": "Crisis - vanaf 1200 tot en met 1799 minuten"
+  },
+  {
+    "Code": "52507",
+    "Description": "Crisis - vanaf 1800 minuten"
+  },
+  {
+    "Code": "52508",
+    "Description": "Diagnostiek - vanaf 1 tot en met 99 minuten"
+  },
+  {
+    "Code": "52509",
+    "Description": "Diagnostiek - vanaf 100 tot en met 199 minuten"
+  },
+  {
+    "Code": "52510",
+    "Description": "Diagnostiek - vanaf 200 tot en met 399 minuten"
+  },
+  {
+    "Code": "52511",
+    "Description": "Diagnostiek - vanaf 400 tot en met 799 minuten"
+  },
+  {
+    "Code": "52512",
+    "Description": "Diagnostiek - vanaf 800 tot en met 1199 minuten"
+  },
+  {
+    "Code": "52513",
+    "Description": "Diagnostiek - vanaf 1200 tot en met 1799 minuten"
+  },
+  {
+    "Code": "52514",
+    "Description": "Diagnostiek - vanaf 1800 minuten"
+  },
+  {
+    "Code": "52515",
+    "Description": "Behandeling kort - vanaf 1 tot en met 99 minuten"
+  },
+  {
+    "Code": "52516",
+    "Description": "Behandeling kort - vanaf 100 tot en met 199 minuten"
+  },
+  {
+    "Code": "52517",
+    "Description": "Behandeling kort - vanaf 200 tot en met 399 minuten"
+  },
+  {
+    "Code": "52518",
+    "Description": "Behandeling kort - vanaf 400 minuten"
+  },
+  {
+    "Code": "52519",
+    "Description": "Aandachtstekort - en gedrag - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "52520",
+    "Description": "Aandachtstekort - en gedrag - vanaf 800 tot en met 1799 minuten"
+  },
+  {
+    "Code": "52521",
+    "Description": "Aandachtstekort - en gedrag - vanaf 1800 tot en met 2999 minuten"
+  },
+  {
+    "Code": "52522",
+    "Description": "Aandachtstekort - en gedrag - vanaf 3000 tot en met 5999 minuten"
+  },
+  {
+    "Code": "52523",
+    "Description": "Aandachtstekort - en gedrag - vanaf 6000 tot en met 11999 minuten"
+  },
+  {
+    "Code": "52524",
+    "Description": "Aandachtstekort - en gedrag - vanaf 12000 tot en met 17999 minuten"
+  },
+  {
+    "Code": "52525",
+    "Description": "Aandachtstekort - en gedrag - vanaf 18000 tot en met 23999 minuten"
+  },
+  {
+    "Code": "52526",
+    "Description": "Aandachtstekort - en gedrag - vanaf 24000 minuten"
+  },
+  {
+    "Code": "52527",
+    "Description": "Pervasief - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "52528",
+    "Description": "Pervasief - vanaf 800 tot en met 1799 minuten"
+  },
+  {
+    "Code": "52529",
+    "Description": "Pervasief - vanaf 1800 tot en met 2999 minuten"
+  },
+  {
+    "Code": "52530",
+    "Description": "Pervasief - vanaf 3000 tot en met 5999 minuten"
+  },
+  {
+    "Code": "52531",
+    "Description": "Pervasief - vanaf 6000 tot en met 11999 minuten"
+  },
+  {
+    "Code": "52532",
+    "Description": "Pervasief - vanaf 12000 tot en met 17999 minuten"
+  },
+  {
+    "Code": "52533",
+    "Description": "Pervasief - vanaf 18000 tot en met 23999 minuten"
+  },
+  {
+    "Code": "52534",
+    "Description": "Pervasief - vanaf 24000 minuten"
+  },
+  {
+    "Code": "52535",
+    "Description": "Overige kindertijd - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "52536",
+    "Description": "Overige kindertijd - vanaf 800 tot en met 1799 minuten"
+  },
+  {
+    "Code": "52537",
+    "Description": "Overige kindertijd - vanaf 1800 tot en met 2999 minuten"
+  },
+  {
+    "Code": "52538",
+    "Description": "Overige kindertijd - vanaf 3000 tot en met 5999 minuten"
+  },
+  {
+    "Code": "52539",
+    "Description": "Overige kindertijd - vanaf 6000 tot en met 11999 minuten"
+  },
+  {
+    "Code": "52540",
+    "Description": "Overige kindertijd - vanaf 12000 tot en met 17999 minuten"
+  },
+  {
+    "Code": "52541",
+    "Description": "Overige kindertijd - vanaf 18000 minuten"
+  },
+  {
+    "Code": "52542",
+    "Description": "Delirium dementie en overig - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "52543",
+    "Description": "Delirium dementie en overig - vanaf 800 tot en met 1799 minuten"
+  },
+  {
+    "Code": "52544",
+    "Description": "Delirium dementie en overig - vanaf 1800 tot en met 2999 minuten"
+  },
+  {
+    "Code": "52545",
+    "Description": "Delirium dementie en overig - vanaf 3000 tot en met 5999 minuten"
+  },
+  {
+    "Code": "52546",
+    "Description": "Delirium dementie en overig - vanaf 6000 tot en met 11999 minuten"
+  },
+  {
+    "Code": "52547",
+    "Description": "Delirium dementie en overig - vanaf 12000 tot en met 17999 minuten"
+  },
+  {
+    "Code": "52548",
+    "Description": "Delirium dementie en overig - vanaf 18000 minuten"
+  },
+  {
+    "Code": "52549",
+    "Description": "Alcohol - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "52550",
+    "Description": "Alcohol - vanaf 800 tot en met 1799 minuten"
+  },
+  {
+    "Code": "52551",
+    "Description": "Alcohol - vanaf 1800 tot en met 2999 minuten"
+  },
+  {
+    "Code": "52552",
+    "Description": "Alcohol - vanaf 3000 tot en met 5999 minuten"
+  },
+  {
+    "Code": "52553",
+    "Description": "Alcohol - vanaf 6000 tot en met 11999 minuten"
+  },
+  {
+    "Code": "52554",
+    "Description": "Alcohol - vanaf 12000 tot en met 17999 minuten"
+  },
+  {
+    "Code": "52555",
+    "Description": "Alcohol - vanaf 18000 minuten"
+  },
+  {
+    "Code": "52556",
+    "Description": "Overige aan een middel - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "52557",
+    "Description": "Overige aan een middel - vanaf 800 tot en met 1799 minuten"
+  },
+  {
+    "Code": "52558",
+    "Description": "Overige aan een middel - vanaf 1800 tot en met 2999 minuten"
+  },
+  {
+    "Code": "52559",
+    "Description": "Overige aan een middel - vanaf 3000 tot en met 5999 minuten"
+  },
+  {
+    "Code": "52560",
+    "Description": "Overige aan een middel - vanaf 6000 tot en met 11999 minuten"
+  },
+  {
+    "Code": "52561",
+    "Description": "Overige aan een middel - vanaf 12000 tot en met 17999 minuten"
+  },
+  {
+    "Code": "52562",
+    "Description": "Overige aan een middel - vanaf 18000 minuten"
+  },
+  {
+    "Code": "52563",
+    "Description": "Schizofrenie - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "52564",
+    "Description": "Schizofrenie - vanaf 800 tot en met 1799 minuten"
+  },
+  {
+    "Code": "52565",
+    "Description": "Schizofrenie - vanaf 1800 tot en met 2999 minuten"
+  },
+  {
+    "Code": "52566",
+    "Description": "Schizofrenie - vanaf 3000 tot en met 5999 minuten"
+  },
+  {
+    "Code": "52567",
+    "Description": "Schizofrenie - vanaf 6000 tot en met 11999 minuten"
+  },
+  {
+    "Code": "52568",
+    "Description": "Schizofrenie - vanaf 12000 tot en met 17999 minuten"
+  },
+  {
+    "Code": "52569",
+    "Description": "Schizofrenie - vanaf 18000 tot en met 23999 minuten"
+  },
+  {
+    "Code": "52570",
+    "Description": "Schizofrenie - vanaf 24000 tot en met 29999 minuten"
+  },
+  {
+    "Code": "52571",
+    "Description": "Schizofrenie - vanaf 30000 minuten"
+  },
+  {
+    "Code": "52572",
+    "Description": "Depressie - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "52573",
+    "Description": "Depressie - vanaf 800 tot en met 1799 minuten"
+  },
+  {
+    "Code": "52574",
+    "Description": "Depressie - vanaf 1800 tot en met 2999 minuten"
+  },
+  {
+    "Code": "52575",
+    "Description": "Depressie - vanaf 3000 tot en met 5999 minuten"
+  },
+  {
+    "Code": "52576",
+    "Description": "Depressie - vanaf 6000 tot en met 11999 minuten"
+  },
+  {
+    "Code": "52577",
+    "Description": "Depressie - vanaf 12000 tot en met 17999 minuten"
+  },
+  {
+    "Code": "52578",
+    "Description": "Depressie - vanaf 18000 tot en met 23999 minuten"
+  },
+  {
+    "Code": "52579",
+    "Description": "Depressie - vanaf 24000 minuten"
+  },
+  {
+    "Code": "52580",
+    "Description": "Bipolair en overig - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "52581",
+    "Description": "Bipolair en overig - vanaf 800 tot en met 1799 minuten"
+  },
+  {
+    "Code": "52582",
+    "Description": "Bipolair en overig - vanaf 1800 tot en met 2999 minuten"
+  },
+  {
+    "Code": "52583",
+    "Description": "Bipolair en overig - vanaf 3000 tot en met 5999 minuten"
+  },
+  {
+    "Code": "52584",
+    "Description": "Bipolair en overig - vanaf 6000 tot en met 11999 minuten"
+  },
+  {
+    "Code": "52585",
+    "Description": "Bipolair en overig - vanaf 12000 tot en met 17999 minuten"
+  },
+  {
+    "Code": "52586",
+    "Description": "Bipolair en overig - vanaf 18000 minuten"
+  },
+  {
+    "Code": "52587",
+    "Description": "Angst - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "52588",
+    "Description": "Angst - vanaf 800 tot en met 1799 minuten"
+  },
+  {
+    "Code": "52589",
+    "Description": "Angst - vanaf 1800 tot en met 2999 minuten"
+  },
+  {
+    "Code": "52590",
+    "Description": "Angst - vanaf 3000 tot en met 5999 minuten"
+  },
+  {
+    "Code": "52591",
+    "Description": "Angst - vanaf 6000 tot en met 11999 minuten"
+  },
+  {
+    "Code": "52592",
+    "Description": "Angst - vanaf 12000 tot en met 17999 minuten"
+  },
+  {
+    "Code": "52593",
+    "Description": "Angst - vanaf 18000 tot en met 23999 minuten"
+  },
+  {
+    "Code": "52594",
+    "Description": "Angst - vanaf 24000 minuten"
+  },
+  {
+    "Code": "52595",
+    "Description": "Somatoforme - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "52596",
+    "Description": "Somatoforme - vanaf 800 tot en met 1799 minuten"
+  },
+  {
+    "Code": "52597",
+    "Description": "Somatoforme - vanaf 1800 tot en met 2999 minuten"
+  },
+  {
+    "Code": "52598",
+    "Description": "Somatoforme - vanaf 3000 tot en met 5999 minuten"
+  },
+  {
+    "Code": "52599",
+    "Description": "Somatoforme - vanaf 6000 tot en met 11999 minuten"
+  },
+  {
+    "Code": "52600",
+    "Description": "Somatoforme - vanaf 12000 minuten"
+  },
+  {
+    "Code": "52601",
+    "Description": "Eetstoornis - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "52602",
+    "Description": "Eetstoornis - vanaf 800 tot en met 1799 minuten"
+  },
+  {
+    "Code": "52603",
+    "Description": "Eetstoornis - vanaf 1800 tot en met 2999 minuten"
+  },
+  {
+    "Code": "52604",
+    "Description": "Eetstoornis - vanaf 3000 tot en met 5999 minuten"
+  },
+  {
+    "Code": "52605",
+    "Description": "Eetstoornis - vanaf 6000 tot en met 11999 minuten"
+  },
+  {
+    "Code": "52606",
+    "Description": "Eetstoornis - vanaf 12000 tot en met 17999 minuten"
+  },
+  {
+    "Code": "52607",
+    "Description": "Eetstoornis - vanaf 18000 minuten"
+  },
+  {
+    "Code": "52608",
+    "Description": "Persoonlijkheid - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "52609",
+    "Description": "Persoonlijkheid - vanaf 800 tot en met 1799 minuten"
+  },
+  {
+    "Code": "52610",
+    "Description": "Persoonlijkheid - vanaf 1800 tot en met 2999 minuten"
+  },
+  {
+    "Code": "52611",
+    "Description": "Persoonlijkheid - vanaf 3000 tot en met 5999 minuten"
+  },
+  {
+    "Code": "52612",
+    "Description": "Persoonlijkheid - vanaf 6000 tot en met 11999 minuten"
+  },
+  {
+    "Code": "52613",
+    "Description": "Persoonlijkheid - vanaf 12000 tot en met 17999 minuten"
+  },
+  {
+    "Code": "52614",
+    "Description": "Persoonlijkheid - vanaf 18000 tot en met 23999 minuten"
+  },
+  {
+    "Code": "52615",
+    "Description": "Persoonlijkheid - vanaf 24000 tot en met 29999 minuten"
+  },
+  {
+    "Code": "52616",
+    "Description": "Persoonlijkheid - vanaf 30000 minuten"
+  },
+  {
+    "Code": "52617",
+    "Description": "Restgroep diagnoses - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "52618",
+    "Description": "Restgroep diagnoses - vanaf 800 tot en met 1799 minuten"
+  },
+  {
+    "Code": "52619",
+    "Description": "Restgroep diagnoses - vanaf 1800 tot en met 2999 minuten"
+  },
+  {
+    "Code": "52620",
+    "Description": "Restgroep diagnoses - vanaf 3000 tot en met 5999 minuten"
+  },
+  {
+    "Code": "52621",
+    "Description": "Restgroep diagnoses - vanaf 6000 tot en met 11999 minuten"
+  },
+  {
+    "Code": "52622",
+    "Description": "Restgroep diagnoses - vanaf 12000 tot en met 17999 minuten"
+  },
+  {
+    "Code": "52623",
+    "Description": "Restgroep diagnoses - vanaf 18000 minuten"
+  },
+  {
+    "Code": "52A00",
+    "Description": "Specialistische GGZ (opt-out)"
+  },
+  {
+    "Code": "53A00",
+    "Description": "Kindergeneeskunde"
+  },
+  {
+    "Code": "53A01",
+    "Description": "Behandeling of onderzoek op de polikliniek of dagbehandeling bij gedragsproblemen"
+  },
+  {
+    "Code": "53A02",
+    "Description": "Consult op de polikliniek bij gedragsproblemen"
+  },
+  {
+    "Code": "53A03",
+    "Description": "Meer dan 6 polikliniekbezoeken of meer dan 1 dagbehandeling bij een psychische of gedragsaandoening"
+  },
+  {
+    "Code": "53A04",
+    "Description": "Consult op de polikliniek bij een psychische of gedragsaandoening"
+  },
+  {
+    "Code": "53A05",
+    "Description": "Behandeling of onderzoek op de polikliniek of dagbehandeling bij een psychische of gedragsaandoening (incl. activiteiten psychosociaal specifiek)"
+  },
+  {
+    "Code": "53A06",
+    "Description": "Behandeling of onderzoek op de polikliniek of dagbehandeling bij Een psychische of gedragsaandoening (excl. activiteiten psychosociaal specifiek)"
+  },
+  {
+    "Code": "54001",
+    "Description": "Jeugd-ggz behandeling regulier / generalistisch"
+  },
+  {
+    "Code": "54002",
+    "Description": "Jeugd-ggz behandeling specialistisch"
+  },
+  {
+    "Code": "54003",
+    "Description": "Jeugd-ggz behandeling hoog-specialistisch"
+  },
+  {
+    "Code": "54004",
+    "Description": "Jeugd-ggz diagnostiek"
+  },
+  {
+    "Code": "54005",
+    "Description": "Jeugd-ggz verblijf licht"
+  },
+  {
+    "Code": "54006",
+    "Description": "Jeugd-ggz verblijf zwaar"
+  },
+  {
+    "Code": "54007",
+    "Description": "Jeugd-ggz verblijf zonder overnachting"
+  },
+  {
+    "Code": "54008",
+    "Description": "Jeugd-ggz beschikbaarheidscomponent voor 24-uurs crisiszorg"
+  },
+  {
+    "Code": "54009",
+    "Description": "Jeugd-ggz verblijf tariefklasse A"
+  },
+  {
+    "Code": "54010",
+    "Description": "Jeugd-ggz verblijf tariefklasse B"
+  },
+  {
+    "Code": "54011",
+    "Description": "Jeugd-ggz verblijf tariefklasse C"
+  },
+  {
+    "Code": "54012",
+    "Description": "Jeugd-ggz verblijf tariefklasse D"
+  },
+  {
+    "Code": "54013",
+    "Description": "Jeugd-ggz verblijf tariefklasse E"
+  },
+  {
+    "Code": "54014",
+    "Description": "Jeugd-ggz verblijf tariefklasse F"
+  },
+  {
+    "Code": "54015",
+    "Description": "Jeugd-ggz verblijf tariefklasse G"
+  },
+  {
+    "Code": "54016",
+    "Description": "Jeugd-ggz crisis behandeling"
+  },
+  {
+    "Code": "54017",
+    "Description": "Jeugd-ggz crisis verblijf"
+  },
+  {
+    "Code": "55001",
+    "Description": "Jeugd-ggz behandeling specialistisch"
+  },
+  {
+    "Code": "55002",
+    "Description": "Jeugd-ggz diagnostiek"
+  },
+  {
+    "Code": "55003",
+    "Description": "Jeugd-ggz beschikbaarheidscomponent voor 24-uurs crisiszorg"
+  },
+  {
+    "Code": "55004",
+    "Description": "Consultatie"
+  },
+  {
+    "Code": "55005",
+    "Description": "Jeugd-ggz verblijf zonder overnachting"
+  },
+  {
+    "Code": "55006",
+    "Description": "Deelprestatie verblijf GGZ A (Lichte verzorgingsgraad)"
+  },
+  {
+    "Code": "55007",
+    "Description": "Deelprestatie verblijf GGZ B (Beperkte verzorgingsgraad)"
+  },
+  {
+    "Code": "55008",
+    "Description": "Deelprestatie verblijf GGZ C (Matige verzorgingsgraad)"
+  },
+  {
+    "Code": "55009",
+    "Description": "Deelprestatie verblijf GGZ D (Gemiddelde verzorgingsgraad)"
+  },
+  {
+    "Code": "55010",
+    "Description": "Deelprestatie verblijf GGZ E (Intensieve verzorgingsgraad)"
+  },
+  {
+    "Code": "55011",
+    "Description": "Deelprestatie verblijf GGZ F (Extra intensieve verzorgingsgraad)"
+  },
+  {
+    "Code": "55012",
+    "Description": "Deelprestatie verblijf GGZ G (Zeer intensieve verzorgingsgraad)"
+  },
+  {
+    "Code": "55013",
+    "Description": "Specialistische begeleiding jeugdhulp ambulant"
+  },
+  {
+    "Code": "55014",
+    "Description": "Deelprestatie verblijf H"
+  },
+  {
+    "Code": "55015",
+    "Description": "Behandeling en verblijf JeugdzorgPlus"
+  },
+  {
+    "Code": "55016",
+    "Description": "Behandeling en verblijf JSLVG"
+  },
+  {
+    "Code": "55017",
+    "Description": "Diagnostiek, observatie en behandeling"
+  },
+  {
+    "Code": "55018",
+    "Description": "IC: diagnostiek, observatie en behandeling"
+  },
+  {
+    "Code": "55019",
+    "Description": "VIC: diagnostiek, observatie en behandeling"
+  },
+  {
+    "Code": "55020",
+    "Description": "Opvang en behandeling slachtoffers loverboys"
+  },
+  {
+    "Code": "55021",
+    "Description": "Voedselweigering 24 uurs"
+  },
+  {
+    "Code": "55022",
+    "Description": "Voedselweigering 24 uurs weekend"
+  },
+  {
+    "Code": "55023",
+    "Description": "Voedselweigering dagbehandeling"
+  },
+  {
+    "Code": "55024",
+    "Description": "Voedselweigering nazorg"
+  },
+  {
+    "Code": "55025",
+    "Description": "Voedselweigering ambulant"
+  },
+  {
+    "Code": "55026",
+    "Description": "Voedselweigering reiskosten"
+  },
+  {
+    "Code": "55027",
+    "Description": "Voedselweigering zindelijkheid"
+  },
+  {
+    "Code": "55028",
+    "Description": "Begeleiding en behandeling autisme intensief (Kib Ass)"
+  },
+  {
+    "Code": "55029",
+    "Description": "Med-Psy unit (MPU-bed)"
+  },
+  {
+    "Code": "55030",
+    "Description": "TPO"
+  },
+  {
+    "Code": "55031",
+    "Description": "MST PSB"
+  },
+  {
+    "Code": "55032",
+    "Description": "MBT Early"
+  },
+  {
+    "Code": "L0001",
+    "Description": "Consultatie"
+  },
+  {
+    "Code": "L0002",
+    "Description": "JeugdzorgPlus voor onder de 12 jaar"
+  },
+  {
+    "Code": "L0003",
+    "Description": "Zeer Intensieve Kortdurende Observatie en Stabilisatie"
+  },
+  {
+    "Code": "L0004",
+    "Description": "JeugdzorgPlus Moeder & Kind"
+  },
+  {
+    "Code": "L0005",
+    "Description": "Adoptienazorg Preventief"
+  },
+  {
+    "Code": "L0006",
+    "Description": "Adoptienazorg Basis"
+  },
+  {
+    "Code": "L0007",
+    "Description": "Adoptienazorg – kort vervolgtraject"
+  },
+  {
+    "Code": "L0008",
+    "Description": "Adoptienazorg Uitgebreid Traject"
+  },
+  {
+    "Code": "L0009",
+    "Description": "Diagnostiek - vanaf 0 tot en met 99 minuten"
+  },
+  {
+    "Code": "L0010",
+    "Description": "Diagnostiek - vanaf 100 tot en met 199 minuten"
+  },
+  {
+    "Code": "L0011",
+    "Description": "Diagnostiek - vanaf 200 tot en met 399 minuten"
+  },
+  {
+    "Code": "L0012",
+    "Description": "Diagnostiek - vanaf 400 tot en met 799 minuten"
+  },
+  {
+    "Code": "L0013",
+    "Description": "Diagnostiek - vanaf 800 tot en met 1.199 minuten"
+  },
+  {
+    "Code": "L0014",
+    "Description": "Diagnostiek - vanaf 1.200 tot en met 1.799 minuten"
+  },
+  {
+    "Code": "L0015",
+    "Description": "Diagnostiek - vanaf 1.800 minuten"
+  },
+  {
+    "Code": "L0016",
+    "Description": "Crisis - vanaf 0 tot en met 99 minuten"
+  },
+  {
+    "Code": "L0017",
+    "Description": "Crisis - vanaf 100 tot en met 199 minuten"
+  },
+  {
+    "Code": "L0018",
+    "Description": "Crisis - vanaf 200 tot en met 399 minuten"
+  },
+  {
+    "Code": "L0019",
+    "Description": "Crisis - vanaf 400 tot en met 799 minuten"
+  },
+  {
+    "Code": "L0020",
+    "Description": "Crisis - vanaf 800 tot en met 1.199 minuten"
+  },
+  {
+    "Code": "L0021",
+    "Description": "Crisis - vanaf 1.200 tot en met 1.799 minuten"
+  },
+  {
+    "Code": "L0022",
+    "Description": "Crisis - vanaf 1.800 minuten"
+  },
+  {
+    "Code": "L0023",
+    "Description": "Behandeling kort - vanaf 0 tot en met 99 minuten"
+  },
+  {
+    "Code": "L0024",
+    "Description": "Behandeling kort - vanaf 100 tot en met 199 minuten"
+  },
+  {
+    "Code": "L0025",
+    "Description": "Behandeling kort - vanaf 200 tot en met 399 minuten"
+  },
+  {
+    "Code": "L0026",
+    "Description": "Behandeling kort - vanaf 400 minuten"
+  },
+  {
+    "Code": "L0027",
+    "Description": "Aandachtstekort - en gedrag - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "L0028",
+    "Description": "Aandachtstekort - en gedrag - vanaf 800 tot en met 1.799 minuten"
+  },
+  {
+    "Code": "L0029",
+    "Description": "Aandachtstekort - en gedrag - vanaf 1.800 tot en met 2.999 minuten"
+  },
+  {
+    "Code": "L0030",
+    "Description": "Aandachtstekort - en gedrag - vanaf 3.000 tot en met 5.999 minuten"
+  },
+  {
+    "Code": "L0031",
+    "Description": "Aandachtstekort - en gedrag - vanaf 6.000 tot en met 11.999 minuten"
+  },
+  {
+    "Code": "L0032",
+    "Description": "Aandachtstekort - en gedrag - vanaf 12.000 tot en met 17.999 minuten"
+  },
+  {
+    "Code": "L0033",
+    "Description": "Aandachtstekort - en gedrag - vanaf 18.000 tot en met 23.999 minuten"
+  },
+  {
+    "Code": "L0034",
+    "Description": "Aandachtstekort - en gedrag - vanaf 24.000 minuten"
+  },
+  {
+    "Code": "L0035",
+    "Description": "Pervasief - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "L0036",
+    "Description": "Pervasief - vanaf 800 tot en met 1.799 minuten"
+  },
+  {
+    "Code": "L0037",
+    "Description": "Pervasief - vanaf 1.800 tot en met 2.999 minuten"
+  },
+  {
+    "Code": "L0038",
+    "Description": "Pervasief - vanaf 3.000 tot en met 5.999 minuten"
+  },
+  {
+    "Code": "L0039",
+    "Description": "Pervasief - vanaf 6.000 tot en met 11.999 minuten"
+  },
+  {
+    "Code": "L0040",
+    "Description": "Pervasief - vanaf 12.000 tot en met 17.999 minuten"
+  },
+  {
+    "Code": "L0041",
+    "Description": "Pervasief - vanaf 18.000 tot en met 23.999 minuten"
+  },
+  {
+    "Code": "L0042",
+    "Description": "Pervasief - vanaf 24.000 minuten"
+  },
+  {
+    "Code": "L0043",
+    "Description": "Overige kindertijd - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "L0044",
+    "Description": "Overige kindertijd - vanaf 800 tot en met 1.799 minuten"
+  },
+  {
+    "Code": "L0045",
+    "Description": "Overige kindertijd - vanaf 1.800 tot en met 2.999 minuten"
+  },
+  {
+    "Code": "L0046",
+    "Description": "Overige kindertijd - vanaf 3.000 tot en met 5.999 minuten"
+  },
+  {
+    "Code": "L0047",
+    "Description": "Overige kindertijd - vanaf 6.000 tot en met 11.999 minuten"
+  },
+  {
+    "Code": "L0048",
+    "Description": "Overige kindertijd - vanaf 12.000 tot en met 17.999 minuten"
+  },
+  {
+    "Code": "L0049",
+    "Description": "Overige kindertijd - vanaf 18.000 minuten"
+  },
+  {
+    "Code": "L0050",
+    "Description": "Delirium dementie en overig - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "L0051",
+    "Description": "Delirium dementie en overig - vanaf 800 tot en met 1.799 minuten"
+  },
+  {
+    "Code": "L0052",
+    "Description": "Delirium dementie en overig - vanaf 1.800 tot en met 2.999 minuten"
+  },
+  {
+    "Code": "L0053",
+    "Description": "Delirium dementie en overig - vanaf 3.000 tot en met 5.999 minuten"
+  },
+  {
+    "Code": "L0054",
+    "Description": "Delirium dementie en overig - vanaf 6.000 tot en met 11.999 minuten"
+  },
+  {
+    "Code": "L0055",
+    "Description": "Delirium dementie en overig - vanaf 12.000 tot en met 17.999 minuten"
+  },
+  {
+    "Code": "L0056",
+    "Description": "Delirium dementie en overig - vanaf 18.000 minuten"
+  },
+  {
+    "Code": "L0057",
+    "Description": "Alcohol - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "L0058",
+    "Description": "Alcohol - vanaf 800 tot en met 1.799 minuten"
+  },
+  {
+    "Code": "L0059",
+    "Description": "Alcohol - vanaf 1.800 tot en met 2.999 minuten"
+  },
+  {
+    "Code": "L0060",
+    "Description": "Alcohol - vanaf 3.000 tot en met 5.999 minuten"
+  },
+  {
+    "Code": "L0061",
+    "Description": "Alcohol - vanaf 6.000 tot en met 11.999 minuten"
+  },
+  {
+    "Code": "L0062",
+    "Description": "Alcohol - vanaf 12.000 tot en met 17.999 minuten"
+  },
+  {
+    "Code": "L0063",
+    "Description": "Alcohol - vanaf 18.000 minuten"
+  },
+  {
+    "Code": "L0064",
+    "Description": "Overige aan een middel - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "L0065",
+    "Description": "Overige aan een middel - vanaf 800 tot en met 1.799 minuten"
+  },
+  {
+    "Code": "L0066",
+    "Description": "Overige aan een middel - vanaf 1.800 tot en met 2.999 minuten"
+  },
+  {
+    "Code": "L0067",
+    "Description": "Overige aan een middel - vanaf 3.000 tot en met 5.999 minuten"
+  },
+  {
+    "Code": "L0068",
+    "Description": "Overige aan een middel - vanaf 6.000 tot en met 11.999 minuten"
+  },
+  {
+    "Code": "L0069",
+    "Description": "Overige aan een middel - vanaf 12.000 tot en met 17.999 minuten"
+  },
+  {
+    "Code": "L0070",
+    "Description": "Overige aan een middel - vanaf 18.000 minuten"
+  },
+  {
+    "Code": "L0071",
+    "Description": "Angst - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "L0072",
+    "Description": "Angst - vanaf 800 tot en met 1.799 minuten"
+  },
+  {
+    "Code": "L0073",
+    "Description": "Angst - vanaf 1.800 tot en met 2.999 minuten"
+  },
+  {
+    "Code": "L0074",
+    "Description": "Angst - vanaf 3.000 tot en met 5.999 minuten"
+  },
+  {
+    "Code": "L0075",
+    "Description": "Angst - vanaf 6.000 tot en met 11.999 minuten"
+  },
+  {
+    "Code": "L0076",
+    "Description": "Angst - vanaf 12.000 tot en met 17.999 minuten"
+  },
+  {
+    "Code": "L0077",
+    "Description": "Angst - vanaf 18.000 tot en met 23.999 minuten"
+  },
+  {
+    "Code": "L0078",
+    "Description": "Angst - vanaf 24.000 minuten"
+  },
+  {
+    "Code": "L0079",
+    "Description": "Restgroep diagnoses - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "L0080",
+    "Description": "Restgroep diagnoses - vanaf 800 tot en met 1.799 minuten"
+  },
+  {
+    "Code": "L0081",
+    "Description": "Restgroep diagnoses - vanaf 1.800 tot en met 2.999 minuten"
+  },
+  {
+    "Code": "L0082",
+    "Description": "Restgroep diagnoses - vanaf 3.000 tot en met 5.999 minuten"
+  },
+  {
+    "Code": "L0083",
+    "Description": "Restgroep diagnoses - vanaf 6.000 tot en met 11.999 minuten"
+  },
+  {
+    "Code": "L0084",
+    "Description": "Restgroep diagnoses - vanaf 12.000 tot en met 17.999 minuten"
+  },
+  {
+    "Code": "L0085",
+    "Description": "Restgroep diagnoses - vanaf 18.000 minuten"
+  },
+  {
+    "Code": "L0086",
+    "Description": "Persoonlijkheid - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "L0087",
+    "Description": "Persoonlijkheid - vanaf 800 tot en met 1.799 minuten"
+  },
+  {
+    "Code": "L0088",
+    "Description": "Persoonlijkheid - vanaf 1.800 tot en met 2.999 minuten"
+  },
+  {
+    "Code": "L0089",
+    "Description": "Persoonlijkheid - vanaf 3.000 tot en met 5.999 minuten"
+  },
+  {
+    "Code": "L0090",
+    "Description": "Persoonlijkheid - vanaf 6.000 tot en met 11.999 minuten"
+  },
+  {
+    "Code": "L0091",
+    "Description": "Persoonlijkheid - vanaf 12.000 tot en met 17.999 minuten"
+  },
+  {
+    "Code": "L0092",
+    "Description": "Persoonlijkheid - vanaf 18.000 tot en met 23.999 minuten"
+  },
+  {
+    "Code": "L0093",
+    "Description": "Persoonlijkheid - vanaf 24.000 tot en met 29.999 minuten"
+  },
+  {
+    "Code": "L0094",
+    "Description": "Persoonlijkheid - vanaf 30.000 minuten"
+  },
+  {
+    "Code": "L0095",
+    "Description": "Somatoforme - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "L0096",
+    "Description": "Somatoforme - vanaf 800 tot en met 1.799 minuten"
+  },
+  {
+    "Code": "L0097",
+    "Description": "Somatoforme - vanaf 1.800 tot en met 2.999 minuten"
+  },
+  {
+    "Code": "L0098",
+    "Description": "Somatoforme - vanaf 3.000 tot en met 5.999 minuten"
+  },
+  {
+    "Code": "L0099",
+    "Description": "Somatoforme - vanaf 6.000 tot en met 11.999 minuten"
+  },
+  {
+    "Code": "L0100",
+    "Description": "Somatoforme - vanaf 12.000 minuten"
+  },
+  {
+    "Code": "L0101",
+    "Description": "Eetstoornis - vanaf 250 tot en met 799 minuten"
+  },
+  {
+    "Code": "L0102",
+    "Description": "Eetstoornis - vanaf 800 tot en met 1.799 minuten"
+  },
+  {
+    "Code": "L0103",
+    "Description": "Eetstoornis - vanaf 1.800 tot en met 2.999 minuten"
+  },
+  {
+    "Code": "L0104",
+    "Description": "Eetstoornis - vanaf 3.000 tot en met 5.999 minuten"
+  },
+  {
+    "Code": "L0105",
+    "Description": "Eetstoornis - vanaf 6.000 tot en met 11.999 minuten"
+  },
+  {
+    "Code": "L0106",
+    "Description": "Eetstoornis - vanaf 12.000 tot en met 17.999 minuten"
+  },
+  {
+    "Code": "L0107",
+    "Description": "Eetstoornis - vanaf 18.000 minuten"
+  },
+  {
+    "Code": "L0108",
+    "Description": "Deelprestatie verblijf A (Lichte verzorgingsgraad)"
+  },
+  {
+    "Code": "L0109",
+    "Description": "Deelprestatie verblijf B (Beperkte verzorgingsgraad)"
+  },
+  {
+    "Code": "L0110",
+    "Description": "Deelprestatie verblijf C (Matige verzorgingsgraad)"
+  },
+  {
+    "Code": "L0111",
+    "Description": "Deelprestatie verblijf D (Gemiddelde verzorgingsgraad)"
+  },
+  {
+    "Code": "L0112",
+    "Description": "Deelprestatie verblijf E (Intensieve verzorgingsgraad)"
+  },
+  {
+    "Code": "L0113",
+    "Description": "Deelprestatie verblijf F (Extra intensieve verzorgingsgraad)"
+  },
+  {
+    "Code": "L0114",
+    "Description": "Deelprestatie verblijf G (Zeer intensieve verzorgingsgraad)"
+  },
+  {
+    "Code": "L0115",
+    "Description": "Opvoedondersteuning doven en slechthorenden"
+  },
+  {
+    "Code": "L0116",
+    "Description": "Verblijf zonder overnachting (VZO), per dag"
+  },
+  {
+    "Code": "L0117",
+    "Description": "Beschikbaarheidscomponent crisis"
+  },
+  {
+    "Code": "L0118",
+    "Description": "ECT"
+  },
+  {
+    "Code": "L0119",
+    "Description": "Methadon"
+  },
+  {
+    "Code": "L0120",
+    "Description": "JSLVG (obv LVG 4)"
+  },
+  {
+    "Code": "L0121",
+    "Description": "JSLVG (obv LVG 5)"
+  },
+  {
+    "Code": "L0122",
+    "Description": "Diagnostiek, observatie en exploratieve behandeling 3 LVG"
+  },
+  {
+    "Code": "L0123",
+    "Description": "Diagnostiek, observatie en exploratieve behandeling 4 LVG"
+  },
+  {
+    "Code": "L0124",
+    "Description": "Diagnostiek, observatie en exploratieve behandeling 5 LVG"
+  },
+  {
+    "Code": "L0125",
+    "Description": "Diagnostiek, observatie en exploratieve behandeling Very Intensive Care"
+  },
+  {
+    "Code": "L0126",
+    "Description": "Multidimensional Treatment Foster Care (MTFC)"
+  },
+  {
+    "Code": "L0127",
+    "Description": "Multidimensionele Familietherapie (MDFT)"
+  },
+  {
+    "Code": "L0128",
+    "Description": "Functional Family Therapy (FFT)"
+  },
+  {
+    "Code": "L0129",
+    "Description": "Multisysteem Therapie (MST)"
+  },
+  {
+    "Code": "L0130",
+    "Description": "Ouderschap met Liefde en Grenzen (OLG)"
+  },
+  {
+    "Code": "L0131",
+    "Description": "Advies forensisch pedriatisch"
+  },
+  {
+    "Code": "L0132",
+    "Description": "Intercollegiaal advies forensisch pedriatisch"
+  },
+  {
+    "Code": "L0133",
+    "Description": "MDO + intercollegiaal advies"
+  },
+  {
+    "Code": "L0134",
+    "Description": "Lichamelijk letselonderzoek standaard"
+  },
+  {
+    "Code": "L0135",
+    "Description": "Lichamelijk letselonderzoek complex"
+  },
+  {
+    "Code": "L0136",
+    "Description": "Dossier onderzoek (Forensisch Medische Analyse)"
+  },
+  {
+    "Code": "L0137",
+    "Description": "Extra module bij producten Lichamelijk letselonderzoek: inzet mobiele team"
+  },
+  {
+    "Code": "L0138",
+    "Description": "Voedselweigering – consult"
+  },
+  {
+    "Code": "L0139",
+    "Description": "24-uurzorg voedselweigering"
+  },
+  {
+    "Code": "L0140",
+    "Description": "24-uurszorg deeltijd weekend verlof voedselweigering"
+  },
+  {
+    "Code": "L0141",
+    "Description": "Dagbehandeling voedselweigering"
+  },
+  {
+    "Code": "L0142",
+    "Description": "Nazorg voedselweigering"
+  },
+  {
+    "Code": "L0143",
+    "Description": "Behandeling ambulant intensief voedselweigering"
+  },
+  {
+    "Code": "L0144",
+    "Description": "Reiskosten orthopedagogen voedselweigering"
+  },
+  {
+    "Code": "L0145",
+    "Description": "Behandeling ambulant voedselweigering"
+  },
+  {
+    "Code": "L0146",
+    "Description": "Zindelijkheidskamp"
+  },
+  {
+    "Code": "L0147",
+    "Description": "Opvang slachtoffers loverboys eergerelateerd geweld of mensenhandel"
+  },
+  {
+    "Code": "L0148",
+    "Description": "Opvang slachtoffers loverboys eergerelateerd geweld of mensenhandel dag 1 tot en met 35"
+  },
+  {
+    "Code": "L0149",
+    "Description": "Opvang slachtoffers loverboys eergerelateerd geweld of mensenhandel vanaf 36"
+  },
+  {
+    "Code": "L0150",
+    "Description": "Schizofrenie - 250 - 799 minuten"
+  },
+  {
+    "Code": "L0151",
+    "Description": "Schizofrenie - 800 - 1.799 minuten"
+  },
+  {
+    "Code": "L0152",
+    "Description": "Schizofrenie - 1.800 - 2.999 minuten"
+  },
+  {
+    "Code": "L0153",
+    "Description": "Schizofrenie - 3.000 - 5.999 minuten"
+  },
+  {
+    "Code": "L0154",
+    "Description": "Schizofrenie - 6.000 - 11.999 minuten"
+  },
+  {
+    "Code": "L0155",
+    "Description": "Schizofrenie - 12.000 - 17.999 minuten"
+  },
+  {
+    "Code": "L0156",
+    "Description": "Schizofrenie - 18.000 - 23.999 minuten"
+  },
+  {
+    "Code": "L0157",
+    "Description": "Schizofrenie - 24.000 - 29.999 minuten"
+  },
+  {
+    "Code": "L0158",
+    "Description": "Schizofrenie - vanaf 30.000 minuten"
+  },
+  {
+    "Code": "L0159",
+    "Description": "Depressie - 250 - 799 minuten"
+  },
+  {
+    "Code": "L0160",
+    "Description": "Depressie - 800 - 1.799 minuten"
+  },
+  {
+    "Code": "L0161",
+    "Description": "Depressie - 1.800 - 2.999 minuten"
+  },
+  {
+    "Code": "L0162",
+    "Description": "Depressie - 3.000 - 5.999 minuten"
+  },
+  {
+    "Code": "L0163",
+    "Description": "Depressie - 6.000 - 11.999 minuten"
+  },
+  {
+    "Code": "L0164",
+    "Description": "Depressie - 12.000 - 17.999 minuten"
+  },
+  {
+    "Code": "L0165",
+    "Description": "Depressie - 18.000 - 23.999 minuten"
+  },
+  {
+    "Code": "L0166",
+    "Description": "Depressie - vanaf 24.000 minuten"
+  },
+  {
+    "Code": "L0167",
+    "Description": "Bipolair en overig - 250 - 799 minuten"
+  },
+  {
+    "Code": "L0168",
+    "Description": "Bipolair en overig - 800 - 1.799 minuten"
+  },
+  {
+    "Code": "L0169",
+    "Description": "Bipolair en overig - 1.800 - 2.999 minuten"
+  },
+  {
+    "Code": "L0170",
+    "Description": "Bipolair en overig - 3.000 - 5.999 minuten"
+  },
+  {
+    "Code": "L0171",
+    "Description": "Bipolair en overig - 6.000 - 11.999 minuten"
+  },
+  {
+    "Code": "L0172",
+    "Description": "Bipolair en overig - 12.000 - 17.999 minuten"
+  },
+  {
+    "Code": "L0173",
+    "Description": "Bipolair en overig - vanaf 18.000 minuten"
+  },
+  {
+    "Code": "P5001",
+    "Description": "Profiel 1 Laagcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5002",
+    "Description": "Profiel 1 Laagcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5003",
+    "Description": "Profiel 1 Laagcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5004",
+    "Description": "Profiel 1 Laagcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5005",
+    "Description": "Profiel 1 Laagcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5006",
+    "Description": "Profiel 1 Hoogcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5007",
+    "Description": "Profiel 1 Hoogcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5008",
+    "Description": "Profiel 1 Hoogcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5009",
+    "Description": "Profiel 1 Hoogcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5010",
+    "Description": "Profiel 1 Hoogcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5016",
+    "Description": "Profiel 2 Laagcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5017",
+    "Description": "Profiel 2 Laagcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5018",
+    "Description": "Profiel 2 Laagcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5019",
+    "Description": "Profiel 2 Laagcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5020",
+    "Description": "Profiel 2 Laagcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5021",
+    "Description": "Profiel 2 Hoogcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5022",
+    "Description": "Profiel 2 Hoogcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5023",
+    "Description": "Profiel 2 Hoogcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5024",
+    "Description": "Profiel 2 Hoogcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5025",
+    "Description": "Profiel 2 Hoogcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5031",
+    "Description": "Profiel 3 Laagcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5032",
+    "Description": "Profiel 3 Laagcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5033",
+    "Description": "Profiel 3 Laagcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5034",
+    "Description": "Profiel 3 Laagcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5035",
+    "Description": "Profiel 3 Laagcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5036",
+    "Description": "Profiel 3 Hoogcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5037",
+    "Description": "Profiel 3 Hoogcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5038",
+    "Description": "Profiel 3 Hoogcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5039",
+    "Description": "Profiel 3 Hoogcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5040",
+    "Description": "Profiel 3 Hoogcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5046",
+    "Description": "Profiel 4 Laagcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5047",
+    "Description": "Profiel 4 Laagcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5048",
+    "Description": "Profiel 4 Laagcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5049",
+    "Description": "Profiel 4 Laagcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5050",
+    "Description": "Profiel 4 Laagcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5051",
+    "Description": "Profiel 4 Hoogcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5052",
+    "Description": "Profiel 4 Hoogcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5053",
+    "Description": "Profiel 4 Hoogcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5054",
+    "Description": "Profiel 4 Hoogcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5055",
+    "Description": "Profiel 4 Hoogcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5061",
+    "Description": "Profiel 5 Laagcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5062",
+    "Description": "Profiel 5 Laagcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5063",
+    "Description": "Profiel 5 Laagcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5064",
+    "Description": "Profiel 5 Laagcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5065",
+    "Description": "Profiel 5 Laagcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5066",
+    "Description": "Profiel 5 Hoogcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5067",
+    "Description": "Profiel 5 Hoogcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5068",
+    "Description": "Profiel 5 Hoogcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5069",
+    "Description": "Profiel 5 Hoogcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5070",
+    "Description": "Profiel 5 Hoogcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5076",
+    "Description": "Profiel 6 Laagcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5077",
+    "Description": "Profiel 6 Laagcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5078",
+    "Description": "Profiel 6 Laagcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5079",
+    "Description": "Profiel 6 Laagcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5080",
+    "Description": "Profiel 6 Laagcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5081",
+    "Description": "Profiel 6 Hoogcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5082",
+    "Description": "Profiel 6 Hoogcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5083",
+    "Description": "Profiel 6 Hoogcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5084",
+    "Description": "Profiel 6 Hoogcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5085",
+    "Description": "Profiel 6 Hoogcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5091",
+    "Description": "Profiel 7 Laagcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5092",
+    "Description": "Profiel 7 Laagcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5093",
+    "Description": "Profiel 7 Laagcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5094",
+    "Description": "Profiel 7 Laagcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5095",
+    "Description": "Profiel 7 Laagcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5096",
+    "Description": "Profiel 7 Hoogcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5097",
+    "Description": "Profiel 7 Hoogcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5098",
+    "Description": "Profiel 7 Hoogcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5099",
+    "Description": "Profiel 7 Hoogcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5100",
+    "Description": "Profiel 7 Hoogcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5106",
+    "Description": "Profiel 8 Laagcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5107",
+    "Description": "Profiel 8 Laagcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5108",
+    "Description": "Profiel 8 Laagcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5109",
+    "Description": "Profiel 8 Laagcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5110",
+    "Description": "Profiel 8 Laagcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5111",
+    "Description": "Profiel 8 Hoogcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5112",
+    "Description": "Profiel 8 Hoogcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5113",
+    "Description": "Profiel 8 Hoogcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5114",
+    "Description": "Profiel 8 Hoogcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5115",
+    "Description": "Profiel 8 Hoogcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5121",
+    "Description": "Profiel 9 Laagcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5122",
+    "Description": "Profiel 9 Laagcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5123",
+    "Description": "Profiel 9 Laagcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5124",
+    "Description": "Profiel 9 Laagcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5125",
+    "Description": "Profiel 9 Laagcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5126",
+    "Description": "Profiel 9 Hoogcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5127",
+    "Description": "Profiel 9 Hoogcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5128",
+    "Description": "Profiel 9 Hoogcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5129",
+    "Description": "Profiel 9 Hoogcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5130",
+    "Description": "Profiel 9 Hoogcomplex Acuut: outputgericht"
+  },
+  {
+    "Code": "P5136",
+    "Description": "Profiel 10 Laagcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5137",
+    "Description": "Profiel 10 Laagcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5138",
+    "Description": "Profiel 10 Laagcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5139",
+    "Description": "Profiel 10 Laagcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5140",
+    "Description": "Profiel 10 Hoogcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5141",
+    "Description": "Profiel 10 Hoogcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5142",
+    "Description": "Profiel 10 Hoogcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5143",
+    "Description": "Profiel 10 Hoogcomplex Duurzaam Zwaar: outputgericht"
+  },
+  {
+    "Code": "P5151",
+    "Description": "Profiel 11 Laagcomplex Intensief: outputgericht"
+  },
+  {
+    "Code": "P5152",
+    "Description": "Profiel 11 Laagcomplex Perspectief: outputgericht"
+  },
+  {
+    "Code": "P5153",
+    "Description": "Profiel 11 Hoogcomplex Duurzaam Licht: outputgericht"
+  },
+  {
+    "Code": "P5154",
+    "Description": "Profiel 11 Hoogcomplex Duurzaam Zwaar: outputgericht"
+  }
+]
