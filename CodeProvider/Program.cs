@@ -35,9 +35,9 @@ namespace CodeProvider
 			CreateMunicipalityCodes(indexLinks);
 			CreateVektisCodes(indexLinks);
 			CreateWlzRules(indexLinks);
-			CreateIndexHtml(indexLinks);
 			CreateWmoCodes(indexLinks);
 			CreateJwCodes(indexLinks);
+			CreateIndexHtml(indexLinks);
 		}
 
 
