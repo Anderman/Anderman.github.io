@@ -2,7 +2,7 @@
   {
     "Code": 101,
     "Description": "N.V. Univé Zorg",
-    "Concern": "COOPERATIE VGZ"
+    "Concern": "Coöperatie VGZ"
   },
   {
     "Code": 104,
@@ -32,22 +32,22 @@
   {
     "Code": 408,
     "Description": "VvAA Zorgverzekeringen",
-    "Concern": "MULTIZORG VRZ"
+    "Concern": "Multizorg VRZ"
   },
   {
     "Code": 441,
     "Description": "ONVZ Ziektekostenverzekeraar",
-    "Concern": "MULTIZORG VRZ"
+    "Concern": "Multizorg VRZ"
   },
   {
     "Code": 699,
     "Description": "IZA Zorgverzekeraar NV",
-    "Concern": "COOPERATIE VGZ"
+    "Concern": "Coöperatie VGZ"
   },
   {
     "Code": 736,
     "Description": "NV Zorgverzekeraar UMC",
-    "Concern": "COOPERATIE VGZ"
+    "Concern": "Coöperatie VGZ"
   },
   {
     "Code": 3311,
@@ -77,7 +77,7 @@
   {
     "Code": 3331,
     "Description": "PNOzorg",
-    "Concern": "MULTIZORG VRZ"
+    "Concern": "Multizorg VRZ"
   },
   {
     "Code": 3332,
@@ -92,7 +92,7 @@
   {
     "Code": 3334,
     "Description": "IZA-VNG",
-    "Concern": "COOPERATIE VGZ"
+    "Concern": "Coöperatie VGZ"
   },
   {
     "Code": 3336,
@@ -112,12 +112,12 @@
   {
     "Code": 3344,
     "Description": "inTwente Zorgverzekeraar",
-    "Concern": "DSW-STAD  HOLLAND"
+    "Concern": "DSW-STAD HOLLAND"
   },
   {
     "Code": 3346,
     "Description": "InsureToStudy",
-    "Concern": "MULTIZORG VRZ"
+    "Concern": "Multizorg VRZ"
   },
   {
     "Code": 3347,
@@ -127,7 +127,7 @@
   {
     "Code": 3349,
     "Description": "StudentsInsured",
-    "Concern": "MULTIZORG VRZ"
+    "Concern": "Multizorg VRZ"
   },
   {
     "Code": 3350,
@@ -157,7 +157,7 @@
   {
     "Code": 3355,
     "Description": "Regeling Medische zorg Asielzoekers (RMA)",
-    "Concern": "DSW-STAD  HOLLAND"
+    "Concern": "DSW-STAD HOLLAND"
   },
   {
     "Code": 3356,
@@ -172,7 +172,7 @@
   {
     "Code": 3358,
     "Description": "De Friesland Zorgverzekeraar N.V.",
-    "Concern": "DE FRIESLAND"
+    "Concern": "De Friesland"
   },
   {
     "Code": 3359,
@@ -192,7 +192,7 @@
   {
     "Code": 5502,
     "Description": "Zorgkantoor Friesland",
-    "Concern": "DE FRIESLAND"
+    "Concern": "De Friesland"
   },
   {
     "Code": 5503,
@@ -222,7 +222,7 @@
   {
     "Code": 5508,
     "Description": "Zorgkantoor Nijmegen",
-    "Concern": "COOPERATIE VGZ"
+    "Concern": "Coöperatie VGZ"
   },
   {
     "Code": 5509,
@@ -242,7 +242,7 @@
   {
     "Code": 5512,
     "Description": "Zorgkantoor Noord Holland Noord",
-    "Concern": "COOPERATIE VGZ"
+    "Concern": "Coöperatie VGZ"
   },
   {
     "Code": 5513,
@@ -277,12 +277,12 @@
   {
     "Code": 5519,
     "Description": "Zorgkantoor Westland Schieland Delfland (WSD)",
-    "Concern": "DSW-STAD  HOLLAND"
+    "Concern": "DSW-STAD HOLLAND"
   },
   {
     "Code": 5520,
     "Description": "Zorgkantoor Midden-Holland",
-    "Concern": "COOPERATIE VGZ"
+    "Concern": "Coöperatie VGZ"
   },
   {
     "Code": 5521,
@@ -297,7 +297,7 @@
   {
     "Code": 5524,
     "Description": "Zorgkantoor Waardenland",
-    "Concern": "COOPERATIE VGZ"
+    "Concern": "Coöperatie VGZ"
   },
   {
     "Code": 5525,
@@ -312,12 +312,12 @@
   {
     "Code": 5527,
     "Description": "Zorgkantoor Midden-Brabant",
-    "Concern": "COOPERATIE VGZ"
+    "Concern": "Coöperatie VGZ"
   },
   {
     "Code": 5528,
     "Description": "Zorgkantoor Noordoost Brabant",
-    "Concern": "COOPERATIE VGZ"
+    "Concern": "Coöperatie VGZ"
   },
   {
     "Code": 5529,
@@ -327,7 +327,7 @@
   {
     "Code": 5530,
     "Description": "Zorgkantoor Noord- en Midden Limburg",
-    "Concern": "COOPERATIE VGZ"
+    "Concern": "Coöperatie VGZ"
   },
   {
     "Code": 5531,
@@ -342,7 +342,7 @@
   {
     "Code": 7029,
     "Description": "OWM DSW Zorgverzekeraar U.A.",
-    "Concern": "DSW-STAD  HOLLAND"
+    "Concern": "DSW-STAD HOLLAND"
   },
   {
     "Code": 7032,
@@ -352,7 +352,7 @@
   {
     "Code": 7037,
     "Description": "Stad Holland Zorgverzekeraar OWM U.A.",
-    "Concern": "DSW-STAD  HOLLAND"
+    "Concern": "DSW-STAD HOLLAND"
   },
   {
     "Code": 7053,
@@ -367,7 +367,7 @@
   {
     "Code": 7095,
     "Description": "VGZ Zorgverzekeraar N.V.",
-    "Concern": "COOPERATIE VGZ"
+    "Concern": "Coöperatie VGZ"
   },
   {
     "Code": 7119,
@@ -382,7 +382,7 @@
   {
     "Code": 8956,
     "Description": "Aevitae (VGZ)",
-    "Concern": "COOPERATIE VGZ"
+    "Concern": "Coöperatie VGZ"
   },
   {
     "Code": 8971,
@@ -391,23 +391,23 @@
   },
   {
     "Code": 8980,
-    "Description": "CARESCO (ALGEMEEN T.B.V. RBVZ)",
+    "Description": "CARESCO (Algemeen t.b.v. RBVZ)",
     "Concern": ""
   },
   {
     "Code": 8981,
-    "Description": "AEVITAE (ALGEMEEN T.B.V. RBVZ)",
+    "Description": "AEVITAE (Algemeen t.b.v. RBVZ)",
     "Concern": ""
   },
   {
     "Code": 8983,
-    "Description": "One Underwriting Health B.V. (ALG T.B.V. RBVZ)",
+    "Description": "One Underwriting Health B.V. (Algemeent.b.v. RBVZ)",
     "Concern": ""
   },
   {
     "Code": 9015,
     "Description": "VGZ voor de zorg N.V.",
-    "Concern": "COOPERATIE VGZ"
+    "Concern": "Coöperatie VGZ"
   },
   {
     "Code": 9018,
@@ -417,7 +417,7 @@
   {
     "Code": 9019,
     "Description": "ASR VERZEKERINGEN",
-    "Concern": "MULTIZORG VRZ"
+    "Concern": "Multizorg VRZ"
   },
   {
     "Code": 9086,

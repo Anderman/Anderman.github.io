@@ -33,10 +33,14 @@
   },
   {
     "Code": "A0006",
-    "Description": "Chronisch specialistische beademingszorg in een verpleeghuissettting"
+    "Description": "Chronisch specialistische beademingszorg in een verpleeghuissetting"
   },
   {
     "Code": "A0007",
     "Description": "Triage- en diagnoseperiode tijdelijk verblijf (max. 10 dagen)"
+  },
+  {
+    "Code": "A0008",
+    "Description": "Triagebed kortdurend verblijf"
   }
 ]
